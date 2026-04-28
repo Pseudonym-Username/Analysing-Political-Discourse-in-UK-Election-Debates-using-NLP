@@ -1,0 +1,736 @@
+id,reasoning,supercategories,claim_labels
+0,"The excerpt discusses the relationship between stop-and-search policies and knife crime, indicating a focus on law enforcement and crime prevention.
+
+```json",[1200],"[1200, 1209]"
+1,"The excerpt discusses the link between poverty and educational underperformance, proposing tax and education spending policies to address this issue.","[100, 200, 300, 600]","[100, 107, 200, 201, 300, 301, 600, 602]"
+2,"The excerpt does not contain any explicit references to specific policy topics, making it purely rhetorical. No codes apply.
+
+```json",[],[]
+3,"The excerpt discusses tax policies, specifically targeting pension contributions and income tax thresholds, which fall under the supercategory of Macroeconomics (100) and the subcategory of Taxation, Tax policy, and Tax Reform (107).",[100],"[100, 107]"
+4,"The excerpt discusses a decision that is far from being made, indicating a future policy action, but does not provide specific details about the decision's nature.",[1000],"[1000, 1001]"
+5,"The excerpt discusses immigration, housing, and economic impacts, explicitly mentioning ""net migration"", ""building new homes"", and ""GDP per capita"".
+
+```json","[200, 1400, 1500]","[200, 230, 1400, 1401, 1500, 1521]"
+6,"The excerpt discusses the relationship between the UK and the European Union (EU), and the potential impact on businesses, indicating a focus on international affairs and domestic commerce.","[1900, 1500]","[1500, 1521, 1900, 1910]"
+7,"The excerpt discusses the allocation of funds to the NHS and the need to spend them more effectively, indicating a focus on healthcare spending and efficiency.",[300],"[300, 301]"
+8,"The excerpt discusses policies related to employment, benefits, and taxation, which fall under the supercategories of Labour and Employment (500) and Social Welfare (1300).
+
+```json","[500, 1300]","[500, 505, 1300, 1302]"
+9,"The excerpt discusses the ongoing strikes by doctors in the NHS, their impact on patients, and the need for resolution. It mentions the frustration of the speaker and their intention to settle the dispute if they win the election.
+
+```json","[300, 500]","[300, 301, 500, 504]"
+10,"The excerpt discusses the need for increased migration to address Scotland's declining working-age population and to meet the demands of various sectors such as businesses, healthcare, social care, and education. This is explicitly linked to the Labour Party and the SNP, indicating a policy discussion.","[500, 1900]","[500, 1900, 529, 1803]"
+11,"The excerpt discusses the policy differences between the SNP and the Conservatives (Tories) regarding an anti-austerity motion, implying a focus on economic policy.
+
+```json",[100],"[100, 105]"
+12,"The excerpt explicitly mentions ""Brexit"", indicating a discussion about international affairs, specifically the UK's relationship with the EU.
+
+```json",[1900],"[1900, 1910]"
+13,"1200 is mentioned due to references to crime, justice system, and police. 1300 is mentioned due to references to public services, communities, and tax policies.
+
+```json","[1200, 1300]","[1200, 1202, 1205, 1209, 1300, 1302, 1303]"
+14,"1900 (International Affairs) is identified due to references to the Prime Minister and veterans, which often involve international relations. 1200 (Law, Crime, and Family Issues) is identified due to the mention of an apology, which could relate to legal or ethical issues.
+
+```json","[1900, 1200]","[1900, 1200]"
+15,"The excerpt discusses immigration policies and their impact on families, implying issues related to fairness and family issues.","[1200, 1300]","[1200, 1208, 1300, 1302]"
+16,"The excerpt discusses the speaker's stance on Brexit, the current state of the UK's relationship with the EU, and their views on future relations. It mentions the referendum, the UK's exit, and the need for a better trade deal, indicating subcategories 1910 (Western Europe, Common Market Issues) and 1803 (Export Promotion and Regulation, Export Credit Agencies).","[1800, 1900]","[1800, 1803, 1900, 1910]"
+17,"The excerpt asks about balancing the government's budget, which directly relates to macroeconomic policy, specifically national budget and debt.
+
+```json",[100],"[100, 105]"
+18,"The excerpt discusses the disagreement over a policy, the passage of new legislation, and the Prime Minister's stance on international obligations, specifically regarding the European Court of Human Rights (ECHR).","[1000, 1200, 1900]","[1000, 1200, 1900, 1926, 1910]"
+19,"The excerpt discusses an increase in refugees, which falls under the supercategory of Civil Rights (200) and the subcategory of Immigration (230).
+
+```json",[200],"[200, 230]"
+20,"1000 is assigned because the excerpt mentions ""Parliament"", which is a key institution in the political process. No specific subcategory is mentioned, so only the supercategory is included.",[1000],[1000]
+21,"1208 is inferred as the subcategory as the question directly asks about the Bedroom Tax, which is a policy related to housing benefits and thus falls under family issues. 1200 is the supercategory for Law, Crime, and Family Issues.",[1200],"[1200, 1208]"
+22,"1401 is mentioned explicitly, 1406 is implied by ""more social housing"".
+
+```json",[1400],"[1400, 1401, 1406]"
+23,"The excerpt discusses Labour's policies on healthcare, wages, and social care, which fall under Macroeconomics, Health, and Social Welfare.
+
+```json","[100, 300, 1300]","[100, 107, 300, 301, 1300, 1302, 1304]"
+24,"The excerpt discusses the issue of labor shortage and the need to train local people instead of relying on immigration, implying a focus on employment and workforce development.
+
+```json",[500],"[500, 502]"
+25,"1401, 1406, 1409, 1410, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521, 1524, 1501, 1521",[],[]
+26,"The excerpt discusses tax cuts, financing methods, and economic growth, which are all related to macroeconomic policies.
+
+```json",[100],"[100, 107]"
+27,"The excerpt discusses the lack of trust in politicians due to unfulfilled promises, specifically referencing the Labour Party manifestos and the Brexit referendum, indicating a focus on political trust and the delivery of promises.
+
+```json",[2000],"[2000, 2012]"
+28,"The excerpt discusses differing views in politics, agreement on certain policies like the NHS and climate change, and disagreement on how to address climate change. It mentions the National Health Service, climate change, and the impact of climate change policies on employment and wealth distribution.","[100, 300, 700]","[100, 108, 300, 700, 705, 502]"
+29,"The excerpt discusses responses to terrorism, including working with the Muslim community, investing in security services and police, and maintaining civil liberties. It mentions specific actions taken in Scotland, indicating a focus on domestic policy.","[1600, 2000]","[1600, 1627, 2000, 2011]"
+30,"The excerpt discusses regional disenfranchisement, devolution of power, and political system reforms, indicating codes related to government operations and intergovernmental relations.
+
+```json",[2000],"[2000, 2001, 2011]"
+31,"The excerpt discusses the country's financial situation, including deficit reduction, taxes, and spending, which are all macroeconomic issues.
+
+```json",[100],"[100, 105, 107]"
+32,"The excerpt ""Yes."" is a simple affirmative response and does not contain any explicit, unambiguous evidence of policy topics.",[],[]
+33,"The excerpt discusses the strategy of the Liberal Democrat party to maximize their number of Members of Parliament (MPs) by defeating Conservative and SNP MPs, indicating a focus on party politics and campaigning.
+
+```json",[2000],"[2000, 2012]"
+34,"The excerpt discusses the lack of alternative transportation methods in cities, highlighting the importance of reliable, affordable, and safe public transport. This implies a focus on improving public transportation systems.
+
+```json",[1000],"[1000, 1001]"
+35,"The excerpt discusses budget balancing (105) and tax policy (107), which are both subcategories of Macroeconomics (100). It also mentions helping working people, implying a focus on labor or employment issues (500).
+
+```json","[100, 500]","[100, 105, 107, 500]"
+36,"The excerpt discusses inflation, a topic under Macroeconomics.",[100],"[100, 101]"
+37,"The excerpt does not contain any explicit, unambiguous evidence of policy topics. It is purely rhetorical and does not provide enough context to infer any codes.
+
+```json",[],[]
+38,"The excerpt discusses immigration's impact on the National Health Service (NHS) and the economy, mentioning specific groups like healthcare workers and farmers. It also mentions infrastructure and political targets, implying policy discussions.","[500, 600, 700, 800, 1800]","[500, 529, 600, 601, 700, 709, 800, 806, 1800, 1803]"
+39,"The excerpt discusses keeping promises, implying a discussion on political integrity and trustworthiness, which falls under Government Operations.",[2000],"[2000, 2012]"
+40,"The excerpt discusses the responsibility of the British government in relation to the loss of life and innocent civilians in Iraq, indicating a focus on international affairs and the consequences of military action.",[1900],"[1900, 1920]"
+41,"The excerpt discusses the speaker's personal experience with the National Health Service (NHS) and their views on its role in acute care, implicitly comparing it to private healthcare. The speaker's football injury and their mother's illness are used as examples to illustrate their points.","[300, 100]","[300, 331, 100, 108]"
+42,"The excerpt discusses the internal struggles and leadership of the Scottish National Party, indicating issues related to political parties and campaigns.
+
+```json",[2000],"[2000, 2012]"
+43,"The excerpt discusses the National Health Service (NHS), its funding, and the need for additional investment, implying a discussion on taxation. It also mentions specific health issues and care, indicating a focus on health policy.","[100, 300]","[100, 107, 300, 301]"
+44,"1209 is used because the excerpt discusses the actions of police (""they""), implying a discussion about law enforcement.
+
+```json",[1200],"[1200, 1209]"
+45,"2000 is identified as the supercategory because the excerpt discusses government and political mandate, which falls under government operations.
+
+```json",[2000],[2000]
+46,"The excerpt discusses the Prime Minister's responsibility and accountability, focusing on his failure to address waiting lists and his tendency to blame others. This implies a discussion on leadership and accountability, which falls under the supercategory of Government Operations.",[2000],"[2000, 2011]"
+47,"1208 is used because the text implies criticism of how veterans have been treated, suggesting a family issue (veterans are often considered part of the family in political discourse).
+
+```json",[1200],"[1200, 1208]"
+48,"The excerpt discusses Scotland's potential independence and its potential entry into the EU, which involves international affairs and the party's stance on Europe.
+
+```json","[1900, 1909]","[1900, 1901, 1909]"
+49,"The excerpt discusses the abolition of university tuition fees in Scotland, which impacts higher education and its accessibility, and also mentions financial implications.
+
+```json",[600],"[600, 601]"
+50,1209 is used as it directly refers to language control and offense caused by certain words.,[1200],"[1200, 1209]"
+51,"1900 is identified as the supercategory because the excerpt discusses international affairs, specifically the United Nations. The subcategory 1920 is chosen because it refers to the Middle East, where the breaches of UN resolutions occurred.
+
+```json",[1900],"[1900, 1920]"
+52,"The excerpt discusses leadership, honesty, and political plans, which relate to the supercategory of Government Operations and the subcategory of Political Parties, Campaigns, and Voter Registration.
+
+```json",[2000],"[2000, 2012]"
+53,"1000 is assigned because the text discusses the process of debating a motion, which is a part of parliamentary procedure related to transportation.
+
+```json",[1000],"[1000, 1001]"
+54,"The excerpt discusses supporting the Scottish National Party (SNP) and their stance on abolishing the House of Lords, emphasizing the importance of voting and getting involved in politics.
+
+```json",[2000],"[2000, 2011]"
+55,"107 is identified as the subcategory because the excerpt discusses taxing the wealthy, which falls under taxation policy. 100 is the parent supercategory for taxation policy.
+
+```json",[100],"[100, 107]"
+56,"1900 is identified as the supercategory because the excerpt discusses international relations with the U.S. No specific subcategories are explicitly mentioned, so only the supercategory is listed.
+
+```json",[1900],[1900]
+57,"The excerpt explicitly mentions ""UK government"" and ""UK government policy"", indicating a discussion about domestic policy.
+
+```json","[100, 2000]","[100, 2000]"
+58,"The excerpt does not contain any explicit, unambiguous evidence related to specific policy topics. It is purely rhetorical and does not provide enough information to assign any codes.
+
+```json",[],[]
+59,"The excerpt discusses budget deficit and its impact on various public services, including health, education, and police, indicating primary policy topics under Macroeconomics (100) and Law, Crime, and Family Issues (1200).","[100, 1200]","[100, 105, 1200, 1209]"
+60,"The excerpt discusses the security services, police, and far-right terrorism, indicating codes related to law enforcement, crime, and national security.
+
+```json","[1200, 1600]","[1200, 1209, 1202, 1600, 1603]"
+61,"The excerpt discusses the NHS, implying healthcare policy.
+
+```json",[300],"[300, 301]"
+62,"The excerpt discusses education funding and quality, mentioning specific policies like the fair funding formula and increasing the number of good or outstanding schools.",[600],"[600, 602, 603]"
+63,"601 is identified as the subcategory because the excerpt discusses higher education. 600 is the parent supercategory for higher education.
+
+```json",[600],"[600, 601]"
+64,"The excerpt discusses the priorities of the speaker as Prime Minister, focusing on domestic issues like wages, youth opportunities, and NHS, and their stance on Brexit, indicating codes related to leadership, domestic policy, and international affairs.","[100, 2000, 1900]","[100, 105, 1302, 301, 1900, 1910, 2000]"
+65,"The excerpt discusses major financial decisions and budgetary constraints, indicating topics under Macroeconomics (100).",[100],"[100, 105, 107]"
+66,"The excerpt discusses the importance of trust in politics, specifically in relation to delivering Brexit, indicating a focus on political processes and promises.
+
+```json",[2000],"[2000, 2012]"
+67,"The excerpt discusses economic inequality, tuition fees, and helping middle-class families, which are all related to taxation and public spending.",[100],"[100, 105, 107]"
+68,"The excerpt discusses the reduction in numbers (likely referring to crime rates or similar metrics) during the speaker's tenure as Prime Minister, indicating a focus on law and order.",[1200],"[1200, 1209]"
+69,"The excerpt discusses immigration policies, specifically the use of safe and legal routes, deterrents, and the prioritization of those in genuine need. It mentions specific schemes like the Afghan and Syrian schemes, and the Rwanda scheme, as well as the Australian Operation Sovereign Borders and the returns agreement with Albania.
+
+```json",[200],"[200, 230]"
+70,"The excerpt discusses immigration policies, the treatment of EU nationals, and the economic impact of immigration on Scotland. It also touches on the tone of the immigration debate.","[500, 200]","[500, 200, 529, 230]"
+71,"The excerpt discusses environmental issues, specifically focusing on ocean biodiversity, fossil fuel exploration, and international treaties.","[700, 1900]","[700, 709, 1900, 1926]"
+72,"The excerpt discusses cross-party cooperation, inviting external experts into government, and economic decisions made during a financial crisis. It also criticizes the other candidates' economic plans.","[100, 2000]","[100, 105, 2000, 2012]"
+73,"The excerpt discusses the need for social care for elderly people and the creation of new jobs in this sector, implying a focus on social welfare and employment.
+
+```json","[1300, 500]","[1300, 1303, 500, 502]"
+74,"1300 is identified as the supercategory because the excerpt discusses welfare, which falls under social welfare. No specific subcategory is explicitly mentioned, so only the supercategory is included.
+
+```json",[1300],[1300]
+75,"The excerpt discusses tax rates and the balance between public services and a low-tax economy, indicating a focus on macroeconomic policy, specifically taxation.",[100],"[100, 107]"
+76,"The excerpt discusses the appointment of Nigel as the leader of the party and their successful campaign in 2019, indicating a focus on political parties and campaigns.",[2000],"[2000, 2012]"
+77,"The excerpt discusses political leadership, national security, values, and societal improvement, which are broad topics that don't fit neatly into specific subcategories. It's more about political rhetoric and vision rather than concrete policy proposals.","[1200, 1600, 2000]","[1200, 1600, 2000]"
+78,"107 (Taxation) is mentioned explicitly with ""abolishing stamp duty"". ""Help to Buy"" is a government scheme related to housing, thus 1400 (Planning and Housing Issues) is applicable.
+
+```json","[100, 1400]","[100, 107, 1400, 1401]"
+79,"The name ""Charles Kennedy"" does not explicitly relate to any policy topic, so no codes apply.",[],[]
+80,"The excerpt discusses the government's approach to addressing the deficit, including proposed savings and taxes, and emphasizes the importance of honesty and openness with the public.","[100, 1900]","[100, 105, 1800, 1803]"
+81,"The excerpt discusses the role of political dogma in public services, mentioning specific improvements in crime reduction, healthcare, and education, indicating a focus on public sector management and results.","[1000, 1200, 1300, 1400, 1500]","[1000, 1200, 1300, 1400, 1500, 1001, 1209, 1302, 1401, 1501]"
+82,"The excerpt discusses a wealth tax, which falls under taxation policy, and mentions other countries' experiences with it, implying international comparison.",[100],"[100, 107]"
+83,"The excerpt discusses the Manchester attack, police force numbers, and various security threats, including terrorism and cyber attacks. It also mentions the role of ungoverned spaces in facilitating these threats.","[1200, 1900]","[1200, 1209, 1211, 1900]"
+84,"The excerpt discusses immigration, asylum seekers, and housing, which are related to the subcategory 230 (Immigration) under the supercategory 200 (Civil Rights).
+
+```json",[200],"[200, 230]"
+85,"The excerpt discusses tax cuts and property ownership, which are related to financial policies and housing.
+
+```json","[100, 1400]","[100, 107, 1400, 1410]"
+86,"The excerpt discusses the issue of unprocessed immigrants, implying a failure in immigration policy, which falls under the supercategory of Civil Rights (200) and specifically the subcategory of Immigration (230).",[200],"[200, 230]"
+87,"The excerpt discusses housing, roads, and healthcare (GPs), which fall under Planning and Housing Issues, Transportation, and Health respectively.
+
+```json","[1400, 1000, 300]","[1400, 1401, 1000, 1002, 300, 301]"
+88,"The excerpt criticizes the leadership of Donald Trump and the Prime Minister on climate change, suggesting it's bad for business.
+
+```json",[700],"[700, 705]"
+89,"The excerpt discusses the National Health Service (NHS) and its privatisation, touching on healthcare and political stance.","[300, 600]","[300, 301, 600, 601]"
+90,"100 (Macroeconomics) is identified due to mention of public sector pay restraint. 503 (Employee Benefits) is identified due to mention of progression pay increases.
+
+```json",[100],"[100, 503]"
+91,"The excerpt discusses the importance of the NATO alliance and the relationship with the US for British security, criticizing Jeremy Corbyn's views on NATO.",[1900],"[1900, 1930]"
+92,"The excerpt discusses the unpredictability of election outcomes, referencing Theresa May's snap election in 2017, which did not result in a majority for her Conservative Party.",[2000],"[2000, 2011]"
+93,"The excerpt discusses military spending, social needs, and diplomatic efforts, implicating defence, international affairs, and government operations.
+
+```json","[1600, 1900, 2000]","[1600, 1610, 1900, 1926, 2000, 2011]"
+94,"500 is identified as the supercategory because the excerpt discusses a strike, implying labour and employment issues. 504 is the subcategory as it mentions resolving the strike, indicating employee relations and labour unions.
+
+```json",[500],"[500, 504]"
+95,"The excerpt discusses military actions taken by the UK, mentioning specific countries (Kosovo, Afghanistan, Iraq, Sierra Leone) and the outcomes of those actions, indicating a focus on International Affairs.",[1900],"[1900, 1910, 1909, 1911]"
+96,"The excerpt discusses economic recovery, debts, and the comparison of current government's performance with the previous one, implying criticism of the previous government's policies.","['100', '1300']","['100', '107', '105', '1300', '1302']"
+97,"The speaker discusses their party's policies, specifically mentioning ""Liberal Democrat tuition fees"", indicating a focus on education.",[600],"[600, 601]"
+98,"600 is identified as the supercategory because the excerpt discusses education. 601 is identified as the subcategory as it specifically mentions university education.
+
+```json",[600],"[600, 601]"
+99,"The excerpt discusses the speaker's stance on the European Union (EU) and their priorities as Prime Minister, including the cost of living, NHS, and jobs, which are all related to domestic issues. The speaker also mentions the importance of being an outward-looking country for tackling global issues like terrorism and climate change.","[1000, 1500, 1900]","[1000, 1500, 1521, 1900, 1910]"
+100,"The excerpt does not contain any explicit references to specific policies, laws, or actions that would fall under any of the provided codes. It is purely rhetorical and does not provide enough information to assign any codes.
+
+```json",[],[]
+101,"The excerpt discusses the decision to call an election, implying a power shift in government, which falls under the supercategory of Government Operations.",[2000],"[2000, 2001]"
+102,"100 is identified due to mention of tax, 1300 is identified due to reference to pensioners and their finances.
+
+```json","[100, 1300]","[100, 107, 1300, 1303]"
+103,"1900 is identified as the supercategory because the excerpt discusses ending wars through negotiation, which falls under international affairs. No subcategory is explicitly mentioned, so only the supercategory is included.
+
+```json",[1900],[1900]
+104,"The excerpt discusses the Labour Party's past and future policies, including education, healthcare, and economic investment, which fall under the supercategories of Education, Health, and Macroeconomics.
+
+```json","[600, 300, 100]","[600, 602, 300, 334, 100, 105]"
+105,The excerpt is too brief and lacks any specific content that could be linked to a policy topic.,[],[]
+106,"100 (Macroeconomics) is identified as the supercategory because the excerpt discusses income tax thresholds and their impact on workers, which falls under macroeconomic policy. The subcategory 105 (National Budget, Debt, public spending) is identified because the speaker is discussing changes to the national budget (lifting the income tax threshold) and its impact on public spending (providing an extra net £1,500 to those affected).
+
+```json",[100],"[100, 105]"
+107,"The excerpt discusses the increase in nurses and GPs, as well as the investment in the NHS, indicating a focus on healthcare and its funding.
+
+```json",[300],"[300, 301, 325]"
+108,"The speaker is discussing a hypothetical scenario, which doesn't directly relate to any specific policy or action, hence no codes apply.",[],[]
+109,"The excerpt discusses the National Health Service (NHS), its budget, staffing, and waiting lists, indicating subcategories 301 (Health Care Reform) and 304 (Health Manpower and Training) under supercategory 300 (Health).",[300],"[300, 301, 325]"
+110,"The excerpt discusses the UN mandate for British troops in Iraq and the opposition party's stance on their withdrawal, indicating a focus on International Affairs and specifically the Middle East.",[1900],"[1900, 1920]"
+111,"The excerpt discusses the impact of migration on Scotland's economy and National Health Service (NHS), implying a policy stance on immigration.","[500, 1300]","[500, 1300, 529, 1302]"
+112,"105 is the most fitting code as it directly discusses national budget and public spending.
+
+```json",[100],"[100, 105]"
+113,"1209 is assigned because the text explicitly mentions ""people lying"", which is related to police and weapons control, as it could imply dishonesty or deception.
+
+```json",[1200],"[1200, 1209]"
+114,"The phrase ""And that's the real problem, isn't it?"" is rhetorical and does not contain explicit, unambiguous evidence of any policy topic.",[],[]
+115,"1400 is inferred as the supercategory because the excerpt discusses shifting power dynamics, which often involves planning and housing issues. 1401 is the specific subcategory as it mentions putting power back into the hands of the Scottish people, implying a change in governance structure.
+
+```json",[1400],"[1400, 1401]"
+116,"The excerpt discusses policies related to education, vocational training, and housing, which fall under the supercategories of Education (600) and Planning and Housing Issues (1400).
+
+```json","[600, 1400]","[600, 601, 603, 1400, 1401]"
+117,"The excerpt ""Sure."" is purely rhetorical and does not contain any explicit, unambiguous evidence of policy topics.",[],[]
+118,"The excerpt discusses the speaker's disagreement with the Catholic Church's doctrine on homosexuality and their support for the Pope's visit despite this disagreement. This indicates a discussion about religious beliefs and practices, which falls under the supercategory of Law, Crime, and Family Issues (1200) and the subcategory of Family Issues (1208).",[1200],"[1200, 1208]"
+119,"The excerpt discusses Nigel's stance on the NHS, implying a policy disagreement.",[300],"[300, 301]"
+120,"The excerpt discusses various benefits and policies related to pensioners, such as free TV licenses, free prescriptions, winter fuel payments, and the triple lock for pension increases. It also mentions the importance of considering older people's needs across various ministries, indicating a broad approach to policy.","[1300, 600, 1600]","[1300, 1303, 600, 602, 1600, 1609]"
+121,"The excerpt discusses the withdrawal of British troops from Iraq, which is a part of international affairs, and criticizes the Prime Minister's stance on the issue, indicating a political aspect.
+
+```json","[1900, 2000]","[1900, 1920, 2000, 2011]"
+122,"The excerpt discusses issues of misogyny, racism, and discrimination within the police force, implicating subcategories of Civil Rights (200) and Law, Crime, and Family Issues (1200).
+
+```json","[200, 1200]","[200, 201, 202, 1200]"
+123,"The excerpt discusses the national deficit and the government's borrowing, which are both aspects of macroeconomics, specifically related to national budget, debt, and public spending.
+
+```json",[100],"[100, 105]"
+124,"The excerpt discusses Brexit negotiations, mentioning a ""good deal"" and ""bad deal"", indicating a focus on international affairs and specifically the UK's relationship with the EU.",[1900],"[1900, 1910]"
+125,"The phrase ""where they're actually going to be"" implies a discussion about location or placement, which could relate to housing or planning issues.",[1400],"[1400, 1401]"
+126,"The excerpt ""Okay."" is a simple acknowledgment and does not contain any explicit, unambiguous evidence of policy topics.",[],[]
+127,"The excerpt discusses the limitations of resources for implementing all desired policies, indicating a focus on budget and fiscal policy.",[100],"[100, 105]"
+128,"705 is used because the text explicitly mentions targeting frequent flyers, implying a focus on reducing excessive air travel, which falls under air pollution and global warming.
+
+```json",[700],"[700, 705]"
+129,"200 (Civil Rights) is identified because the excerpt discusses asylum, which falls under the subcategory 230 (Immigration).
+
+```json",[200],"[200, 230]"
+130,"1000 is identified as the supercategory because the excerpt discusses transportation. The subcategory 1001 is chosen as it specifically mentions improving public transport, making it affordable and reliable.
+
+```json",[1000],"[1000, 1001]"
+131,"The excerpt discusses the UK's role in helping Syrian refugees, mentioning the use of aid budget and the possibility of resettlement, which falls under international affairs and foreign aid.",[1900],"[1900, 1901]"
+132,"The excerpt discusses child poverty and public service cuts, implicating policies related to social welfare and education.","[1300, 600]","[1300, 1302, 600, 1401]"
+133,"The excerpt discusses the WASPI (Women Against State Pension Inequality) issue, which involves the change in pension age for women. This is primarily a social welfare issue, as it affects a specific group's access to benefits.",[1300],"[1300, 1302]"
+134,"1603 is used as it discusses military intelligence and weapons, implying espionage or intelligence services. 1901 is used as the speaker expresses a desire to prevent destruction and work towards a peaceful world, which aligns with foreign aid goals.
+
+```json","[1600, 1900]","[1600, 1603, 1900, 1901]"
+135,"The excerpt discusses the impact of Brexit on Scottish independence, implying a change in circumstances that might influence a referendum.","[1900, 2000]","[1900, 1910, 2000, 2001]"
+136,"The excerpt discusses immigration, a key aspect of the single European market, and criticizes the Labour Party for not standing up to the Tories on this issue.","[200, 1900]","[200, 230, 1900, 1910]"
+137,"The excerpt discusses immigration, asylum, and the need for skilled workers in various sectors, including healthcare and social care. It also mentions the Conservative party's policies on taxation and investment.","[200, 500, 600, 700]","[200, 230, 500, 502, 503, 600, 601, 602, 603]"
+138,"100 is mentioned explicitly, 107 is inferred from ""put that corporation tax up"".
+
+```json",[100],"[100, 107]"
+139,"The excerpt discusses the relationship between fitness and politics, suggesting that fitness can improve one's approach to people, which is a key aspect of politics. This implies a connection to the supercategory of ""Government Operations"" (2000) and the subcategory of ""Executive-Legislative Relations and Parliamentary Operations"" (2011) as it discusses the relationship between the politician and the people.",[2000],"[2000, 2011]"
+140,"The excerpt discusses the impacts of climate change policies on jobs, industries, and economy, which are all aspects of labor and employment.",[500],"[500, 505]"
+141,"The excerpt is a simple negation and does not contain any explicit, unambiguous evidence of policy topics.
+
+```json",[],[]
+142,"The excerpt does not contain any explicit, unambiguous evidence of policy topics. It is purely rhetorical.",[],[]
+143,"The excerpt is purely rhetorical and does not contain explicit, unambiguous evidence of any policy topic.
+
+```json",[],[]
+144,"The excerpt discusses economic policies, specifically sanctions and incentives, suggesting a focus on macroeconomics and domestic commerce.
+
+```json","[100, 1500]","[100, 105, 1500, 1501]"
+145,"The excerpt discusses allocating resources to Grimsby, improving childcare, and creating jobs, indicating a focus on local economic development and social welfare.","[1300, 1500]","[1300, 1302, 1303, 1500, 1521]"
+146,"The excerpt discusses international cooperation, specifically regarding Europe and the U.S., in the context of global issues like Russia and ISIS. It mentions the importance of cooperation and the lessons from past actions, indicating a focus on international affairs.",[1900],"[1900, 1920, 1909]"
+147,"1200 is identified as the supercategory because it discusses crime and terrorism. 1203 is the subcategory as it discusses illegal drug production, trafficking, and control, which can be inferred from the mention of anti-terrorist legislation and judicial oversight.
+
+```json",[1200],"[1200, 1203]"
+148,The excerpt is too vague and general to assign any specific policy code. It does not mention any explicit policy topic.,[],[]
+149,"The excerpt discusses policies related to crime prevention and law enforcement, including sentencing, stop and search, and counter-terrorism, which fall under the supercategory of Law, Crime, and Family Issues (1200).",[1200],"[1200, 1205, 1209]"
+150,"100 is identified due to explicit mentions of ""tax"" and ""economy"". 1300 is identified due to references to ""public services"" and the need to ""pay for"" them, implying social welfare issues.
+
+```json","[100, 1300]","[100, 1300]"
+151,"The excerpt discusses police resources, including funding and capabilities, as well as immigration and border control, specifically mentioning the Home Secretary's power to issue temporary exclusion orders.
+
+```json","[1200, 1300, 1400]","[1200, 1209, 1300, 1302, 1400, 1401]"
+152,"1209 is assigned because the excerpt mentions ""killing somebody"" and ""Parliament"", suggesting a discussion about weapons control or police action. 1900 is assigned because the speaker is discussing evidence, which could imply international investigations or intelligence gathering.
+
+```json","[1200, 1900]","[1200, 1209, 1900]"
+153,"The excerpt discusses unity among UK political leaders on the issue of Ukraine, mentioning Boris Johnson, Rishi Sunak, and Liz Truss, as well as the country's support for Ukraine and its president, Volodymyr Zelensky.","[1900, 2000]","[1900, 1909, 2000, 2012]"
+154,The excerpt is too brief and lacks any specific content that could be linked to a policy topic.,[],[]
+155,"The excerpt discusses the success of renewable energy, specifically offshore wind, and how it has become the cheapest way to generate electricity, indicating a focus on energy policy.",[800],"[800, 806]"
+156,"The excerpt is purely rhetorical and does not contain any explicit, unambiguous evidence of specific policy topics.
+
+```json",[],[]
+157,"The excerpt discusses tax collection, which leads to revenue for the government, and the current state of the National Health Service (NHS) and care system, indicating a focus on healthcare spending and its impact on citizens.
+
+```json","[100, 300]","[100, 107, 300, 301]"
+158,"1900 is identified due to mention of Brexit and EU, 1200 due to mention of divisiveness and arguments, 1901 due to mention of referendums.
+
+```json","[1900, 1200, 1901]","[1900, 1200, 1901, 1910, 1209, 1901]"
+159,"The excerpt discusses the NHS (National Health Service) waiting lists, the government's failure to resolve issues, and a plan to reduce waiting lists, indicating a focus on healthcare policy.",[300],"[300, 301]"
+160,"50 characters or less. No explicit policy topic discussed.
+
+```json",[],[]
+161,"The excerpt discusses employment rates, workless households, and corporation tax, indicating subcategories 505 (Fair Labour Standards) and 107 (Taxation, Tax policy, and Tax Reform).","[500, 100]","[500, 505, 100, 107]"
+162,"The excerpt discusses terrorism, police response, and the impact of Brexit on security, as well as the role of the SNP government in maintaining police numbers.
+
+```json","[1200, 1900]","[1200, 1209, 1211, 1900, 1909]"
+163,"The excerpt discusses police budgets, types of crime, counter-terrorism policing, and the Home Secretary's role in providing necessary powers to the police. It mentions specific actions taken by the Home Secretary, indicating policy implementation.","[1200, 1500]","[1200, 1209, 1500, 1521]"
+164,"1900 (International Affairs) is identified as the supercategory because the excerpt discusses negotiations, which often occur in international contexts. 1910 (Western Europe, Common Market Issues) is identified as the subcategory as the negotiation likely pertains to the EU, a significant player in Western Europe.
+
+```json",[1900],"[1900, 1910]"
+165,"The excerpt discusses asylum seekers and refugees, which falls under the supercategory of Civil Rights (200) and the subcategory of Immigration (230).
+
+```json",[200],"[200, 230]"
+166,"The excerpt discusses the transition period after Brexit and the desire to leave the EU quickly, indicating topics related to international affairs and fishing.
+
+```json","[1900, 400]","[1900, 400, 1910, 408]"
+167,"The excerpt is a simple negation and does not contain any explicit, unambiguous evidence of a policy topic.
+
+```json",[],[]
+168,"The excerpt discusses the Labour Party's involvement in NATO, a military alliance, and internal party politics, indicating codes related to International Affairs and Political Parties.
+
+```json","[1900, 2000]","[1900, 1930, 2000, 2012]"
+169,"The excerpt discusses nuclear weapons and global disarmament, implicating international relations and global security.
+
+```json","[1600, 1900]","[1600, 1603, 1900, 1901]"
+170,"1900 (International Affairs) is identified as the supercategory because the excerpt discusses Brexit negotiations and the possibility of a ""no deal"" scenario. 1910 (Western Europe, Common Market Issues) is identified as the subcategory as it directly references the EU and the potential outcome of negotiations.
+
+```json",[1900],"[1900, 1910]"
+171,"The excerpt discusses immigration, population growth, and infrastructure, explicitly mentioning ""immigration"" and ""population control"", and implicitly referring to housing, healthcare, and transportation infrastructure.
+
+```json","[200, 300, 400, 500, 600, 1000, 1400]","[200, 230, 300, 332, 400, 401, 500, 502, 600, 602, 1000, 1002, 1400]"
+172,"The excerpt discusses dealing with debts and deficit, mentioning specific plans of Labour and Conservatives, indicating a focus on Macroeconomics.",[100],"[100, 105]"
+173,"602 is identified as the subcategory because the excerpt discusses education (elementary and secondary) and mental health services, which are typically provided in schools. 600 is the parent supercategory for education.
+
+```json",[600],"[600, 602]"
+174,"1300 is identified due to explicit mention of pensioners and their care. 100 is identified due to mention of economic policy (uprating pensions).
+
+```json","[100, 1300]","[100, 1300]"
+175,"The excerpt discusses shared ownership in housing, which involves paying rent and eventually owning a share of the property. This falls under the subcategory of Mortgages (1410) and its parent supercategory of Planning and Housing Issues (1400).
+
+```json",[1400],"[1400, 1410]"
+176,"The excerpt discusses economic policies, specifically tax cuts for small businesses, and mentions the impact of Brexit on the economy, which falls under the supercategory of Macroeconomics (100) and the subcategory of Taxation (107).
+
+```json",[100],"[100, 107]"
+177,"The excerpt discusses Brexit, the NHS, schools, police, and the choice between moving on or staying gridlocked, indicating a focus on domestic issues and the desire to resolve Brexit quickly.
+
+```json","[1900, 300, 500, 600, 1000, 1200]","[1900, 1910, 300, 301, 500, 504, 600, 602, 1000, 1001, 1200, 1209]"
+178,"The excerpt discusses unfunded promises made by a previous Prime Minister (Liz Truss) that would negatively impact pensioners, implying a discussion about pension policy and funding.",[1300],"[1300, 1303]"
+179,"1900 (International Affairs) is identified due to references to international trade and agreements. 1800 (Foreign Trade) is also relevant as it discusses trade access and supply chains.
+
+```json","[1800, 1900]","[1800, 1900]"
+180,"1900 is identified as the supercategory because the excerpt discusses international affairs, specifically the United Nations' role in Iraq. 1926 is identified as the subcategory because it mentions international organizations other than finance.
+
+```json",[1900],"[1900, 1926]"
+181,"The excerpt discusses the government's failure to eliminate the deficit and asks about specific cuts, indicating a focus on budget and spending, which falls under Macroeconomics.",[100],"[100, 105]"
+182,"The excerpt discusses societal changes and individual efforts towards reducing carbon emissions and promoting sustainability, indicating a focus on environmental policy.",[700],"[700, 705]"
+183,"The excerpt discusses issues related to housing affordability, deposits, and the need for increased housing supply, indicating codes under 1400 (Planning and Housing Issues).",[1400],"[1400, 1406, 1410]"
+184,"202 is identified as the subcategory because the excerpt discusses gender and sexual orientation discrimination. 200 is the parent supercategory for civil rights.
+
+```json",[200],"[200, 202]"
+185,"The excerpt discusses tax cuts and how to fund them, explicitly mentioning tax policy and national insurance, which are subcategories of Macroeconomics.
+
+```json",[100],"[100, 107, 505]"
+186,"The phrase ""We're going to cut taxes"" explicitly mentions tax policy, indicating a discussion about taxation.
+
+```json",[100],"[100, 107]"
+187,"The excerpt discusses political smear campaigns, hate speech, and the need for education and youth services to prevent radicalization, indicating a focus on law, crime, and social welfare.
+
+```json","[1200, 1300]","[1200, 1209, 1300, 1302, 1303, 1304]"
+188,"The excerpt discusses trust in politics, power dynamics, and electoral reform, which are related to political party operations and governance.
+
+```json",[2000],"[2000, 2012]"
+189,"The excerpt discusses the role of the Brexit Party in the Brexit process, implying a focus on international affairs, specifically the UK's relationship with the EU.
+
+```json",[1900],"[1900, 1910]"
+190,"The excerpt discusses Brexit, the NHS, schools, and elderly care, indicating policies related to International Affairs, Health, and Social Welfare.
+
+```json","[1900, 300, 1300]","[1900, 1910, 300, 301, 1300, 1303]"
+191,"The excerpt discusses funding and performance issues related to the National Health Service (NHS) in different regions of the UK, implicating specific political figures and their actions.","[300, 1300]","[300, 1300, 1302, 301]"
+192,"602 is the most specific code that applies here, as the excerpt discusses a policy related to elementary and secondary education.",[600],"[600, 602]"
+193,"The excerpt discusses the power to set tax rates and rules, and the impact of tax policies on revenue, indicating a focus on taxation and its effects on public services like schools and hospitals.",[100],"[100, 107]"
+194,"The excerpt discusses the government's plan to balance the budget, including tax policies and spending cuts, which fall under Macroeconomics (100).
+
+```json",[100],"[100, 105, 107]"
+195,"The excerpt discusses the power over tax in Scotland and the potential impact of introducing tax changes alone, indicating a focus on taxation policy.",[100],"[100, 107]"
+196,"The excerpt discusses various aspects of education, including teaching methods, school structure, special needs education, and the purpose of education. It also touches on the government's role in these areas.",[600],"[600, 602, 603, 604]"
+197,"The excerpt is a simple negation and does not contain any explicit policy-related information.
+
+```json",[],[]
+198,"1900 is identified as the supercategory because the excerpt discusses international negotiations, which falls under international affairs. 1910 is identified as the subcategory as it specifically mentions negotiations with the EU, which is part of Western Europe.
+
+```json",[1900],"[1900, 1910]"
+199,"The excerpt discusses the NHS, its funding, and potential negotiations around it, implicating subcategories 301 (Health Care Reform) and 321 (Regulation of Drug Industry, Medical Devices, and Clinical Labs) under supercategory 300 (Health).",[300],"[300, 301, 321]"
+200,"1900 is identified as the supercategory because the excerpt discusses international affairs, specifically a UN-brokered plan and a foreign president. 1911 is identified as the subcategory as it mentions Peru, which falls under the category of Africa.
+
+```json",[1900],"[1900, 1911]"
+201,"The excerpt discusses potential applicants for immigration, which falls under the subcategory of Immigration (230) and its parent supercategory Civil Rights (200).
+
+```json",[200],"[200, 230]"
+202,"The phrase ""direction of travel"" is a metaphor for policy plans, implying policy discussion.",['100'],"['100', '107']"
+203,"The excerpt discusses economic policies, taxation, housing, and immigration, which fall under Macroeconomics, Taxation, and Immigration subcategories.
+
+```json","[100, 230]","[100, 107, 103, 105, 230]"
+204,"The excerpt discusses tax policies, specifically mentioning raising taxes for low-income people and cutting taxes for them, indicating a focus on taxation and tax reform.
+
+```json",[100],"[100, 107]"
+205,"The excerpt is purely rhetorical and does not contain explicit, unambiguous evidence of any specific policy topic.
+
+```json",[],[]
+206,"1900 is identified as the supercategory because the excerpt discusses working with other countries, implying international affairs.",[1900],[1900]
+207,"The excerpt discusses the speaker's stance on leaving the European Union and their willingness to accept a salary as a Member of the European Parliament (MEP), indicating a focus on international affairs and political parties.
+
+```json","[1900, 2000]","[1900, 1910, 2000, 2012]"
+208,"The excerpt discusses the timeline of a task, but doesn't provide enough detail to assign a specific code. It's purely rhetorical.
+
+```json",[],[]
+209,"The excerpt discusses financial mismanagement, higher taxes, and economic growth, indicating topics related to macroeconomics, specifically taxation and national budget.",[100],"[100, 105, 107]"
+210,"The excerpt is purely rhetorical and does not contain any explicit, unambiguous evidence of policy topics.
+
+```json",[],[]
+211,"1900 (International Affairs) is identified due to references to international trade negotiations. 1910 (Western Europe, Common Market Issues) is included as it discusses the EU, a significant part of Western Europe.
+
+```json",[1900],"[1900, 1910]"
+212,"The excerpt discusses budget allocation and changes in policing strategies, including counter-terrorism and cybercrime, indicating a focus on Law, Crime, and Family Issues (1200).",[1200],"[1200, 1209]"
+213,"The excerpt discusses the role of a politician versus a judge, implying a legal process, hence the code 1209 (Police, Fire, and Weapons Control) is applicable.
+
+```json",[1200],"[1200, 1209]"
+214,"26 is a reference to the number of years the speaker has been in politics, which is a personal detail and doesn't relate to any specific policy topic.",[],[]
+215,"The excerpt discusses housing policies (Section 21 evictions, homelessness) and employment issues (work not paying enough, food banks).
+
+```json","[1400, 500]","[1400, 1401, 500, 505]"
+216,"The excerpt discusses issues related to primary school education, including class sizes, standardized testing, teacher workload, and bureaucracy. These topics fall under the supercategory of Education (600) and the subcategory of Elementary and Secondary Education (602).",[600],"[600, 602]"
+217,"The excerpt discusses initiatives to support emerging tech companies and launch satellites, indicating a focus on innovation, economic growth, and manufacturing.
+
+```json","[100, 500, 600, 700, 800]","[100, 107, 500, 502, 600, 601, 700, 709, 800, 806]"
+218,"The excerpt discusses the SNP's proposals to compensate WASPI women, indicating a focus on social welfare and inter-party relations.","[1300, 2000]","[1300, 1303, 2000, 2012]"
+219,"The excerpt discusses the NHS (National Health Service) and its potential inclusion in trade negotiations, which falls under the subcategory 321 (Regulation of Drug Industry, Medical Devices, and Clinical Labs) and its parent supercategory 300 (Health).",[300],"[300, 321]"
+220,"100 is mentioned as it discusses national averages and economic indicators. 107 is inferred as it discusses household savings, which is a form of taxation.
+
+```json",[100],"[100, 107]"
+221,"The excerpt discusses the incumbent's actions, the country's recent challenges, and their plans for the future, implying a focus on political leadership and economic policy.",[],[]
+222,"The excerpt discusses the potential influence of the Scottish National Party (SNP) in a hung Parliament, their stance on Boris Johnson and Jeremy Corbyn, and their policy priorities, including Scottish independence, ending austerity, improving the NHS, universal credit, and pensions.","[2000, 1300, 300, 1000, 1200, 1400, 1500, 1600, 1800, 1900]","[2000, 1300, 300, 1000, 1200, 1400, 1500, 1600, 1800, 1900, 2001, 1302, 301, 1001, 1208, 1401, 1501, 1603, 1803, 1901]"
+223,"The excerpt discusses environmental initiatives, including tree planting, green technology, and waste recycling, to combat climate change.",[700],"[700, 709]"
+224,"602 (Elementary and Secondary Education) is inferred as the supercategory because the excerpt discusses education, but the context suggests it's not higher education (601) or vocational education (604). The subcategory 602 is explicitly mentioned.
+
+```json",[600],"[600, 602]"
+225,"The excerpt discusses the recruitment and retention of General Practitioners (GPs) in the healthcare system, which falls under the subcategory of Health Manpower and Training (325) and the supercategory of Health (300).",[300],"[300, 325]"
+226,500 (Labour and Employment) is identified due to explicit mention of workforce strategy and employee compensation. No supercategory is independently inferred.,[],"[500, 505]"
+227,"The excerpt discusses a specific Brexit deal, its benefits for British businesses, and its impact on the political process. It mentions trade, regulations, and the EU, which are all aspects of international affairs.",[1900],"[1900, 1910]"
+228,"The excerpt discusses voting, political change, and the impact of Green Party MPs, specifically mentioning Caroline Lucas. It implies a call to action for voters to support the Green Party's policies on economy, healthcare, and climate.","[2000, 100, 700, 300]","[2000, 100, 700, 300, 2011, 107, 705, 301]"
+229,"The excerpt discusses Britain's role in international organizations (UN Security Council) and global issues (economy, climate change, nuclear weapons), indicating codes under supercategory 1900 (International Affairs).",[1900],[1900]
+230,"200 (Civil Rights) is identified due to mention of immigration rules. 1000 (Transportation) is inferred as the speaker discusses rules for people coming from within the EU, which could imply travel regulations.
+
+```json","[200, 1000]","[200, 230, 1000]"
+231,"The excerpt discusses a monetary amount, suggesting a topic related to taxation or public spending.",[100],"[100, 107]"
+232,"0 codes identified as the text is purely rhetorical and does not contain explicit, unambiguous evidence of any policy topic.
+
+```json",[],[]
+233,"The excerpt discusses immigration policies, including the introduction of foreign national ID cards, biometric visas, and a points-based system, which are all related to immigration control and regulation.
+
+```json","[200, 1900]","[200, 230, 1900, 1803]"
+234,"The excerpt discusses specific benefits for pensioners (free eye tests, prescription charges, winter fuel allowance), which fall under the subcategory 1303 (Elderly Issues and Elderly Assistance Programs, State Pensions) and its supercategory 1300 (Social Welfare).
+
+```json",[1300],"[1300, 1303]"
+235,"The excerpt discusses policies related to family, health, and childcare, which fall under the supercategories of Social Welfare and Health.","[1300, 300]","[1300, 1302, 300, 301, 332, 334, 500, 508]"
+236,"The excerpt discusses engaging in dialogue and consultation with a group, suggesting a policy topic related to employee relations and labor unions.",[500],"[500, 504]"
+237,"The excerpt discusses immigration trends, past and future immigration policies, and the impact of leaving the EU on immigration, explicitly mentioning ""immigration figures"" and ""immigration"" multiple times.
+
+```json","[200, 1900]","[200, 230, 1900]"
+238,"The phrase ""Ask the electorate here"" implies a discussion about democratic processes and voter engagement, which falls under Government Operations.",[2000],"[2000, 2012]"
+239,"The excerpt discusses the increase in healthcare professionals (nurses and doctors) and treatments, attributing this to a strong economy. It also mentions the previous government's failure and the decision to invest in the NHS, indicating a focus on healthcare and economic policy.","[100, 300]","[100, 105, 300, 301]"
+240,The excerpt is too brief and lacks any specific content that could be linked to a policy topic.,[],[]
+241,"300 (Health) is identified due to explicit mention of ""National Health Service"" and ""waiting lists"". 500 (Labour and Employment) is identified due to references to ""Labour government"" and ""Conservative"".
+
+```json","[300, 500]","[300, 301, 500]"
+242,"The excerpt discusses knife crime, police-community relations, and stop-and-search policies, which are all related to law enforcement and crime prevention.
+
+```json",[1200],"[1200, 1202, 1209, 1211]"
+243,"The excerpt discusses the implementation of the Rwanda scheme to deter illegal immigration, detailing the preparation of planes and the first flight date. It also mentions the goal of establishing a deterrent to stop illegal entries and remove those who arrive.
+
+```json",[200],"[200, 230]"
+244,"709 - Species and Forest Protection, as the excerpt discusses the preservation of species and forests over millions of years.",[700],"[700, 709]"
+245,"The excerpt discusses employment, housing, and economic policies, including apprenticeships, house building, unemployment reduction, and taxation.
+
+```json","[500, 600, 100, 1400]","[500, 502, 600, 100, 107, 1400, 1401, 503]"
+246,"1000 is assigned because the excerpt discusses a levy on oil and gas companies, which is related to transportation and energy industries.
+
+```json",[1000],"[1000, 1002, 803]"
+247,"20% refers to a specific demographic, indicating a discussion about social welfare.",[1300],"[1300, 1302]"
+248,"The phrase ""I disagree with"" indicates a difference of opinion, but there's no explicit policy topic mentioned.",[],[]
+249,"The excerpt discusses the redistribution of tax burden, specifically mentioning pensioners and council tax, indicating a focus on taxation and its impact on different groups.
+
+```json","[100, 1300]","[100, 107, 1300, 1303]"
+250,"The excerpt discusses the implementation of schemes by a party, implying policy decisions. However, it's too vague to pinpoint specific policies.",[],[]
+251,"The excerpt discusses policies related to healthcare (free personal care) and labor (higher minimum wage for care workers), and mentions a source of funding (reversing tax cuts for big banks).
+
+```json","[300, 500]","[300, 334, 500, 505]"
+252,"The excerpt discusses housing affordability for young people, mentioning a rent-to-own scheme, which involves a form of payment towards home ownership.",[1400],"[1400, 1401]"
+253,"The excerpt discusses the availability of resources for implementing policies mentioned in the manifesto, indicating a focus on budget and spending, which falls under Macroeconomics.",[100],"[100, 105]"
+254,"105 is identified as the subcategory because the excerpt discusses funding for Wales, which is a part of national budget and public spending. 100 is the parent supercategory for 105.",[100],"[100, 105]"
+255,"The excerpt discusses pension increases, retirement age, budget deficit, and care costs, indicating policies related to elderly care and budget management.","[1300, 1500]","[1300, 1303, 1500, 1501]"
+256,"The excerpt discusses the lack of bold ideas and honesty about funding changes in a political context, implying criticism of current policies and a desire for better governance, which falls under the supercategory of Government Operations.",[2000],"[2000, 2011]"
+257,"The excerpt discusses the economic implications of leaving the European Union, the NHS funding, and taxation, which are related to Macroeconomics (100) and specifically, National Budget, Debt, public spending (105) and Taxation, Tax policy, and Tax Reform (107).
+
+```json",[100],"[100, 105, 107]"
+258,"The excerpt discusses the NHS, waiting lists, EU nurses, and a potential tax on EU nurses, implicating healthcare workforce, healthcare access, and international relations.","[300, 500, 1900]","[1900, 1910, 300, 301, 500, 504]"
+259,"The excerpt discusses the UK's relationship with Europe, focusing on trade, power dynamics, currency, and bureaucracy, which are all aspects of international affairs and domestic commerce.","[1800, 1900, 1500]","[1800, 1806, 1900, 1910, 1500, 1524]"
+260,"The excerpt is purely rhetorical and does not contain any explicit, unambiguous evidence of policy topics.",[],[]
+261,"The excerpt discusses the speaker's age, energy, and political beliefs, but does not mention any specific policies or issues.
+
+```json",[],[]
+262,"The excerpt discusses healthcare, mental health, and social care, which fall under the supercategory of Health (300). It also mentions training more healthcare professionals, which is a subcategory of Health Manpower and Training (325).
+
+```json",[300],"[300, 325, 331]"
+263,"The excerpt discusses the leadership qualities of the Prime Minister and the Labour Party leader, focusing on their teams and support, and their ability to negotiate with the EU, which impacts the economy and public services.","[100, 1900]","[100, 105, 1900, 1910]"
+264,"The excerpt discusses the relocation of individuals, the planning system, and housing assistance programs, specifically Help to Buy and stamp duty cuts for first-time buyers.
+
+```json","[1400, 100, 1200]","[100, 107, 1200, 1400, 1401, 1406, 1410]"
+265,"The excerpt discusses the need for a confirmatory referendum on Brexit, indicating a topic related to international affairs and the role of the people in decision-making.
+
+```json",[1900],"[1900, 1901]"
+266,"602 is identified as the subcategory because the excerpt discusses support for families with children and parents, which falls under Elementary and Secondary Education. 600 is the parent supercategory for education.",[600],"[600, 602]"
+267,"The excerpt discusses elderly care, housing, and financial assistance, focusing on the balance between personal finances and necessary care.","[1300, 1400]","[1300, 1303, 1400, 1409]"
+268,"The excerpt discusses immigration policies, wage exploitation, and labor rights, which fall under the subcategories of immigration (230) and employee relations (504).
+
+```json","[200, 500]","[200, 230, 500, 504]"
+269,"The excerpt discusses unemployment rates, economic recovery, and job retention, which are all related to macroeconomic policies, specifically the unemployment rate and national budget.",[100],"[100, 103, 105]"
+270,"The excerpt discusses the Catholic Church's handling of abuse cases, the Pope's visit, and the need for openness and healing, which are related to child abuse (1207) and religious issues (200).
+
+```json","[1200, 200]","[1200, 200, 1207]"
+271,"The excerpt discusses the European Union (EU) and the process of referendums held in EU member countries, specifically mentioning Ireland and France. It also touches on the issue of democratic accountability and respecting the will of the people.",[1900],"[1900, 1910]"
+272,"The excerpt is incomplete and does not contain any explicit, unambiguous evidence of policy topics.
+
+```json",[],[]
+273,"The excerpt is too vague and general to assign any specific policy codes. It does not contain explicit, unambiguous evidence of any policy topic.
+
+```json",[],[]
+274,"1900 is identified due to references to global threats and corporations, indicating international affairs. 1910 is identified due to mention of the United Kingdom and its unity.
+
+```json",[1900],"[1900, 1910]"
+275,"The excerpt discusses the government's mandate to negotiate trade access to the European market, protect European nationals, and maintain certain protocols and rights achieved through Europe, while respecting the referendum result of leaving the EU.
+
+```json","[1500, 1900, 200, 500]","[1500, 1803, 1900, 1910, 200, 230, 500, 504]"
+276,"The excerpt discusses tax cuts, deposit requirements for home purchases, and the Help to Buy scheme, all of which relate to housing and taxation policies.
+
+```json","[100, 1400]","[100, 107, 1400, 1410]"
+277,"The excerpt discusses the impact of Donald Trump's presidency on U.S. domestic policies and international relations, particularly with the UK. It mentions the use of populism and hatred in his rhetoric, as well as specific policies like child detention and military spending.","[1900, 1200, 1600]","[1200, 1207, 1600, 1610, 1900, 1926]"
+278,"The excerpt discusses political strategies and announcements related to taxes and budgets, indicating a focus on macroeconomics.",[100],"[100, 107, 105]"
+279,"1900 is identified due to mention of international relations and conflict. 1200 is identified due to mention of removing a political group (Hamas).
+
+```json","[1900, 1200]","[1900, 1200]"
+280,"The excerpt discusses immigration policies, specifically the Rwanda plan, and its impact on illegal migrants' decisions to cross the English Channel. It mentions the reduction in numbers and the need for a deterrent, implicating immigration control and enforcement.",[200],"[200, 230]"
+281,"The excerpt discusses the political parties' stances on immigration and their commitment to addressing the issue, which is a primary policy topic.
+
+```json",[200],"[200, 230]"
+282,"The phrase ""let's learn from it"" implies a discussion about past actions or policies, suggesting a review or reflection on past decisions, which could fall under the supercategory of ""Government Operations"" and the subcategory of ""Intergovernmental Relations"".",[2000],"[2000, 2001]"
+283,"The excerpt is purely rhetorical and does not contain any explicit, unambiguous evidence of policy topics.",[],[]
+284,"The excerpt discusses the US's involvement in the Paris Agreement and the economic benefits of addressing climate change, indicating a focus on international affairs and environmental policy.
+
+```json","[700, 1900]","[700, 705, 1900, 1901]"
+285,"The excerpt discusses the need for a defense review to ensure adequate resources for the military, specifically mentioning the lack of helicopters in Afghanistan, indicating a need for better military planning and procurement.",[1600],"[1600, 1610]"
+286,"The excerpt discusses education funding, student debt, and minimum wage, which fall under the supercategories of Education and Labour and Employment.","[600, 500]","[600, 601, 500, 505]"
+287,"The excerpt discusses an inquiry into Islamophobia and other prejudices within the Conservative Party, as well as the party's record on promoting women and addressing gender issues.","[200, 600]","[200, 201, 202, 600, 602]"
+288,"The excerpt discusses migration and political rhetoric around it, implying a manipulation of public opinion, which can be linked to the subcategory of Immigration (230) under Civil Rights (200).",[200],"[200, 230]"
+289,"The excerpt discusses the resolution of a strike, implying negotiation and resolution, which falls under Employee Relations and Labour Unions (504).",[500],"[500, 504]"
+290,"The excerpt is purely rhetorical and does not contain any explicit, unambiguous evidence of policy topics.",[],[]
+291,"1900 is identified as the supercategory because the excerpt discusses Brexit deal negotiations and the decision-making process, which falls under international affairs. The subcategory 1910 is identified because the excerpt mentions the EU and Brexit deal, which are specific aspects of international affairs related to Western Europe.
+
+```json",[1900],"[1900, 1910]"
+292,"The excerpt discusses terrorism, extremism, and specific incidents involving white right-wing extremists, implying a focus on domestic terrorism and extremism.
+
+```json","[1200, 1600]","[1200, 1202, 1600, 1627]"
+293,"The excerpt discusses military operations, equipment, aid, and political strategy, indicating a focus on defense and international affairs.","[1600, 1900]","[1600, 1608, 1610, 1900, 1901, 1909]"
+294,"The excerpt does not contain any explicit, unambiguous evidence related to the provided codebook, so no codes apply.
+
+```json",[],[]
+295,"The excerpt discusses the cost and justification of a nuclear war system (Trident), comparing it to other spending priorities like military equipment for troops in Afghanistan. It mentions the Cold War era and the current global context, implying a shift in international relations.","[1600, 1900]","[1600, 1610, 1900, 1920]"
+296,"200 (Civil Rights) is identified due to the mention of ""illegal migration"", which falls under the subcategory 230 (Immigration).
+
+```json",[200],"[200, 230]"
+297,"The excerpt is a simple affirmation and does not contain any explicit, unambiguous evidence of policy topics.
+
+```json",[],[]
+298,"The excerpt discusses the preference for ""no deal"" over a ""bad deal"" in the context of Brexit negotiations, indicating a focus on international affairs and specifically the UK's relationship with the EU.",[1900],"[1900, 1910]"
+299,"The excerpt ""Thank you."" is purely rhetorical and does not contain any explicit, unambiguous evidence of policy topics.",[],[]
+300,"The excerpt discusses the Prime Minister's stance on sentencing for violent criminals and terrorists, indicating a focus on crime and punishment.",[1200],"[1200, 1205]"
+301,"The excerpt discusses the choice between leaving the EU with a trade deal or remaining, focusing on the certainty of trade relationships and investments, indicating a discussion on international trade and business.","[1800, 1900]","[1800, 1803, 1900, 1910]"
+302,"The excerpt discusses tax cuts and the relationship between economic growth and tax burden, explicitly mentioning ""cut taxes"" and ""tax burden"".
+
+```json",[100],"[100, 107]"
+303,"The excerpt discusses the use of food banks and the solution to reduce their usage, indicating a focus on employment and economic stability.
+
+```json","[500, 1300]","[500, 505, 1300, 1302]"
+304,"The phrase ""raise immigration"" explicitly discusses the topic of immigration.
+
+```json",[200],"[200, 230]"
+305,"The excerpt discusses political reforms, specifically the reform of the House of Commons and the House of Lords, and the idea of putting this to a referendum. This falls under the supercategory of Government Operations and the subcategory of Intergovernmental Relations.",[2000],"[2000, 2001]"
+306,"The excerpt discusses economic stability, which is a subcategory of Macroeconomics.",[100],"[100, 105]"
+307,"The excerpt discusses education budget, teacher and teaching assistant numbers, and the impact of budget cuts on education, indicating a focus on education funding and personnel.",[600],"[600, 602, 502]"
+308,"The excerpt discusses the state of the National Health Service (NHS), mentioning improvements and waiting times, which falls under the Health supercategory.",[300],"[300, 301]"
+309,"The excerpt discusses the role of grass-fed animals in carbon storage, the importance of local food systems, and the involvement of farmers in climate change mitigation, indicating a focus on agriculture and food production.",[400],"[400, 401]"
+310,"The excerpt discusses victims of Jeffrey Epstein's crimes and the need for justice, implying a focus on criminal justice and victim's rights.",[1200],"[1200, 1206]"
+311,"1900 is identified as the supercategory because the excerpt discusses international obligations and a foreign court, which are aspects of international affairs. 1926 is identified as the subcategory as it refers to international organizations other than finance.
+
+```json",[1900],"[1900, 1926]"
+312,"The excerpt discusses pension reforms, specifically the triple lock on the basic state pension and the removal of winter fuel allowance for high-income pensioners. It also touches on the drivers of the welfare bill.","[1300, 100]","[100, 107, 1300, 1303]"
+313,"The excerpt discusses welfare policy, employment, and housing, which are related to the subcategories 1302 (Poverty and Assistance for Low-Income Families), 505 (Fair Labour Standards), and 1401 (Housing and Community Development). The supercategories are 1300 (Social Welfare), 500 (Labour and Employment), and 1400 (Planning and Housing Issues).","[1300, 500, 1400]","[1300, 1302, 500, 505, 1400, 1401]"
+314,"The excerpt discusses taxation, job creation, and political cooperation, which relate to macroeconomics and government operations.
+
+```json","[100, 2000]","[100, 107, 2000, 2011]"
+315,"The excerpt discusses education opportunities, job prospects, and housing, which fall under the supercategories of Education (600) and Planning and Housing Issues (1400). It also mentions national service, which is a form of labor, thus falling under Labour and Employment (500).
+
+```json","[600, 1400, 500]","[600, 601, 602, 1400, 1401, 500, 502]"
+316,"The excerpt discusses balancing the national budget, tax policy, and fairness, explicitly mentioning tax breaks for low-income individuals and closing tax loopholes for high-income individuals.",[100],"[100, 105, 107]"
+317,"The excerpt discusses net migration figures under Labour governments, implying criticism of their immigration policies.",[200],"[200, 230]"
+318,"The excerpt discusses the NHS waiting list, staff workload, and the government's responsibility, implicating Health (300) and Labour and Employment (500) policies.
+
+```json","[300, 500]","[300, 301, 500, 502]"
+319,"The excerpt does not contain any explicit, unambiguous evidence related to the provided codebook. It's purely rhetorical.",[],[]
+320,"The phrase ""arbitrary sum"" implies a discussion about numerical values, suggesting a topic related to financial or economic policy.",[100],[100]
+321,"The excerpt discusses the implications of leaving the European Union, specifically regarding free movement and the rights of EU nationals living in the UK and British nationals living in EU countries. It also highlights the contributions of immigrants to various sectors of UK society.","[1900, 230]","[1900, 1910, 230]"
+322,"The excerpt discusses pension policies, benefits, and employment, which relate to subcategories 1303 (Elderly Issues), 1302 (Poverty and Assistance), and 502 (Employment Training). The supercategories are 1300 (Social Welfare) and 500 (Labour and Employment).
+
+```json","[1300, 500]","[1300, 1302, 1303, 500, 502]"
+323,"100 is mentioned as the economy is discussed, 1300 is implied as poverty is mentioned.
+
+```json","[100, 1300]","[100, 1300]"
+324,"The excerpt discusses the approach to reaching a certain figure, implying a policy decision, but no specific policy area is mentioned.
+
+```json",[],[]
+325,"The excerpt discusses the impact of Labour's tax plans on healthcare professionals' pensions, which could lead to increased pressure on the NHS.
+
+```json","[300, 500]","[300, 325, 500, 504]"
+326,"The excerpt discusses investment in defense and national security, implying a focus on military spending and safety.
+
+```json",[1600],"[1600, 1608]"
+327,"The excerpt discusses the NHS, migrant workers, and political parties' decisions on funding public services, including the NHS. It mentions specific numbers (100,000 vacancies) and makes comparisons (migrants treating patients vs. being ahead in queues).","[300, 500, 230]","[230, 300, 301, 500, 504]"
+328,"The excerpt discusses cuts to public services, specifically youth work, which falls under the supercategory of Social Welfare and the subcategory of Youth Employment and Child Labour.",[1300],"[1300, 506]"
+329,"100, 107 - The excerpt discusses tax policy and reform, which falls under the supercategory of Macroeconomics (100) and the subcategory of Taxation, Tax Policy, and Tax Reform (107).",[100],"[100, 107]"
+330,"The excerpt discusses the lack of access to dental care, indicating a problem with healthcare services, specifically dentistry. It also mentions the need for action, suggesting a policy topic.",[300],"[300, 301]"
+331,"The excerpt discusses the housing shortage and its impact on rent affordability, implicating insufficient housing construction and immigration as key factors.
+
+```json","[1400, 1800]","[1400, 1401, 1800, 1803]"
+332,"The excerpt discusses flexible employment contracts, specifically zero-hours contracts, and the preferences of employees regarding these contracts. It touches on the balance between flexibility and job security, which falls under the subcategory of Employee Relations and Labour Unions (504).",[500],"[500, 504]"
+333,"The speaker expresses their stance on the European Union (EU) and their support for a ""people's vote,"" indicating a focus on international affairs and political principles.",[1900],"[1900, 1901]"
+334,"The excerpt discusses migration as a means to grow the economy, which falls under the supercategory of Domestic Commerce and the subcategory of Small Business Issues.",[1500],"[1500, 1521]"
+335,"The excerpt discusses the number of asylum seekers, their removal, and the backlog of claims, which are all related to immigration policies.
+
+```json",[200],"[200, 230]"
+336,"The excerpt discusses the candidates' plans for balancing the budget without sacrificing public services and benefits, specifically mentioning tax credits and child benefits. It also highlights the disagreement between the candidates on these issues.","[100, 1300]","[100, 105, 1300, 1302]"
+337,"The excerpt does not contain any explicit, unambiguous evidence related to any of the provided codes. It's purely rhetorical and does not mention any specific policies, actions, or events.
+
+```json",[],[]
+338,"The excerpt discusses penal policy, implying a focus on punishment for offenders, suggesting codes related to crime and justice.
+
+```json",[1200],"[1200, 1205]"
+339,"The excerpt discusses the allocation of resources within the NHS, criticizing the government for spending on management and IT while frontline services are threatened with closure. It highlights the need to prioritize spending to protect essential services.","[100, 300]","[100, 105, 300, 301]"
+340,"The excerpt discusses investing in police forces, ending austerity, and addressing climate change protests, indicating policies related to Law, Crime, and Social Welfare.
+
+```json","[1200, 1300]","[1200, 1209, 1300, 1302]"
+341,"The excerpt discusses immigration levels, the Prime Minister's stance on immigration, and his broken promise regarding stopping illegal crossings, indicating subcategory 230 (Immigration) under supercategory 200 (Civil Rights).",[200],"[200, 230]"
+342,"100 is mentioned as the economy is discussed, 300 is mentioned as healthcare is discussed, 1300 is mentioned as social care is discussed.
+
+```json","[100, 300, 1300]","[100, 105, 300, 301, 1300, 1302]"
+343,"The excerpt discusses changes to the private rented sector, including longer tenancies, rent caps, and banning letting agent fees, all of which fall under housing and community development.
+
+```json",[1400],"[1400, 1401]"
+351,"The excerpt discusses energy policy, specifically the shift towards renewable energy sources, nuclear power, and reducing dependence on oil. It mentions specific targets and technologies, making it explicit and unambiguous.
+
+```json",[800],"[800, 801, 806]"
+361,"The excerpt discusses defence spending, military personnel, and veterans' care, explicitly mentioning Trident, the British Army, and ex-servicemen. It also references international tensions, implying foreign policy.
+
+```json","[1600, 1900]","[1600, 1608, 1610, 1900, 1920]"
+388,"The excerpt discusses various aspects of society and the environment, focusing on agriculture, land use, and reforestation to absorb carbon, which are all related to environmental policies.","[400, 700]","[400, 401, 700, 701, 709]"
+394,"The excerpt discusses the importance of maintaining the UK's independent nuclear deterrent, implying a focus on national security and defense.",[1600],"[1600, 1610]"
+404,"The excerpt discusses cuts to the police force, privatization of probation services, and removal of PCSOs, all of which are related to law enforcement and criminal justice.
+
+```json",[1200],"[1200, 1209]"
+416,"The excerpt discusses the benefits of freedom of movement within the EU, its impact on British businesses, tourism, and healthcare, and criticizes demonizing immigrants for political gain.
+
+```json","[200, 1500, 1900]","[200, 207, 1500, 1524, 1900, 1910]"
+429,"The excerpt discusses the NHS and drug pricing in relation to trade negotiations, explicitly stating that the NHS will not be on the table.
+
+```json","[100, 1900]","[100, 108, 1900, 1910]"
+432,"The excerpt discusses issues related to the National Health Service (NHS), including privatisation, funding cuts, and their impact on patients and staff. It also mentions the role of political parties in these issues.","[100, 300, 1200]","[100, 108, 300, 1200, 105, 1201]"
+447,"The excerpt discusses the need for political parties to work together and be transparent about the country's financial situation, suggesting a collaborative approach to solving the problem.","[100, 2000]","[100, 105, 2000, 2011]"
+455,"The excerpt discusses representation of vulnerable groups, including the unemployed and disabled, and criticizes the government's policies towards them, such as the work capability assessment and privatization.","[1300, 1200]","[100, 1200, 1207, 1209, 1300, 1302]"
+484,"The excerpt discusses the review process for prisoners before release, involving the parole board and probation service, indicating a focus on the prison system and rehabilitation programs.
+
+```json",[1200],"[1200, 1205]"
+624,"The excerpt discusses the UK's withdrawal from the EU, focusing on the timeline, control over fishing waters, borders, and the single market, which are all aspects of international trade and foreign relations.
+
+```json","[1800, 1900]","[1800, 1803, 1900, 1910]"
+628,"The excerpt discusses drug-related issues, including drug deaths, treatment services, and harm reduction strategies, indicating a focus on health and drug policy.",[300],"[300, 331, 344]"
+671,"The excerpt discusses issues of poverty, racial discrimination, and inequality in the criminal justice system, suggesting policies to address these issues. It mentions specific groups affected, such as young black men and those with African or Muslim names.","[200, 1200, 1300]","[200, 201, 202, 1200, 1206, 1208, 1300, 1302]"
+737,"The excerpt discusses government actions and commitments towards tackling climate change, including policies on recycling, energy, and emissions.","[700, 800]","[700, 703, 800, 805, 806]"
+748,"The excerpt discusses aviation, rail networks, and climate change, indicating subcategories under Transportation (1000) and Environment (700).
+
+```json","[1000, 700]","[1000, 1001, 1005, 700, 705]"
+998,"The excerpt discusses defence policy, including the nuclear deterrent, troop numbers, defence spending, and veterans' housing, indicating codes under supercategory 1600 (Defence) and subcategories 1608 (Manpower, Military Personnel and Dependents) and 1610 (Military Procurement and Weapons System Acquisitions and Evaluation).
+
+```json",[1600],"[1600, 1608, 1610]"
+1222,"The excerpt discusses drug addiction as a root cause of burglaries and car crimes, advocating for faster treatment and rehabilitation to reduce crime. It mentions specific actions like residential rehab, indicating a focus on drug abuse and crime prevention.","[1200, 1300]","[1200, 1203, 1300, 1304]"
+1361,"The excerpt discusses economic policies (austerity, inequality, bankers' bonuses), healthcare (NHS), and environmental issues (climate change), indicating subcategories under Macroeconomics, Health, and Environment.
+
+```json","[100, 300, 700]","[100, 105, 107, 300, 301, 700, 705]"
+1420,"The excerpt discusses crime rates, police numbers, and specific types of crime like knife crime, indicating a focus on law enforcement and crime prevention.",[1200],"[1200, 1209]"
+1426,"The excerpt discusses youth unemployment, benefits, and education, which are related to employment policies and education policies.","[500, 600]","[500, 506, 600, 602]"
+1756,"The excerpt discusses the impact of past abuse by the Catholic Church, the need for the Church to acknowledge and address these issues, and the importance of interfaith cooperation. It mentions the Pope's visit to Britain, which is a significant event for the Catholic Church.","[1200, 1900]","[1200, 1207, 1900]"
+2601,"The excerpt discusses the advantages of Brexit, the timeline for its completion, and the lack of a clear alternative plan from the Labour Party. It mentions specific policy changes that could be made post-Brexit, such as improving animal welfare standards, cutting VAT on tampons, creating free ports, and controlling immigration.","[100, 200, 400, 500, 600, 700, 800, 1000, 1200, 1300, 1400, 1500, 1600, 1800, 1900, 2000]","[100, 107, 200, 400, 406, 500, 508, 600, 700, 709, 800, 806, 1000, 1200, 1300, 1400, 1500, 1600, 1800, 1900, 1910, 2000]"
+3070,"1800 is relevant as it discusses trade policies, specifically tariffs.
+
+```json",[1800],[1800]
+3356,"The excerpt discusses the lack of hope in people due to broken political promises and corruption, suggesting a need for political integrity and service. It mentions specific political issues like Partygate and COVID rule breaches, indicating a focus on political integrity and trust.","[1000, 1200, 1300, 2000]","[1000, 1200, 1209, 1300, 1302, 2000, 2011, 2012]"

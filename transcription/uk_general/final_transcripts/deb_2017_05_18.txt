@@ -1,0 +1,1346 @@
+[SPEAKER_04]: We'll be taking questions from our studio audience here.
+[SPEAKER_04]: But first, a one-minute opening statement from each of the leaders.
+[SPEAKER_04]: And first of all, we turn to the leader of the Green Party, Caroline Lucas.
+[SPEAKER_12]: Thank you.
+[SPEAKER_12]: Tonight, I'm going to be straight with you.
+[SPEAKER_12]: I'm going to say what I really believe, not just what I think you might want to hear.
+[SPEAKER_12]: Never in my lifetime has our future felt so uncertain.
+[SPEAKER_12]: Brexit, climate change and NHS in crisis.
+[SPEAKER_12]: But when people come together and reach for a bigger future, we've shown we can change the course of history.
+[SPEAKER_12]: With courage, we emerged from the rubble of the Second World War.
+[SPEAKER_12]: With vision, we forged a continent that's lived at peace for the past 70 years.
+[SPEAKER_12]: And with ambition, we built a free and universal NHS.
+[SPEAKER_12]: And we did this not in the good times, but in our darkest moments.
+[SPEAKER_12]: And together, we can make big things happen again.
+[SPEAKER_12]: We can end the scandal of four million children living in poverty in one of the richest countries of the world.
+[SPEAKER_12]: We can transform our energy system to make it the cleanest and greenest.
+[SPEAKER_12]: And we can forge a relationship with Europe which is open and says no to racism.
+[SPEAKER_04]: Carine Lucas, thank you.
+[SPEAKER_04]: Now to Leanne Wood of Plaid Cymru.
+[SPEAKER_03]: Although everyone knows that Plaid Cymru is all about Wales, our vision and our values can benefit people in all parts of the UK.
+[SPEAKER_03]: Our country faces some real challenges, so we must grasp any opportunities that come our way to give ourselves a voice.
+[SPEAKER_03]: Plaid Cymru's positive post-Brexit plan is an alternative to Theresa May's way.
+[SPEAKER_03]: And I have a message for the Prime Minister, who I'm sure is watching tonight.
+[SPEAKER_03]: You may be too scared to come here tonight for your U-turns to be highlighted, for your cruel policies to be exposed.
+[SPEAKER_03]: You want this election to only be about Brexit because that means you avoid talking about the real issues like the NHS, the economy and the cuts you've made to our public services.
+[SPEAKER_03]: That's weak leadership.
+[SPEAKER_03]: weak and unstable.
+[SPEAKER_03]: And I hope all of us here will show you tonight that real leadership means being willing to defend what you stand for, not hide from it.
+[SPEAKER_03]: Leanne Wood, thank you.
+[SPEAKER_04]: We turn now to the leader of the SNP, Nicola Sturgeon.
+[SPEAKER_09]: This election really matters for all of us across the UK.
+[SPEAKER_09]: For Scotland, now more than ever, we need strong voices at Westminster.
+[SPEAKER_09]: We need MPs able to stand up for Scotland and work with others for fair policies across the UK.
+[SPEAKER_09]: The SNP will always stand up against Tory cuts because they are damaging our public services and pushing more people into poverty.
+[SPEAKER_09]: We will stand up for jobs and against an extreme Brexit that will put living standards and jobs at risk.
+[SPEAKER_09]: And we will make sure that Scotland's future is always in Scotland's hands.
+[SPEAKER_09]: The next few years will determine the kind of country we become.
+[SPEAKER_09]: We need strong opposition, holding a Tory government to account, keeping them in check and standing up for the values we hold dear.
+[SPEAKER_09]: Values of social justice, tolerance and community.
+[SPEAKER_09]: The more seats the SNP wins on June the 8th, the stronger Scotland's voice will be.
+[SPEAKER_09]: Nicola Sturgeon, thank you.
+[SPEAKER_04]: Paul Nuttall, Leader of UKIP.
+[SPEAKER_08]: Tonight you will see that there is only one party that is going into this election which is truly committed to the Brexit that people voted for on June the 23rd last year.
+[SPEAKER_08]: And that is a Brexit whereby we are back in control of our own laws, of our own borders and of our own money.
+[SPEAKER_08]: It is also a Brexit whereby we take back full control of our waters and sign free trade deals all over the world.
+[SPEAKER_08]: UKIP is also the only party going into this election with a clear and honest commitment to reducing immigration through a policy of balanced migration.
+[SPEAKER_08]: You will also see that we are the only party that is committed to cutting a foreign aid budget that is costing you, the British taxpayer, around £30 million every single day.
+[SPEAKER_08]: And we want to reinvest that money into our national health service.
+[SPEAKER_08]: And it should be a national health service, not an international health service.
+[SPEAKER_08]: Finally, Brexit would never have happened if it wasn't for UKIP.
+[SPEAKER_08]: We have taken you so far.
+[SPEAKER_08]: Elect UKIP MPs and give us the tools to see this through.
+[SPEAKER_04]: Paul Nuttall, thank you.
+[SPEAKER_04]: And now to Tim Farron, Leader of the Liberal Democrats.
+[SPEAKER_11]: I got into politics to fight, to stand up to those who take you for granted.
+[SPEAKER_11]: I grew up in Preston in the 1980s.
+[SPEAKER_11]: I saw what happens when decent people are taken for granted by a heartless Conservative government and I am determined to stop that happening again.
+[SPEAKER_11]: The decent Britain I love is under threat.
+[SPEAKER_11]: Theresa May, backed by Nigel Farage and Jeremy Corbyn, is going for an extreme Brexit that will damage our futures for generations.
+[SPEAKER_11]: Don't give up.
+[SPEAKER_11]: The Britain I love is not lost yet.
+[SPEAKER_11]: No matter how you voted in the referendum, if you care for our children, don't cut our schools.
+[SPEAKER_11]: If you care for our elderly, don't leave them on trolleys in corridors.
+[SPEAKER_11]: If you want Britain to lead the world, do not turn your back on the world.
+[SPEAKER_11]: A brighter future is still possible.
+[SPEAKER_11]: The fight is not over.
+[SPEAKER_11]: It is time for some hope.
+[SPEAKER_04]: Tim Farron, thank you very much.
+[SPEAKER_04]: That then includes the opening statements from each of our party leaders.
+[SPEAKER_04]: And the format for tonight is simple.
+[SPEAKER_04]: Our audience will put their questions directly to the leaders.
+[SPEAKER_04]: Each will then have one minute to answer before we open things up for a free-flowing debate on the question.
+[SPEAKER_04]: And our first question tonight is from Daryl White, a 25-year-old youth worker from Newport in South Wales.
+[SPEAKER_04]: Good evening to you.
+[SPEAKER_07]: If elected, how would your party negotiate a safe, beneficial and worthwhile deal with Europe for Britain?
+[SPEAKER_07]: Will this deal be better than pre-Brexit?
+[SPEAKER_04]: Daryl, thank you very much.
+[SPEAKER_04]: If elected, how would your party negotiate a safe, beneficial, worthwhile deal with Europe for Britain?
+[SPEAKER_04]: And in addition, will this deal be better than pre-Brexit?
+[SPEAKER_04]: And for the first statement in response to that question, I'll turn to Leanne Wood.
+[SPEAKER_03]: It's difficult to see how it can be better than pre-Brexit.
+[SPEAKER_03]: If I held that view, then I would have campaigned to leave, and I was a Remain campaigner.
+[SPEAKER_03]: That said, I accept the result, and my party said on the day that the result was announced that we accept it.
+[SPEAKER_03]: We've moved on.
+[SPEAKER_03]: Without Plaid Cymru defending Wales' interests, we're at risk of trade deals which would see our health service privatised, our agriculture sector decimated by cheap foreign imports and Wales drained of any power.
+[SPEAKER_03]: It's only by electing Plaid Cymru MPs will Wales' voice be heard.
+[SPEAKER_03]: We've been pretty much ignored since the referendum.
+[SPEAKER_03]: Gibraltar has had more attention than Wales has had.
+[SPEAKER_03]: So it's vital that we have a strong team of Plaid Cymru MPs to advocate Wales' national interests and to make sure that the Tories don't get away with an extreme Brexit that would cause serious harm for many people in many of our communities right throughout the UK.
+[SPEAKER_03]: Leanne Wood, thank you.
+[SPEAKER_03]: Nicola Sturgeon.
+[SPEAKER_09]: this time last year I campaigned passionately for the UK and Scotland to stay within the European Union and I still believe that for all its faults we are better off in the European Union than outside of it and I believe not now but when the time is right at the end of this process Scotland should have a choice about our own future but the priority now is
+[SPEAKER_09]: is the Brexit negotiations.
+[SPEAKER_09]: Because Theresa May is not just pursuing Brexit, she is pursuing a hard, extreme Brexit.
+[SPEAKER_09]: Even today when she published her manifesto, she threatened again to walk away with no deal.
+[SPEAKER_09]: That would be an economic catastrophe.
+[SPEAKER_09]: That would cost in Scotland alone 80,000 jobs.
+[SPEAKER_09]: So my message to people in Scotland, whether you voted remain or to leave, is to vote SNP to strengthen our hand to get a deal that does not sacrifice Scottish jobs and the economy.
+[SPEAKER_09]: Because that kind of deal is not just in the interests of Scotland, but in the interests of all of the UK.
+[SPEAKER_04]: Thank you very much.
+[SPEAKER_04]: And next, it's the Caroline Lucas.
+[SPEAKER_12]: Well, Daryl, I agree with you that we need a safe and beneficial future, but I absolutely don't think we're going to get it through the kind of extreme Brexit that Theresa May is pursuing.
+[SPEAKER_12]: I think we need to be really clear that she has no mandate for this kind of Brexit, when we're out of the single market, out of the customs union, putting at risk key social and environmental protections.
+[SPEAKER_12]: You know, we were clear that that was not on the ballot paper.
+[SPEAKER_12]: The vote was to leave, but leave can look very different.
+[SPEAKER_12]: There was no clarity as to what leave actually meant.
+[SPEAKER_12]: And that's why the Green Party believes that you, the general public, should have the final say on that final package.
+[SPEAKER_12]: Now, if you like what you see, then that's great.
+[SPEAKER_12]: Go for it.
+[SPEAKER_12]: But we believe that you should have the right to be able to look at the small print and decide if you don't like it, then you should have the right to be able to remain inside the EU.
+[SPEAKER_12]: You know, I am passionate about freedom of movement.
+[SPEAKER_12]: I'm passionate about staying as close to our European neighbours as possible.
+[SPEAKER_12]: And I feel very let down by Labour, which has not only not turned up tonight, but basically left the field empty too when it came to opposition to this kind of extreme Brexit in Parliament.
+[SPEAKER_12]: Caroline Lucas, thank you.
+[SPEAKER_12]: Paul Nuttall.
+[SPEAKER_08]: Yes.
+[SPEAKER_08]: Of course, the deal will be better because it couldn't be much worse than the deal that we've had whilst we've been within the European Union.
+[SPEAKER_08]: And I encourage the Prime Minister and David Davis, when you go into these negotiations, be bold, have courage.
+[SPEAKER_08]: Promote how great our country actually is and accept that in many ways the European Union needs us far more than we need it.
+[SPEAKER_08]: We have a huge trade deficit with the EU.
+[SPEAKER_08]: There are 6 million jobs on the continent which are dependent on British trade.
+[SPEAKER_08]: And I want to say to the Prime Minister, be bold on immigration, because when people voted to leave the European Union, they didn't just vote to control our borders, they voted to control immigration.
+[SPEAKER_08]: Say no to any divorce bill that is put on the table, because since we've been members of this club, we've paid in over £180 billion in membership fee alone.
+[SPEAKER_08]: The deal will be better, but only if Theresa May and David Davis have backbone.
+[SPEAKER_08]: Paul Nuttall, thank you.
+[SPEAKER_04]: Tim Farron.
+[SPEAKER_11]: I've got four children.
+[SPEAKER_11]: My youngest starts secondary school in a few months' time.
+[SPEAKER_11]: And my main motivation, when they're my age, I want to look them in the eye and say I did absolutely everything I could to protect our country's future, to protect their future from the calamitous, extreme Brexit that Theresa May has chosen.
+[SPEAKER_11]: She is not enacting the will of the people.
+[SPEAKER_11]: She has chosen to interpret it in an extreme way.
+[SPEAKER_11]: And that has been backed
+[SPEAKER_11]: by Jeremy Corbyn and Nigel Farage as they trooped through the lobbies to back that extreme Brexit will damage future generations.
+[SPEAKER_11]: So the deal is this.
+[SPEAKER_11]: The Brexit negotiations between Brussels and London over these next few months
+[SPEAKER_11]: will lead to outcomes that none of us can predict for the time being.
+[SPEAKER_11]: And that means, at the end, you should have the final say on the Brexit deal.
+[SPEAKER_11]: Either the politicians will sign it off, or the people.
+[SPEAKER_11]: I trust the people.
+[SPEAKER_11]: And if you want to reject that deal, you must have the right to remain in the European Union.
+[SPEAKER_04]: So just a reminder of the question, how would your party, if elected, negotiate a safe, beneficial, worthwhile deal with Europe for Britain?
+[SPEAKER_04]: In addition, would this deal be better than pre-Brexit?
+[SPEAKER_04]: Nicola Sturgeon.
+[SPEAKER_09]: Well, I think the real danger here is we've gone from a vote for Brexit across the UK, Scotland voted to remain in the European Union, but we've gone from Brexit to this extreme form of Brexit where we are running the real risk of jettisoning many of the benefits that we get from participating in the European Union
+[SPEAKER_09]: on an equal basis with other partners.
+[SPEAKER_09]: Now, you know, I was in St Andrews University last week, one of the best universities in the world, and they are worried about losing access to research funding, they're worried about losing some of the best academic staff in the world, they're worried about losing students.
+[SPEAKER_09]: And those concerns are replicated across so many sectors
+[SPEAKER_09]: of our economy.
+[SPEAKER_09]: And why are we running the risk of a hard, extreme Brexit?
+[SPEAKER_09]: It is around control of immigration.
+[SPEAKER_09]: And Theresa may not have had the guts to be here tonight, but her spokesperson in the form of Paul Nuttall certainly appears to be here in her place.
+[SPEAKER_09]: And I know immigration is a difficult topic for politicians.
+[SPEAKER_09]: People have understandable concerns.
+[SPEAKER_09]: But when we talk about European migrants,
+[SPEAKER_09]: We're talking about people who work in our National Health Service, we're talking about people who serve us in our restaurants, we're talking about people who make a contribution and it is outrageous that their futures have not yet been guaranteed.
+[SPEAKER_04]: Let's first of all pick up on that point with Paul Nuttall and then to Caroline Lucas.
+[SPEAKER_08]: I tend to agree with you, Nicola.
+[SPEAKER_08]: I do want to see the issue as to whether EU migrants can stay in this country decided and sorted out pretty quickly, just as I want it sorted out for British people who live abroad.
+[SPEAKER_08]: However, you're saying I'm the spokesman for Theresa May.
+[SPEAKER_08]: I do not have
+[SPEAKER_08]: I don't believe that she'll get the best deal possible for Britain.
+[SPEAKER_08]: I think she'll begin to backslide.
+[SPEAKER_08]: I think she'll backslide on fisheries.
+[SPEAKER_08]: I think she'll sell out our fishermen once again like a former Tory prime minister once did in Ted Heath.
+[SPEAKER_08]: I think there'll be some sort of dodgy deal over freedom of movement as well.
+[SPEAKER_08]: And I think she'll capitulate and we'll pay a divorce bill.
+[SPEAKER_08]: The only way you'll get the real Brexit that people want and the real Brexit that people voted for on June the 23rd is by electing UKIP MPs to the House of Commons on June the 8th.
+[SPEAKER_12]: And Lucas, you wanted to come in on that.
+[SPEAKER_12]: I did, because I think I want to say to Paul that the best way to secure the rights of UK nationals in EU countries is precisely unilaterally now to guarantee the rights of EU nationals who have come to this country, who have made their lives here in good faith.
+[SPEAKER_12]: And let me just say that I am glad there is one party here tonight who will stand up for free movement.
+[SPEAKER_12]: You know, it is a wonderful thing that we can live and learn and travel and be in 27 other member states.
+[SPEAKER_12]: I want to fight for that right to stay for my kids and their kids, too.
+[SPEAKER_04]: One party standing up for free movement, Tim Farron.
+[SPEAKER_11]: So when we look at our National Health Service and we realise that a quarter of the people working in the National Health Service are from overseas, the vast chunk of which are from the European Union, we realise that when we refuse to give those folks in the EU the right to settle here with their children, not only are we doing something utterly immoral, we're doing something that is damaging our own future.
+[SPEAKER_11]: And this is the problem.
+[SPEAKER_11]: with Theresa May's Brexit plans backed by Jeremy Corbyn, is that she is putting together a plan which appeases the Paul Nuttalls and the Nigel Farages, but damages our children's future.
+[SPEAKER_11]: That is why you should have the final say on the Brexit deal, not the politicians.
+[SPEAKER_04]: But forgive me, that policy on free movement, that's the point I was touching on in response to what Caroline Lucas said.
+[SPEAKER_11]: But of course, freedom of movement benefits British people.
+[SPEAKER_11]: We can move freely across the European Union.
+[SPEAKER_11]: And people can come here too.
+[SPEAKER_11]: And that leaves massively advantages to our business, to our tourism industry, to our health service.
+[SPEAKER_11]: It's about understanding that talking about these issues should be done in the interest of the country, not demonising people who come from somewhere else for short-term political benefit.
+[SPEAKER_03]: Let's bring in Leanne Wood and then we'll go to Paul Nuttall.
+[SPEAKER_03]: We are going to leave the European Union.
+[SPEAKER_03]: The question for us now is how we leave the European Union.
+[SPEAKER_03]: And Plaid Cymru has said right from the very beginning, the question of jobs and the economy has to be at the centre of all the decision making.
+[SPEAKER_03]: We have 200,000 jobs reliant on tariff-free access with a single market in Wales.
+[SPEAKER_03]: Those jobs are at risk.
+[SPEAKER_03]: if Theresa May walks away without a deal.
+[SPEAKER_03]: There are £680 million that come from the EU every year because Wales is one of the poorest countries in the European Union.
+[SPEAKER_03]: We've had no guarantees that that money will be available for us beyond 2020.
+[SPEAKER_03]: That would mean the end of the Welsh farming industry and the end of many people's jobs.
+[SPEAKER_03]: But it's not just about defending and protecting what we've got.
+[SPEAKER_03]: We also have to have a post-Brexit plan
+[SPEAKER_03]: which creates the conditions for us to be able to develop our economy and create even more better paid jobs.
+[SPEAKER_04]: On that issue of the single market, Paul Nusselt at the end.
+[SPEAKER_08]: Yeah, I mean, we have to leave the single market and it was quite obvious to everyone who voted on June the 23rd that leaving the European Union meant leaving the single market.
+[SPEAKER_08]: David Cameron said it, George Osborne said it, Nigel Farage said it, Michael Gove said it, everyone...
+[SPEAKER_08]: It says tariffs, it's not just tariffs.
+[SPEAKER_08]: Hang on, hang on, hang on, it was also...
+[SPEAKER_08]: It was also on the leaflet that the government sent out to every single household in this country which cost the British taxpayer £9 million.
+[SPEAKER_08]: To suggest that people didn't know what they were voting for is downright duplicity.
+[SPEAKER_03]: You're saying people voted for 10% tariffs on cars?
+[SPEAKER_08]: People voted to leave the single market.
+[SPEAKER_08]: It was clear on the day that leaving the European Union meant leaving the single market.
+[SPEAKER_08]: It wasn't.
+[SPEAKER_11]: Nigel Farage and I'm sure your good self over the last decade or two have taught this country saying Britain should be more like Norway and Switzerland.
+[SPEAKER_11]: What are Norway and Switzerland?
+[SPEAKER_11]: They are out of the European Union and in the single market.
+[SPEAKER_11]: Leaving the single market is a political choice and let's remember
+[SPEAKER_11]: the impact of that choice.
+[SPEAKER_11]: Half of the things we sell as a country go to the single market in Europe.
+[SPEAKER_11]: The impact on living standards, on jobs, on our ability to create a future for our children massively depend on Britain being in the single market.
+[SPEAKER_11]: For Theresa May, with Jeremy Corbyn's help, to take us out is to damage our children's future.
+[SPEAKER_11]: It must be resisted.
+[SPEAKER_12]: Well, I have sympathy with the point about Labour, very sadly, because it is the case that not only did Labour give the Tories a blank cheque for a hard Brexit, they basically gave them a lift to the bank and helped them cash it in.
+[SPEAKER_12]: And that is a real shame, because if we could have had, you know, work between us as opposition parties, not with UKIP, but the others, we could have stood up against not with UKIP.
+[SPEAKER_02]: Don't worry about it, I'll report on the clarify.
+[SPEAKER_02]: I'll report on the clarify.
+[SPEAKER_12]: What we could have done was been seriously to have opposed this catastrophic Brexit, frankly, which is going to be out of the single market, ending freedom of movement.
+[SPEAKER_12]: But I want to ask Paul in particular, why is he so afraid of a referendum on the final deal?
+[SPEAKER_12]: If he's so sure that we're going to get a good deal, why would he be afraid of putting that back to the people?
+[SPEAKER_12]: Because if you buy something from the shops, you can look at the small print and you can decide if you don't like it, you can take it back.
+[SPEAKER_12]: I think we've got every reason to do that, not least because we have had lies after lies from these campaigners.
+[SPEAKER_09]: 350 million pounds for the NHS.
+[SPEAKER_09]: Where's the three and a half million pounds?
+[SPEAKER_09]: Nicola Sturgeon, then I'll allow Paul Nuttall to respond to that.
+[SPEAKER_09]: Paul Nuttall said people knew what they were voting for.
+[SPEAKER_09]: Many people voted for that promise, or should I say lie across the side of the bus, 350 million pounds a week extra for the National Health Service.
+[SPEAKER_09]: But I think there was an opportunity missed.
+[SPEAKER_09]: after the Brexit vote to try to find compromise, actually to bring people together.
+[SPEAKER_09]: The vote across the UK was narrow.
+[SPEAKER_09]: Two of the countries in the UK voted to remain, two voted to leave.
+[SPEAKER_09]: Trying to find compromise and consensus around the single market would have been the sensible thing to do, and it would have put us in a position of being able to protect jobs, protect businesses, protect the funding that many people benefit from.
+[SPEAKER_09]: And I would say this about Theresa May.
+[SPEAKER_09]: She called this election, in her own words, to strengthen her hand.
+[SPEAKER_09]: She wants to crush opposition so she can strike whatever deal she wants or walk away with no deal.
+[SPEAKER_09]: That would be disastrous.
+[SPEAKER_09]: So if you don't want Theresa May to have a free hand for a damaging Brexit, you need to make sure there is strong opposition to Theresa May after this election.
+[SPEAKER_04]: Paul Nuttall, on that point, a say on the final deal raised by Caroline Lucas, put to you.
+[SPEAKER_08]: It's all very European Union, isn't it?
+[SPEAKER_08]: If you don't get the answer you want in the referendum, you have another one to get the answer that you do want.
+[SPEAKER_08]: They did it in Ireland, they did it in France, they did it in Holland.
+[SPEAKER_08]: It's what they do.
+[SPEAKER_08]: The bottom line is this, the people have voted, they voted to leave the EU, they voted to leave the single market, and Tim can cry about it all he wants.
+[SPEAKER_08]: You know, that's just a fact.
+[SPEAKER_08]: That's democracy, Tim.
+[SPEAKER_08]: You know, but the bottom line here is the single market isn't the be-all and end-all.
+[SPEAKER_08]: If we're members of the single market, we can't sign our own trade deals.
+[SPEAKER_08]: And there's a big world out there.
+[SPEAKER_08]: There's the Anglosphere.
+[SPEAKER_08]: There's the Commonwealth, which has over 2 billion people in it.
+[SPEAKER_08]: This is where our future lies, not tied within the sclerotic EU bloc.
+[SPEAKER_08]: Do you really think people vote to lose jobs?
+[SPEAKER_03]: Paul, Paul, Paul.
+[SPEAKER_03]: Leanne Wood first, and then I'll come to Tim Farron.
+[SPEAKER_03]: Do you really think people voted to lose their jobs?
+[SPEAKER_03]: There are 200,000 jobs in Wales that are reliant upon tariff-free access to the single market.
+[SPEAKER_03]: We have an Airbus factory in Broughton in Deeside.
+[SPEAKER_03]: They employ 6,500 people.
+[SPEAKER_03]: If tariffs are introduced, they will have to pay tariffs on the parts that they import into Wales, and then they'll have to pay tariffs on the wings leaving Wales, because the entire aircraft is built in Toulouse in France.
+[SPEAKER_03]: Do you think they're going to stay there?
+[SPEAKER_03]: No, of course they're not going to stay there.
+[SPEAKER_03]: And that 6,500 well-paid jobs in Wales that you were prepared to just lose down the Swanee.
+[SPEAKER_08]: Natalie, we have a huge trading deficit with the European Union.
+[SPEAKER_08]: OK?
+[SPEAKER_08]: Hang on.
+[SPEAKER_08]: We have a huge trading deficit with the European Union.
+[SPEAKER_08]: There will be a free trade deal on the table.
+[SPEAKER_08]: Split between 27 countries.
+[SPEAKER_08]: Because money talks, OK?
+[SPEAKER_08]: And it's in their interest.
+[SPEAKER_08]: It might be a dodgy organisation, a bullying organisation.
+[SPEAKER_08]: stupid organisation and it wouldn't put six million jobs at risk.
+[SPEAKER_04]: Thank you Mr Nuttall, let's go to Mr Farris.
+[SPEAKER_04]: Specifically on that image, that instance of the final saying on the deal.
+[SPEAKER_11]: There speaks the ambassador for Theresa May, so he would know I'm sure.
+[SPEAKER_11]: Look, democracy did not end
+[SPEAKER_11]: on the 23rd of June last year.
+[SPEAKER_11]: If you believe passionately that our children's future is better alongside our neighbours than separated from it, then you keep fighting.
+[SPEAKER_11]: And it's a matter of democracy that this deal, that none of us know what the outcome's going to be, what will it mean for all of our families here tonight, you should have the final say.
+[SPEAKER_11]: Because somebody will sign off that deal.
+[SPEAKER_11]: It will either be the politicians or it will be the people.
+[SPEAKER_11]: I trust the people.
+[SPEAKER_04]: There are very many components.
+[SPEAKER_04]: There are very many components within this question, issues around the so-called divorce bill from the EU and of course freedom of movement and immigration.
+[SPEAKER_04]: Let's just return to that topic for the moment and come to Caroline Lucas on that issue of immigration.
+[SPEAKER_12]: Well, I want to say to Paul Nuttall that immigrants who come to this country are making a huge contribution, both to our economy, to our communities, to our societies.
+[SPEAKER_12]: And the idea that the problem that Paul sees with everything is always immigrants, I think is absolutely outrageous.
+[SPEAKER_12]: You know, if you are trying to see a doctor, it's more likely that you will be treated by someone from
+[SPEAKER_12]: a EU country, then you'll find them in front of you in the queue, trying to get through to the NHS.
+[SPEAKER_12]: So those people in our countries are our lovers, they're our families, they're our plumbers, they're doctors, they make a vital contribution to our society.
+[SPEAKER_12]: And the idea that we're going to be a better-off society by closing the door to immigrants I think is just clearly wrong.
+[SPEAKER_12]: And it's clear that that's the case for the economy too, because right now you've got plenty of immigration coming from outside of the EU,
+[SPEAKER_12]: The government's not stopping that because it recognises it's so crucial for our economy.
+[SPEAKER_04]: Let's go briefly to Paul Nuttall and then to Nicola Sturgeon.
+[SPEAKER_08]: Yeah, I mean, look, the problem that you've got with immigration at the moment is that there are simply too many people coming to the country.
+[SPEAKER_08]: Last year alone, it was a city the size of Newcastle upon Tyne net, OK?
+[SPEAKER_08]: We're adding a Birmingham.
+[SPEAKER_08]: every three years.
+[SPEAKER_08]: It's unsustainable.
+[SPEAKER_08]: Even Theresa May said last year in the House of Commons that the immigration level that we have at the moment is economically neutral.
+[SPEAKER_08]: Trade unions have said it's led to wage stagnation in working class communities.
+[SPEAKER_08]: The Bank of England have admitted that that is the case too.
+[SPEAKER_08]: The problem that we have
+[SPEAKER_08]: is, quite simply, we're letting too many people come.
+[SPEAKER_08]: The only way you solve it is by having an Australian points-based system whereby we have the right to say who comes and who doesn't come.
+[SPEAKER_03]: Thank you, Mr. Nutter.
+[SPEAKER_03]: But Australia's got much bigger immigration levels than we've got here.
+[SPEAKER_08]: Let's go to Nicola Sturgeon on that.
+[SPEAKER_09]: I am acutely aware that immigration is a really difficult topic for politicians because people do have concerns, and we can't ignore those concerns.
+[SPEAKER_09]: But I also believe that politicians have a real duty to be honest with people
+[SPEAKER_09]: as well.
+[SPEAKER_09]: And the hard reality is our economy needs migration from the European Union.
+[SPEAKER_09]: I mean, in Scotland alone, EU migrants contribute £7 billion every year.
+[SPEAKER_09]: They are more likely to be in work, they are less likely to be claiming benefits, they are more likely to be university educated.
+[SPEAKER_09]: than the population as a whole.
+[SPEAKER_09]: One of our biggest challenges in Scotland is growing our working-age population.
+[SPEAKER_09]: If we end EU migration, our working population, over the next 25 years, will fall, while our pensioner-age population will be going up by 50%.
+[SPEAKER_09]: One last point, Julie.
+[SPEAKER_09]: I need to go to Tim Farron.
+[SPEAKER_09]: Public services are under pressure, but that's not the fault of migrants.
+[SPEAKER_09]: That is the fault of the austerity agenda pursued by the Tories...
+[SPEAKER_09]: Thank you.
+[SPEAKER_09]: Thank you, Nicola Sturgeon, Tim Farron.
+[SPEAKER_11]: So imagine your mum has a fall, and then imagine those one in four people in our National Health Service who are from overseas aren't there anymore.
+[SPEAKER_11]: And you remember that the people who are working in this country from other countries are hard-working, caring and decent, just like the rest of us.
+[SPEAKER_11]: Are there pressures caused by immigration?
+[SPEAKER_11]: Yes, there are.
+[SPEAKER_11]: Should they be tackled by politicians providing the infrastructure?
+[SPEAKER_11]: Yes, of course, they must be.
+[SPEAKER_11]: But this is about what kind of a country we are.
+[SPEAKER_11]: Setting false low targets, as Theresa May has done, as Paul Nuttall endorses, doesn't put Britain first.
+[SPEAKER_11]: It's about appeasing the farages of this world rather than doing what is right by British business, by British health service, by British farmers, by the British economy.
+[SPEAKER_04]: Thank you very much indeed, Tim Farron.
+[SPEAKER_04]: And we're just going to wrap up our debate on Brexit there, but we know that of course that it is an overarching theme which is no doubt going to touch on some of the other questions.
+[SPEAKER_04]: We have tonight, for the moment, party leaders.
+[SPEAKER_04]: Thank you very much indeed for that.
+[SPEAKER_04]: Well, our next question this evening is on the National Health Service and social care.
+[SPEAKER_04]: Now, I should point out, of course, that health is an area where powers are devolved to the Parliament in Scotland and to the assemblies in Wales and Northern Ireland.
+[SPEAKER_04]: The Parliament at Westminster, which is what votes the general election, will be electing legislates on health matters in England.
+[SPEAKER_04]: And our question comes this evening from Shirley McCall, who is 82 and a retired nurse from Eastbourne.
+[SPEAKER_04]: Shirley.
+[SPEAKER_05]: Having worked in the National Health Service both in hospitals and in the community until I was diagnosed in my early 50s with multiple sclerosis, I am fully aware of care needs for others and myself.
+[SPEAKER_05]: I am extremely concerned about the funding of the NHS and social care going forward to make sure that everyone gets the help they need and deserve.
+[SPEAKER_05]: What will you do to make sure they do?
+[SPEAKER_04]: Shirley, thank you very much indeed.
+[SPEAKER_04]: To the first response to Shirley's question, we go to Leanne Wood.
+[SPEAKER_03]: We have to prioritise health and social care.
+[SPEAKER_03]: There's no doubt that there's a growing population and the system that we've got in place is not able to deal with it, especially into the future.
+[SPEAKER_03]: It makes sense for social care services and health services to be operated together.
+[SPEAKER_03]: I think that often people can be pushed from pillar to post and given excuses as to why they're not receiving the services that they should be receiving because people in two separate organisations are not taking responsibility.
+[SPEAKER_03]: It makes sense for us to properly invest and support social care services because if we don't then beds end up getting blocked in the hospital system.
+[SPEAKER_03]: But how we pay for it is the key question.
+[SPEAKER_03]: I think we have to be prepared to pay for it out of taxation.
+[SPEAKER_03]: And I think the burden of that taxation should fall on those who are most able to pay.
+[SPEAKER_03]: So the wealthiest in society should stump up a bit more so that we can afford to pay for decent health and social care services.
+[SPEAKER_03]: Leanne Wood, thank you.
+[SPEAKER_08]: Paul Nutter.
+[SPEAKER_08]: Of course, we are a growing population, and as we spoke about earlier, immigration plays a large part on that.
+[SPEAKER_08]: And if we continue on the road that we're on at the moment, the population will be 80 million by the middle of this century.
+[SPEAKER_08]: It's unsustainable.
+[SPEAKER_08]: It puts pressure on the NHS.
+[SPEAKER_08]: It puts pressure, of course, on social care.
+[SPEAKER_08]: What the NHS needs is more money.
+[SPEAKER_08]: And my party is committed to putting six billion extra every single year into the National Health Service.
+[SPEAKER_08]: This will fund 20,000 new nurses, 10,000 new GPs and allow us to scrap hospital car parking charges which are nothing more than a tax on the sick.
+[SPEAKER_08]: We also will put 1.4 billion a year into social care.
+[SPEAKER_08]: And how would we pay for this?
+[SPEAKER_08]: Well, we would take that money directly from a foreign aid budget, which is costing us around 13 billion pounds every single year.
+[SPEAKER_08]: We would cut that back to 0.2% of GDP, which is exactly the same as it was in the United States under the Barack Obama.
+[SPEAKER_08]: Paul Nuttall, thank you.
+[SPEAKER_08]: Carolyn Lucas.
+[SPEAKER_12]: Well, first of all, Shirley, I want to thank you for all of the work that you've done in the NHS, and I want to say first and foremost that I think we should be properly rewarding all of those amazing people who work in our NHS.
+[SPEAKER_12]: They have had pay freezes, they've had an incredibly difficult time recently, and I just want to thank them from the bottom of my heart for all they do in the NHS.
+[SPEAKER_12]: I think it's clear that our health service is in crisis, that waiting times are up, people are being treated in corridors, hospitals are closing and it simply can't be right that big business is making money out of that mess.
+[SPEAKER_12]: So as well as putting more finance into the NHS, the Green Party is really clear
+[SPEAKER_12]: that we would take the private sector out of the NHS.
+[SPEAKER_12]: We think it's quite wrong that we have this costly contracting-out process, which is hugely administratively burdensome, hugely costly.
+[SPEAKER_12]: We'd give an emergency kiss of life to the NHS using funds that would otherwise be used for our redundant nuclear weapons programme.
+[SPEAKER_12]: We think it's a no-brainer to use those funds to look after people rather than to create more weapons of mass destruction.
+[SPEAKER_12]: Thank you.
+[SPEAKER_12]: Tim Farron.
+[SPEAKER_11]: Well, Shirley, I'm really grateful for your service in the NHS too and I suspect, like you, my approach to the NHS is personal rather than political.
+[SPEAKER_11]: I think about my mum's own journey through ovarian cancer, from the diagnosis to the treatment.
+[SPEAKER_11]: to the care, to her passing away on a hospital ward just two floors away from the one where she'd given birth to me all those years previously.
+[SPEAKER_11]: I think of the young woman in Kendal who came to see me last week, 19 years of age, eating disorder, told that she could not get treatment because she was not yet sick enough.
+[SPEAKER_11]: Are the people who work in our NHS the best in the world?
+[SPEAKER_11]: Absolutely.
+[SPEAKER_11]: Is our NHS the best funded in the world?
+[SPEAKER_11]: Don't kid yourself.
+[SPEAKER_11]: It is time politicians were honest with the British people that there needs to be more money and that if there's going to be more money we will all have to pay for it.
+[SPEAKER_11]: That is why the Liberal Democrats will put one penny on income tax to raise £30 billion over a parliament to invest in our national health and social care service so you get the treatment you deserve from cradle to grave.
+[SPEAKER_04]: Tim Farron, thank you.
+[SPEAKER_04]: Nicola Sturgeon.
+[SPEAKER_09]: My thanks to you as well, Shirley, for all your service to the NHS.
+[SPEAKER_09]: The NHS is undoubtedly our most cherished public service.
+[SPEAKER_09]: We all love it.
+[SPEAKER_09]: We all want it to be there for us when we need it.
+[SPEAKER_09]: In Scotland, since my party took office 10 years ago, we've increased the budget by 40%.
+[SPEAKER_09]: The number of staff in the NHS is up by 10%.
+[SPEAKER_09]: And we've also, unlike other parts of the UK, taken the step of integrating health and social care.
+[SPEAKER_09]: So today, our accident and emergency departments are under pressure, but they're the best performing anywhere in the UK.
+[SPEAKER_09]: And we abolished car parking charges in 2008.
+[SPEAKER_09]: Health services around the world face real pressure, and Scotland's is no different.
+[SPEAKER_09]: So we have a commitment that by the end of this Scottish Parliament, the budget will be £2 billion higher than it is today, more than inflation.
+[SPEAKER_09]: Money not just for hospitals, but for primary care, mental health services.
+[SPEAKER_09]: and community services as well.
+[SPEAKER_09]: We won't open it up to private competition, but the most important thing we need after this election is voices arguing against more needless Tory cuts and austerity, because that is putting our NHS at risk.
+[SPEAKER_04]: Nicola Sturgeon, thank you.
+[SPEAKER_04]: And thank you to Shirley once again.
+[SPEAKER_04]: There are very many areas to talk about within this, but let's start off on the issue of the funding you would see going into the NHS, precisely how you would pay for that and what your priorities are to open, Caroline Lucas.
+[SPEAKER_12]: Well, I explained that part of our funding would come from, as I say, our nuclear weapons programme.
+[SPEAKER_12]: If you were to get rid of that, you would have £110 billion minimum over the next 30 years.
+[SPEAKER_12]: You could certainly be putting £3 billion and more every year into the NHS.
+[SPEAKER_12]: And on top of that, clearly, we would also say more progressive taxation.
+[SPEAKER_12]: We're very clear, if we want good, world-class public services, we have to be prepared to pay for them.
+[SPEAKER_12]: When we put far less into our public services, into our NHS,
+[SPEAKER_12]: by proportion of our GDP than many other countries.
+[SPEAKER_12]: But I want to say one thing to Tim, if I might, because I'm very glad that he's so proud of the NHS, and rightly so, but I do find it puzzling that his party did support the increasing role of the private sector in the NHS by supporting the Health and Social Care Act when they were in coalition government.
+[SPEAKER_12]: And I do wonder if, in his manifesto, he might re-look at that, because it seems to me that that role of the private sector
+[SPEAKER_12]: that fact that you can have 49% of hospitals now, 49% of their budget being used on the private sector is deeply damaging.
+[SPEAKER_11]: 95% of all private sector involvement in the NHS came under a Labour government.
+[SPEAKER_11]: But let's point this out, the last thing that Britain needs, more importantly, the last thing that patients and doctors and nurses need is another restructuring.
+[SPEAKER_11]: Perhaps the most radical thing any health secretary could do in this country is to let
+[SPEAKER_11]: our hospitals and our health care services get on with the job and stop restructuring and instead invest the money.
+[SPEAKER_11]: And that is why there is no point politicking and disagreeing on how you might do it.
+[SPEAKER_11]: You've got to be honest with the British people.
+[SPEAKER_11]: That is why we will say to you it will cost us all one penny in the pound, the equivalent of a cup of coffee every week for most people, to make sure we put £30 billion extra into the National Health and Social Care Service.
+[SPEAKER_11]: It's time we were honest with the British people and rescued health and social care.
+[SPEAKER_04]: Just very briefly, Caroline Lewis, on the issue of restructuring.
+[SPEAKER_12]: Well, I want to say to him that actually the health professionals themselves are with me on this one, because I piloted through Parliament the health reinstatement bill.
+[SPEAKER_08]: I'm opposed to privatisation.
+[SPEAKER_08]: You know I didn't vote for the bill.
+[SPEAKER_12]: We were trying to get the NHS reinstatement bill, which would precisely have rolled back the role of private sector in the NHS.
+[SPEAKER_12]: Huge amount of support for that in the NHS itself by the NHS workers.
+[SPEAKER_12]: So to call that politicking, I think, is wrong.
+[SPEAKER_11]: OK, well, Caroline knows I didn't vote for the bill.
+[SPEAKER_11]: OK.
+[SPEAKER_11]: Your party did.
+[SPEAKER_11]: But she also should know the last thing the NHS needs now is restructuring.
+[SPEAKER_11]: But that's my point, Tim.
+[SPEAKER_11]: Thank you both.
+[SPEAKER_11]: What it needs is £6 billion a year additional money, surely.
+[SPEAKER_12]: But just my point, Jim, just to say that it is actually the NHS staff themselves who have been working with me on the NHS reinstatement bill who do say that this, over time, is the right way forward.
+[SPEAKER_04]: Thank you.
+[SPEAKER_04]: Let's stay on this issue of privatisation that was raised by Caroline.
+[SPEAKER_09]: Perhaps what Caroline was trying to do was not so much restructuring, Tim, as renationalising the health service in England, because it should be
+[SPEAKER_09]: in public hands.
+[SPEAKER_09]: That is where our National Health Service belongs.
+[SPEAKER_09]: On the issue of funding, I don't want to see our NHS in Scotland broken up and privatised in any way.
+[SPEAKER_09]: One of the first things I did when I was Scottish Health Secretary was bring a hospital that had been contracted out to the private sector back into the NHS.
+[SPEAKER_09]: family.
+[SPEAKER_09]: The question was about financing.
+[SPEAKER_09]: We have a costy plan in Scotland to increase the budget by 2 billion by the end of this Parliament.
+[SPEAKER_09]: Health spending per head in Scotland is 7% higher than it is in England and if the other parties were to match that, that would be a significant increase for health elsewhere in the UK.
+[SPEAKER_09]: But on this question of tax and austerity, be under no illusion, the Tories are going further than they need to
+[SPEAKER_09]: on austerity.
+[SPEAKER_09]: If we had a more sensible fiscal plan that still got the deficit and debt down, that would free up more money to invest in our health service.
+[SPEAKER_09]: And if the Tories weren't giving a tax cut to the top 10% of earners and planning to cut corporation tax even further, that would be even more money.
+[SPEAKER_04]: Let's bring it back to the point that I initially...
+[SPEAKER_04]: It is about priorities.
+[SPEAKER_04]: Thank you.
+[SPEAKER_04]: It is about priorities and it would be good to hear what your priorities would be on the spending.
+[SPEAKER_04]: Let's go to Leanne Wood on that and then to Paul Nuttall.
+[SPEAKER_03]: It is about priorities, and isn't it interesting how there are always unlimited billions of pounds to spend on foreign wars.
+[SPEAKER_03]: There's five billion pounds now that are going to be spent on refurbishing the palaces of Westminster.
+[SPEAKER_03]: Yet we can't put people and health services and social care services first.
+[SPEAKER_03]: Now Plaid Cymru's got a costed plan to increase the number of doctors by 1,000 in the Welsh NHS and 5,000 extra nurses.
+[SPEAKER_03]: That money is available within the Assembly budget but the problem with that plan now is that if there are to be restrictions on freedom of movement it's going to be very difficult to attract those doctors.
+[SPEAKER_03]: Without doctors and without nurses we have no NHS.
+[SPEAKER_03]: Let's turn to Paul Nuttall.
+[SPEAKER_08]: Yeah, I mean, I highlighted at the beginning exactly where we would take the money.
+[SPEAKER_08]: We would directly transfer that money from the foreign aid budget, which is costing us £30 million every single day.
+[SPEAKER_03]: And there'd be more refugees then, yeah?
+[SPEAKER_08]: Hang on, hang on.
+[SPEAKER_08]: Actually, if we reduce foreign aid to 0.2%, as I said earlier, it'll be the same as the United States under Obama.
+[SPEAKER_08]: The point is... No, it's stopping refugees coming in.
+[SPEAKER_08]: This is about the law hanging fruit.
+[SPEAKER_08]: There's no need to put up taxation to pay for this.
+[SPEAKER_08]: We can simply take it from the foreign aid budget and put British people first.
+[SPEAKER_08]: Charity begins at home.
+[SPEAKER_09]: Paul is talking about taking resources from some of the poorest people in the world.
+[SPEAKER_09]: And we contribute through foreign aid, not just to help the poorest people in the world, which I think, as it happens, is the right thing to do, but also to make this country safer.
+[SPEAKER_09]: Now, Paul says that's where he wants to get the money.
+[SPEAKER_09]: The question he still hasn't answered, if he's going to stop EU migration, where's he getting the staff for our national health services?
+[SPEAKER_09]: It's simple.
+[SPEAKER_08]: It's simple.
+[SPEAKER_08]: OK?
+[SPEAKER_08]: No one is talking about this.
+[SPEAKER_08]: Stocking EU migration as a whole.
+[SPEAKER_08]: We want a points-based system.
+[SPEAKER_08]: If there's a gap in our economy... You said you're immigration sector.
+[SPEAKER_08]: No!
+[SPEAKER_08]: Hang on, let me finish.
+[SPEAKER_03]: You said you wanted to reduce it to nothing.
+[SPEAKER_08]: Net.
+[SPEAKER_08]: Net.
+[SPEAKER_08]: OK?
+[SPEAKER_08]: One in, one out.
+[SPEAKER_08]: A points-based system.
+[SPEAKER_08]: If there's gaps...
+[SPEAKER_08]: He's a human being.
+[SPEAKER_04]: If there's gaps in our economy...
+[SPEAKER_04]: Thank you.
+[SPEAKER_11]: ..then people can come here and work.
+[SPEAKER_04]: Thank you, Mr Nuttall.
+[SPEAKER_04]: Tim Farron.
+[SPEAKER_11]: I mean, Paul is talking about taking money from the poorest people on planet Earth in order to fund his proposals.
+[SPEAKER_11]: That stinks, because this election is about deciding what kind of country are we.
+[SPEAKER_11]: And I am a patriot.
+[SPEAKER_11]: I am proud to be British, and I'm proud of our values.
+[SPEAKER_11]: And it shames me when we have people in this country and people in politics who are prepared to attack the poorest people on planet Earth to make a political point, but let's also
+[SPEAKER_11]: address the person who isn't here and should be here.
+[SPEAKER_11]: See, I have a plan to rescue the NHS by putting a penny on income tax for health and social care.
+[SPEAKER_11]: Theresa May is calling this election because she assumes she has already won it.
+[SPEAKER_11]: And she assumes that when you vote for her, if you do, on the 8th of June, you will be endorsing her plans to cut social care and health.
+[SPEAKER_04]: Don't give her that mandate.
+[SPEAKER_04]: So I'm just going to pause it there for a moment.
+[SPEAKER_04]: Thank you.
+[SPEAKER_04]: Just to return, it's quite useful just to reset on the question that Shirley asked us.
+[SPEAKER_04]: The second part of her question, not only was she extremely concerned about the funding of the NHS, but she also pointed very carefully to social care too.
+[SPEAKER_04]: So some information about where you would go on social care, Leanne Wood.
+[SPEAKER_03]: Well, as I've said, health and social care need to be integrated and working together.
+[SPEAKER_03]: The social care side of things has been disadvantaged compared to health.
+[SPEAKER_03]: Money has gone into health in most areas, whereas local authorities have seen their budgets cut quite severely, and of course social care is provided through local authority budgets.
+[SPEAKER_03]: So stop the squabbling in terms of the budgets, make those budgets and departments all come in under one roof and then you can put the patients at the heart of the system instead of the bureaucracy.
+[SPEAKER_12]: Well, I think we can learn a lot, actually, from Scotland, where they seem to have things like free personal care, and the Green Party would like to see free social care as well, and we would pay for that by, for example, having a more progressive taxation system, things like a wealth tax.
+[SPEAKER_12]: Essentially, this does come down to what kind of country we want to be.
+[SPEAKER_12]: And as I've said before, we do want to be the kind of country that makes sure that we look after people all through their lives, including when they get towards the end of their lives.
+[SPEAKER_12]: But can I just raise one issue that hasn't been talked about yet, which is really vital, and that is about how we actually prevent ill health in the first place.
+[SPEAKER_12]: If we could take more action on things like the air pollution emergency, which is linked to 40,000 early deaths in this country, we could save our NHS a huge amount of money and, indeed, social care too.
+[SPEAKER_04]: OK, thank you for that point.
+[SPEAKER_12]: So let's put that on the agenda.
+[SPEAKER_12]: And one last thing, in terms of people who aren't here, can we just say as well to Jeremy Hunt that just because you wear a badge on your suit, that doesn't make you an advocate of the NHS?
+[SPEAKER_04]: Thank you.
+[SPEAKER_12]: Let's refocus this.
+[SPEAKER_08]: Let's refocus us onto the issue of social care, Paul Nuttall.
+[SPEAKER_08]: Yeah, I mean, social care has often been the poor relation, hasn't it, to the NHS?
+[SPEAKER_08]: I think that Natalie's absolutely right.
+[SPEAKER_08]: What we need to do... Will you call me Natalie?
+[SPEAKER_08]: I mean, Leanne, sorry.
+[SPEAKER_03]: Thank you.
+[SPEAKER_08]: My fault.
+[SPEAKER_08]: Sorry.
+[SPEAKER_08]: Accident.
+[SPEAKER_08]: Women's names.
+[SPEAKER_08]: I've said it twice now.
+[SPEAKER_08]: Have I?
+[SPEAKER_08]: Oh, I'm sorry about that.
+[SPEAKER_08]: Yeah, what we need to do is we need to fully integrate.
+[SPEAKER_08]: health care and social care because at the moment the left hand very often doesn't know what the right hand is doing.
+[SPEAKER_08]: So you end up in a situation back in January where you know people are stuck in hospital because they literally have nowhere else to go.
+[SPEAKER_08]: We as a party will put £1.4 billion extra per year into social care to ensure that the people who've put in most, the elderly, get what they deserve when they're older.
+[SPEAKER_11]: My grandfather's journey through Alzheimer's, I remember it very well.
+[SPEAKER_11]: He was treated well and at times not so well.
+[SPEAKER_11]: I remember the stench of the first home he went into and we fought hard to get him out of there and it's a reminder that people who work in our social care service are brilliant people but most of them can earn more stacking shelves at their local supermarket.
+[SPEAKER_11]: And if we care about our older people, then we care about the people who care for them.
+[SPEAKER_11]: And that is why we're putting a penny on income tax for health, because that is about health and social care.
+[SPEAKER_11]: It's about having a plan that William Beveridge, the great liberal, when he drew up the plans for the NHS in the 1940s, for sure, if we'd been living to the ages we are today, then he would have drawn a plan for social care too.
+[SPEAKER_11]: Today, in 2017, it's time to finish.
+[SPEAKER_03]: Can I make this point about how social carers are paid?
+[SPEAKER_03]: Because so many are on zero-hours contracts and that is a real scourge in our society at the moment.
+[SPEAKER_03]: Thank you very much.
+[SPEAKER_03]: And I want to make a further point because Labour have claimed that they will get rid of zero-hour contracts.
+[SPEAKER_03]: Seven times Plaid Cymru have given Labour in the National Assembly for Wales the opportunity to vote to abolish zero-hours contracts.
+[SPEAKER_03]: Seven times they've failed to do that.
+[SPEAKER_03]: So what does Labour really stand for in terms of zero-hours contracts?
+[SPEAKER_09]: I think actually the best thing we can do for the NHS is to build up social care, because it helps to take the pressure off the NHS.
+[SPEAKER_09]: Now, I'm not saying we've got everything right in Scotland.
+[SPEAKER_09]: We face the same massive challenges that other countries do.
+[SPEAKER_09]: But as I said earlier, we have already integrated health and social care.
+[SPEAKER_09]: difficult process, but the right one to do.
+[SPEAKER_09]: We're also now doing the equally different thing of trying to take money from the acute NHS and put it into social care, recognising that if we've got more investment in GPs and community services, then that will help to keep people out of hospital.
+[SPEAKER_09]: And just on Leanne's point, we also pay the living wage to people who work in social care as well, to value them for what they do.
+[SPEAKER_04]: Thank you very much indeed, Nicola Sturgeon, and to all of the party leaders on that issue.
+[SPEAKER_04]: the NHS and of course to Shirley too for the question.
+[SPEAKER_04]: We're going to take a short break now when we come back the issue will be the economy.
+[SPEAKER_04]: Well, welcome back to the ITV Leaders' Debate, where we're joined by five party leaders.
+[SPEAKER_04]: The Conservative leader, Theresa May, and Labour's Jeremy Corbyn were invited, but they declined our invitation.
+[SPEAKER_04]: Well, our third question tonight comes from Almas Lakho, who's a 43-year-old from Islington.
+[SPEAKER_04]: Almas.
+[SPEAKER_00]: OK. Life is hard at the moment.
+[SPEAKER_00]: The prices of my weekly shopping has continued to rise.
+[SPEAKER_00]: My rent and bill are increasing.
+[SPEAKER_00]: But wages and benefits haven't gone up.
+[SPEAKER_00]: Money isn't stretching as far as used to be.
+[SPEAKER_00]: And it is hard to balance everything.
+[SPEAKER_00]: How is your part going to help people like me?
+[SPEAKER_04]: Amas, thank you very much indeed for that.
+[SPEAKER_04]: And as we did before, of course, we go to an opening response to that.
+[SPEAKER_04]: And in response to that question, to open this for us is Paul Nuttall.
+[SPEAKER_08]: What we want to do in UKIP is we want to put more money in people's pockets.
+[SPEAKER_08]: We know that there's been a stagnation of living standards in recent years and how we will put money in people's pockets is firstly we would scrap VAT
+[SPEAKER_08]: on domestic fuel bills.
+[SPEAKER_08]: We would also scrap the green levies, which will save the average household £170 every single year.
+[SPEAKER_08]: We'd increase the personal allowance, so you would have to be earning over £13,000 before you paid any tax.
+[SPEAKER_08]: That would put more money in your pocket.
+[SPEAKER_08]: UKIP will also oppose any rise in national insurance, because we believe as a party
+[SPEAKER_08]: that people know how to spend their own money better than any government does on their behalf.
+[SPEAKER_08]: We're a party of a small state.
+[SPEAKER_08]: We believe that people know what best to do with their own money.
+[SPEAKER_11]: Well, Almaz, thank you for your question.
+[SPEAKER_11]: And for you and for everybody else in this country, I have a long-term economic plan.
+[SPEAKER_11]: It's called Stay in the Single Market.
+[SPEAKER_11]: The European single market is where we sell half of our goods to.
+[SPEAKER_11]: It is vastly significant to the creation of jobs, well-paid jobs, the ability for us to grow as an economy.
+[SPEAKER_11]: Since June last year, let's not pretend that things have not got worse.
+[SPEAKER_11]: The value of the pound has crashed.
+[SPEAKER_11]: The average family is £500 a year worse off now, and we haven't even left yet.
+[SPEAKER_11]: We've seen the inflation rate go up already.
+[SPEAKER_11]: So I love my country.
+[SPEAKER_11]: I want to do what's right by my country.
+[SPEAKER_11]: And that is why, when that deal comes to you in the next 18 months, you should have the right to the final say.
+[SPEAKER_11]: Because if we can fight and stay in the single market, we can protect incomes, we can protect jobs, we can keep down prices.
+[SPEAKER_11]: Let's do the right thing.
+[SPEAKER_04]: Tim Farron.
+[SPEAKER_04]: Thank you.
+[SPEAKER_12]: Caroline Lucas.
+[SPEAKER_12]: So, Alnus, the story that you've just painted is really...
+[SPEAKER_12]: It strikes my heart, and I know many people who've come to my constituency surgeries telling me similar stories.
+[SPEAKER_12]: I remember one woman in particular who was distraught because of the bedroom tax, and she just didn't have enough money, and all she wanted was enough money to buy some tights so she could go to a job interview.
+[SPEAKER_12]: I mean, that is what we have come to in the fifth biggest economy in the world.
+[SPEAKER_12]: I think that is shameful.
+[SPEAKER_12]: We can afford to look after everybody in our society if we choose to do so.
+[SPEAKER_12]: And do you know what?
+[SPEAKER_12]: You know, I remember when I was growing up, we were all told that life was going to get a lot easier, things would be much, much less work we'd all have to do, we were all going to be enjoying ourselves more.
+[SPEAKER_12]: Well, it hasn't worked out that way.
+[SPEAKER_12]: Who would have predicted that today we would have four million children living in poverty in the UK?
+[SPEAKER_12]: Who would have predicted 4,000 people who have to spend their lives on our streets because there's no home for them to go to?
+[SPEAKER_12]: Who would have thought that nurses would be going to food banks?
+[SPEAKER_12]: So we absolutely have choices here.
+[SPEAKER_12]: Our choices would be a progressive taxation system where the rich is put in more, corporations pay more, and people like yourself would have a decent life worth living.
+[SPEAKER_12]: Thank you.
+[SPEAKER_12]: Nicola Sturgeon.
+[SPEAKER_09]: I think this is, and certainly should be, one of the biggest issues in this election.
+[SPEAKER_09]: Experts say inequality is now rising at a faster rate than any time since the days of Margaret Thatcher.
+[SPEAKER_09]: I was reading a report yesterday that says by 2021 the incomes of the poorest third in society will have fallen
+[SPEAKER_09]: poverty.
+[SPEAKER_09]: That will take the total to 5 million.
+[SPEAKER_09]: The equivalent of the population of Scotland across the UK of children living in poverty.
+[SPEAKER_09]: It is obscene.
+[SPEAKER_09]: So what do we do about it?
+[SPEAKER_09]: Well, Tim is right, we need to do something about it.
+[SPEAKER_09]: We need to do something about it.
+[SPEAKER_09]: We need to do something about it.
+[SPEAKER_09]: We need to do something about it.
+[SPEAKER_09]: We need to do something about it.
+[SPEAKER_09]: make sure we don't damage the economy by coming out of the single market.
+[SPEAKER_09]: I would also want to see the minimum wage over the next Parliament start to rise in line with the living wage so it becomes a real living wage.
+[SPEAKER_09]: And I tell you what else I would do, I would end the freeze on working age benefits because social security cuts are penalising the poorest in our society, many of them working.
+[SPEAKER_09]: Let's bring some decency back to the social security system of this country.
+[SPEAKER_04]: The end.
+[SPEAKER_03]: The so-called economic plan was meant to eliminate the deficit by five years, but now we're told we can expect it to take two decades by the Tories.
+[SPEAKER_03]: The UK's debt has increased by £555 billion since the Tories took office in 2010, and the UK is now the only advanced economy in which wages have declined despite the state getting richer.
+[SPEAKER_03]: So the cuts that have taken place at the bottom are putting real pressure on people but we haven't seen those same cuts to wages at the top of the scale.
+[SPEAKER_03]: So that inequality has to be addressed and one way to do that is through introducing a real living wage but we also have to have
+[SPEAKER_03]: a proper job creation plan, a proper industrial strategy that enables people to have well-paid work.
+[SPEAKER_03]: Because another scandal that's taking place at the moment is in-work poverty.
+[SPEAKER_03]: And that rise that you see in the numbers of people going to food banks, so many of those people are in work, not just in work, but working for the public sector.
+[SPEAKER_03]: Teachers, nurses, doctors, absolutely outrageous, and it shouldn't be the case in 2017.
+[SPEAKER_03]: Thank you very much, Lenwood.
+[SPEAKER_04]: So Almaz was stressing how hard life is at the moment.
+[SPEAKER_04]: And a key phrase in her question, Tim Farron, I'll come to you first.
+[SPEAKER_04]: Money isn't stretching as far as it used to.
+[SPEAKER_11]: And that is the case for so many people.
+[SPEAKER_11]: You just need to look at the prices on the shelves, you look at the prices of the supermarkets, and wages have stagnated.
+[SPEAKER_11]: For me, in my own personal experience, I said earlier on, I grew up in Preston, a little further north from here, and I remember, in the years following my childhood, realising, I guess, the poverty that I had been brought up in.
+[SPEAKER_11]: You only realise, on the mark of good parents,
+[SPEAKER_11]: is you only realise that you were poor many years afterwards.
+[SPEAKER_11]: And what I, looking back, saw about my community was the way we were taken for granted by a government in London that cared nothing for us.
+[SPEAKER_11]: And what I want is a government, and I want to lead a country, I am determined to do that, that makes sure that everybody is decent to one another.
+[SPEAKER_11]: And that means fair taxes.
+[SPEAKER_11]: That means that everybody pays, but it also means that rich are taxed properly.
+[SPEAKER_11]: And it also means having a government that does not take for granted large swathes of this country because it assumes it's going to win a landslide on the 8th of June.
+[SPEAKER_11]: This is why opposition is so important in this election.
+[SPEAKER_11]: If you want your hospital, your well-being, your daily, your weekly budget to be taken for granted, then a Theresa May majority of Margaret Thatcher proportions is the best way to achieve it.
+[SPEAKER_04]: Mr. Nuttall, I'll bring you in there.
+[SPEAKER_04]: Paul Nuttall on this.
+[SPEAKER_04]: This issue about money not stretching as far as it used to, it goes to the heart of so many matters, doesn't it?
+[SPEAKER_04]: It goes to fuel bills, for example.
+[SPEAKER_04]: It goes to rent.
+[SPEAKER_04]: It goes to all sorts of areas on that issue.
+[SPEAKER_08]: Yeah, on fuel bills, as I said earlier, we would take VAT off domestic fuel bills altogether and do away with green levies, which would put more money in your pocket.
+[SPEAKER_08]: And one of the reasons that wages have stagnated in recent years, and have probably stagnated since about 2004, is because of the levels of immigration.
+[SPEAKER_08]: We have an oversupply of labour.
+[SPEAKER_08]: That's the answer to everything, isn't it?
+[SPEAKER_08]: We have an oversupply of labour in this country.
+[SPEAKER_08]: It is as simple as that.
+[SPEAKER_08]: Now, as for Tim talking before about us falling off the cliff edge,
+[SPEAKER_08]: It's simply not true.
+[SPEAKER_08]: You were the same people who went round talking about project fear before the referendum.
+[SPEAKER_08]: You know, let's just look.
+[SPEAKER_08]: Unemployment is down.
+[SPEAKER_08]: Manufacturing is up.
+[SPEAKER_08]: The FTSE's at record levels.
+[SPEAKER_08]: We're the fastest growing economy.
+[SPEAKER_11]: Given you are David Davis's representative on this programme...
+[SPEAKER_04]: Thank you, Mr Farron.
+[SPEAKER_04]: Let's refrain Caroline Lucas.
+[SPEAKER_04]: Thank you, gentlemen.
+[SPEAKER_04]: Caroline Lucas.
+[SPEAKER_12]: Well, I just want to say it is unfortunate there isn't a single question to which the answer for Paul Nuttall isn't immigration.
+[SPEAKER_12]: But on the substance of what we're talking about here...
+[SPEAKER_12]: Paul Knuckle says it's going to help people like Alnus to get rid of the so-called green levers.
+[SPEAKER_12]: Actually, the green levers are shifting us to much cheaper fuel sources.
+[SPEAKER_12]: It is cheaper now to get your fuel from wind and from the sun than it is from fossil fuels.
+[SPEAKER_12]: So the idea that that's going to help us is wrong.
+[SPEAKER_12]: But let me say something about rent, because you mentioned that too.
+[SPEAKER_12]: And we want to see rent controls.
+[SPEAKER_12]: Rents are spiralling out of control right now.
+[SPEAKER_12]: Private rent people, private landlords, are basically taking all of this money.
+[SPEAKER_12]: We want to see rent controls that would stop that, which would mean that people could afford a decent rent, and they could then afford to save up for a deposit.
+[SPEAKER_12]: Let me bring in...
+[SPEAKER_12]: Right now, it's the opposite.
+[SPEAKER_12]: Thank you.
+[SPEAKER_12]: And also...
+[SPEAKER_12]: Thank you, Caroline.
+[SPEAKER_12]: Sorry to conclude you there.
+[SPEAKER_04]: I'm just going to bring in Leanne Wood on the issue of money being stretched as tightly as Alma's was pointing out.
+[SPEAKER_03]: Well there is the question of wages and benefit freezes, but also we need to think about how costs can be reduced for people.
+[SPEAKER_03]: So the point about rent is a fair one.
+[SPEAKER_03]: There's also costs like council tax, VAT on goods could be reduced to make some things easier for people potentially.
+[SPEAKER_03]: So we just need to be thinking about how we
+[SPEAKER_03]: A, reduce people's costs but also increase people's income and the real living wage, not the joking living wage that the Tories have introduced previously, the real living wage is the way to do that.
+[SPEAKER_09]: Well, money's not going as far because inflation is rising.
+[SPEAKER_09]: Inflation is rising partly because the value of the pound has plummeted.
+[SPEAKER_09]: The value of the pound has plummeted because of Brexit.
+[SPEAKER_09]: So these are the hard realities we've got to face.
+[SPEAKER_09]: But we do have to seriously debate how we help people.
+[SPEAKER_09]: Interestingly, when Theresa May published her manifesto today, she didn't give any commitment not to increase VAT or national insurance.
+[SPEAKER_09]: And I think that
+[SPEAKER_09]: is regrettable.
+[SPEAKER_09]: So I've already spoken about the real living wage.
+[SPEAKER_09]: As First Minister of Scotland, I know there's a real issue about the sustainability or unsustainability of the public sector pay cap.
+[SPEAKER_09]: We must address wages in the public sector as well.
+[SPEAKER_09]: But, you know, this issue about social security is a really important one.
+[SPEAKER_09]: One of the things that I think is quite despicable about what the Tories and some others have done in this country is treat everybody who is reliant on social security as somehow being scroungers.
+[SPEAKER_09]: actually so many of the people who rely to some extent on state benefits are working and working hard and Government policy is taking in some cases hundreds and hundreds of pounds of support away for them.
+[SPEAKER_04]: These are the issues we should be debating much more in this election.
+[SPEAKER_08]: We're talking about an increase in rents and people not being able to afford to pay rents.
+[SPEAKER_08]: That's simply because we're not building enough houses.
+[SPEAKER_08]: We're not building enough houses at the moment.
+[SPEAKER_08]: You know, we have a problem.
+[SPEAKER_08]: We're building 140...
+[SPEAKER_08]: Hang on.
+[SPEAKER_08]: We're building 140...
+[SPEAKER_08]: Hang on.
+[SPEAKER_08]: We're building 140...
+[SPEAKER_08]: Maybe if we trained enough of our own people we wouldn't.
+[SPEAKER_08]: Let me just finish.
+[SPEAKER_08]: 140,000 houses per year that we're building at the moment.
+[SPEAKER_08]: 80,000 of those are swallowed up by immigration.
+[SPEAKER_08]: Alone!
+[SPEAKER_04]: I'm sorry!
+[SPEAKER_04]: We are not building enough houses!
+[SPEAKER_04]: We are actually going to touch on housing a little later this evening so we're not going to go there.
+[SPEAKER_04]: Can I just draw this back to the issue of wages and the cost of living precisely.
+[SPEAKER_11]: I want to particularly pay attention
+[SPEAKER_11]: to the plight of young people in this country.
+[SPEAKER_11]: The fact is housing benefit being cut for those under 25, minimum wage lower than anybody else for those who are young and this is a situation we find ourselves in 12 months since the referendum when we remember that three quarters of our young people voted to remain and it seems to me
+[SPEAKER_11]: that our leader in Theresa May and Jeremy Corbyn going along with her are deciding to put together a system which allows our young people's futures to be trashed and taken for granted.
+[SPEAKER_11]: That's why the answer surely has got to be to fight that we do stay in a single market, that we do meet the needs of those young people, that we give them the housing benefit they deserve.
+[SPEAKER_12]: I just want to say that when we're talking about money not going so far that isn't happening by accident and it's a great shame that Theresa May isn't here to defend the government's record or to try to because she couldn't.
+[SPEAKER_12]: Because what's happening here is a very deliberate policy of targeting some of the most vulnerable people.
+[SPEAKER_12]: And I see them in my constituency surgeries.
+[SPEAKER_12]: I see people who are desperately trying to fill in the forms to go from disability living allowance to the personal independence payment, and they are absolutely overwhelmed by the bureaucracy and they are also overwhelmed by the fact that there are deliberate targets which actually mean that some of them simply can't get the funding that they deserve.
+[SPEAKER_12]: So let no one be under any illusion that this is happening by accident.
+[SPEAKER_12]: This is a cruel and callous government, and the sooner it goes, the better.
+[SPEAKER_04]: Let's just reset a bit and remind us of Almaz's question.
+[SPEAKER_04]: She was talking about how hard life is at the moment, the price of her weekly shopping continues to rise, bills increasing, wages and benefits have hardly gone up.
+[SPEAKER_04]: It also speaks to how the economy might be grown and what your party would do to grow the economy and perhaps improve job prospects.
+[SPEAKER_04]: Leanne Wood.
+[SPEAKER_03]: The industrial strategy is key, and as we leave the European Union, those jobs that we currently have, and some of them are not as well paid as they should be, are at risk.
+[SPEAKER_03]: And that's why Plaid Cymru's positive post-Brexit plan, which safeguards those jobs that are currently reliant
+[SPEAKER_03]: upon the EU, but also creates the conditions whereby we can develop better paid jobs over the long term.
+[SPEAKER_03]: And there are great opportunities in the fields of renewable energy and providing those services that people need.
+[SPEAKER_03]: We've lost actually lots of public services and I'm very cherished
+[SPEAKER_03]: public servants and a proper industrial strategy could make sure that we take people's full potential and those people can be brought back and make a contribution to our society.
+[SPEAKER_04]: On that precise question of growing the economy, Paul Nuttall and then I'll come to the Middle East version.
+[SPEAKER_08]: Well, firstly, what we would do is we would scrap HS2, which is nothing but a white elephant, which is only there to benefit London.
+[SPEAKER_08]: That will save us £50 billion.
+[SPEAKER_08]: We would then have an industrial strategy which would promote employment.
+[SPEAKER_08]: But let's not forget the opportunities that Brexit will give us once we leave the European Union.
+[SPEAKER_08]: We'll be able to sign trade deals all over the globe.
+[SPEAKER_03]: In America?
+[SPEAKER_08]: Sorry?
+[SPEAKER_03]: With America, with Donald Trump, and have almond-filled beef and chlorinated chicken.
+[SPEAKER_03]: Why not?
+[SPEAKER_03]: That would be fantastic for the American people.
+[SPEAKER_03]: Why not, Sam?
+[SPEAKER_03]: Why not, Sam?
+[SPEAKER_08]: Why not sign a free trade deal with the biggest economy in the world?
+[SPEAKER_08]: No, we're in it now.
+[SPEAKER_08]: We're in the biggest economy in the world now.
+[SPEAKER_08]: We can sign free trade deals with India, with China.
+[SPEAKER_08]: Our economy can boom off the back of trade.
+[SPEAKER_08]: That's the way we will get the economy moving.
+[SPEAKER_08]: And the only reason we have these opportunities is because the people were sensible enough to vote to leave the European Union last year.
+[SPEAKER_09]: Thank you.
+[SPEAKER_09]: Nicholas Sturgeon.
+[SPEAKER_09]: the economy means doing more to support business.
+[SPEAKER_09]: In Scotland, we are taking 100,000 small businesses out of business rates to try to give them more money to employ people.
+[SPEAKER_09]: In this election, we will be arguing for exemptions from national insurance for companies who take on
+[SPEAKER_09]: more staff.
+[SPEAKER_09]: I don't support a headline-cutting corporation tax, but I think things like the investment allowance should be increased to encourage companies to invest in plant and machinery, because improving productivity is a key objective as well.
+[SPEAKER_09]: But, you know, supporting some of the key sectors, certainly of the Scottish economy, is partly about making sure we don't pull the rug out from under them.
+[SPEAKER_09]: And so many of these key sectors, from food and drink, from our energy sector, will really be hurt by coming out of the single market.
+[SPEAKER_09]: And that underlines the point, if we don't want Theresa May to have a free hand to do whatever she wants, regardless of the cost for ordinary people, we need voices in the House of Commons standing up for these kinds of interests.
+[SPEAKER_09]: Caroline Lucas, you wanted to come in there.
+[SPEAKER_12]: I'm still suffering from the shock of having found one thing I agree with Paul Nuttall about, which is that HS2 is a disaster.
+[SPEAKER_12]: Thank you.
+[SPEAKER_12]: But that apart, when it comes to what kind of economy we want, then it has to be a green economy.
+[SPEAKER_12]: Otherwise, frankly, there won't be an economy at all.
+[SPEAKER_12]: We can't simply go on growing and growing with more and more production and consumption in a way that creates more pollution that costs more money to clear it up.
+[SPEAKER_12]: What we can do is to invest in the greener economy.
+[SPEAKER_12]: For example, why did the government flog off the Green Investment Bank
+[SPEAKER_12]: to Macquarie, this company that has a horrendous track record when it comes to things like fracking and bad environmental practice.
+[SPEAKER_12]: We need things like a Green Investment Bank to be investing in the new green technologies of the future.
+[SPEAKER_12]: They are hugely labour-intensive.
+[SPEAKER_12]: They get people back to work.
+[SPEAKER_12]: We want to see a Green New Deal.
+[SPEAKER_12]: That means investing and insulating in every single home in Britain.
+[SPEAKER_12]: It will get hundreds of thousands of people back to work.
+[SPEAKER_12]: It will get our fuel bills down, and it will tackle our climate.
+[SPEAKER_12]: targets as well and nobody so far I have to say has even mentioned the climate crisis.
+[SPEAKER_12]: Thank you very much indeed Caroline Lucas.
+[SPEAKER_04]: Thank you.
+[SPEAKER_04]: And that concludes the discussion on the economy.
+[SPEAKER_04]: And thank you to Almas for the question.
+[SPEAKER_04]: Our next question is on education, which is also an area where powers are devolved to the Parliament in Scotland and to the Assemblies in Wales and Northern Ireland.
+[SPEAKER_04]: The Parliament at Westminster legislates on education matters in England.
+[SPEAKER_04]: And our fourth question comes tonight from Alex Rell, 25 years old and from Liverpool.
+[SPEAKER_06]: I'm a primary school teacher, so the care and education of our young people is very important to me.
+[SPEAKER_06]: What would you do to support teachers and schools to ensure that every child gets the best start in life, regardless of their backgrounds?
+[SPEAKER_04]: Thank you, Alex.
+[SPEAKER_04]: First of all, to Tim Farron.
+[SPEAKER_11]: Well, Alex, as a father of four kids myself, nothing is more important than the education of our children.
+[SPEAKER_11]: And it is a reminder that as this election takes place, we are just eight weeks off a time when two out of every three headteachers will be dismissing and getting rid of at least one
+[SPEAKER_11]: teaching post in this country.
+[SPEAKER_11]: And that is an outrage.
+[SPEAKER_11]: That is what Theresa May hopes you don't realise as she seeks to do to our schools what she has already done to our hospitals.
+[SPEAKER_11]: And there is nothing more important than developing skills and education and a love of learning from the earliest possible age.
+[SPEAKER_11]: That is why, for example,
+[SPEAKER_11]: The forced sitting of SATs for young primary school children can often put those young people off learning for life.
+[SPEAKER_11]: What I want to do is have a government that does not interfere with our teachers on a daily basis but trusts our teachers to teach our children and to let them get on with the job and give them the £7 billion extra that we will give them to enable them to do so.
+[SPEAKER_08]: I think it's an absolute scandal that 500,000 kids in this country go to primary school and are in classes with over 30 other children in them, considering that Tony Blair gave a commitment that there would be no class sizes over 30 about 14 years ago.
+[SPEAKER_08]: I agree with Tim.
+[SPEAKER_08]: I would do away with SATs for infants, school-age children.
+[SPEAKER_08]: Also, the problem that we have is so many teachers are leaving the profession.
+[SPEAKER_08]: And they're leaving the profession because they're overworked.
+[SPEAKER_08]: And they're overworked under the deluge of paperwork, schemes of work, individual lesson plans.
+[SPEAKER_08]: What you need to do is to strip the paperwork back, strip back the bureaucracy, and let our teachers do what they do best, which is teach our young people to the best of their ability.
+[SPEAKER_09]: Thank you.
+Nicola Sturgeon.
+[SPEAKER_09]: I mean, nothing is more important to me than education.
+[SPEAKER_09]: And as First Minister of Scotland, I've got a big job of work to do to make sure we are really improving education in Scotland.
+[SPEAKER_09]: We've got a good education system, but we've also got some challenges that we are working really hard to address.
+[SPEAKER_09]: Before I come on to school education, early years is really important.
+[SPEAKER_09]: Giving younger children the best start through quality early years in childcare
+[SPEAKER_09]: is something we're prioritising.
+[SPEAKER_09]: So we're going to double the provision of that over the life of this Parliament.
+[SPEAKER_09]: In schools, we're trying to reduce bureaucracy that teachers are working under, because they've told us rightly it is too heavy.
+[SPEAKER_09]: So we're trying to take that out.
+[SPEAKER_09]: We've got a recruitment challenge in teaching, like many other countries do.
+[SPEAKER_09]: We're trying to encourage more teachers into education.
+[SPEAKER_09]: But we're also doing something that is new for Scotland.
+[SPEAKER_09]: We're giving resources directly to headteachers, so not to councils and then to headteachers, but directly to headteachers and freeing them up to decide how that money is spent, because teachers know best how to improve education in our schools.
+[SPEAKER_03]: Education today is the economy of tomorrow and skills, high levels of skills are vital to our economic performance.
+[SPEAKER_03]: Plaid Cymru will ensure that our children are taught by the best teachers in well-funded schools so that they have the skills that they need to flourish.
+[SPEAKER_03]: We will oppose any attempts to reintroduce grammar schools and we will develop a modern and well-funded system of comprehensive education.
+[SPEAKER_03]: We'll invest in our teachers, supporting them with a premium in exchange for improving their skills.
+[SPEAKER_03]: And we also have to value youth work and all of those things that happen outside of the school to support children's education.
+[SPEAKER_03]: Applied Cymru will give every child a chance to reach its full potential and we will give everybody an opportunity for a life of education so that they can get to the best place that they can possibly be.
+[SPEAKER_12]: Well, I think Theresa May's attacks on education are doing real damage, both the way in which she's slashing school budgets and with her obsession with the divisive grammar school system.
+[SPEAKER_12]: But coming to Alex's point, I think he's absolutely right to point to demoralisation of teachers right now, because it seems to me that schools should be about nurturing potential and inspiring a love of learning.
+[SPEAKER_12]: I remember when I was at school, coming across a poem I loved so much that the teacher basically made it the subject of a whole lesson and had the freedom to do that.
+[SPEAKER_12]: Right now, education, I think, can feel a bit like a production line, creating children-shaped pieces to fit the latest gaps in the jobs market.
+[SPEAKER_12]: And when we do that, then I think what we do is to stifle the freedom to let children play and flourish and grow.
+[SPEAKER_12]: We've replaced that with endless testing and measuring.
+[SPEAKER_12]: It demoralises teachers, it adds yet more stress onto our young people.
+[SPEAKER_12]: So the Green Party thinks it's time to scrap SATs, to trust teachers.
+[SPEAKER_12]: Really, it's quite simple.
+[SPEAKER_12]: Let kids be kids and let teachers teach.
+[SPEAKER_04]: So let's just, a quick reminder of Alex's question.
+[SPEAKER_04]: I'm a primary school teacher.
+[SPEAKER_04]: The care and education of our young people, very important to Alex.
+[SPEAKER_04]: What would you do to support teachers and schools to ensure that every child gets the best start in life, regardless of their background?
+[SPEAKER_04]: In terms of how schools would be organised, Paul Nuttall.
+[SPEAKER_08]: I believe in academic selection.
+[SPEAKER_08]: Always have done.
+[SPEAKER_08]: I believe that we don't have enough grammar schools in this country.
+[SPEAKER_08]: We have 164 at the moment.
+[SPEAKER_08]: We need more.
+[SPEAKER_08]: But the problem that you have is that the majority of these grammar schools are in middle class areas.
+[SPEAKER_08]: We need to get them into working class areas which then allow working class kids to break out of their communities.
+[SPEAKER_08]: It is a disgrace.
+[SPEAKER_08]: that there were more working-class kids in Oxford and Cambridge in the 1960s than there is now.
+[SPEAKER_08]: However, what we also must do is promote vocational education, which has often been the poor relative of academia.
+[SPEAKER_08]: And I would look at the German system for this, because they have something called the dual vocational training system, whereby you attend a vocational school, but at the same time you receive on-the-job training.
+[SPEAKER_08]: It's why Germany has kept its manufacturing industry.
+[SPEAKER_09]: Schools are organised differently in Scotland than they are in England, so some of these points don't necessarily apply.
+[SPEAKER_09]: We've got a challenge in Scotland.
+[SPEAKER_09]: We've introduced a new curriculum.
+[SPEAKER_09]: It's been the right thing to do.
+[SPEAKER_09]: It's been praised by the OECD.
+[SPEAKER_09]: But we know we've got work to do to focus on literacy and numeracy, really basic skills, and we're very, very focused on doing that.
+[SPEAKER_09]: We also want to free up teachers much more.
+[SPEAKER_09]: You know, teachers are best placed to know what works in our schools, but they do tell us they have had too much bureaucracy.
+[SPEAKER_09]: So it's about taking that away and putting more resources into the hands of teachers.
+[SPEAKER_09]: But it's not just about school.
+[SPEAKER_09]: As I said earlier, it's about early years, but it's also then about making sure that there are choices for people leaving school.
+[SPEAKER_09]: I want people to have equal opportunity to go to university, but if that's not for them, I want them to have other opportunities too.
+[SPEAKER_11]: And choices are what this government is making.
+[SPEAKER_11]: It is choosing to spend money on extra free schools and extra grammar schools when it could be spending it to undo some of the £3 billion worth of cuts that are falling on our schools in the next three years.
+[SPEAKER_11]: So the average secondary school will lose six teachers, the average primary school two teachers.
+[SPEAKER_11]: That is the decision, the choice, Theresa May is making.
+[SPEAKER_11]: And let's remember
+[SPEAKER_11]: The argument for grammar schools is utterly and totally bogus.
+[SPEAKER_11]: The average number of children at school in this country on free school meals is 16%.
+[SPEAKER_11]: The average number of children on free school meals in grammar schools is 3%.
+[SPEAKER_11]: It's 3%.
+[SPEAKER_11]: There is no doubt that whilst many grammar schools do a good job, bringing them up again now is about undoing social mobility.
+[SPEAKER_11]: It's about locking people into the 80% that get relegated into secondary models.
+[SPEAKER_08]: Tim, you've just made my point.
+[SPEAKER_08]: for me when you were talking about school meals.
+[SPEAKER_08]: The simple fact is too many of the grammar schools at the moment are in middle class areas.
+[SPEAKER_08]: What we need to do is we need to put grammar schools in working class areas.
+[SPEAKER_12]: Paul, this is still an incredibly divisive way forward, and there is no educational evidence that suggests that this is good for the vast bulk of our people.
+[SPEAKER_12]: Quite the opposite.
+[SPEAKER_12]: To the contrary.
+[SPEAKER_12]: And what you're doing, essentially, is making a decision when a child is just 11 years old.
+[SPEAKER_12]: You are forgetting and ignoring huge amounts of evidence about how boys and girls develop at different stages, and how many children don't actually develop quite so fast.
+[SPEAKER_12]: I have to say, relying on private tutors, which richer people can afford, poorer people can't.
+[SPEAKER_12]: Let me bring in Leanne.
+[SPEAKER_12]: Thank you, Caroline Lucas.
+[SPEAKER_03]: I want to bring in Leanne Wood on this.
+[SPEAKER_03]: Selection doesn't work.
+[SPEAKER_03]: Selection doesn't work for the vast majority of people because then you have winners and you have losers.
+[SPEAKER_03]: I believe in a public education system.
+[SPEAKER_03]: In Wales, we're not going to have grammar schools, and as long as I draw breath, that will be the case.
+[SPEAKER_03]: And the question I have here in England is, who is making the money out of all these free schools?
+[SPEAKER_03]: Because somebody somewhere is making a big profit out of this.
+[SPEAKER_11]: That's just bad choices, though, isn't it?
+[SPEAKER_11]: Because even if...
+[SPEAKER_11]: Even if you were to accept, and Paul Nuttall's argument in favour of grammar schools, it's utterly bogus, all the evidence goes against that, but even if he had a shred of evidence on his side, it's a poor choice when there's £3 billion being taken out of our schools and we're wasting money on new grammar schools and new free schools.
+[SPEAKER_04]: OK, let's go back to one of the other issues that arises out of that question, particularly about primary education, and that is class sizes.
+[SPEAKER_04]: Perhaps, Leanne Wood, a quick word from you on that, and then Nicola Sturgeon.
+[SPEAKER_03]: I'm not aware that there's any evidence to show that smaller class sizes actually deliver better educational outcomes.
+[SPEAKER_03]: If I'm wrong on that, I'm prepared to look at it again, but my understanding is that the evidence shows that the size of the class is less important than the quality of the teacher.
+[SPEAKER_03]: Nicola Sturgeon.
+[SPEAKER_09]: We want class sizes to be as small as possible, and that's certainly, I think, important.
+[SPEAKER_09]: But it's also about focusing on what happens within the classroom and making sure that we have the best teachers freed up to do the best job with the best resources.
+[SPEAKER_09]: absolutely what we are trying to focus on just now.
+[SPEAKER_09]: I thought, I mean, we've talked a lot about choices tonight, and I'm not an expert on the English education system, so I won't pretend to be, but I thought, I was quite aghast this morning when I heard Theresa May say that she was going to increase funding for schools, almost literally by taking the food out of children's mouths, by abolishing...
+[SPEAKER_09]: free school meals.
+[SPEAKER_09]: And I don't think you improve education by taking free lunches away from our youngest children.
+[SPEAKER_09]: And I'll be proud to protect free school meals in Scotland.
+[SPEAKER_04]: OK. And in terms of free school meals or the way meals in schools are run and organised, Caroline Lucas, perhaps I'll come to you on that first.
+[SPEAKER_12]: Well, I don't often disagree with Leanne, but I think on this there are plenty of evidence that suggests that, you know, class sizes have an impact.
+[SPEAKER_12]: Obviously, the professionalism of the teacher and the teacher assistants that they have alongside them matters too, but the Green Party certainly would try to be reducing our class sizes.
+[SPEAKER_12]: We'd be putting money into schools to enable us to do that, because we think that being able to have more of that individual one-to-one
+[SPEAKER_12]: process is going to be better.
+[SPEAKER_12]: And I think right now, when you've got so many class sizes growing and growing, it's making it very, very hard for teachers to deal with it.
+[SPEAKER_11]: Free school meals for infant school children was something the Liberal Democrats delivered in government.
+[SPEAKER_11]: And we did it for a reason.
+[SPEAKER_11]: We did it because all the evidence suggests it boosts attainment.
+[SPEAKER_11]: It makes sure that children, particularly from poorer backgrounds, get at least one decent meal a day.
+[SPEAKER_11]: And it means that you don't have the stigma of people registering for free school meals if they do not wish to do so.
+[SPEAKER_11]: But to get rid of them after the schools have put so much money and effort to build kitchens, to bring in new ways of delivering those free school meals, is an absolute hideous assault.
+[SPEAKER_11]: And just to add on the issue of class sizes, it's absolutely right that smaller class sizes do make a difference, but it's also about who is in the classroom.
+[SPEAKER_11]: I say the average primary school will lose two teachers,
+[SPEAKER_11]: they could instead lose three or four teaching assistants, which will make it that much harder to deliver good education in primary and secondary.
+[SPEAKER_03]: We have a crisis in teaching at the moment, though.
+[SPEAKER_03]: So many people are leaving the profession because of the pressures in the job, and it's not all to do with the size of the classroom.
+[SPEAKER_03]: It's more to do with the bureaucracy and the additional tasks they're expected to do.
+[SPEAKER_03]: Where is the plan for recruiting more teachers?
+[SPEAKER_03]: Because that's what will reduce
+[SPEAKER_04]: Let's talk precisely about that issue and also for those teachers watching I'm sure would all be very interested the issue of pay on teachers and perhaps you'd like to take up on that point and we'll go to the others.
+[SPEAKER_03]: Well in Wales we want to give teachers a premium for training to get up to master's level and we believe that that's a good way of showing that we value teachers and that we want to help them develop professionally to get to the point where they can be the best that they can be in front of our classroom.
+[SPEAKER_08]: Yes, I think teachers, of course, do deserve a pay rise.
+[SPEAKER_08]: I think there is clear evidence that smaller class sizes do benefit not just the teacher, but also the pupil, because teacher-pupil time is premium.
+[SPEAKER_08]: students or pupils who are in smaller class sizes do better academically.
+[SPEAKER_08]: That is simply a fact and it is a scandal.
+[SPEAKER_08]: It's a scandal that 500,000 primary school kids in this country are sitting now in classes with over 30 other people in them.
+[SPEAKER_04]: Thank you.
+[SPEAKER_04]: On the issue of teachers' pay and what you would do about it, Tim Farron?
+[SPEAKER_11]: Well, first of all, we would lift the pay freeze on public sector pay because teachers and soldiers and nurses and other public sector workers deserve a pay rise.
+[SPEAKER_11]: That freeze has gone on for too long and we would end it immediately.
+[SPEAKER_11]: But I also think
+[SPEAKER_11]: It is important for us to remember that, as somebody who worked for a teacher education institution in the days when I had a proper job, that I worked with people who went into education full of passion, full of desire to help children, and one in four of those teachers, after five years of being qualified in the sector, are leaving the system.
+[SPEAKER_11]: What a waste of their dedication.
+[SPEAKER_11]: What a waste of our investment.
+[SPEAKER_11]: That's why you should pay them more and take the red tape off their back.
+[SPEAKER_12]: Well, I couldn't agree more with that.
+[SPEAKER_12]: Yes, we would absolutely lift the pay freeze.
+[SPEAKER_12]: It is quite unacceptable that our public sector workers have been taken for granted for so long, essentially, and not being properly rewarded.
+[SPEAKER_12]: And that's one reason why many are leaving the profession.
+[SPEAKER_12]: But another reason why is because every time we have a new education secretary, they come up with their latest harebrained scheme and impose it on teachers, thinking that teachers don't have the professionalism themselves to make those decisions.
+[SPEAKER_12]: So I come back to the point I made before.
+[SPEAKER_12]: It's an important one.
+[SPEAKER_12]: We need to trust teachers as the professionals that they are.
+[SPEAKER_12]: And that has signally failed to happen both under this government and the previous one as well.
+[SPEAKER_04]: Thank you very much, Inder.
+[SPEAKER_04]: Just a reminder of the part of Alex's question, which actually looked to very young children.
+[SPEAKER_04]: He wanted to know not only what you would do to support teachers, but to ensure that every child gets the best start in life.
+[SPEAKER_04]: And that points directly to early years child support.
+[SPEAKER_04]: Nicola Sturgeon.
+[SPEAKER_09]: Well, I do think it is probably the single most important thing we can do to improve attainment and literally give young people the best start in life.
+[SPEAKER_09]: The government I lead have made this a priority over the past few years.
+[SPEAKER_09]: We've extended
+[SPEAKER_09]: free early years education from 12.5 hours a week to 16 hours a week, and we're doubling that to 30 hours over the course of this Parliament.
+[SPEAKER_09]: And unlike in England, that's for every three- and four-year-old and for every vulnerable two-year-old.
+[SPEAKER_09]: But with childcare, it's not just quantity that matters, it's quality that matters, so we really need to make sure...
+[SPEAKER_09]: Thank you.
+[SPEAKER_09]: ..that we've got the quality... OK. ..so that we're genuinely giving people the best start.
+[SPEAKER_09]: Thank you.
+[SPEAKER_09]: Paul Nuttall, what would UKIP do to support...
+[SPEAKER_08]: pre-school children in particular.
+[SPEAKER_08]: Of course, we've got to give our young people the best start in life.
+[SPEAKER_08]: What we need is to have a wrap around care.
+[SPEAKER_08]: We need to ensure that there are breakfast clubs, for example, in schools.
+[SPEAKER_08]: We need after-school clubs to ensure that the children are looked after, both before and after school.
+[SPEAKER_08]: What we need
+[SPEAKER_08]: in this country, and let's be utterly blunt about this, is we need to put more money into the education system.
+[SPEAKER_08]: It's been lagging behind now for many, many years.
+[SPEAKER_08]: If you look at where we are in our position in the world, we're falling down the league tables year after year.
+[SPEAKER_08]: We have to do something about it.
+[SPEAKER_08]: This is urgent, and UKIP will have a plan which we'll launch in our manifesto next week.
+[SPEAKER_04]: Thank you very much indeed.
+[SPEAKER_04]: And that is the last comment on that issue.
+[SPEAKER_04]: And that question from Alex on the issue of primary school teaching, thank you very much indeed for that.
+[SPEAKER_04]: And our final question.
+[SPEAKER_04]: this evening.
+[SPEAKER_04]: If your arguments, before we go to that, have fired up your political passions and you're not yet registered to vote, the closing date for registration falls on Monday, May the 22nd.
+[SPEAKER_04]: You can do it online at gov.uk slash register to vote.
+[SPEAKER_04]: And now, as I was mentioning, it's time for our final question.
+[SPEAKER_04]: It comes from Paul Bundred, 39-year-old self-employed IT worker from Chester.
+[SPEAKER_01]: Hi.
+[SPEAKER_01]: A lot of policies have been directed towards the older generation.
+[SPEAKER_01]: I was a mature student and talked to many younger students who felt frustrated.
+[SPEAKER_01]: The younger generation are facing a lot of challenges such as tuition fees, job insecurity and expensive housing costs.
+[SPEAKER_01]: A lot of feeling that they don't have much hope for the future.
+[SPEAKER_01]: If you are elected, what will you do for the younger generation to help them feel more positive about their future?
+[SPEAKER_04]: Paul, thank you very much indeed for that.
+[SPEAKER_04]: And first of all, to Nicola Sturgeon.
+[SPEAKER_09]: Well, I think it's a really, really important question.
+[SPEAKER_09]: We're already seeking to do many things for the younger generation, not charging them to go to university.
+[SPEAKER_09]: For example, make sure their education can be based on the ability to learn.
+[SPEAKER_09]: Housing is critical.
+[SPEAKER_09]: Across the UK, we need to build more houses.
+[SPEAKER_09]: We're working just now to a target of 50,000 affordable houses over the next few years.
+[SPEAKER_09]: We need to make sure there are
+[SPEAKER_09]: that we need to do to make sure young people have the best opportunities and the best start in life.
+[SPEAKER_09]: And we shouldn't take away vital support like housing benefit support from under-20s and under-30s.
+[SPEAKER_09]: We need to make sure that young people have the best opportunities and the best start in life.
+[SPEAKER_09]: And we shouldn't take away vital support like housing benefit support from under-20s and under-30s.
+[SPEAKER_09]: But the other point I would make here is this.
+[SPEAKER_09]: I don't think we should be setting young people against older people.
+[SPEAKER_09]: At a time when we see pensioner poverty rising again, we shouldn't be removing pension protection.
+[SPEAKER_09]: We should end austerity and make sure we can provide these opportunities for people regardless of their age across the country.
+[SPEAKER_03]: I believe in the principle of free education, and it's a real shame that there's no representative here from Labour tonight, because one of their proposals is to abolish tuition fees.
+[SPEAKER_03]: Yet in Wales, where Labour runs the government, there is a charge for tuition fees.
+[SPEAKER_03]: So again, we have a number of different Labour parties, and I'm not sure
+[SPEAKER_03]: which policies you're going to be actually voting for, depending on whether you're in Wales, whether you're voting for Blairite Labour candidates, or whether you're voting for Jeremy Corbyn.
+[SPEAKER_03]: I'd like to see the younger generation
+[SPEAKER_03]: have as many job opportunities as possible.
+[SPEAKER_03]: I'd also like to see the social security reforms that have been brought in, like those cuts to housing benefit, which disadvantage young people, be reversed.
+[SPEAKER_03]: And I would like to see, as well, more effort put into further education and apprenticeships, because not everybody wants to start out in life with the huge debt that comes with going to university.
+[SPEAKER_03]: Thank you.
+[SPEAKER_03]: Tim Farron.
+[SPEAKER_11]: I live in a part of the world, up in South Cumbria, where one in three young people leave and they don't come back, despite the fact that it's the most beautiful place on planet Earth, because it's so expensive.
+[SPEAKER_11]: And that is not unlike many other parts of the United Kingdom.
+[SPEAKER_11]: The mismatch between wages and house prices, particularly for young people, is staggering and it is getting worse.
+[SPEAKER_11]: That is why we will build
+[SPEAKER_11]: every year, 300,000 new homes, the bulk of which will be council homes, and we will allow councils to do it, and we will make sure that the government directly commissions house building if those developers won't do them themselves.
+[SPEAKER_11]: But there's something much more going on for young people at the moment.
+[SPEAKER_11]: It is bound to be said
+[SPEAKER_11]: by people in my position at least, that you've got three quarters of the young people in this country went out to vote in the most important election of their lives last June, and they voted to remain in the European Union.
+[SPEAKER_11]: And their dismay, and the dismay of their parents and their grandparents, of the narrowing of their opportunities and of their futures by this extreme Brexit government under Theresa May is something someone has to stand up to.
+[SPEAKER_11]: I will stand up to it.
+[SPEAKER_11]: I will give you the choice on the final deal.
+[SPEAKER_11]: And if you want to remain, you should be able to remain.
+[SPEAKER_04]: Thank you, Mr. Farron.
+[SPEAKER_12]: So continuing exactly that theme, the Green Party absolutely would give young people that chance to look again at the deal that's under negotiation by Theresa May, because we feel that young people have been so betrayed by this government, by previous governments too.
+[SPEAKER_12]: And that's the case when it comes to, for example, the loss of freedom of movement, that ability to be able to study and work in so many other countries.
+[SPEAKER_12]: That is a precious thing that has just gone.
+[SPEAKER_12]: And I feel that you should have had a say on that as young people.
+[SPEAKER_12]: I think we would also want to do things like scrapping tuition fees.
+[SPEAKER_12]: We want to cancel the burden of debt on young people.
+[SPEAKER_12]: Education should be a public good, not a private commodity.
+[SPEAKER_12]: We would want to restore student grants and nursing bursaries.
+[SPEAKER_12]: We want to make housing more affordable.
+[SPEAKER_12]: We would introduce rent controls.
+[SPEAKER_12]: We want to see more affordable public transport.
+[SPEAKER_12]: We want to see a safer environment.
+[SPEAKER_12]: Because one of the things that really concerns me is the environment that we are leaving for you.
+[SPEAKER_12]: We are trashing this environment.
+[SPEAKER_12]: Last year, the hottest year on record.
+[SPEAKER_12]: We need to have a safer environment for you.
+[SPEAKER_12]: And finally, votes at 16.
+[SPEAKER_12]: Votes at 16 would make sure that you would have your voice over what kind of future you have.
+[SPEAKER_04]: Time is up, and it's over to Paul Nuttall.
+[SPEAKER_08]: We are committed to scrapping tuition fees.
+[SPEAKER_08]: I think they are a barrier to many young people going to university, particularly from poorer backgrounds.
+[SPEAKER_08]: We would reinstate student grants for those students from working-class areas.
+[SPEAKER_08]: What we would also do is improve vocational training.
+[SPEAKER_08]: We would create
+[SPEAKER_08]: more vocational schools.
+[SPEAKER_08]: As I said earlier, we would look at the German system, whereby you have on-the-job training whilst attending a vocational school.
+[SPEAKER_08]: This would give many young people in our country a trade which they can go on throughout their life and apply, whether that's being an electrician or a plumber or a bricklayer, they will learn to do things with their hands.
+[SPEAKER_08]: Also, we will have a house-building programme
+[SPEAKER_08]: 250,000 affordable homes every year.
+[SPEAKER_08]: A brownfield revolution which will allow young people to get on the housing ladder.
+[SPEAKER_04]: Paul Nuttall, thank you very much indeed for those opening statements.
+[SPEAKER_04]: Just a reminder of some of the issues that Paul raised within that question.
+[SPEAKER_04]: He put the younger generation facing challenges such as rising tuition fees, expensive housing costs.
+[SPEAKER_04]: There are a lot of promises being made on housing.
+[SPEAKER_04]: Caroline Lucas, I'll come to you first and suggest you could tell us exactly how you might pay for your plans too.
+[SPEAKER_12]: Well, what we would be doing is introducing 100,000 new council homes every year.
+[SPEAKER_12]: We want to see half a million over the course of the next Parliament.
+[SPEAKER_12]: And you'd do that quite simply by enabling a deposit to be put down.
+[SPEAKER_12]: You'd put that £80,000 down for each house.
+[SPEAKER_12]: The government would do that.
+[SPEAKER_12]: you'd then allow councils to borrow, because right now, borrowing for councils hasn't been allowed, even though they've got that housing stock there to borrow against.
+[SPEAKER_12]: And were you to do that, well, that would mean you would be able to build these houses cheaply, you'd get the money back in the rent that people would be paying.
+[SPEAKER_12]: At the moment, that rent is going to private landlords.
+[SPEAKER_12]: In other words, £8 billion and more is going to private landlords every year.
+[SPEAKER_12]: Thank you.
+[SPEAKER_12]: Just to finish on that, if you were to build those council houses, you'd find that that would actually pay for itself.
+[SPEAKER_12]: in a number of years.
+[SPEAKER_03]: Can I just make a point on the council houses, because it makes absolutely no sense to continue to build council houses, which I agree that you should do, and then sell them off, as Margaret Thatcher did under the Right to Buy scheme.
+[SPEAKER_03]: That has left us with a lack of social housing, and that is one of the reasons that we see high levels of homelessness today.
+[SPEAKER_03]: So if we are going to build new council houses, we have to stop the Right to Buy.
+[SPEAKER_11]: 10.
+[SPEAKER_11]: Me and my mum and sister lived in a two-bedroom house in Preston.
+[SPEAKER_11]: My mum's mate separated from her husband, and her and her two kids moved in with us.
+[SPEAKER_11]: So six of us in a two-bedroom house.
+[SPEAKER_11]: Felt like great fun at my age at the time.
+[SPEAKER_11]: But I found out later on, the reason why my mum's mate couldn't get a house for her and her kids was because Margaret Thatcher had sold off those council houses that weren't any available.
+[SPEAKER_11]: So what we will do is lift the borrowing cap to allow councils to borrow to build.
+[SPEAKER_11]: allow housing associations new access to finance so they can borrow against the value of their stock to build and then you allow the government, you give the government the power to directly commission to buy brownfield sites and you raise the money by the sale of that land at the end.
+[SPEAKER_11]: You actually make a profit whilst housing Britain's future.
+[SPEAKER_09]: In Scotland, of course, we have abolished the right to buy, a controversial thing to do at the time, but it helps to ensure that as we invest in building social housing, we're not then losing it later on, and we help people into home ownership in other ways.
+[SPEAKER_09]: There's no doubt house building is key to getting the cost of housing down, and we need to build homes that are affordable for people.
+[SPEAKER_09]: I was listening to Jeremy Corbyn
+[SPEAKER_09]: talk at its manifesto launch the other day with lots of policies that the SNP is already implementing in Scotland, but one of them was restoring council house building.
+[SPEAKER_09]: We've done that as well.
+[SPEAKER_09]: Now, we've got challenges.
+[SPEAKER_09]: I'm not saying we've got everything right, but you have to be prepared to build the houses and you have to be prepared to protect them for the use of the public in the future.
+[SPEAKER_04]: And exactly how would you go about paying for some of these in terms of promises on housing and how you'd pay for them, Paul Nuttall?
+[SPEAKER_08]: Well, firstly, we would scrap HS2, which would save £50 billion immediately.
+[SPEAKER_08]: We would also scrap the Barner formula, which would give fairness to England, and that would save an extra £5 billion.
+[SPEAKER_08]: But that's taking money away from Scotland and Wales, incidentally.
+[SPEAKER_08]: Well, actually...
+[SPEAKER_08]: You know, in Scotland, you're getting £1,700 extra per head than the English.
+[SPEAKER_08]: It's all built on English taxpayers' money.
+[SPEAKER_08]: That's why you have free prescriptions.
+[SPEAKER_08]: Scottish people pay taxes as well.
+[SPEAKER_08]: That's why you have free tuition fees.
+[SPEAKER_08]: And that's why you have no hospital guard out to charge you.
+[SPEAKER_08]: We're paying for it.
+[SPEAKER_08]: So the simple fact is there would also be an EU dividend when we leave the European Union.
+[SPEAKER_08]: 350 billion per week.
+[SPEAKER_08]: Where's your bus?
+[SPEAKER_02]: We're going to the health service, are we?
+[SPEAKER_02]: Where's your bus?
+[SPEAKER_08]: Let us finish.
+[SPEAKER_06]: OK.
+[SPEAKER_06]: Thank you.
+[SPEAKER_08]: OK. Let us finish.
+[SPEAKER_08]: We will save £10 billion a year in membership fee...
+[SPEAKER_06]: The bus is going to come driving past any minute.
+[SPEAKER_08]: ..£10 billion in membership fee alone that will easily allow us to build 250,000...
+[SPEAKER_08]: It's costing us £290 million a week to leave.
+[SPEAKER_04]: Thank you.
+[SPEAKER_04]: Liam Wood, and let's just, as a point of fact, the Barnett formula is the formula by which
+[SPEAKER_04]: the Treasury allocates money for public spending in Scotland, Wales and Northern Ireland.
+[SPEAKER_04]: On that point, on that house building point that Paul Nettle made.
+[SPEAKER_03]: Well that would be a disaster for Wales if the Barnett formula was scrapped.
+[SPEAKER_03]: I mean we already lose out because of the Barnett formula in terms of need.
+[SPEAKER_03]: You have to recognise that in Wales, and the same is the case in Scotland, there are
+[SPEAKER_03]: large rural areas, mountainous climate, you have to be able to provide public services across quite difficult areas.
+[SPEAKER_03]: And that's why there's additional money in the Barnett formula.
+[SPEAKER_03]: If that was taken away, then we're already disadvantaged.
+[SPEAKER_03]: We would be disadvantaged even further, and it wouldn't be acceptable.
+[SPEAKER_04]: Thank you, Leanne Wall, for that.
+[SPEAKER_04]: Let's refocus and reset on the question.
+[SPEAKER_04]: The younger generation facing the challenges on housing, but also very clearly pointed towards rising tuition fees.
+[SPEAKER_04]: What would you do about those, Tim Farron?
+[SPEAKER_11]: I'm somebody who made a promise back in 2010 that I would not vote to increase tuition fees, and I kept my promise.
+[SPEAKER_11]: It's important that when you are in politics, you assume that people also assume that all politicians are scumbags and liars, so don't go and prove them right.
+[SPEAKER_11]: What you should do, and what we believe passionately in, is that all access to higher education should be free at the point of use, that we should bring back grants, that we should make sure that maintenance awards... Why are you putting tuition fees in your manifesto?
+[SPEAKER_12]: Why are you cancelling it in your manifesto?
+[SPEAKER_11]: My advice to you, Caroline, and certainly to Jeremy Corbyn if he was here, is don't make promises.
+[SPEAKER_11]: Don't make promises you can't keep.
+[SPEAKER_11]: And the reason I kept my promise...
+[SPEAKER_02]: Some of us do keep promises, actually.
+[SPEAKER_02]: And so do I.
+[SPEAKER_02]: And so do I.
+[SPEAKER_02]: Well, your party didn't, right, Tim?
+[SPEAKER_11]: Caroline, so do I.
+[SPEAKER_11]: And here's the deal...
+[SPEAKER_11]: The biggest issue facing young people in this country is that their future is about to be trashed by Theresa May, backed by Jeremy Corbyn, taking us out of the single market, out of the European Union, without any kind of vote of the people.
+[SPEAKER_11]: Now I want people to trust me that I will give you the final say on the deal.
+[SPEAKER_11]: That is the best thing to give our young people a decent future.
+[SPEAKER_08]: All tuition fees do is simply preclude poorer students from going to university.
+[SPEAKER_08]: They need to be taken away.
+[SPEAKER_08]: We need to go back to a system of student grants.
+[SPEAKER_08]: But the point is, and this is someone that nobody else on this platform will admit, that there are far too many people going to university at this present moment in time.
+[SPEAKER_00]: Tony, hold on, let me finish.
+[SPEAKER_08]: Let me finish.
+[SPEAKER_08]: Tony Blair...
+[SPEAKER_08]: Tony Blair had a policy that 50% of all 18-year-olds should go to university.
+[SPEAKER_08]: Last year, 46% of students left university and took a job whereby you didn't need a degree.
+[SPEAKER_08]: We need to reduce the number of students going to university, then we could scrap tuition fees and go back to student grants.
+[SPEAKER_03]: Liam Wood.
+[SPEAKER_03]: But which students would you stop from going to university then?
+[SPEAKER_03]: Would you stop the ones that are coming from the poorest backgrounds perhaps?
+[SPEAKER_03]: How do you decide to reduce the number of students going to university?
+[SPEAKER_08]: No, you reduce the number of courses.
+[SPEAKER_08]: I mean, there are a number of non-courses in our university, right across the board at the moment, that are nothing to our economy.
+[SPEAKER_11]: OK, I'll just raise immigration, just for a change.
+[SPEAKER_04]: No, I'm going to go back to the question.
+[SPEAKER_04]: Thank you very much.
+[SPEAKER_04]: I'm sticking on it.
+[SPEAKER_04]: Thank you.
+[SPEAKER_04]: Let me just remind you of one of the other issues that Paul flagged right at the beginning of his question.
+[SPEAKER_04]: A lot of policies are being directed towards the older generation, that perceived gap that Paul is pointing towards between the younger and the older generation.
+[SPEAKER_04]: On that precise issue, Caroline Lucas.
+[SPEAKER_12]: Well, I just think it's a great shame that governments and others are basically trying to pit different groups of people against each other.
+[SPEAKER_12]: I want to see a good life for people who are older, and that's why we would make sure that they had a proper citizen's pension that was a decent, good pension for them to live on.
+[SPEAKER_12]: But at the same time, we need to make sure that our young people are properly set up for life too.
+[SPEAKER_12]: And to say that we have to, and again, I come back to the fact that we are the fifth largest economy, to say that we have to make choices between whether it's our older people we look after or whether it's our younger people, I think is completely wrong.
+[SPEAKER_12]: We should be doing both.
+[SPEAKER_09]: I couldn't agree more with Caroline on that.
+[SPEAKER_09]: We should not get into...
+[SPEAKER_09]: the situation where we are choosing between supporting young people and supporting our pensioners.
+[SPEAKER_09]: And coming back to this issue of university tuition, I agree university is not for everybody, and I agree that free tuition in and of itself is not enough to give people access to university, but it is essential.
+[SPEAKER_09]: And I take a really simple view.
+[SPEAKER_09]: I benefited from a free education as a working-class young person.
+[SPEAKER_09]: That's why I can stand here today.
+[SPEAKER_09]: I have no right to take that away from another young person.
+[SPEAKER_04]: Let's wait, but we were touching on the issue.
+[SPEAKER_04]: Are the policies being directed towards the older generation?
+[SPEAKER_04]: You were touching on the issue of the policies being directed towards the older generation that Paul raised there.
+[SPEAKER_04]: Tim Farron?
+[SPEAKER_11]: Yes, it seems to me that there are, of course, individual things we need to do to help young people.
+[SPEAKER_11]: We need to make sure they are able to access housing benefit, that we do build the homes that we need.
+[SPEAKER_11]: But do you know what?
+[SPEAKER_11]: It's more about building a future for our young people.
+[SPEAKER_11]: What kind of country do we want to grow up in?
+[SPEAKER_11]: I've talked about Brexit being a threat to our country and our young people.
+[SPEAKER_11]: Do you know what?
+[SPEAKER_11]: Climate change is a bigger threat.
+[SPEAKER_11]: And if we don't tackle it by making a kind of joyous national endeavour to, for example, make ourselves energy self-sufficient in green energy, then we'll be letting our children down.
+[SPEAKER_11]: We'll also be letting our children down if we turn into the kind of country that slams the door in the face of child refugees.
+[SPEAKER_11]: I want to be the kind of country that welcomes those people.
+[SPEAKER_11]: That's the kind of country I want my children to grow up in.
+[SPEAKER_03]: I think few people would dispute that young people are having it tough at the moment.
+[SPEAKER_03]: I would agree with the points that have been made about not wanting to divide society.
+[SPEAKER_03]: Young people have a raw deal.
+[SPEAKER_03]: But let's take a look at who's engaged in the political process.
+[SPEAKER_03]: Older people, on the whole, vote much more in greater numbers than younger people do.
+[SPEAKER_03]: If younger people voted, if they...
+[SPEAKER_03]: I would advise everybody to look at all the political parties, look at our values, look at our vision, look at our principles, get involved and use your vote.
+[SPEAKER_03]: Yes, there should be votes at 16, but that 18 to 25-year-old age group are the group that vote in fewest numbers.
+[SPEAKER_03]: And if they increased their voting habits, then I think policy would change to follow that as well.
+[SPEAKER_08]: The question was aimed at obviously how we look after our elderly and the point is the elderly in this country at the moment get a really raw deal.
+[SPEAKER_08]: What we need is a flexible state pension that allows people to take their pension younger if they choose.
+[SPEAKER_08]: We also should be committed to keeping the triple lock to ensure that pensioners get a fair deal and we will fight
+[SPEAKER_08]: tooth and nail the new announcement by the Tories today which basically amounts to a death tax which punishes people for simply living.
+[SPEAKER_12]: Caroline Lucas.
+[SPEAKER_12]: Well, I agree on that last point, a second one, which is a bit scary.
+[SPEAKER_12]: But I do have real concerns about the policy that the Conservatives have just announced today.
+[SPEAKER_12]: And there are real concerns that if you have dementia, for example, if you might be unlucky enough to have those big costs, then there's nothing really going to protect you from that.
+[SPEAKER_12]: Instead of having a system which could have pooled risk, instead that risk is being put onto the individual.
+[SPEAKER_11]: And they have the choice to do so.
+[SPEAKER_11]: They could have followed Dilnot.
+[SPEAKER_04]: They could have followed Dilnot.
+[SPEAKER_04]: Party leaders all for that.
+[SPEAKER_04]: very much indeed.
+[SPEAKER_04]: And, ladies and gentlemen, it concludes our free-flowing debate.
+[SPEAKER_04]: There's been a lot discussed here over the past two hours and a lot for all of us to reflect upon.
+[SPEAKER_04]: I'd now like to ask each leader in turn to give their concluding thoughts this evening.
+[SPEAKER_04]: First, Paul Nuttall, leader of the UK Independence Party.
+[SPEAKER_08]: Well, tonight you've heard it from the mouths of the other party leaders, or at least the ones who bothered to turn up, that they simply don't believe in Brexit.
+[SPEAKER_08]: They don't believe we're big enough,
+[SPEAKER_08]: We're strong enough and simply they don't believe we're good enough to be a free, democratic and independent state on the world stage.
+[SPEAKER_08]: Unlike them, I do.
+[SPEAKER_08]: I believe that this is a fantastic country.
+[SPEAKER_08]: So if, like me, you believe immigration needs to be reduced, you believe that foreign aid needs to be cut, you believe that our National Health Service needs more investment and that our armed forces need to be bolstered, then you know what to do.
+[SPEAKER_08]: If you also believe we need more Bobbies on the beat, and that our elderly need to be looked after, then please go out and vote UKIP on June 8th, because together we really can put the great back into Britain.
+[SPEAKER_12]: On the 8th of June, I'm asking you to vote green, not because this election is about me or indeed about any of the party leaders here tonight.
+[SPEAKER_12]: I'm asking you to vote green because this election is about you.
+[SPEAKER_12]: It's about our country.
+[SPEAKER_12]: It's about what kind of future we want for our children.
+[SPEAKER_12]: And it's about standing up for our values of openness, cooperation, and compassion.
+[SPEAKER_12]: And we face challenges that we can't possibly pretend to fix in the next hundred days or even the next thousand.
+[SPEAKER_12]: We face challenges to our climate, and I'm sorry we haven't had more time to discuss that tonight.
+[SPEAKER_12]: We face challenges to our economic future and our security.
+[SPEAKER_12]: But we face opportunities, too, to be innovators and pioneers.
+[SPEAKER_12]: So as you're watching this at home, I ask you this.
+[SPEAKER_12]: Don't just think about who you'd vote for tonight.
+[SPEAKER_12]: Think about who you want standing up with you and working alongside you.
+[SPEAKER_12]: Together we can build a bigger, more confident and caring future.
+[SPEAKER_12]: I'm ready and I hope you'll join me by voting Green on June the 8th.
+[SPEAKER_12]: Thank you.
+[SPEAKER_12]: Tim Farron.
+[SPEAKER_11]: I believe there is still a decent Britain worth fighting for.
+[SPEAKER_11]: The vision of Theresa May and Paul Nuttall is not the only choice.
+[SPEAKER_11]: The fact that Theresa May is not here tonight tells you that she is taking you for granted.
+[SPEAKER_11]: She thinks she owns this election.
+[SPEAKER_11]: She owns the result.
+[SPEAKER_11]: She owns your future.
+[SPEAKER_11]: Your children's future.
+[SPEAKER_11]: You deserve a leader who cares about the things that you care about.
+[SPEAKER_11]: A leader who will stand up for you and your family, for your NHS, for your schools, for your children's future.
+[SPEAKER_11]: You need a leader who will stop Theresa May's extreme version of Brexit.
+[SPEAKER_11]: You don't need a difference of opinion, you need a different option.
+[SPEAKER_11]: You need someone who will step up and fight for you.
+[SPEAKER_11]: I am determined to offer you the chance to change Britain's future because the Britain I love is open, tolerant and united.
+[SPEAKER_11]: This is a country worth fighting for.
+[SPEAKER_11]: It's a country I want to lead.
+[SPEAKER_03]: The next few years are critical for all parts of the UK as the Tories win a landslide with UKIP backing.
+[SPEAKER_03]: Tonight you've listened to Plaid Cymru's ideas, our values and our principles.
+[SPEAKER_03]: And our values are relevant to you wherever you are, but you've also heard Wales be put on the agenda.
+[SPEAKER_03]: Plaid Cymru MPs can be trusted to advocate a good deal for our country as we leave the European Union.
+[SPEAKER_03]: Neither Theresa May nor the Labour Party will have Wales as their priority.
+[SPEAKER_03]: They didn't turn up tonight.
+[SPEAKER_03]: They don't want people to hear the alternatives.
+[SPEAKER_03]: And that's why, more than ever, we need a strong team of Plaid Cymru MPs.
+[SPEAKER_03]: Plaid Cymru will always champion jobs and the Welsh economy.
+[SPEAKER_03]: You can rely on Plaid Cymru to defend Wales but also to promote Wales.
+[SPEAKER_03]: A vote for Plaid Cymru in this election is a vote to make Wales matter.
+[SPEAKER_09]: Tonight, I hope you have seen and heard why a strong SNP voice at Westminster matters, and why there needs to be strong and effective opposition to a Tory government that is increasingly in hock to UKIP.
+[SPEAKER_09]: We have seen, sadly, that Labour simply isn't strong enough to hold the Tories to account.
+[SPEAKER_09]: the SNP can provide strong opposition.
+[SPEAKER_09]: My message to those of you watching tonight in England, Wales, and Northern Ireland is that SNP MPs will always work for jobs, fairness, and progressive values.
+[SPEAKER_09]: And to those at home in Scotland, my message is this.
+[SPEAKER_09]: Now more than ever, as we face big challenges, it is vital that we have strong SNP voices at Westminster.
+[SPEAKER_09]: It is only with a strong group of SNP MPs
+[SPEAKER_09]: that we will have a strong enough hand to protect our public services from Tory cuts, stand against an extreme Brexit and continue to make our country the very best that it can be.
+[SPEAKER_04]: Nicola Sturgeon, thank you very much.
+[SPEAKER_04]: Thank you all very much indeed.

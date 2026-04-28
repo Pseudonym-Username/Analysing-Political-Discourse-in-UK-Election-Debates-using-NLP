@@ -1,0 +1,1346 @@
+QUESTIONER_0: Let's meet the seven politicians vying for your votes over the next 90 minutes.
+RAYNER: Hi, I'm Angela Rayner, Labour's deputy leader, and we have a real chance to turn the page and have change in Britain voting for Labour on the 4th of July.
+COOPER: I'm Daisy Cooper.
+COOPER: I'm the deputy leader of the Liberal Democrats.
+COOPER: And tonight, I hope to share with you some more details on our plan to save the NHS, tackle the cost of living crisis, and to protect our local environment.
+MORDAUNT: Good evening, I'm Penny Mordaunt.
+MORDAUNT: I'm going to be talking to you about which of your taxes the Conservatives will cut.
+MORDAUNT: Labour will be trying not to talk about the ones they're going to put up.
+DENYER: I'm Carla Denyer, co-leader of the Green Party.
+DENYER: The Tories are toast, but Labour are offering little better.
+DENYER: With the Green Party, you can choose real hope and real change.
+FARAGE: I'm Nigel Farage, leader of Reform UK.
+FARAGE: Just before we came on air, we overtook the Conservatives in the national opinion polls.
+FARAGE: We are now the opposition to Labour.
+FLYNN: I'm Stephen Flynn, leader of the SNP at Westminster, and we are here to always put Scotland's interests first.
+IORWERTH: Hi, I'm Rhian Ap Iorwerth, I'm the leader of Plaid Cymru.
+IORWERTH: Tonight I'll make the case for a fairer, more ambitious Wales, but also for a new kind of politics that can matter to you wherever you are.
+QUESTIONER_0: Hello and welcome to the ITV election debate.
+QUESTIONER_0: It has been a fractious few weeks in the election so far, grappling with issues like the cost of living, tax, the health service and immigration.
+QUESTIONER_0: After our head-to-head with Keir Starmer and Rishi Sunak tonight, we have leading politicians from the seven largest parties in Great Britain.
+QUESTIONER_0: to hear all of their ideas and plans for tackling the big challenges.
+QUESTIONER_0: And with trust in politics at an all-time low, and where many of us feel our political system is broken, what can they say to restore some faith?
+QUESTIONER_0: Well, the format tonight is simple.
+QUESTIONER_0: We want to focus on four big questions at the heart of this general election campaign.
+QUESTIONER_0: Those questions come from ITV viewers, and the questioners selected are here in the studio with us.
+QUESTIONER_0: They will put their questions directly to the politicians.
+QUESTIONER_0: Each politician will then have an initial, uninterrupted reply to the question.
+QUESTIONER_0: After all the politicians have had a response, we will then debate their positions on that question in depth.
+QUESTIONER_0: I may add in some shorter questions from the viewers at home,
+QUESTIONER_0: to add to our debate.
+QUESTIONER_0: And you can join in wherever you are by using the hashtag ITVdebate.
+QUESTIONER_0: It's time for our first topic.
+QUESTIONER_0: We were inundated with questions from people worried about public services, from people who use them and from people who work in them.
+QUESTIONER_0: Asking about that is Dennis from Southport.
+QUESTIONER_0: Dennis.
+QUESTIONER_1: I was born around the time that the NHS was founded.
+QUESTIONER_1: It was an amazing thing, but unfortunately now it is on its knees.
+QUESTIONER_1: So many public services are not working as they used to.
+QUESTIONER_1: Do any of you have any ideas that are big enough to make things work again?
+QUESTIONER_0: Thank you very much indeed, Dennis.
+QUESTIONER_0: And a reminder that Dennis's question obviously talks broadly about the public services, some of which, like health and education, are devolved areas with policy set directly in Scotland, Wales, and Northern Ireland.
+QUESTIONER_0: I'll come to my first responder, please, to Penny Mordaunt.
+MORDAUNT: Thank you.
+MORDAUNT: Well, thank you for your question.
+MORDAUNT: The NHS in particular, it's an act of faith
+MORDAUNT: for the people of this country.
+MORDAUNT: They want to be able to rely on it.
+MORDAUNT: But since the COVID pandemic, the caseload that our healthcare professionals are dealing with has gone up by 43%.
+MORDAUNT: The only way that we can reduce those waiting lists is to keep the NHS budget strong.
+MORDAUNT: That we have done, that we will continue to do.
+MORDAUNT: The only party on this platform that has ever cut the NHS budget is Labour.
+MORDAUNT: they've got it three times in Wales and we have to increase the number of healthcare professionals that we have.
+MORDAUNT: We have been doing that, 70,000 more nurses for example, we have to continue that and we won't do if we can't retain them in the service because they're being taxed out of it because of their pension.
+MORDAUNT: Thank you very much Pony Mordaunt, Stephen Flynn.
+FLYNN: Dennis, thank you for your question.
+FLYNN: The NHS is quite an important topic for me because I physically wouldn't be standing here if it wasn't for the good work that the NHS did.
+FLYNN: I was a disabled man for 18 years.
+FLYNN: I know the importance of our public services but our NHS
+FLYNN: in particular.
+FLYNN: The thing the NHS requires more than anything is clear financial support from government and a plan for the future.
+FLYNN: And I'm afraid that Westminster doesn't offer that hope and that certainty.
+FLYNN: What's baked in under a future Labour government is £18 billion worth of public sector cuts.
+FLYNN: That's the equivalent of the entirety of Scotland's health and social care budget.
+FLYNN: You deserve better and the people of Scotland deserve better, which is why people should vote for the SNP at this election in Scotland.
+QUESTIONER_0: Stephen Flynn, thank you.
+QUESTIONER_0: Rhian, Ap Iorwerth.
+IORWERTH: We can look at it from two sides in Wales, actually.
+IORWERTH: We have suffered, as everybody is, as a result of the public spending cuts by 14 years of the Conservatives.
+IORWERTH: But also in Wales, we have had Labour health ministers who've mismanaged health for 25 years.
+IORWERTH: At the heart of the future of the NHS has got to be sustainability.
+IORWERTH: Sustainability of funding, which is why I want to see fair funding for Wales.
+IORWERTH: but it's also going to be the sustainability of the workforce.
+IORWERTH: The NHS is nothing without its workforce.
+IORWERTH: That's why we say we want to recruit 500 extra GPs into the NHS.
+IORWERTH: But two core principles.
+IORWERTH: One, we absolutely have to pledge to keep the NHS free at the point of need, and also to keep privatisation out of the NHS.
+IORWERTH: And it pains so many people to see Labour's West Streeting talking so warmly about bringing the private sector into the NHS.
+QUESTIONER_0: Thank you very much indeed, Rhian, Arbuth.
+QUESTIONER_0: Nigel Farage?
+FARAGE: Well, Dennis, the NHS has two fundamental problems.
+FARAGE: One, Penny mentioned, caseloads up by 43%.
+FARAGE: Why?
+FARAGE: because we have an exploding population.
+FARAGE: All of our public services are under pressure because the population has increased by 6 million since the Conservatives came to power.
+FARAGE: It's impossible to keep up.
+FARAGE: Secondly, everyone talks about more money, more money.
+FARAGE: We've massively increased the amount we spend on the NHS.
+FARAGE: We've gone from spending about 7% of the national cake to over 11% of the national cake for worse and worse returns.
+FARAGE: And we need to look
+FARAGE: are countries like France who spend exactly the same sum of money but get far better services by people paying in to an insurance fund.
+FARAGE: It acts on a mutual basis.
+FARAGE: Those that can't pay don't.
+FARAGE: They get better results.
+FARAGE: Let's think more broadly.
+QUESTIONER_0: Thank you very much indeed.
+QUESTIONER_0: Carla Denyer.
+DENYER: Dennis, you're right, the NHS is in crisis and the Conservatives' answer of a workforce plan doesn't help when they're refusing to pay healthcare workers properly.
+DENYER: They're pouring water into a leaky bucket because people are leaving the service for better pay and better conditions elsewhere.
+DENYER: It also doesn't help what Labour are proposing, opening the door to more privatisation in our health service.
+DENYER: The answer is investment.
+DENYER: And that's why the Green Party is clear that we would make transformative investment into not only the NHS, but also social care, which helps take the pressure off the NHS.
+DENYER: The Green Party will always stand for an NHS for people, not profit.
+QUESTIONER_0: Thank you, Carla Denyer.
+QUESTIONER_0: Angela Rayner.
+RAYNER: Thank you, Dennis, for your question.
+RAYNER: The NHS is one of our proudest achievements, and it'll be come Labour that we'll have to fix it again.
+RAYNER: Before I was an MP, I was a Unison rep, and I was a home care worker.
+RAYNER: And in 2010, the Tories, aided and abetted by the Lib Dems, created austerity, which meant many of our workforce were made redundant.
+RAYNER: And now we've got the crisis in the NHS.
+RAYNER: So we've got to fix the workforce problem, and we've got to invest.
+RAYNER: That's why we're done the non-DOM tax status, so we can put 40,000 new appointments, and we'll use up
+RAYNER: private sector to bring down those waiting lists but the NHS will remain a public service under Labour and will also fix the problem in our social care because if you don't take the two together then you won't fix them and we've also said on the VAT on private schools to give us 6,500 qualified teachers in our classroom to fix our education as well.
+QUESTIONER_0: Thank you very much Angela Rayner.
+QUESTIONER_0: Daisy Cooper.
+COOPER: Dennis, I have heard different versions of your questions time and time again.
+COOPER: I hear from people all over the country, they're working hard, they're striving, they're supporting their families, they're paying their taxes, and when they go to use their public services, whether it's the NHS, whether it's schools, whether it's the police or anything else, they're broken.
+COOPER: They're completely broken and nothing works.
+COOPER: Now, in this election, we Liberal Democrats have said that our manifesto is a manifesto to save the NHS and social care.
+COOPER: We're pledging £9 billion to invest upstream.
+COOPER: We see on the TV all these disastrous pictures of people dying in the back of ambulances, suffering the indignity of corridor care because they can't see a GP, they can't see a dentist, and that's what we want to fix.
+COOPER: So, under Liberal Democrats, you'll have 8,000 more GPs,
+COOPER: We'll fix the dental crisis and we'll invest free personal social care so people can get all the care they need when they need it.
+QUESTIONER_0: Daisy Cooper, thank you very much indeed.
+QUESTIONER_0: And just to return to Dennis's question, he was born around the time the NHS was founded.
+QUESTIONER_0: He's seen it over all of these years, haven't you, Dennis?
+QUESTIONER_0: Saying it's now on its knees in so many other areas of public services, which we will also touch on, beside the NHS.
+QUESTIONER_0: Things are just not working.
+QUESTIONER_0: This is what we've heard time and again from our questioners.
+QUESTIONER_0: The key thing that Dennis is asking is, do you have ideas that are big enough
+QUESTIONER_0: Angela Rayner.
+RAYNER: Well yes we've also said not only do we need that investment but we do need the reform.
+RAYNER: We need the technologies as well because our NHS is world leader and then we need to have those scanners and the new technology so that we can have the best possible care for people.
+RAYNER: That will also bring around with that reform efficiencies in the way that people work.
+RAYNER: So we're open to that to make sure that people get the support that they need but we've got to fix the social care crisis as well.
+FLYNN: But what Angela's refusing to admit there is what was referred to earlier, which is the shadow health secretary essentially saying that he's going to hold the door open to the private sector.
+FLYNN: Now, that is not...
+FLYNN: He did say that, and that is not... That's not true.
+FLYNN: ..where the answer lies.
+FLYNN: The answer lies in investment.
+FLYNN: Well, I'll answer that directly.
+FLYNN: And when it comes to staffing...
+QUESTIONER_0: Let's just pause there and allow her to answer that directly and then I'll come back to you.
+RAYNER: I'll answer that directly.
+RAYNER: Wes Streeting has said in order to bring the record high waiting list down that we would use up capacity in the private sector to bring the waiting list down rather than keep people on waiting lists waiting for years for an operation that they desperately need.
+RAYNER: Angelo.
+RAYNER: We think that's the right way.
+RAYNER: But it will always be a publicly owned NHS under Labour.
+FLYNN: Angela, all of us are aware of what Wes has said.
+FLYNN: And you may deny it, but the reality is he said he wants privatisation.
+FLYNN: It goes beyond just hospitals as well.
+FLYNN: And when we talk about staffing, because staffing is an enormous issue, the elephant in the room is the fact that it's not migration is the problem.
+FLYNN: It's the fact that we need more people coming in to work in our hospitals and to work in our social care sector, which has been decimated by your Brexit.
+FARAGE: Isn't the point?
+FARAGE: All we want is for it to be free at the point of delivery.
+FARAGE: That's what matters.
+FARAGE: And actually, Labour are quite right to say, let's use the private sector to try and reduce some of the waiting lists.
+FARAGE: Why not actually give people tax relief on paying money into private insurance to relieve more of the pressure?
+IORWERTH: I chose my words carefully.
+IORWERTH: It's the warm words which Wes Treating has used to describe the role he sees it for the private sector in the NHS.
+IORWERTH: And the problem with that, you see, is that if you're allowing the scarce funding that we all agree there is in the NHS to be leaked out of the NHS in private profit, rather than doing things like setting up the cancer system that Plaid Cymru proposes in this election, you're not serving the people that we're meant to be serving.
+MORDAUNT: Thank you.
+MORDAUNT: Let me bring in...
+MORDAUNT: I think this goes to the heart of the problem, because I think we should just keep political dogma out of the public sector and public services.
+MORDAUNT: The public... We're all politicians up here, but most of the public don't care what colour the cat is.
+MORDAUNT: They just want some mice caught.
+MORDAUNT: That's what they want.
+MORDAUNT: They want results.
+MORDAUNT: And in my experience, listening to people who are actually doing these jobs, police officers who have reduced crime by half,
+MORDAUNT: over the time we've been in office.
+MORDAUNT: Healthcare professionals who are coming up with amazing initiatives in our hospitals and in our GP surgeries.
+MORDAUNT: Teachers who are responsible.
+MORDAUNT: We now have 90% of our schools are good or outstanding.
+MORDAUNT: Listen to the professionals in these services.
+MORDAUNT: Keep political dogma out of it.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: I'll come to you in a moment, Carl Denham.
+QUESTIONER_0: On that issue of private involvement in the NHS, speak to Penny Mordaunt from the Lib Dems' perspective.
+QUESTIONER_0: Daisy Cooper.
+COOPER: Well, to be honest, where there is capacity in the private sector, we could be using some of it in order to bring down the waiting list.
+COOPER: But let's not kid ourselves, there is very limited capacity in the private sector and we shouldn't be using it if it guts more capacity from the NHS.
+COOPER: One of the problems we've had over the last few years, as you know, is that the Conservatives have absolutely gutted primary care.
+COOPER: Some people go to see their GP.
+COOPER: Your party promised 6,000 more GPs.
+COOPER: We now have fewer per head.
+COOPER: We have dentists fleeing the NHS and working privately because the dental contract is so broken and hasn't been fixed.
+COOPER: Boris Johnson stood on the steps of Downing Street and promised to fix social care once and for good, and he hasn't.
+COOPER: And it's now in crisis.
+COOPER: So our plan is to fix the front door with more GPs and dentists and to fix the back door by fixing social care.
+MORDAUNT: And that is exactly what we are doing.
+MORDAUNT: We have grown the number of health care professionals.
+MORDAUNT: And they're leaving.
+MORDAUNT: It's one in one out.
+MORDAUNT: We have 70,000 more nurses.
+MORDAUNT: You're pouring into a leaky bucket.
+MORDAUNT: We have a dental recovery plan.
+MORDAUNT: It's not working.
+MORDAUNT: New providers coming in and also mobile services now.
+MORDAUNT: This is the only way.
+MORDAUNT: What about the 40 new hospitals?
+MORDAUNT: This is the only way.
+MORDAUNT: We are going to get waiting lists down.
+MORDAUNT: What won't get waiting lists down is cutting the budget and taxing healthcare professionals, which is what Labour will do.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: Carla Danley, you have a big offer on the spending for the NHS.
+QUESTIONER_0: There are a lot of questions about that.
+QUESTIONER_0: Talk us through your big idea for the health service.
+DENYER: First of all, I want to say to Penny, decent investment in public services is not political dogma.
+DENYER: It's common sense.
+DENYER: It's what people want to see.
+DENYER: I'm not saying that.
+DENYER: I'm saying having a row about the sectors is wrong.
+QUESTIONER_0: I'll just finish.
+QUESTIONER_0: Sorry, Carol.
+DENYER: Decent investment in public services is common sense.
+DENYER: It's what the public want to see, an NHS well-funded in public hands so that it can do its job.
+DENYER: And Dennis was trying to get out of the panellists tonight what our big ideas are.
+DENYER: The Green Party's big idea is decent investment in public services, and we're not afraid to say where it will come from.
+DENYER: We want to make the economy fairer so that the billionaires and multimillionaires, those with the broader shoulders who can easily afford to, pay a bit extra to fund the public services that we all rely on.
+FARAGE: leave the country, they're leaving already.
+FARAGE: Even under a Conservative government we've got a brain drain, the likes of which we haven't had since 1978.
+FARAGE: Can I come back on that specifically?
+FARAGE: And if Labour are in power, maybe with your support, what will happen is even more will leave.
+FARAGE: Just taxing the rich doesn't solve this.
+FARAGE: And everyone here is talking about more money, more investment.
+FARAGE: I'm telling you, we've massively increased investment in the NHS for a worse return.
+FARAGE: It's not just about money.
+DENYER: I'll introduce some facts to this debate.
+FARAGE: I just did.
+DENYER: When the rules on non-DOM status were changed in this country in 2017, there was no difference in who was leaving the country amongst those that were affected by that change and those who weren't.
+QUESTIONER_0: Absolute nonsense.
+QUESTIONER_0: No, that's true.
+DENYER: They're leaving now.
+QUESTIONER_0: Angela Rayner, you wanted to come in on that point that was just raised by Nigel Farage.
+RAYNER: Yeah, because I think we do have to invest in our public services and we've said that.
+RAYNER: Austerity was very damaging for our public services and actually cost us more in the long run and people are not getting the care that they need.
+RAYNER: But we do need reform and we do need the new technologies that will help as well to bring those efficiencies in.
+FLYNN: But Angela, your party is committed
+FLYNN: to continuing with £18 billion worth of public sector... Don't shake your head.
+FLYNN: This isn't my words, this is the IFS.
+FLYNN: The IFS have outlined the conspiracy of silence between the Labour Party and the Conservative Party on £18 billion worth of public sector cuts.
+QUESTIONER_2: How is that going to help public sector services?
+QUESTIONER_2: It's not.
+QUESTIONER_0: OK, can you respond directly on that point about the £18 billion worth of cuts that Stephen Flynn, he is pointing to?
+RAYNER: Just answer that.
+RAYNER: Yes, because at the moment, we've had flat growth and really poor growth in this country.
+RAYNER: And we're not going to be able to tax our way out of the disastrous situation that has left us in.
+RAYNER: But what we are going to do is we're going to have a growth strategy with an industrial strategy, with a skills strategy, which will enable us to grow the economy so that we can pay for our public services.
+RAYNER: We can't tax our way out of this.
+RAYNER: We've got the highest tax burden.
+RAYNER: Exactly what you were going to do.
+MORDAUNT: You have a black hole of $38.5 billion.
+MORDAUNT: Their manifesto was published today.
+MORDAUNT: I don't know how you can talk about black holes.
+MORDAUNT: Labour's manifesto was published today.
+MORDAUNT: $38.5 billion is the tax gap in their plans.
+MORDAUNT: And the only way, because public spending is going to have to go up, that's the demand.
+MORDAUNT: The only way they are going to be able to do that is to raise taxes.
+MORDAUNT: They've only declared about a quarter of the taxes they're going to put up.
+MORDAUNT: They're going to have to put up a lot more, and they haven't yet told you how they're going to do that.
+MORDAUNT: We have absolutely... You can't afford that.
+RAYNER: You cannot afford another five years of the Tories.
+RAYNER: You're promising tax cuts when you've already done that once and crashed the economy once.
+RAYNER: £2,000 is what £38.5 billion means to every working household in this country.
+COOPER: When it comes to tax, the Conservatives have made a very clear choice to increase taxes on working people, on struggling families.
+COOPER: That's not true.
+COOPER: That's happened more and more times.
+COOPER: You have raised taxes to the highest level in almost 80 years.
+COOPER: The tax burden...
+QUESTIONER_1: That's not true.
+COOPER: What the cats have said is that we would not increase taxes on struggling families during, of course, the living crisis.
+COOPER: That is not true.
+COOPER: But we would look to the big banks, to the big tech companies, who can pay a little bit more to fund our public services.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: I will come back to you very shortly.
+QUESTIONER_0: I just want to take a quick pause on that point.
+QUESTIONER_0: And actually, I know, Rhian, you've reenacted it.
+IORWERTH: If I could make a bet, I had to draw attention to the analogy with the cats and the mice here.
+IORWERTH: What we've seen under the Conservatives for 14 years is the fat cats.
+IORWERTH: getting rich and getting the cream.
+IORWERTH: And I fear that with privatisation in the NHS, we're going to see the same under Labour.
+QUESTIONER_0: You, in an interview last night on a colleague's channel, said that tax is a good thing when it comes to public services.
+QUESTIONER_0: Tell the other people on this platform.
+QUESTIONER_0: why you believe tax is a good thing?
+IORWERTH: This is the honesty that we need in this debate.
+IORWERTH: We can't have a decent NHS.
+IORWERTH: We can't have good schools unless we have a fair taxation system that brings the money in to pay for those services.
+IORWERTH: The taxation system has to be fair.
+IORWERTH: We have to have honesty.
+IORWERTH: And the taxation has to be fair in that the weight is borne by the shoulders of those who have the broadest shoulders, be it corporates or the very, very wealthy.
+FARAGE: have to spend money wisely.
+FARAGE: Folks, I've explained to you, we've massively increased over the last few years the percentage of the national cake we put into the NHS for a worse return.
+FARAGE: Does nobody else acknowledge we need to spend the money better?
+COOPER: Of course we do, that's why Liberal Democrats are saying you invest it upstream because prevention is better than cure.
+COOPER: If you have more GPs, you solve the dental crisis, you have access to mental health hubs in communities, people can access care when they need it and you don't end up firefighting all the problems in A&E, in ambulances and hospitals.
+COOPER: That's the problem that we've had under the Conservatives.
+COOPER: They've gutted primary care and everybody has ended up in hospital because they can't get the treatment they need upstream.
+DENYER: I'd like to know from Angela, why so timid?
+DENYER: Why wait for economic growth when you could introduce a tax that doesn't affect those on average incomes or low incomes?
+DENYER: It only affects the billionaires and multimillionaires.
+DENYER: It could raise tens of billions of pounds.
+DENYER: Why won't Labour even consider it?
+DENYER: OK, Angela Rayner.
+RAYNER: I've never been called timid in my life, but coming back to the point that Nigel made, and Daisy was making the same point, look, I was a home care worker.
+RAYNER: We gutted out home care services.
+RAYNER: It costs so much more money now that people are stuck on trolleys in A&E for 40 hours plus.
+RAYNER: These are our elderly relatives.
+RAYNER: that are treated really poorly, and it costs us more money.
+RAYNER: So if we put the money in the right place, we can actually make savings.
+RAYNER: I did that when I was a home care and trade union rep.
+RAYNER: I know we can do it again.
+RAYNER: But at the moment, we're hemorrhaging money because the money is being used in the most inappropriate way, and people are not getting the care they deserve.
+RAYNER: That's my question.
+RAYNER: All right, thank you very much indeed for that.
+RAYNER: But Angela, I'm just going to raise your taxes.
+RAYNER: Thank you.
+QUESTIONER_0: I'm just going to return to debt.
+QUESTIONER_0: That gap has to be closed.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: We're anchoring all of our debate tonight in the questions that have been so kindly provided by our audience, which we're very grateful for.
+QUESTIONER_0: It was clear, actually, when Dennis was posing that question, as I alluded to earlier, it's not just the NHS, of course, that he's talking about.
+QUESTIONER_0: He's talking about a whole range
+QUESTIONER_0: of public services.
+QUESTIONER_0: We've received messages from hundreds of teachers across the United Kingdom.
+QUESTIONER_0: They are all saying schools are in crisis, that there are not enough teachers.
+QUESTIONER_0: We even had a message from a 12-year-old who said his school is literally crumbling.
+QUESTIONER_0: Be honest, do you think our education system is still world class?
+MORDAUNT: Penny Mordaunt.
+MORDAUNT: I think it is world-class, and we have improved.
+MORDAUNT: Well, when we took office, literacy rates were trailing the world.
+MORDAUNT: Now they are leading them.
+MORDAUNT: We have 90% of our schools are good or outstanding, and we have undertaken an enormous refurbishment programme.
+MORDAUNT: I mean, just in my own patch, we've rebuilt several schools.
+MORDAUNT: We have a university technical college.
+MORDAUNT: Investment has gone in, and we've also increased the numbers of teachers that we have.
+MORDAUNT: 30,000 more teachers.
+MORDAUNT: That is absolutely vital and education standards are going up as a direct consequence of that.
+MORDAUNT: There have been some difficult questions for the SNP on education.
+QUESTIONER_0: Stephen Flynn.
+FLYNN: When we look at education in the round, the biggest difference that exists between the SNP and what happens in Scotland
+FLYNN: and the Labour Party and the Conservative Party and what happens in Westminster in England is the fact that for our young people in Scotland, they go to university and they don't pay a single penny in tuition fees.
+COOPER: Life-changing.
+COOPER: But you're supposed to have fallen down the international rankings.
+FLYNN: Absolutely life-changing.
+FLYNN: And I don't know if the Lib Dems agree with tuition fees or not.
+FLYNN: They've got quite a record in that regard.
+FLYNN: I'm sure you can elaborate upon it for all of us.
+QUESTIONER_0: Daisy Cooper, respond to Stephen Flynn.
+QUESTIONER_0: Do you talk to Stephen Flynn?
+COOPER: Well, on the question of tuition fees, we were punished for that.
+COOPER: That's democracy.
+COOPER: I get that.
+FLYNN: Do you still believe in free tuition, though?
+COOPER: As I say, on the point of tuition fees, we were punished for that, right?
+COOPER: What's your position now?
+QUESTIONER_2: What's your policy now?
+COOPER: In 2015, when we were out of coalition,
+COOPER: The thing that the Conservatives did on their own is they removed maintenance grants, the grants that were there for the poorest students to give them a shot at going to university.
+COOPER: And we have said that we would put those back in place.
+COOPER: But when it comes to education, we will not take lessons from the SNP, because under your watch, schools have fallen down the international rankings rapidly.
+DENYER: The teachers that have written in are right, like almost all of our public services.
+DENYER: Our education system is being run into the ground.
+DENYER: And I was really glad to see the National Education Union came out yesterday to welcome the Green Party manifesto.
+DENYER: It said that the Green Party manifesto is the only party manifesto out so far.
+DENYER: that meets the scale of the challenges in the education sector.
+DENYER: It's time to invest in teachers, in their pay, in school buildings, in making schools more than just exam factories and giving young people what they need for life.
+FARAGE: Nigel Farage.
+FARAGE: Scotland was world class at one point.
+FARAGE: It certainly isn't now.
+FARAGE: It's gone right down the international rankings.
+FARAGE: Look, there is a problem.
+FARAGE: We know the buildings, the racked concrete, all of that, but we are back to the subject that nobody wants to discuss.
+FARAGE: The exploding population means our schools, our class sizes are getting bigger.
+FARAGE: Of course, we've recruited more teachers.
+FARAGE: We need more teachers with an exploding population.
+FARAGE: And it's a constant problem that none of the other panellists even want to discuss.
+QUESTIONER_0: Angela Rayner, tell Nigel Farage about the policy that you have on finding new teachers.
+RAYNER: Well, first of all, I respectfully disagree that we have the exploding population in our schools.
+RAYNER: We have falling roles in our schools at the moment, actually, and that is a problem for many of our primary schools.
+RAYNER: But what we've said is that we would end the
+RAYNER: VAT tax break on private schools to put 6,500 qualified teachers in the classroom.
+RAYNER: We've got teachers teaching lessons that they're not qualified in at the moment.
+RAYNER: We think that every child should have a qualified teacher in the classroom.
+RAYNER: And we have the Tories who knew and were warned about RAC.
+RAYNER: and the problems with our schools' buildings at the moment.
+RAYNER: We've got more temporary classrooms because of that, because they did nothing, but they cut the capital budget for schools at the same time, knowing full well that there is dangers with racked buildings.
+RAYNER: OK. Nigel Farage and then Penny Mordaunt.
+FARAGE: Look, you know, if you put 20% on private school fees, all you'll finish up with are a lot more.
+FARAGE: Probably 25% of those currently in private school will then be a burden for state schools.
+FARAGE: It is a self-defeating policy that removes parental choice.
+RAYNER: Well, Nigel, those schools could.
+RAYNER: You know, our state schools have had austerity and have cuts and cuts.
+RAYNER: Those schools could absorb some of those costs, so they didn't have to pass it on to all of the people.
+RAYNER: So you're happy with more pupils going into the state sector?
+RAYNER: But we cannot afford to give private schools a tax break when our state system cannot have the right teachers in the classrooms that they deserve.
+RAYNER: OK, I must bring in Penny Morgan there.
+RAYNER: Thank you, Nigel Farage.
+MORDAUNT: In 2010, in addition to there being no money left,
+MORDAUNT: IFOI, the Department of Education, about the Building Schools for the Future programme.
+MORDAUNT: They weren't even looking at secondary schools in that programme.
+MORDAUNT: And what Angela and the Labour Party are going to do is, unbelievably, they are going to tax education.
+MORDAUNT: The result of that is, yes, some families will not be able to send their kids to the schools they're currently going to, but also, they've admitted this week, class sizes will go up as a consequence.
+MORDAUNT: It's crazy.
+MORDAUNT: It doesn't serve anyone.
+MORDAUNT: And it's the kind of dogma that we need to keep out
+IORWERTH: of the public sector.
+IORWERTH: half an extra teacher in every school in England will make a difference to the standards of education.
+IORWERTH: But I'll tell you one thing, we need, and both my parents were teachers, we need, just as in health, to make sure that our workforce feel supported.
+IORWERTH: It's in good wages, but it's also in knowing that government is on their side, and neither in Wales nor in the rest, nor in England, can they say that that's the case.
+RAYNER: OK, no, I'm going to look for manifesto where the school support
+RAYNER: staff negotiating body which is around the whole of the support staff as well as teachers which I believe will make a difference.
+QUESTIONER_0: Thank you very much.
+QUESTIONER_0: We've had so many thoughts and debates within that question about public services.
+QUESTIONER_0: We've had thousands of questions from our viewers about the scale of the problems in the public services against the backdrop
+QUESTIONER_0: of a pretty squeezed financial situation.
+QUESTIONER_0: I know that everybody here and at home will have listened with great interest in what you've had to say.
+QUESTIONER_0: All of those perspectives, from reform to spending to tax, a lot of things to think about.
+QUESTIONER_0: Do stay with us.
+QUESTIONER_0: After the break, we will be talking about immigration, trust in politics and, yes, Brexit.
+QUESTIONER_0: After the break.
+QUESTIONER_0: See you shortly.
+QUESTIONER_0: Welcome back to the ITV election debate.
+QUESTIONER_0: A reminder that you can join in the conversation we're having tonight using the hashtag ITV debate.
+QUESTIONER_0: Now let's get straight on to our next question from Christine from Manchester.
+QUESTIONER_0: Christine.
+QUESTIONER_3: I keep hearing migration levels are too high and getting higher, and it's a strain on public services.
+QUESTIONER_3: But I understand we as a country need some foreign workers.
+QUESTIONER_3: What are you going to do?
+QUESTIONER_3: Thank you very much indeed, Christine.
+QUESTIONER_3: Angela Rayner.
+RAYNER: Thanks, Christine.
+RAYNER: And what we need at the moment is a skills strategy.
+RAYNER: We've not had an industrial and skills strategy.
+RAYNER: So what we've had is we've been over-relying on our economy from overseas workers to fill our skills gap.
+RAYNER: And they've done a tremendous job in doing that.
+RAYNER: And we have needed that.
+RAYNER: But what we really need is unemployment levels have gone higher again.
+RAYNER: is we need to really match those skills and give people opportunity to take those jobs and that's what Labour's industrial and skills strategy is about.
+RAYNER: It's about not relying on overseas workers and we'll always have overseas workers that come and help us but we also need to have a strategy on how we skill up people here in the UK.
+RAYNER: Thank you very much indeed Angela Rayner.
+RAYNER: Nigel Farage.
+FARAGE: But it's funny Angela Rayner says that because Labour today launched their six key priorities for the general election and didn't mention the single most important issue affecting the lives of everybody in this country, namely the population explosion caused directly by migration.
+FARAGE: The reason we voted Brexit, and the reason Penny's Party got the massive majority in 2019, is we voted to reduce the numbers coming in, and the numbers have exploded.
+FARAGE: Honestly, unbelievable.
+FARAGE: One in 30 people walking on the street out there has come in the last two years alone.
+FARAGE: The answer is we have to have net migration at zero.
+FARAGE: It means skilled workers can come, we can go work abroad, we have to have a freeze on the total numbers of those coming in.
+DENYER: Thank you very much.
+DENYER: Carla Dania.
+DENYER: Christine, you're right.
+DENYER: Our economy needs migration.
+DENYER: Migration does change communities.
+DENYER: In my view, that is a positive.
+DENYER: However, I understand it can be unsettling, especially when change happens fast.
+DENYER: And it can be particularly unsettling when the government doesn't invest properly in our public services.
+DENYER: We think it's shameful when some politicians scapegoat the people who become our neighbours, our friends, our colleagues, to distract from their chronic underinvestment in public services.
+DENYER: The solution isn't scapegoating or pulling up the drawbridge.
+DENYER: The solution is investing in our communities to make sure everyone has access to the services they need.
+DENYER: My party will never engage in that scapegoating rhetoric.
+FLYNN: Thank you.
+FLYNN: Stephen Flynn.
+FLYNN: So Scotland has a migration problem.
+FLYNN: The problem is we don't have enough migrants because Scotland has a declining working age population.
+FLYNN: So we need people to come.
+FLYNN: And you know what?
+FLYNN: I am genuinely fed up going to speak to businesses.
+FLYNN: going to speak to health care workers, going to speak to people in our social care sector, in our schools and beyond, who say that they need more colleagues.
+FLYNN: Businesses who want to expand, who need people to come and work with them and for them.
+FLYNN: That's why I'm in favour of migration.
+FLYNN: And this race to the right that is happening in Westminster is so, so wrong.
+FLYNN: We can do better.
+FLYNN: We must demand better, not just from the Tories, but from the Labour Party too.
+FLYNN: And the SNP will always do that.
+QUESTIONER_0: Thank you very much.
+QUESTIONER_0: Daisy Cooper.
+COOPER: Our NHS, our care service, hospitality, engineering, you name it, almost every single sector in this country is absolutely crying out for people with the skills that they need.
+COOPER: And under this Conservative government,
+COOPER: What has happened is they always pull the lever for immigration, and people come here and we should welcome them when they do and contribute to our economy, but they haven't invested in our domestic workforce.
+COOPER: Liberal Democrats have a plan to give a higher minimum wage to care workers, £2 higher than the minimum wage for everybody else, so we can get people back working in the care sector.
+COOPER: We want to create a Royal College of Care Workers, so they've got a bigger, stronger voice, and give them genuine vocation and training throughout their lifetime.
+COOPER: We also need to have
+COOPER: skills lifetime account as well because people need to retrain and reskill throughout their life but when people come here to look after our loved ones we should welcome them but we must also invest in our domestic workforce at the same time.
+QUESTIONER_0: Thank you Daisy Cooper.
+IORWERTH: It's a very well-worded question, isn't it?
+IORWERTH: I keep hearing that this is a problem, says Christine.
+IORWERTH: And you know what?
+IORWERTH: I think we need to heed and listen to people who have genuine concerns about the impact of the movement of population and pressures on public services, but we have to put that in the context of public spending cuts by the Conservatives.
+IORWERTH: look at the numbers of immigrants that we need to bring in for certain sectors in health and care and parts of the economy.
+IORWERTH: Listen, I've been on a whistle-stop tour of Wales in the past week.
+IORWERTH: You know, I try to listen to people, but the problem we have is that Nigel Farage here has been on a dog-whistle tour of the UK for many, many years and exploiting the anxieties that people have, and we really need to change the way that we talk about this issue.
+IORWERTH: It's making us poorer.
+IORWERTH: That's the point.
+IORWERTH: It's making us poorer.
+IORWERTH: Thank you.
+QUESTIONER_0: We are doing these answers uninterrupted.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: Penny Mordaunt.
+MORDAUNT: And public spending is going up.
+MORDAUNT: But you put the question very well.
+MORDAUNT: And I think whatever the public think about the numbers, what they want from their government and their parliament
+MORDAUNT: is to control access of foreign nationals to the UK.
+MORDAUNT: So what we are proposing is that every year Parliament will put a cap on the number of family and work visas, informed by what our workforces need but also what pressures would be put on housing,
+MORDAUNT: and community services.
+MORDAUNT: That way we can ensure that each year the numbers come down and on our plans we are due to halve that number, halve migration by next summer.
+MORDAUNT: With us you get a cap and a plan, with Labour they have no cap, no number and no plan.
+QUESTIONER_0: Thank you, Penny Mordaunt, for that.
+QUESTIONER_0: Just to return to Christine's question, she's hearing that migration levels are too high, getting higher, putting a strain on those public services.
+QUESTIONER_0: She understands, as a country, she says that we need some foreign workers.
+QUESTIONER_0: What are we going to do about it?
+QUESTIONER_0: Just before we get the debate flowing, please raise your hand if you think the net level of legal migration, that is, the additional number of people coming to the country to work and live, needs to fall.
+QUESTIONER_0: Please raise your hand.
+QUESTIONER_0: The number needs to fall.
+QUESTIONER_0: What a sorry reflection.
+QUESTIONER_0: Nigel Farage, Penny Mordaunt...
+QUESTIONER_0: It's due to fall anyway.
+QUESTIONER_0: ..Daisy Cooper, Angela Rayner.
+QUESTIONER_0: Thank you very much.
+FLYNN: The Westminster status quo.
+QUESTIONER_0: That's exact.
+QUESTIONER_0: That's the Westminster status quo.
+QUESTIONER_0: No, it's not at all.
+FLYNN: Of course it is.
+FLYNN: The four main parties... No, it isn't.
+FLYNN: The four main parties all with...
+COOPER: I welcome immigration, because I think that people come here and they're more likely to prop up our public services and work in our public services, rather than they are to put a drain on our public services.
+COOPER: So I welcome immigration in this country, because they contribute to our public service.
+COOPER: But the numbers are due to come down anyway.
+COOPER: But I think one or part of the reason we have so many people coming here, and I welcome them when they do, is because we're not investing in our domestic workforce.
+COOPER: and we can do both at the same time.
+QUESTIONER_0: OK, thank you.
+QUESTIONER_0: There was some pretty strong language used towards Nigel Farage about dog whistle tours and scapegoat politics.
+FARAGE: What's your response to that, Nigel Farage?
+FARAGE: I'm just talking numbers.
+FARAGE: We haven't even mentioned housing yet.
+FARAGE: But could you respond to that point in particular?
+FARAGE: Oh, no, I ignore that nonsense.
+FARAGE: Complete nonsense.
+FARAGE: I'm just talking pure facts.
+FARAGE: Housing.
+FARAGE: We have to build one new home every two minutes
+FARAGE: just to cope with legal net migration under this Conservative government.
+FARAGE: It is literally impossible.
+FARAGE: And as for the numbers coming in, I would respond to this.
+FARAGE: 50% of the three quarters of a million who are coming in a year are dependents.
+FARAGE: They're not wealth creators.
+FARAGE: And mass migration is making us poorer.
+FARAGE: You'll hear, oh, GDP's going up.
+FARAGE: Well, of course it is.
+FARAGE: There are more people.
+FARAGE: GDP per capita, our relative wealth, has declined for the last six consecutive quarters.
+IORWERTH: I hear Nigel Farage talking a lot about dependence.
+IORWERTH: The problem that we have in higher education now is that changes in visa requirements means that family members aren't able to come and study to accompany students to universities.
+IORWERTH: That is causing major problems in terms of revenue for our higher education universities.
+FARAGE: You should bring your mum.
+FARAGE: You come to university in Britain, you can't bring your mum, can you?
+IORWERTH: I mean, come on.
+IORWERTH: But we need people to come to study in our universe.
+IORWERTH: Thank you.
+COOPER: We're relying on people from abroad to care for our loved ones.
+COOPER: They should be able to bring their loved ones with them.
+COOPER: OK, thank you.
+QUESTIONER_0: I just want to turn to Angela Rayner, who's quite quiet here.
+QUESTIONER_0: You did raise your hand alongside Nigel Farage on that question, Angela Rayner.
+RAYNER: Yeah, because the Tories, they talk about a cap, but we've had net migration going up and up because our economy has relied on overseas workers to... Well, it's flatlining.
+RAYNER: But what we've said is that we need an industrial and skills strategy because we've got unemployment going up in the latest figures, so we've got to make sure... You've had 14 years to come up with some ideas on this.
+RAYNER: You've had 14 years in government!
+QUESTIONER_4: And we have!
+QUESTIONER_4: We've got...
+I love the way you twist it!
+MORDAUNT: We've got a workforce plan for the NHS.
+MORDAUNT: We've got a workforce plan for social care.
+COOPER: You don't have a workforce plan for social care.
+MORDAUNT: It will inform a vote on the floor of the House of Commons from your democratically elected representatives.
+MORDAUNT: We'll be able to cap the visas.
+RAYNER: It is absolute rubbish.
+RAYNER: You've had 14 years and net migration has gone up.
+MORDAUNT: You have no idea.
+MORDAUNT: You have no workforce strategy.
+MORDAUNT: You have no industrial strategy.
+RAYNER: You have no number.
+MORDAUNT: Are you talking to me or Rishi?
+MORDAUNT: Thank you.
+MORDAUNT: You don't need to be here, Rishi, because that is exactly... What's your plan, Angela?
+MORDAUNT: This is an election campaign.
+MORDAUNT: What's your plan?
+QUESTIONER_0: Thank you.
+QUESTIONER_0: You haven't got one.
+QUESTIONER_0: You have been in power.
+QUESTIONER_0: Thank you, Angela Rayner.
+QUESTIONER_0: Stephen Flynn.
+FLYNN: I'll follow that.
+FLYNN: The reality is that Angela was being quiet because the leader of her party, Keir Starmer, just a couple of years ago said that we should be talking about the positive benefits of migration.
+FLYNN: And I actually believe that Angela Rayner probably agrees more with me on this topic rather than she does Nigel Farage or Penny Mordaunt, but the Labour Party has changed and it's changed in the wrong direction.
+FLYNN: And when Nigel Farage
+FLYNN: tells you all that migrants are making you poor and they're the problem.
+FLYNN: Don't believe him.
+FLYNN: Do you want to know the biggest problem facing the UK economy right now?
+FLYNN: His pet project of Brexit.
+FLYNN: £40 billion worth of tax receipts.
+FLYNN: And do you want to know what makes it worse?
+FLYNN: The Labour Party back Brexit, as outlined by their manifesto today.
+FLYNN: Shameful.
+QUESTIONER_0: I need you to respond, Angela Rayner, to all of those points, particularly the point on...
+RAYNER: Absolutely.
+QUESTIONER_0: And are you on his side, really, as Stephen Flynn's implying, or asking directly?
+RAYNER: Look, first of all, we respect the result of the referendum.
+RAYNER: I know that the SNP never do, but we do, and that's what we've said on that point.
+RAYNER: On the second point, on the second point,
+RAYNER: I absolutely believe that people come to this country and work hard and contribute but we cannot have an economy that relies on just overseas workers.
+RAYNER: We have to also have an industrial and skills strategy when unemployment is going up in the UK that we can train and fill our skills gaps as well.
+MORDAUNT: You haven't had to do anything else other than come up with these ideas.
+MORDAUNT: Penny, you've been in power 14 years.
+RAYNER: 14 years.
+RAYNER: We've got one.
+RAYNER: You haven't got one.
+MORDAUNT: You haven't.
+MORDAUNT: You promised an employment bill.
+RAYNER: We've never got one.
+RAYNER: I promised to bring down net migration.
+RAYNER: You haven't got one.
+MORDAUNT: Thank you very much, Penny Horton.
+MORDAUNT: Angela Rayner, I think we might have just been there.
+MORDAUNT: We'll give you the worst of all possible worlds for the EU, because they will take you back in without any of the benefits of membership.
+DENYER: You keep talking about your workforce strategy.
+DENYER: What are you doing to deal with the emigration, the people leaving from our health and social care because they're not being properly paid for the work they do?
+MORDAUNT: I'm fighting Labour's plans to tax our healthcare professionals on their pensions.
+MORDAUNT: That's what I'm fighting.
+MORDAUNT: Senior nurses, doctors...
+MORDAUNT: I don't think that's why anyone's leaving.
+MORDAUNT: ..are going to leave the NHS, and they're also going to be piling on additional pressures into our world.
+MORDAUNT: Penny, we haven't won the general election yet.
+DENYER: Come down to the picket line with me next time, and we'll try and find someone who says that's why they're leaving.
+DENYER: I won't be on the picket line.
+FARAGE: OK. All right.
+FARAGE: Nigel Farage.
+FARAGE: Christine, the answer to your question is, what are they going to do about it?
+FARAGE: Neither of them will do anything.
+FARAGE: These people have lied to us repeatedly.
+FARAGE: Says you, come on!
+FARAGE: And Labour... And Labour... And Labour...
+FARAGE: Repeatedly.
+FARAGE: I've actually always told the truth.
+FARAGE: Always said what I believe.
+FARAGE: And Labour, it's not even in your first six priorities for government.
+FARAGE: You haven't got the will to do anything about it.
+FARAGE: Nothing under these is going to change.
+FARAGE: And the vast majority, not on this panel, obviously, because they're not representative in that sense, the vast majority of Britons want net migration reduced significantly.
+RAYNER: Angela Rayner, whilst I pick my cards up.
+RAYNER: Thank you.
+RAYNER: Well, actually, in our first steps, we talk about a border force command so that we can deal with the crossings and people that are putting their lives at risk.
+RAYNER: Because the Rwanda scheme will never work.
+RAYNER: It's always been a gimmick.
+RAYNER: We would put that money into tackling the gangs.
+RAYNER: And Keir Starmer said today, he's worked on counterterrorism with overseas before.
+RAYNER: We can do it again.
+RAYNER: These gangs that are putting people's lives at risk should not be carrying on in the way they are.
+MORDAUNT: That is an illegal migration.
+MORDAUNT: And again, you have no plan to do it.
+RAYNER: Penny, you've had 40 years in power.
+RAYNER: Well, tell everyone what you're going to do with illegal migrants when they come here.
+RAYNER: What are you going to do with illegal migrants when they come here, Angela?
+RAYNER: We have said that we will fill our skills gap with an industrial strategy to match people onto the skills... You've brought it on to illegal migration.
+RAYNER: Sorry, Angela.
+RAYNER: Thank you.
+MORDAUNT: You're not letting me finish.
+MORDAUNT: Your leader was asked a specific question at the Manifesto launch today.
+IORWERTH: Thank you.
+MORDAUNT: And your leader couldn't answer it.
+MORDAUNT: Penny Mordant, thank you.
+MORDAUNT: What are you going to do with illegal migrants that come here?
+MORDAUNT: Thank you, Penny Mordant.
+IORWERTH: Angela Rayner mentioned the border force.
+IORWERTH: We're back to Brexit here.
+IORWERTH: Of course, it's more difficult to control our borders and immigration because of Brexit and the fact that our relationship isn't what it was with the European Union.
+IORWERTH: And on Brexit, £4 billion has been spent on controlling our borders when we used to have borders that were free.
+IORWERTH: The question I ask myself time and time again in this election is, what has happened to Labour?
+IORWERTH: After Brexit, I didn't want to leave the European Union, but once that vote happened, we had to think of ways, OK, of trying to protect our interest.
+IORWERTH: I worked with Labour colleagues of yours on a document called Securing Wales' Future, which proposed getting back or staying in the customs union and the single market so at least we could look after our trade interests.
+IORWERTH: What happened to you?
+IORWERTH: Why won't you even talk about that in the Labour Party now?
+IORWERTH: It's because you're afraid of the Conservatives, the Conservatives are afraid of Nigel Farage, and we end up in the trouble that we're in.
+RAYNER: Angela Rayner, respond directly to that, please.
+RAYNER: First of all, nobody thinks people should be crossing on small boats and putting their lives at peril.
+RAYNER: That's why we don't think these gangs should be allowed to do that.
+RAYNER: That's why we're putting the money into stopping that from happening.
+RAYNER: And in terms of what we're going to do to support...
+RAYNER: Sorry, I forgot what your other part of the question was,
+QUESTIONER_0: OK. All right, if you're so... Just going to take a pause and a breather there.
+QUESTIONER_0: I'm just gathering my thoughts as well as gathering my cards.
+QUESTIONER_0: So, we're just going to draw a little bit of a line, but actually stay broadly on the subject, as you'll see, because he is quite keen to talk about Brexit.
+QUESTIONER_0: Before we go to our next break, I'd like to ask you all a pretty quick-fire question from Ken in Caerphilly.
+QUESTIONER_0: He told us that he had a simple question.
+QUESTIONER_0: Yes or no, if elected, would you ever rejoin the EU or the single market?
+QUESTIONER_0: Angela Rayner.
+QUESTIONER_0: No, and your other question before was Brexit and the result of the referendum.
+QUESTIONER_0: That's what we expect.
+QUESTIONER_0: You would never rejoin the EU or the single market.
+QUESTIONER_0: No.
+QUESTIONER_0: Shameful.
+QUESTIONER_0: Thank you.
+FLYNN: Shameful.
+COOPER: Daisy Cooper.
+COOPER: Not on the table of this election, unfortunately, but at some point in the future, I very much hope so.
+MORDAUNT: Thank you very much.
+MORDAUNT: Penny Mordaunt.
+MORDAUNT: No, and if you have a Labour government, they will take you back in.
+MORDAUNT: They will tie you on defence, on migration, on regulation, without any of the benefits of membership.
+MORDAUNT: Carla Denyer.
+QUESTIONER_0: Yes, when the time is right.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: Nigel Farage.
+FARAGE: No, we're free.
+FARAGE: Unfortunately, we're governed incompetently, but at least there are mistakes and not somebody else's.
+IORWERTH: Stephen Flynn.
+FARAGE: Yes, absolutely.
+IORWERTH: Thank you, Andrean.
+IORWERTH: I have no doubt that Wales is best served by being in the European Union, but for now, let's get back in the customs union and the single market to help our economy.
+QUESTIONER_0: Thank you all very much for being so sharp and quick and clear with your answers on that.
+QUESTIONER_0: We will leave that issue there for now.
+QUESTIONER_0: Much more after the break, when we'll be discussing the cost of living and also giving each leader a chance...
+QUESTIONER_0: Welcome back to the ITV election debate where seven of the country's political leaders are making the case for why they should get your vote with our next question.
+QUESTIONER_0: It's now time to turn to Janice from Penarth in South Wales.
+QUESTIONER_5: Good evening.
+QUESTIONER_5: Britain is a rich country.
+QUESTIONER_5: I've worked in housing for 32 years.
+QUESTIONER_5: Why am I working every day with individuals and families who never thought they'd struggle, but now rely on food banks and are at serious risk of homelessness?
+QUESTIONER_0: Thank you very much indeed, Janice.
+QUESTIONER_0: Nigel Farage.
+FARAGE: because people are getting poorer.
+FARAGE: It's quite simple.
+FARAGE: I mentioned a few moments ago that GDP, wealth per capita, has fallen for the last six consecutive quarters.
+FARAGE: And it's very much... And it's been the same.
+FARAGE: It sort of began with Labour, but it's continued.
+FARAGE: It's very much a country in which the big corporates and the big banks and a certain group of people have become richer exponentially,
+FARAGE: And everybody else has fallen behind.
+FARAGE: And things that perhaps we could have expected when we were younger, our kids and grandkids now find a house unaffordable.
+FARAGE: Rents have risen by 20%, in some parts 30%, just in the last three years.
+FARAGE: And I'm sorry, but we are back.
+FARAGE: to the population explosion and the massive impact it's having on the lives of people.
+FARAGE: And we've got to try to get the population to steady, and we have to build more houses, and we have to take the poorer people out of tax, increase the tax rate...
+FARAGE: Thank you very much.
+FARAGE: ..for £20,000, get people back to work.
+QUESTIONER_0: Thank you very much.
+QUESTIONER_0: You've had your time.
+QUESTIONER_0: Nigel Farage, thank you for that.
+QUESTIONER_0: Rhian Apurwos.
+QUESTIONER_0: Thanks for the question.
+IORWERTH: Yes, a very rich country.
+IORWERTH: but one of the most unequal in the world.
+IORWERTH: And it's because of that that we were so ill-prepared for the cost-of-living crisis.
+IORWERTH: Some, of course, was exacerbated by war and global conditions, but, of course, we can never forget tressonomics and the crashing of the economy at the hands of the Conservatives.
+IORWERTH: So, what we had was a cost-of-living crisis, yes, a cost of inequality crisis, a cost of lack of investing crisis, a cost of missed opportunities.
+IORWERTH: Somehow, we have got to get government to recognise the importance of dealing with inequalities before they can make opportunities open to all.
+IORWERTH: And that is what is so missing from what Labour is offering, tied at the hip as they are to the Conservatives.
+IORWERTH: Thank you very much, Stephen Flynn.
+FLYNN: is an easy answer to your question, which is the Conservative Party is the problem.
+FLYNN: But to look more deeply into the policy aspect of this, we've had 14 years of austerity.
+FLYNN: Then we've had the damage of Brexit and what that's done to the economy, the shrinking of the economy, the £40 billion worth of tax receipts which have disappeared out of the economy.
+FLYNN: Then, of course, we had Liz Truss and her decision to crash the economy.
+FLYNN: And, of course, on top of that, we've had the mismanagement of primarily Scotland's energy resources, which has led to everyone in this room and everyone across these aisles' energy bills going through the roof.
+FLYNN: The thing that concerns me the most is what comes next.
+FLYNN: And the status quo consensus in Westminster is for £18 billion of public sector cuts, isn't it, Angela?
+QUESTIONER_0: Thank you very much indeed, Daisy Cooper.
+COOPER: The cost of living in crisis is a complete catastrophe, and it's affecting people in every single community across our country.
+COOPER: There was a point at which we used to say people were choosing between heating and eating, but there are people now who can't afford either, and it's devastating.
+COOPER: So we Liberal Democrats were the first party to call for a windfall tax on the big oil and gas companies because we saw the raw injustice of those companies raking in billions of pounds in profits whilst people couldn't afford
+COOPER: to heat their homes.
+COOPER: And that's why we're still saying we would close the loopholes in that windfall tax to raise more money so we didn't increase the warm home discount and start insulating people's homes.
+COOPER: We would spread free school meals to every single child living in poverty in this country so they can afford to have at least one meal a day to help them sleep and study.
+COOPER: And we must invest £1 billion in our farmers to reduce the price of healthy, locally grown food.
+COOPER: OK, thank you very much.
+COOPER: Angela Rayner.
+RAYNER: Well, it's a very important question.
+RAYNER: Stephen gave a resume of what the problems were, but without any of the solutions.
+RAYNER: We need to grow our economy.
+RAYNER: We haven't had growth in our economy.
+RAYNER: The Tories have taxed us the highest burden in 70 years.
+RAYNER: We also need to build the houses that people need.
+RAYNER: The Tories haven't built those houses.
+RAYNER: That's why we've said we'd build 1.5 million homes, including
+RAYNER: social housing that we desperately need.
+RAYNER: We need a new deal for working people, which I'm incredibly proud of, to make sure that people have secure, good-paid jobs.
+RAYNER: And we need great British energy to bring down energy bills so we're not reliant on people like Putin for our energy needs, which has meant people's bills have gone sky-high.
+MORDAUNT: Thank you very much.
+MORDAUNT: Penny Mordaunt.
+MORDAUNT: Thank you.
+MORDAUNT: Well, thank you for what you do.
+MORDAUNT: And you'll know from the people that you work with that when you're facing financial hardship, how frightening that is.
+MORDAUNT: and how exhausting it is because you have to be so organised.
+MORDAUNT: I think this is the issue of the election and it is not true to say that we've put the highest burden on the poorest.
+MORDAUNT: The tax burden on those on low and middle incomes is the lowest that it has been since 1975.
+MORDAUNT: We've got four million people into work.
+MORDAUNT: We have a million fewer working households.
+MORDAUNT: But what we need to do now is cut tax.
+MORDAUNT: We have to enable people to keep more of the money they earn.
+MORDAUNT: That is what we will do.
+MORDAUNT: Labour will do the opposite.
+MORDAUNT: They will put up taxes, they will put up bills, and the people you work with will suffer.
+RAYNER: Penny, keep spouting this rubbish, but we've got more working people.
+QUESTIONER_0: Angela Rayner, we are doing uninterrupted responses, and it is Carla Denya's time to respond.
+QUESTIONER_0: Carla Denya.
+DENYER: Thank you.
+DENYER: Janice, you're right.
+DENYER: The rich are getting richer, but the poor are getting poorer.
+DENYER: We think it's time to bring fairness back into our economy by asking the billionaires and the multi-millionaires to pay a bit more and introducing a £15 minimum wage, an immediate £40 weekly uplift to universal credit.
+DENYER: and lifting the cruel two-child benefit cap, which both the Conservatives and the Labour Party support, even though it unnecessarily holds 250,000 children down into poverty.
+DENYER: It's not even that expensive to lift, but both the Conservatives and Labour have ruled it out.
+QUESTIONER_0: Thank you very much indeed, Carla Denyer.
+QUESTIONER_0: And just a reminder of Janice's question.
+QUESTIONER_0: She works in housing.
+QUESTIONER_0: It's very pertinent to her.
+QUESTIONER_0: She's seeing it day in, day out.
+QUESTIONER_0: She's asking why so many people are now relying on food banks and are at risk of losing their homes.
+QUESTIONER_0: And just to put some statistics here before we get this debate going, last year, the Trussell Trust handed out 3.1 million food parcels, the highest number ever.
+QUESTIONER_0: And the Independent Institute for Fiscal Studies
+QUESTIONER_0: has said this Parliament has been the worst on record for growth in average incomes.
+QUESTIONER_0: Stephen Flynn put some very clear points directly to you, Penny Moore.
+QUESTIONER_0: Perhaps you'd like to respond to them, first of all.
+MORDAUNT: Well, look, we have been through some very, very tough times, and the economy is now turning.
+MORDAUNT: Wages have been growing for the last 10 months.
+MORDAUNT: This is not the time to suddenly rack up taxes on people.
+MORDAUNT: Nobody's paying it.
+MORDAUNT: Their leader has said he is going to do this.
+MORDAUNT: What you haven't been told is what taxes and on what people.
+MORDAUNT: But the average is £2,000 per working household in this country.
+MORDAUNT: People can't afford that.
+MORDAUNT: You know they can't afford that.
+MORDAUNT: I asked you to respond directly.
+MORDAUNT: And it will choke off to the recovery.
+QUESTIONER_0: OK, Stephen Flynn, speak directly to Penny.
+FLYNN: You know what the public can't afford, Penny, is any longer, one single day more of a Conservative government which is completely out of touch with the reality on the ground.
+MORDAUNT: that.
+FLYNN: Let me respond to that directly.
+FLYNN: Ultimately, if we are going to move this conversation on to economic growth and what comes next, because that is probably where it is going to go, Angela said she wants economic growth but she didn't mention the single market or freedom of movement or the fact that the Labour Party have walked away from £28 billion of investment
+FLYNN: in net zero technologies, whilst the United States, Europe, and everyone else is going down that route to grow the economy.
+FLYNN: The Westminster consensus is alive and well.
+FLYNN: And it doesn't serve you well.
+FLYNN: And ultimately, it will be the people who need it most, the people who can't afford the shops, the people who are ultimately living in poverty who will feel the consequences of Westminster's priorities.
+QUESTIONER_0: OK, and I'm just going to come back to the question.
+QUESTIONER_0: We really want to root it in this one.
+QUESTIONER_0: Janice is working with individuals and families who never thought they'd struggle.
+QUESTIONER_0: We're not just speaking about those who are on the poorest and on the lowest incomes.
+QUESTIONER_0: There are people who've not struggled before, who've been very frightened by this experience.
+QUESTIONER_0: Carla Dunya.
+DENYER: Yes, I met with the local branch of Citizens Advice in my home city just earlier this week, and they told me the exact same story.
+DENYER: They're helping people who've never needed their help before, and the key message that they wanted me and other prospective MPs to go away with is an understanding that, for too many households, the problem is extremely simple.
+DENYER: Money in is less than money out.
+DENYER: The government could choose policies that would fix this.
+DENYER: It's choosing not to.
+DENYER: So's the Labour Party.
+DENYER: The Green Party thinks differently.
+DENYER: Daisy Cooper, you wanted to come in.
+COOPER: So, Penny Mordaunt has said that the Conservatives haven't put tax up, but really?
+COOPER: I mean, of course they've put tax up, and they even froze the personal allowances, meaning that people were dragged into paying a higher rate of tax.
+COOPER: That was an invisible tax increase by the Conservatives.
+COOPER: But the fact is that the cost of living crisis has been made so much worse by the mini-budget, which blew a hole in the public finances and made people's rent and mortgages go absolutely sky high.
+COOPER: And people have felt that hit, and they are still trying to recover now.
+IORWERTH: One of the biggest regrets of 14 years of mismanagement by the Conservatives is that they missed the opportunity to invest in economic growth in order to help our communities.
+IORWERTH: During those years when interest rates were low, what they chose to do was have this ideological drive to cut public spending.
+IORWERTH: that hit everybody, especially those who are poorest.
+IORWERTH: And in this selection, you'll hear me talking a lot about ambition.
+IORWERTH: Where is the ambition from either of the Westminster main parties to invest in allowing us in Wales to make the most of our natural resources through devolving the Crown Estate, allowing us to invest in transport and connectivity through giving us the billions we're owed as a result of HS2 rail in England?
+IORWERTH: That's the ambition that we need.
+IORWERTH: We're not hearing it from the Conservatives, and I regret we're not hearing it from them.
+FARAGE: Nigel Farage... We need to do something, something with vision.
+FARAGE: And if we increase the level at which people start to pay tax to £20,000, that takes 7 million people out of tax.
+FARAGE: That's up to a £1,500 benefit for people on lower wages.
+FARAGE: But it helps get people off the benefits trap.
+FARAGE: because the benefits trap is if you start to go back to work and earn money you lose benefits plus we'd rely less on unskilled foreign labour.
+FARAGE: That's the kind of vision that we need to help those who are lower end of the income scale or on benefits in this country.
+QUESTIONER_0: Do you know what?
+FARAGE: I really believe it would work.
+QUESTIONER_0: Just a quick question Nigel Farage from Suella Braverman actually has talked about the two-child benefit cap which has been raised
+QUESTIONER_0: just touched on a couple of times, I know that at some point we'll return to that.
+QUESTIONER_0: Suella Braverman has actually said that that two-child benefit cap should be lifted.
+QUESTIONER_0: She's spoken quite warmly about you in recent times.
+QUESTIONER_0: I know, I know.
+QUESTIONER_0: Well, I wasn't asking you to respond to that necessarily, Nigel Farage, but she would welcome a lifting of that cap.
+QUESTIONER_0: Would you agree with Suella?
+FARAGE: I think we should encourage people to have families.
+FARAGE: I think we should encourage people to have children.
+QUESTIONER_0: Yes, so they should all have those children.
+FARAGE: And I think we should also encourage people in marriage to have some tax benefits as well.
+FARAGE: I really do.
+FARAGE: So that's a yes?
+FARAGE: A lifting of the two tariffs?
+FARAGE: We've got to help people.
+QUESTIONER_0: OK, Angela Rayner, would you agree with the Nigel on that?
+RAYNER: Well, first of all, we said that we wouldn't increase taxes for working people because they have the highest tax burden under the Tories.
+QUESTIONER_0: But you are!
+RAYNER: Coming back to the original point as well, the Tories promised to end Section 21, no full evictions.
+RAYNER: They haven't.
+RAYNER: And that's sent homelessness soaring, especially for families.
+RAYNER: And we also have said we need to make work pay so that people
+RAYNER: that one of the most scandalous things I've seen, I've talked about my childhood when my mum and dad was on the gyro, we didn't have to go to a food bank.
+RAYNER: The people using food banks now are actually in work.
+IORWERTH: And that is under the Tories' watch.
+IORWERTH: Point out the embarrassment here for Angela Rayner.
+IORWERTH: We have Nigel Farage wanting to get rid of the two-child limit, and Labour is refusing to.
+IORWERTH: Again, I ask, what's happened to Labour?
+IORWERTH: Well, again, we've said that we'd have action on child poverty, but we will not...
+IORWERTH: But you won't lift the two-child limit?
+IORWERTH: But we will not... A Conservative policy that you are determined to press ahead with, even though it damages some of our poorest families?
+RAYNER: We will not... We will not do unfunded spending commitments because... We're talking about the poorest families.
+RAYNER: Why not fund them, Angela?
+RAYNER: Why not fund them?
+RAYNER: Just let me finish.
+RAYNER: Because unless we can identify where that money's coming from, we have identified... Just identify where the problem is.
+RAYNER: Poor children living in poverty.
+RAYNER: Can you let me finish?
+RAYNER: Yeah, that's why housing...
+RAYNER: response to poverty so does people's work we've already put things in place that we said we won't do unfunded spending commitments but we've put free breakfast clubs in schools because actually as a child that was on free school meals as I was growing up I had to wait to dinner time to get fed.
+QUESTIONER_0: In a moment, in a moment.
+QUESTIONER_0: I just want to root, as I said before, in this question.
+QUESTIONER_0: Serious risk of homelessness, some of the families and individuals that Janice is working with day in, day out.
+QUESTIONER_0: There's a big question about housing on this, and I'd just like to turn to Carla Denyer, please, for your big plan on housing.
+DENYER: That's right.
+DENYER: I've been a housing campaigner my whole life.
+DENYER: It's something I'm very passionate about.
+DENYER: And my God, do we have a housing crisis in this country.
+DENYER: When I moved to Bristol about 15 years ago, I rented a one bed flat.
+DENYER: The cost of a one bed flat in the 15 years since has doubled.
+DENYER: And we can all agree that wages have not doubled in that time.
+DENYER: And so, yes, the Green Party does have a plan.
+DENYER: There is no one single bullet.
+DENYER: There's no panacea.
+DENYER: But there are a group of measures that we can do together.
+DENYER: That includes creating more homes.
+DENYER: We would create 150,000 council homes a year by the end of the next parliament.
+DENYER: That's through a mixture of new build and giving councils the powers to buy the supply more easily
+DENYER: from the market.
+DENYER: It also involves giving councils the ability to make sure that private housing developments deliver the kind of housing we need, the right homes at the right price in the right place, and giving councils the power to keep private rents under control in areas where they're overheated.
+QUESTIONER_0: The SNP have had some tough questions over the affordable housing budget, Stephen Flynn.
+QUESTIONER_0: Give us your big plan.
+FLYNN: Well, of course, in Scotland, it's the SNP that has seen the building as oversaw the building of 40% more affordable homes than in England and 70% more affordable homes in Wales.
+FLYNN: I don't necessarily think that's a tough question to answer.
+FLYNN: What we are looking at is the future and ultimately the Conservatives.
+FLYNN: have decided to cut the capital budget for Scotland, which impacts directly upon our ability to build more homes.
+FLYNN: But for the people who are living within those homes, what we've done in Scotland is introduced the Scottish Child Payment.
+FLYNN: It doesn't exist anywhere else on these isles.
+FLYNN: The Labour Party won't replicate it, the Tories certainly won't.
+FLYNN: 100,000 children are going to be lifted out of poverty thanks to that Scottish Child Payment.
+FLYNN: It is being called a game-changer.
+FLYNN: Will the Labour Party back it?
+FLYNN: Yes or no?
+IORWERTH: Yeah, and I'd add that Plaid Cymru is proposing £20 extra for every child as well, because again, like the SNP, we recognise that we have to get to grips with the issue of child poverty.
+QUESTIONER_0: If you want... No, Penny Mordaunt, I'm going to draw a line there, thank you.
+QUESTIONER_0: I think we might find that some of this arises a little later in our debate this evening.
+QUESTIONER_0: We have got quite...
+QUESTIONER_0: a lot of time tonight to talk about all sorts of things.
+QUESTIONER_0: So we're going to move on now to something a little bit different.
+QUESTIONER_0: We've invited each participant in our debate to ask a short question of one other person of their choosing.
+QUESTIONER_0: It's a chance to see what's on the minds of the different party representatives and a chance to get some clarity, hopefully, on something they care about.
+QUESTIONER_0: We've seen the questions in advance.
+QUESTIONER_0: However, the seven on stage do not know how the others are using their question.
+QUESTIONER_0: First up is Carla Denyer.
+QUESTIONER_0: To whom are you posing your question, Carla?
+QUESTIONER_0: To Angela Rayner.
+DENYER: Angela, which of your party's U-turns are you most proud of?
+DENYER: The ditching of the 28 billion climate investment plan, keeping the cruel two-child benefit cap, or one of the others?
+RAYNER: What I'm not proud of is that we've had 14 years of the Tories and the crashing of the economy.
+RAYNER: But what I am realistic about is we've got to have a programme for government which is credible, that can grow our economy so we can invest in our green prosperity plan and so that we can eradicate poverty.
+RAYNER: And I know Labour can do it because we've done it before and we'll do it again.
+DENYER: I don't really feel like that answered my question.
+RAYNER: Well, I did.
+RAYNER: I felt it did answer the question.
+RAYNER: What do you think, audience?
+RAYNER: You can't just keep plucking numbers out and say, well, this is what we'll do, because that's what the Tories did.
+RAYNER: That's what a manifesto is, a fully costed one.
+RAYNER: Well, yours wasn't fully costed.
+RAYNER: Yes, it was.
+RAYNER: The Conservatives...
+RAYNER: unfunded tax breaks, and that's when Liz Trust crashed our economy.
+RAYNER: We have a fully funded, fully costed manifesto... You do not!
+RAYNER: You do not!
+RAYNER: ..which has a growth strategy.
+QUESTIONER_0: No, no, sorry, Penny, don't answer somebody else's question, Penny Mordaunt.
+QUESTIONER_0: I'll just do that.
+QUESTIONER_0: Just gently, just stating the case there, Penny Mordaunt.
+QUESTIONER_0: I hope you can stay quite agitated over this point.
+QUESTIONER_0: Don't get agitated, because you're up next, Penny Mordaunt.
+QUESTIONER_0: It's your turn to ask a question.
+QUESTIONER_0: Who are you asking it of?
+MORDAUNT: I'm going to also ask my question to Angela.
+MORDAUNT: Rachel Reeves, your shadow chancellor, hasn't ruled out increasing capital gains tax.
+MORDAUNT: This would mean higher costs for families when they're selling their homes.
+MORDAUNT: Will you commit to ruling that out now?
+RAYNER: Rachel has set out, yes, we have set out that we will not raise income tax, national insurance and VAT.
+RAYNER: And we do not need to raise taxes on working people because our manifesto is fully costed, unlike the Conservatives.
+RAYNER: So you are not going to raise capital gains tax?
+RAYNER: There is nothing in our manifesto that means we have to raise capital gains tax, no.
+MORDAUNT: So you can say that you're not going to raise capital gains tax?
+QUESTIONER_0: She's answered.
+QUESTIONER_0: She's answered.
+QUESTIONER_0: Penny Morden, thank you very much.
+MORDAUNT: I don't think she has, though.
+MORDAUNT: OK.
+MORDAUNT: Thank you.
+QUESTIONER_0: I don't think she has.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: Nigel Farage.
+FARAGE: My question is to Penny Morden.
+FARAGE: Given that your 2010 manifesto, your 2015 manifesto, your 2017 manifesto said you'd reduce net migration to tens of thousands, your 2019 manifesto said immigration would massively reduce, and that net 4.3 million people have come into the country since that time, why on earth should anybody believe the fifth manifesto that promises cuts to net migration?
+MORDAUNT: Because of the record of this Prime Minister.
+MORDAUNT: So we've had...
+FARAGE: We've had... Oh, enough.
+FARAGE: That's fine.
+MORDAUNT: I'm happy.
+MORDAUNT: We've had figures out today that show that visa applications have fallen by 30% and the OBR's own forecasts say that we will halve immigration by next summer.
+MORDAUNT: That's the trajectory we are on.
+MORDAUNT: And we will give Parliament the chance to set an annual cap on family and work visas.
+MORDAUNT: That will be enshrined, a legal cap,
+MORDAUNT: And that is what we are offering.
+MORDAUNT: That's why you can have confidence that those numbers have come down.
+MORDAUNT: They're projected to come down.
+MORDAUNT: And the only alternative you have in this election is that or what the Labour Party have on offer.
+MORDAUNT: Nigel is a Labour enabler.
+MORDAUNT: Nigel, do you want to come back?
+MORDAUNT: And he is a enabler.
+FARAGE: Nigel Farage, do you want to come back?
+MORDAUNT: No cat, no target, and no plan.
+QUESTIONER_0: Penny, let Nigel Farage come back.
+FARAGE: I don't believe a single word that you say.
+FARAGE: You've deceived us with the last four manifestos.
+FARAGE: I don't believe you in the fifth.
+FARAGE: And as for being a Labour enabler, we are now ahead of you in the national polls.
+QUESTIONER_0: OK, thank you.
+FARAGE: A vote for you is actually now a vote for Labour.
+QUESTIONER_0: Thank you very much, all of you, for the questions so far.
+QUESTIONER_5: That's it.
+QUESTIONER_0: That's it.
+QUESTIONER_0: Thank you very much, indeed.
+QUESTIONER_0: Thank you very much, indeed, for all of your questions.
+QUESTIONER_0: Thank you very much.
+QUESTIONER_0: Thank you very much.
+QUESTIONER_0: Thank you very much, all of you, for your questions.
+QUESTIONER_0: We'll have some more of those shortly.
+QUESTIONER_0: We've had those from Nigel Farage, Penny Moorbridge, and Carla Denyer.
+QUESTIONER_0: More of those to come from our other four participants who will be asking their questions.
+QUESTIONER_0: after the break.
+QUESTIONER_0: Welcome back.
+QUESTIONER_0: We've asked our participants in tonight's debate to ask a question of one other person.
+QUESTIONER_0: Before the break, Carla Denyer, Penny Mordaunt and Nigel Farage had their go.
+QUESTIONER_0: Now it's time for the other four candidates to ask their questions, starting this time with Angela Rayner.
+QUESTIONER_0: Angela Rayner.
+RAYNER: Thank you.
+RAYNER: I'd like to ask Penny, would you allow Nigel Farage into the Tory party?
+MORDAUNT: Let's see now.
+MORDAUNT: I'm a Brexiteer.
+MORDAUNT: I believe that if you can't reform European institutions, you should be prepared to leave them.
+MORDAUNT: I set up a business before getting into Parliament, so that's why I always back business.
+MORDAUNT: And I believe in rewarding personal responsibility.
+MORDAUNT: You might think I have a lot in common with Nigel.
+MORDAUNT: But what I'm standing against is letting you in and letting you tax the hell out of people.
+MORDAUNT: Nigel is helping you do that.
+MORDAUNT: So I think we've probably got less in common than you might imagine.
+RAYNER: So that's a no, then.
+RAYNER: And apart from your rubbish about us taxing people, when you've taxed people the highest in 70 years, which you keep forgetting and you keep going on about for 10 years.
+MORDAUNT: Let me respond to that.
+MORDAUNT: At the end of the next Parliament, yes, we have had a high tax burden.
+MORDAUNT: Not, as I said earlier, on low- and middle-income earners, but overall it has been high.
+MORDAUNT: At the end of the next Parliament, on our plans, it will come down.
+MORDAUNT: Labour will take it to a record high.
+MORDAUNT: What they haven't told you in this campaign is what taxes and on what people.
+MORDAUNT: OK. She couldn't deny capital gains tax earlier on.
+MORDAUNT: She can't deny fuel duty.
+MORDAUNT: Thank you, Penny Mordaunt.
+MORDAUNT: Not only do you not listen to me, you don't listen to the public.
+MORDAUNT: Both Angela Rayner and Penny Mordaunt.
+MORDAUNT: They've doubled council tax.
+MORDAUNT: They've trebled it in Wales.
+QUESTIONER_0: They need to tell you how they're going to pay for their plans.
+QUESTIONER_0: Stephen Flynn, time for your question.
+FLYNN: It's like being back in the Commons.
+FLYNN: Angela.
+FLYNN: It took four and a half months and the death or injury of almost 100,000 civilians in Gaza for the Labour Party to back a ceasefire.
+FLYNN: On day one of a Labour government, will you end arms sales to Israel?
+RAYNER: Stephen, you know as well as I do, what happened on the 7th of October was barbaric and Israel had the right to defend itself.
+RAYNER: However, since then, the absolute loss of innocent lives, thousands of innocent lives, everyone in the House, everyone of all political positions have been pushing for a ceasefire, as well as our international counterparts.
+RAYNER: But if we were in government, we would immediately review, as we've been asking the Conservatives, the legal advice on arms sales to Israel and we will,
+QUESTIONER_0: Comply with international law.
+QUESTIONER_0: Thank you very much indeed, Stephen Flynn, for your question about the horrific scenes we've all witnessed following the Hamas attacks of October 7th and the Israeli military action in Gaza since.
+QUESTIONER_0: Thank you for that question.
+FLYNN: Daisy Cooper, your question.
+FLYNN: Can I come back?
+QUESTIONER_0: Everyone else is... My question is for Penny Morton.
+COOPER: So, it's about trust.
+COOPER: The Conservatives promised to recruit 6,000 more GPs and didn't.
+COOPER: The Conservatives promised to build 40 new hospitals, many of which have been make-believe.
+COOPER: And since 2015, the Conservatives have missed their cancer treatment target every single year.
+COOPER: Why can anybody, or how can anybody, trust a word the Conservatives say about protecting the NHS?
+MORDAUNT: Well, we have met many of our manifesto commitments from the last election, including recruiting public sector workers.
+MORDAUNT: And that's why you can see we're making improvements in many public services.
+MORDAUNT: As we spoke about earlier, we have a particular
+MORDAUNT: issue with the NHS, but we are increasing healthcare professionals.
+MORDAUNT: Many more doctors, many more nurses.
+MORDAUNT: But integrity is vital.
+MORDAUNT: It is not right to say that you are not going to increase taxes and are.
+MORDAUNT: It's not right to say that you are going to support the nuclear deterrent when you voted against it.
+MORDAUNT: Thank you, I'm going to...
+MORDAUNT: It's not right to say...
+MORDAUNT: Thank you, Penny Morden.
+QUESTIONER_0: We're going to move on to Rhian Apioa's question next.
+QUESTIONER_0: Thank you.
+IORWERTH: My question is also to Angela Rayner, given the convergence between Labour and the Conservatives on public spending.
+IORWERTH: Maybe I should ask if Labour would accept Penny Mordaunt into your party, but I'll ask this.
+IORWERTH: Gordon Brown said child poverty is a scar on the soul of Britain.
+IORWERTH: Now, is it the likely incoming Labour government's two-child benefit cap or the £18 billion worth of cuts to public services which will make the situation worse?
+RAYNER: Well, you're absolutely right to recognise that child poverty is a scourge.
+RAYNER: And as someone who grew up in poverty, I absolutely know that we have to tackle it.
+RAYNER: And that's why we'd have a strategic number 10 unit that would look at tackling child poverty.
+RAYNER: But it's not just about one particular lever.
+RAYNER: We talked before about housing.
+RAYNER: That is a problem for people.
+RAYNER: We've talked about employment.
+RAYNER: Insecure work is a problem for people.
+RAYNER: Low wages.
+RAYNER: So we're going to tackle all of the issues that will help.
+RAYNER: And the growing of the economy
+RAYNER: will give us more money in our public services so we can do those things.
+RAYNER: But uncosted spending commitments is not going to help our economy, because the Tories did that and they crashed our economy.
+RAYNER: So our fiscal rules are absolutely cast iron.
+QUESTIONER_0: Thank you, Angela Rayner.
+QUESTIONER_0: Thank you for all of your questions directed across the stage this evening.
+QUESTIONER_0: We're going to our final question now.
+QUESTIONER_0: And this is a question on politics itself and the faith
+QUESTIONER_0: I'm looking around.
+QUESTIONER_0: I know that Samron's here with your question for our candidates this evening.
+QUESTIONER_0: Samron.
+QUESTIONER_6: People have lost faith in politics.
+QUESTIONER_6: We feel disconnected from our representatives and sceptical that you will deliver on your promises.
+QUESTIONER_6: The public simply doesn't trust our system anymore.
+QUESTIONER_6: What one change can you make to restore trust in politics?
+QUESTIONER_0: OK, we're going to keep this succinct because we're running out of time.
+QUESTIONER_0: So, 30 seconds, if you can, please, Daisy Cooper.
+QUESTIONER_0: One change, one offer.
+COOPER: You're absolutely right that trust in politics is broken.
+COOPER: And the Liberal Democrats have always said it's not just about who's in power, it's about what you do with power.
+COOPER: So we believe in devolving power to local communities so they have more say over what they believe in.
+COOPER: And we want proportional representation so that every single vote of every single person actually counts in a general election.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: Angela Rayner.
+RAYNER: You're absolutely right to say about trusting politics.
+RAYNER: That's why, when I've spoke on this panel, there's things that we'd really like to do that we can't do, and we've been honest and upfront about that.
+RAYNER: But I also think we need our politicians who make the rules to play by the rules as well.
+RAYNER: So bringing back integrity and ethics into our politics, which is what Keir Starmer will do in Labour, is exactly what we need to do, because people cannot go around, as they have done, breaking the rules and think they can get away with it.
+RAYNER: The Prime Minister did.
+RAYNER: The previous Prime Minister to that has done and I think that's undermined all of us as politicians.
+MORDAUNT: Well, we're at the dawn of a new parliament.
+MORDAUNT: And I think if we want integrity back, then people need to be honest about their manifestos.
+MORDAUNT: The only party on this platform that is going to cut your taxes is the Conservative Party.
+MORDAUNT: A vote for any other party will increase your taxes.
+MORDAUNT: Higher taxes, higher taxes, higher taxes, higher taxes, higher taxes, higher taxes, higher taxes, higher taxes.
+MORDAUNT: Start with honesty in manifestos.
+MORDAUNT: Labour have three weeks to do that.
+MORDAUNT: Thank you very much indeed, Penny Mordaunt.
+MORDAUNT: Rayan Abiyawas.
+IORWERTH: How about some honesty about the fact that freezing thresholds has meant higher taxes under the Conservatives whilst they've been cutting public spending?
+IORWERTH: And this is the honesty and integrity that we're looking for.
+IORWERTH: We need politicians to be truthful with people about the challenges that we face.
+IORWERTH: We need good judgment.
+IORWERTH: Yet we have a First Minister in Wales, a Labour First Minister, who accepted a £200,000 donation from a convicted environmental polluter.
+IORWERTH: That's poor judgment, and I wonder if Angela Rayner would have accepted it.
+QUESTIONER_0: Thank you very much indeed.
+QUESTIONER_0: Carla Denyer.
+DENYER: I think one of the reasons that people have lost faith and trust in their politicians is that most elections there are hundreds of MPs who are totally safe in their seats because we have an unfair voting system where the number of votes cast does not
+DENYER: match with the number of seats elected.
+DENYER: That's why the Green Party would change our voting system in general elections to a proportional system, the fair system that almost every other country in Europe has.
+DENYER: Do you know there's only one other country in Europe that still uses first-past-the-post?
+DENYER: It's Belarus.
+DENYER: And why do we not have a fair voting system?
+DENYER: Because Conservatives and the Labour Party block it.
+DENYER: Thank you, Stephen.
+FLYNN: In my view, you should always vote if you are doing well in life for the politician who will make sure that others can get on in life.
+FLYNN: And if you're not doing so well in life, you should always vote for the politician who's going to make things better for you.
+FLYNN: I think that's a nice and good starting point in politics.
+FLYNN: The Westminster system, the way it operates, is broken.
+FLYNN: It's been built on failure, Brexit being the most obvious one of recent times.
+FLYNN: Hold your politicians to high standards and vote for what you believe in.
+QUESTIONER_0: Thank you very much indeed.
+QUESTIONER_0: Nigel Farage.
+FARAGE: I do agree that the first-past-the-post system has led to the two big parties.
+FARAGE: Well, one was big, not after today's polls, but there we are.
+FARAGE: They're both mushy sort of SDP parties in the middle.
+FARAGE: I would change the voting system.
+FARAGE: I think the House of Lords is an abomination.
+FARAGE: The fact that it's filled up with party donors is a complete disgrace.
+FARAGE: There must be an elected element.
+FARAGE: And finally, let's give the people the ability to call more referendums so they can decide the biggest issue of their lives.
+QUESTIONER_0: Thank you very much indeed for that, Nigel Farage.
+QUESTIONER_0: I'll just bring Stephen Flynn in then as a response to some of the things you've heard on improving trust in politics and mending our broken politics.
+FLYNN: Well, I'm just surprised that Nigel Farage wants another referendum on Scottish independence.
+FLYNN: I'm sure there's a lot of folk back in Scotland who'd be... Oh, come on, you don't want to lose again, do you?
+QUESTIONER_2: ..who'd be very keen to see that happen.
+QUESTIONER_2: Well, if you're so confident, if everyone else is so confident about that, let's put it to the test, let's put power.
+FLYNN: Let's put power back in the hands of the Scottish people and take it out of politicians at Westminster.
+FLYNN: I'm sure the Labour Party would back that premise.
+QUESTIONER_0: You've had your go.
+QUESTIONER_0: You've had your pop.
+QUESTIONER_0: Well, I'll put that to Angela Ray and then come to Daisy Cooper.
+COOPER: I think over the last few years, trust in politics has just been blown to pieces.
+COOPER: The Conservatives have taken a wrecking ball to standards in public life, and people are sick to the back teeth of the lying and law-breaking from Boris Johnson, the mini-budget from Liz Truss, and the failures from Rishi Sunak.
+COOPER: It is time for change.
+QUESTIONER_0: Tony Morton, if you'd like to respond directly to that.
+MORDAUNT: Well, look, I think we have an opportunity now.
+MORDAUNT: We're going into a new parliament.
+MORDAUNT: I know my colleagues up and down the country are doing a good job in their constituencies.
+MORDAUNT: They care about the people that they represent.
+MORDAUNT: We have to hold individuals to account.
+MORDAUNT: But if we can't be honest about what is in our manifestos, then that doesn't bode well for that parliament.
+MORDAUNT: I say it again to Angela.
+MORDAUNT: Three weeks.
+MORDAUNT: Tell us where your tax rises are coming from.
+QUESTIONER_0: OK. Angela Rayner, quickly, and then Rhianna Bjoroth.
+RAYNER: I mean, we've said we're not going to be taxing working people.
+RAYNER: The Tories, judging by our record, they have done that.
+RAYNER: And Stephen, I want our nations to work together.
+RAYNER: I think we're better together.
+RAYNER: And the one thing we have got in common is we need to get rid of the Tory government in Westminster.
+RAYNER: And that's why people need to vote Labour.
+FLYNN: The Tory government's forever by backing Scotland's independence.
+FLYNN: That's what we should do.
+IORWERTH: And just briefly, no wonder people are fed up.
+IORWERTH: It's the PPE corruption, it's the Downing Street parties during Covid.
+IORWERTH: We need to hold politicians to higher standards than we've seen in recent years.
+DENYER: Thank you very much indeed.
+DENYER: Well, the reason I focused on a fair voting system...
+DENYER: I mean, there's so, so much that could be better in politics, but the reason I focused on that is that when MPs have safe seats, they're not held to account.
+DENYER: short of a serious breach of the law and being found to be a criminal, you can do pretty much anything if you're an MP in a safe seat and you'll be re-elected.
+DENYER: Holding MPs to account, a big part of that is making sure that they are properly answerable to the electorate.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: So a little variety of ideas in answer to that question.
+QUESTIONER_0: Thank you very much indeed for that and thank you for all of your responses.
+QUESTIONER_0: So some big ideas on
+QUESTIONER_0: how we might change our politics going forward.
+QUESTIONER_0: See what you thought of them.
+QUESTIONER_0: That's it for the questions tonight.
+QUESTIONER_0: But it is now time for our candidates' closing statements.
+QUESTIONER_0: And our first this evening is with Carla Denya.
+DENYER: I'm going to be straight with you.
+DENYER: The choice you make on the 4th of July isn't just about which party you vote for.
+DENYER: If we look beyond the finger-pointing and squabbling, politics is about choosing the kind of future we want for our children.
+DENYER: We all know the Tories are toast, and Labour will form the next government.
+DENYER: But are they offering real change, or is it the same broken politics dressed up with a red rosette?
+DENYER: We deserve better.
+DENYER: So as you watch this with your friends or family, think of who you want on your side in the next Parliament, making sure your voice is heard.
+DENYER: The Green Party is on the cusp of breaking through in seats up and down the country.
+DENYER: And Green MPs will never stop defending our future, protecting our NHS from privatisation, and pushing the next Labour government to think bigger and act bolder.
+DENYER: They'll tell you that's not how it works.
+DENYER: They'll tell you you have to vote for more of the same.
+DENYER: But a vote is a choice.
+DENYER: And on the 4th of July, you can choose real hope and real change.
+QUESTIONER_0: Thank you very much, Penny Mordaunt.
+MORDAUNT: Tonight, Angela Rayner has proved one thing.
+MORDAUNT: Labour will put up your taxes.
+MORDAUNT: Labour's track record of economic hardship speaks for itself.
+MORDAUNT: The lesson of the last few years is that when Labour are in charge, unemployment rises and tax rises.
+MORDAUNT: They will do it all over again.
+MORDAUNT: They're going to tax your pension.
+MORDAUNT: They're going to tax your home.
+MORDAUNT: And what you need to know from tonight is that they are also going to push up your bills.
+MORDAUNT: These are hard truths but better face them now than regret them later.
+MORDAUNT: It's your choice.
+MORDAUNT: It's your vote and it's your future in your hands.
+MORDAUNT: So.
+MORDAUNT: If you value your pension, don't give a blank cheque to Labour.
+MORDAUNT: If you value your pension, vote Conservative.
+MORDAUNT: If you value your home, vote Conservative.
+MORDAUNT: If you value your future, vote Conservative.
+QUESTIONER_0: Thank you, Penny Mordaunt.
+QUESTIONER_0: Daisy Cooper.
+COOPER: Our country is crying out for change, and it's not hard to see why.
+COOPER: Day in, day out, all over the country, people are striving just to get on in life.
+COOPER: But under this Conservative government, too often it feels like we're fighting a broken system.
+COOPER: Nothing works.
+COOPER: Under Ed Davies' leadership, the Liberal Democrats are promising a fair deal for the British people.
+COOPER: We will fix the NHS and social care, tackle the cost of living crisis and stop filthy raw sewage being dumped into our rivers and seas.
+COOPER: A vote for the Liberal Democrats is a vote for a strong local champion, a vote for a fair deal, and a vote to help deliver the change that we all so desperately need.
+COOPER: And in so many parts of the UK, a vote for the Liberal Democrats is the best chance of finally voting this disastrous Conservative government out of office.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: Angela Rayner.
+RAYNER: The choice at this election is simple.
+RAYNER: More chaos with the Conservatives or change with Labour?
+RAYNER: Imagine waking up on the 5th of July to five more years of a chaotic Tory government.
+RAYNER: Years of high tax and low growth while everything gets more expensive.
+RAYNER: Crime going unpunished.
+RAYNER: NHS waiting lists getting longer.
+RAYNER: The Tories have left you and our country worse off.
+RAYNER: A vote for Labour is a vote to end the chaos.
+RAYNER: We know we can't tax our way to growth.
+RAYNER: Labour's plan for growth and wealth creation is about stability, investment and reform.
+RAYNER: Economic stability is change.
+RAYNER: We will bring down NHS waiting times with 40,000 new weekly appointments.
+RAYNER: And we'll secure our streets and our borders with more neighbourhood police and border security command.
+RAYNER: Vote Labour for the change.
+QUESTIONER_0: Thank you, Stephen Flynn.
+FLYNN: Let's start with the good news.
+FLYNN: The Tories are finished.
+FLYNN: 14 years of Cameron, Clegg, May, Johnson, Truss and Sunak, that's finally coming to a close.
+FLYNN: So now our attention must turn to what comes next.
+FLYNN: And at a time when there should be hope and optimism, there is so little on display.
+FLYNN: Keir Starmer's status quo offers us yet more cuts and yet more Brexit.
+FLYNN: In the SNP, we don't accept that cosy Westminster consensus.
+FLYNN: We believe in better.
+FLYNN: Investment in our NHS.
+FLYNN: Action on the cost of living crisis.
+FLYNN: Rejoining the European single market.
+FLYNN: Economic growth by delivering net zero.
+FLYNN: Scotland's future in Scotland's hands.
+FLYNN: So on July 4th, vote for that future.
+FLYNN: Vote SNP to put Scotland's interests first.
+QUESTIONER_0: Stephen Thynne, thank you.
+QUESTIONER_0: Nigel Farage.
+FARAGE: Unlike the rest, I don't need a script.
+FARAGE: I've come out of retirement, back into politics with passion in my heart.
+FARAGE: And I'll tell you, Britain is broken, everyone knows it, and Britain needs reform.
+FARAGE: The election is over under our system.
+FARAGE: We know that Keir Starmer's going to win and probably have quite a big majority.
+FARAGE: The question is,
+FARAGE: Who will lead the opposition?
+FARAGE: Because for democracy to work, there has to be a voice of opposition.
+FARAGE: And I put it to you that Ed Davey of the Liberal Democrats won't do that, because he actually agrees with Labour on most things.
+FARAGE: Rishi Sunak won't do it.
+FARAGE: Well, he'll probably be in California by then anyway.
+FARAGE: And the Tory party is split down the middle and about to implode in this election.
+FARAGE: I say to you,
+FARAGE: I will stand up against open borders.
+FARAGE: I will stand up and say those that come illegally across the channel should be deported.
+FARAGE: I will stand up and fight for the millions of men and women running small businesses.
+FARAGE: I have the courage to take on the mob.
+FARAGE: Please join the revolt.
+IORWERTH: Thank you.
+IORWERTH: Rhian ap Iorwes.
+IORWERTH: I'm sure there'll be people who were thinking, why is this guy from Wales being invited on to a debate?
+IORWERTH: It's being broadcast across the whole of the UK.
+IORWERTH: Well, firstly, I hope some of what I have said has resonated with you, wherever you are, and that you agree we need to do politics in a different way.
+IORWERTH: But the fact that some do think that reflects what Plaid Cymru
+IORWERTH: is all about.
+IORWERTH: We are here to offer a positive vision of what Wales could be, knowing that time and time again, our aspirations go unheard by Westminster governments, be that Labour or Conservatives.
+IORWERTH: Now, the truth is, throughout the UK,
+IORWERTH: There are communities who feel ignored and overlooked, and I hope you stand up for your community.
+IORWERTH: And for me, it'll always be about standing up for Wales.
+IORWERTH: Now, it's high time that the Conservatives were kicked out of power, but Labour will have to be held to account too.
+IORWERTH: And Welsh voters can do that through Plaid Cymru MPs and their vision for fairness and ambition for Wales.
+IORWERTH: Vote Plaid Cymru on July 6.
+QUESTIONER_0: Thank you very much indeed.
+QUESTIONER_0: And that brings us to the end of the ITV election debate 2024.

@@ -1,0 +1,370 @@
+id,llm_reasoning,claim_labels
+0,,"[1200, 1209, 1207, 1201]"
+1,"The excerpt discusses education and poverty, specifically the link between the two and the need to address it. The speaker proposes a 'pupil premium' to improve education, which includes reducing class sizes and improving early childhood education. The speaker also mentions the importance of early childhood education for developing self-confidence, social skills, and a willingness to learn.","[600, 603, 500, 508, 1000]"
+2,,[]
+3,"The excerpt discusses tax policy, specifically closing loopholes for the wealthy and providing tax relief for pension contributions, while also mentioning the importance of reducing income tax on low earners.","[107, 105, 101]"
+4,,[]
+5,,[]
+6,"The excerpt discusses the importance of big business in the country, the need to stay within the European Union, and the potential consequences of exiting the EU. The speaker argues that staying in the EU is crucial for the country's businesses, and criticizes the party's decision to exit the EU.","[1500, 1800, 1900, 2000]"
+7,,"[100, 105, 301]"
+8,"The excerpt discusses employment, incentives, and tax policy, highlighting the importance of getting people off benefits and into work. The speaker argues that the best way to help vulnerable individuals is to provide incentives for self-reliance rather than constant state dependency. The tax switch mentioned is a key policy proposal to achieve this goal.","[500, 505, 507, 107, 101]"
+9,,[]
+10,"The excerpt discusses the need for migration to address Scotland's declining working-age population, citing the need for more colleagues in various sectors. It also criticizes the 'race to the right' in Westminster and calls for better policies from both the Tories and Labour. The codes reflect the discussion of labour and employment (500), migrant workers (529), civil rights (200), and immigration (230).","[500, 529, 200, 230]"
+11,,"[1000, 1002, 200, 201, 207, 100, 105]"
+12,,"[1900, 1803]"
+13,,[]
+14,,"[1600, 1609, 2000, 2011]"
+15,,"[200, 230, 1207, 1208, 1209, 1202, 1203, 1205]"
+16,,[]
+17,,"[100, 105]"
+18,,[]
+19,,[]
+20,,[]
+21,,"[1401, 1302, 507]"
+22,,"[1401, 1302, 1406]"
+23,,[]
+24,"The speaker argues that the UK does not have a labour shortage, but rather a problem with low wages and a large population. They suggest that the government should focus on making work pay and training the existing workforce rather than importing labour.","[500, 502, 503, 505, 506]"
+25,,[]
+26,"The speaker is criticizing the opposition's tax cut proposals, citing the Institute of Fiscal Studies' concerns about the lack of a clear plan to finance them. They argue that the proposals are too risky for the economy, and instead advocate for policies that promote economic growth and job creation.","[100, 101, 103, 105, 107, 108]"
+27,,[]
+28,,[]
+29,,[]
+30,,[]
+31,,[]
+32,,[]
+33,,[]
+34,"The excerpt discusses the importance of reliable, affordable, and safe public transportation, highlighting the need for alternative systems and contrasting the situation in two cities.","[1000, 1001, 1002, 1005]"
+35,,[]
+36,,"[100, 101]"
+37,,[]
+38,"The excerpt discusses the impact of immigration on the NHS, British business, farmers, and the economy, while also touching on the role of politicians and the kind of country Britain should be. It also mentions the need for infrastructure to tackle immigration-related pressures.","[300, 230, 500, 401, 1000, 2000, 1600]"
+39,,[]
+40,,"[200, 201, 230, 1207]"
+41,,[]
+42,,[]
+43,,[]
+44,,[]
+45,,[]
+46,,[]
+47,,"[1200, 1205]"
+48,"The excerpt discusses Scotland's potential independence, the EU, and the speaker's party's stance on European values and parliamentary operations.","[1909, 2000, 2011, 2012]"
+49,,"[600, 601, 601]"
+50,,[]
+51,,"[1200, 1203, 1207]"
+52,,[]
+53,,[]
+54,,"[2001, 2011, 2012, 600, 601]"
+55,"The excerpt discusses taxation (107) and its potential impact on the economy (101), specifically mentioning a proposal to increase taxes on the wealthy (1501).","[1501, 107, 101]"
+56,,"[1901, 1907]"
+57,,[]
+58,,[]
+59,,[]
+60,"The excerpt discusses the importance of investing in the security services, specifically MI5, and the police, to prevent terrorist attacks and make the community safer. It also mentions a horrific incident involving a far-right terrorist attack, highlighting the need for increased security measures.","[1603, 1209, 1207]"
+61,,"[300, 301]"
+62,"The excerpt discusses education, specifically the need for fair funding and the importance of improving the quality of education beyond just funding.","[600, 602, 603, 601]"
+63,,[]
+64,,[]
+65,"The excerpt discusses several key issues: defence (Trident), taxation (tax on banks, tax credits), public sector pensions, and healthcare reform.","[1600, 100, 107, 105, 301]"
+66,,"[200, 201, 1000, 1001]"
+67,"The speaker is discussing education and the need to make changes to help middle-class families, specifically reducing tuition fees to £6,000 from £9,000 to alleviate the burden of student debt.","[600, 601, 603, 605]"
+68,,[2001]
+69,,"[200, 230, 1200, 1203, 1205, 1209, 1302, 500, 529, 1401, 1409, 1603, 1608, 1610, 1901, 2001]"
+70,"The excerpt discusses the rights of EU nationals, the treatment of immigrants, and the need to attract talent from non-EU countries for economic growth. It also touches on the negative impact of a hostile environment on immigration and the need to change the tone of the debate.","[200, 230, 500, 529]"
+71,,"[700, 709, 800, 803, 807]"
+72,,[]
+73,"The excerpt discusses the need to provide social care for vulnerable people, particularly the elderly, and the creation of new jobs in social care. It also touches on the importance of taxation and national insurance.","[1303, 1304, 500, 507, 1000]"
+74,"The speaker is discussing welfare and finance, specifically mentioning a cap on the welfare bill and the government's role in regulating it.","[1300, 1501]"
+75,"The excerpt discusses the relationship between taxation and public services, with the speaker mentioning a potential decrease in taxation under a Conservative government. The speaker also emphasizes the importance of balancing public services with a low-tax economy.","[100, 105, 500, 507]"
+76,,[]
+77,,[]
+78,,[]
+79,,[]
+80,,[]
+81,,[]
+82,,"[107, 100, 101, 105]"
+83,,[]
+84,"The excerpt discusses immigration, asylum process, and housing, with a focus on the need for a competent asylum process, addressing economic migrants, and the impact of mass immigration on housing. The speaker criticizes the Conservative Party's handling of immigration and highlights the need for more homes for the UK's own people.","[200, 230, 1401, 1406, 500, 529]"
+85,"The excerpt discusses the cost of living, tax cuts, and the ability to get onto the property ladder, which are all related to the subcategories of Energy (800), Taxation (107), Labour and Employment (500), and Parental Leave and Child Care (508).","[800, 107, 500, 508]"
+86,,"[1200, 1203, 1205]"
+87,"The speaker is discussing the state of public services, specifically housing, roads, and healthcare, and criticizing the Conservative party's policies and actions.","[1401, 1406, 1000, 1002, 300, 301, 325, 2011]"
+88,,"[1900, 705, 2011, 1000, 1006, 500, 502, 507]"
+89,,[]
+90,,"[100, 105, 301, 325]"
+91,"The excerpt discusses the importance of the relationship with the US, specifically in the context of NATO, and the need for a British prime minister to sustain this relationship and maintain global security. It also touches on the importance of alliances and the threat posed by Jeremy Corbyn's views on NATO.","[1900, 1603, 1608, 2000, 2011, 1930]"
+92,"The excerpt does not discuss any of the topics listed in the codebook, so no relevant codes can be assigned.",[]
+93,"The excerpt discusses the UK's defence spending and its impact on the world, highlighting the need for a strong diplomatic presence to promote justice and human rights. It also mentions the Trident nuclear programme and the need to reverse the UK's role in the world to be a haven for human rights and a beacon for conflict resolution and peace.","[1600, 1608, 1900, 1920]"
+94,,"[1200, 1206, 1209]"
+95,"The excerpt discusses the UK's military actions and decisions, referencing the President of the United States, and mentions the UK's involvement in various international conflicts. It also touches on the role of the British Armed Forces and the decision-making process.","[1600, 1608, 1900, 1910, 2000, 2011]"
+96,,[]
+97,,"[600, 601, 601]"
+98,"The speaker is advocating for the abolition of university tuition fees, citing the importance of equal access to education for all, particularly for working-class students and those from poorer communities. They also mention the benefits of a free education system, as experienced by their own generation, and want to ensure that future generations have the same opportunities.","[600, 601, 603, 606]"
+99,,[]
+100,,[]
+101,The excerpt does not contain any relevant information related to the provided codebook categories.,[]
+102,"The excerpt discusses the impact of tax policies on pensioners, the role of the Prime Minister in shaping tax policies, and the opposition's stance on the current government's policies.","[1303, 1501, 1000, 2011]"
+103,,"[1200, 1202, 1206]"
+104,,[]
+105,,[]
+106,,"[100, 107, 105]"
+107,,[]
+108,,[]
+109,"The speaker is discussing the NHS, a key aspect of the healthcare system in the UK, and emphasizing the importance of maintaining its budget and increasing the number of healthcare professionals. They also mention the need to address the issue of healthcare professionals being taxed out of their jobs due to pension concerns.","[300, 301, 325, 331, 334, 344, 105, 104]"
+110,"The excerpt discusses foreign aid (1901), military personnel and dependents (1608), mass and public transportation and safety (1000), and advocacy for public transportation (1001)","[1901, 1608, 1000, 1001]"
+111,"The speaker is discussing the importance of voting for parties that support the economy and public services, specifically mentioning the NHS, and promoting migration as a means to achieve this. They also mention the need to stand against the right wing in British politics and promote migration.","[100, 301, 107, 230, 500, 503, 508, 200, 201, 230]"
+112,,"[100, 105]"
+113,,[]
+114,,[]
+115,,"[2000, 2011]"
+116,"The excerpt discusses education and housing policies, specifically focusing on scrapping tuition fees, improving vocational training, and increasing affordable housing.","[600, 601, 603, 604, 606, 1401, 1406, 1409]"
+117,,[]
+118,"The excerpt discusses the speaker's disagreement with the Catholic Church's doctrine on homosexuality, but also acknowledges the importance of freedom of expression and the right to privacy in relation to the Pope's visit.","[202, 207, 208]"
+119,"The speaker is discussing the NHS and its reform, specifically criticizing Nigel's stance on the NHS.","[300, 301]"
+120,,[]
+121,,[]
+122,"The excerpt discusses the importance of addressing discrimination, particularly within the police force, and the need to balance this with the trust placed in the institution as a whole.","[202, 201, 207, 1209]"
+123,"The excerpt discusses the country's deficit, government spending, tax cuts, and the importance of being honest about the country's financial situation.","[100, 105, 107, 101]"
+124,,[]
+125,,[]
+126,,[]
+127,"The speaker acknowledges the need to raise taxes (105) to address the issue of inflation (101), but only when public finances allow.","[100, 105, 101]"
+128,,"[1000, 1006, 507]"
+129,"The speaker is discussing asylum seekers, which falls under Civil Rights (200), and mentions the number of people applying for asylum, which is related to Immigration (230). The speaker is also discussing employment, specifically employee benefits (500), and mentions the current number of people applying for asylum, which could be related to the impact on employment (503).","[200, 230, 500, 503]"
+130,"The excerpt discusses transportation issues, specifically the HS2 project, and its potential alternatives, such as local sustainable transport, buses, walking, and cycling. The speaker also mentions the importance of investing in these alternatives to address the issue of people being trapped in their cars.","[1000, 1005, 1006, 500, 506]"
+131,"The excerpt discusses foreign aid and intervention in the Middle East, specifically in Syria.","[1901, 1920]"
+132,,"[100, 105, 301, 1302, 1304]"
+133,,[]
+134,,"[800, 805, 807]"
+135,,"[1900, 1910, 2000, 2011]"
+136,"The speaker is discussing immigration, poverty, and the benefits of the single European market, while criticizing the Labour Party and UKIP for their stance on immigration. They also mention the importance of jobs and the single European market for the UK and Europe.","[200, 230, 1800, 1900, 2000]"
+137,"The excerpt discusses the Conservative party's economic policies, specifically tax cuts for big banks, and their handling of immigration. The Liberal Democrats propose increasing the minimum wage for care workers, investing in care workers, and inviting people from other countries to fill skills gaps in the NHS and other sectors.","[100, 107, 200, 230, 300, 325, 500, 503, 508]"
+138,,[]
+139,,[]
+140,,[]
+141,,[]
+142,,[]
+143,,[]
+144,"The excerpt discusses economic policy, specifically the use of sanctions and incentives, and references existing models in Europe, which suggests a focus on foreign trade and export regulation.","[1800, 1803]"
+145,,[]
+146,,[]
+147,,"[1200, 1203, 1205, 200, 201, 207]"
+148,,[]
+149,,"[1200, 1209, 1205, 1207, 1201, 1203, 1205]"
+150,,[]
+151,"The excerpt discusses various aspects of law and crime, including the need for more resources for the police, the use of temporary exclusion orders, and the balance between powers and their use. It also touches on the topic of immigration and the potential for people to be allowed back into the country.","[1200, 1209, 1208, 1201, 1203, 1205, 1207]"
+152,,"[1200, 1207]"
+153,"The speaker is discussing their support for Ukraine and the importance of unity in Parliament on this issue, praising Boris Johnson's stance on Ukraine, and committing to continued support for Ukraine regardless of government changes.","[1901, 1907, 200, 230, 500, 529]"
+154,,[]
+155,"The speaker is discussing energy and the benefits of renewable energy, specifically offshore wind, which is now the cheapest way to generate electricity. They mention the Liberal Democrats' support for the industry and its positive impact on energy bills.","[800, 806, 807]"
+156,,"[2001, 2012, 2011]"
+157,,[]
+158,,[]
+159,,[]
+160,,[]
+161,"The excerpt discusses the importance of employment and job creation, referencing the reduction in workless households and the increase in employment numbers. It also touches on the need for investment in education and training to support people in getting jobs, and the importance of fair labour standards and employee benefits.","[300, 325, 500, 503, 505, 507]"
+162,,[]
+163,,[]
+164,,"[2000, 2011]"
+165,,"[200, 230]"
+166,,[]
+167,,[]
+168,,[]
+169,"The excerpt discusses nuclear energy and disarmament, specifically highlighting the dangers of nuclear weapons and advocating for a multilateral disarmament policy.","[800, 801]"
+170,,"[2000, 2011]"
+171,"The excerpt discusses immigration and its impact on the country's population, economy, and social cohesion. The speaker argues that reducing immigration and implementing a points-based system will be beneficial for the economy and social cohesion.","[200, 230, 500, 529]"
+172,"The excerpt discusses the importance of addressing the UK's debt and deficit, with the speaker arguing that the Conservative party's approach to cutting spending is too extreme. The speaker suggests that the Labour party's plan to borrow more money is also not ideal, but that the Conservative's approach is driven by ideology rather than necessity.","[100, 105, 101, 104, 107, 108]"
+173,,"[300, 325]"
+174,,[]
+175,,"[1401, 1406, 1409]"
+176,,[]
+177,,[]
+178,,"[1303, 2001, 2011, 2032]"
+179,"The excerpt discusses trade and the balance of payments between the UK and Europe, with a focus on the interdependence of manufacturing industries on both sides of the channel.","[1800, 1806]"
+180,"The excerpt discusses the international context of the Iraq War, specifically the role of the United Nations and the presence of WMD in Iraq.","[1900, 1920, 1930]"
+181,,[]
+182,"The excerpt discusses climate change and decarbonization, with the speaker highlighting the efforts made by the government and individuals to reduce carbon emissions. The speaker also mentions the importance of keeping people on board with the journey towards a more sustainable future.","[700, 705, 807]"
+183,"The speaker is discussing housing and rental issues, specifically the need to address rising rents, deposits, and the lack of affordable housing. They also mention the impact on landlords and the need to build more houses to alleviate the renting problem.","[1401, 1406, 1409, 500, 508]"
+184,,[]
+185,"The excerpt discusses taxation (107) and the national insurance rise (105), which is related to the economy (101). The speaker is proposing an alternative to Nick Clegg's tax cut, which is also related to taxation (107).","[107, 105, 101]"
+186,,"[1500, 1501, 107]"
+187,,[]
+188,,"[2000, 2011, 2012]"
+189,,"[1900, 1800, 1000]"
+190,,[]
+191,,"[300, 301, 103, 104, 105, 107]"
+192,,"[300, 301]"
+193,"The speaker is discussing tax policy, specifically the power to set tax rates and rules around tax avoidance. They mention the potential consequences of introducing a tax on capital gains in Scotland alone, including a decline in revenue. They suggest that implementing this policy across the UK would be more effective in raising revenue.","[107, 105, 101]"
+194,,[]
+195,"The speaker is discussing taxation and its potential impact on Scotland, referencing the need for full powers over tax and the potential loss of revenue if a tax is introduced in Scotland alone.","[100, 107, 104, 101]"
+196,,[]
+197,,[]
+198,,"[2001, 2012, 1521]"
+199,,[]
+200,,[1926]
+201,,[]
+202,,[]
+203,,[]
+204,,[]
+205,,[]
+206,,"[1900, 1911]"
+207,,"[1900, 1910, 2000, 2012]"
+208,,[]
+209,,[]
+210,,[]
+211,,"[1800, 1803, 1000, 1001]"
+212,"The excerpt discusses the importance of adapting policing to address changing crime and terrorist threats, while also ensuring the police have the necessary powers and budgets to do their job.","[1200, 1209, 1205, 1203, 1201, 1208]"
+213,,"[200, 207]"
+214,,[]
+215,,"[1400, 1401, 1406, 500, 505, 1302, 1304, 1207, 1208]"
+216,"The excerpt discusses education, specifically the issues of class sizes, SATs, teacher workload, and the need to support teachers. The speaker is advocating for changes to the education system to improve the experience of both students and teachers.","[600, 602, 603, 606, 325, 504]"
+217,,[]
+218,,[]
+219,"The excerpt discusses the NHS, a health-related topic, and the speaker is arguing against the idea of the NHS being put on the table in trade negotiations, which is a form of privatisation. The speaker also criticises the opposition's Brexit policy, but this is not a primary focus of the excerpt.","[300, 301, 108]"
+220,,"[100, 105]"
+221,,[]
+222,,[]
+223,"The excerpt discusses environmental issues, specifically climate change, pollution, and waste management. The speaker suggests three immediate actions: planting trees to capture CO2, investing in green technology to reduce emissions, and recycling waste. The mention of plastic bottles on beaches in Asia and their origin in British supermarkets highlights the need for responsible waste management.","[700, 705, 701, 703, 700, 701, 703]"
+224,,[]
+225,"The excerpt discusses the need to recruit more GPs, retain existing ones, and address the issue of doctors being unable to work as GPs due to lack of funding. It also touches on the issue of doctors leaving the country for better opportunities abroad.","[300, 325, 331, 334, 344]"
+226,,"[500, 506, 300, 325]"
+227,"The excerpt discusses the benefits of the Brexit deal, specifically its impact on British businesses, trade, and the country's movement forward. The codes reflect the discussion of trade (1800/1803), transportation (1000/1001), and the positive tone of the statement (1006).","[1800, 1803, 1000, 1001, 1006]"
+228,,[]
+229,,"[1900, 1926, 800, 801]"
+230,,"[200, 230, 500, 529]"
+231,,[]
+232,,[]
+233,,[]
+234,,[]
+235,,[]
+236,,"[200, 207]"
+237,"The excerpt discusses immigration figures, the impact of Brexit on immigration, and the need to address abuse in the system. The speaker acknowledges the complexity of immigration and the need for ongoing work to ensure that there is no more abuse. The mention of introducing rules for people coming from within the European Union suggests that the speaker is considering the impact of Brexit on immigration.","[200, 230, 500, 529]"
+238,,[]
+239,,[]
+240,,[]
+241,,[]
+242,,[]
+243,,[]
+244,,[]
+245,,"[500, 502, 1401, 100, 103, 107, 105]"
+246,,"[800, 803, 807]"
+247,,"[100, 103]"
+248,,[]
+249,,[]
+250,,[]
+251,,[]
+252,,[]
+253,,[]
+254,"The excerpt discusses the economic and social implications of a hung Parliament on Wales, specifically the need for parity in funding with Scotland, and the impact on austerity and the Welsh economy. It also touches on the importance of addressing racial discrimination and immigration.","[100, 105, 101, 200, 230, 500, 503, 507]"
+255,,[]
+256,,[]
+257,,[]
+258,,[]
+259,,[]
+260,,[]
+261,,[]
+262,,[]
+263,,"[2000, 2011, 2012, 1000, 101, 103, 105, 107, 108, 1603, 1608, 1610, 1901, 1910, 2011]"
+264,,[]
+265,,[]
+266,,"[600, 602, 603, 604, 331, 334, 301]"
+267,"The excerpt discusses urgent social needs payments to help people stay in their own homes, a limit on costs for old people's homes, and a two-year limit on payments for personal and medical care. These topics relate to social welfare (1303), housing (1401), and energy conservation (807).","[1303, 1401, 1409, 807]"
+268,"The excerpt discusses immigration, addressing concerns and proposing policies to address them, including limiting benefits for new immigrants and tackling exploitation of migrant labor.","[200, 230, 500, 529]"
+269,"The speaker is discussing the importance of economic recovery, reducing unemployment, and the potential negative impact of a policy that would remove 6,000 million pounds from the economy. They are also criticizing their opponents for not thinking through the consequences of their policy.","[100, 103, 105, 500, 502]"
+270,,[]
+271,,[]
+272,,[]
+273,,[]
+274,"The speaker argues that the UK is stronger when working together with other countries to address global issues like climate change, crime, and corporate regulation. They also mention the benefits of unity in the context of the UK's own internal unity, suggesting that the country is stronger when it remains intact.","[1900, 705, 807, 200, 230, 500, 502]"
+275,"The excerpt discusses the UK's relationship with Europe, trade, and the protection of European nationals, environmental conditions, and workers' rights. It also mentions the result of the Brexit referendum.","[1900, 1803, 200, 230, 700, 108]"
+276,,[]
+277,"The excerpt discusses the speaker's concerns about the US under Trump, the potential for a new relationship with the US after Trump's departure, and the wasted opportunity for a peace project with the funds allocated to Trident renewal.","[1900, 1910, 1000, 1002, 800, 807]"
+278,"The excerpt discusses the Chancellor's request to the Shadow Chancellor to rule out tax increases, and a recording from the Deputy Chancellor admitting that Labour's plans will cost hundreds of billions of pounds, which relates to Macroeconomics (100), specifically Taxation (107) and Inflation/Interest Rates (101)","[100, 107, 101]"
+279,,"[1900, 1920, 108, 101]"
+280,"The speaker is discussing immigration and border control, specifically referencing the Rwanda plan as a deterrent and criticizing the Labour Party's stance on immigration.","[1200, 1203, 1205, 1209]"
+281,"The excerpt discusses the Labour party's stance on immigration and the will to address the issue, as well as the public's desire for reduced net migration.","[200, 230, 500, 529]"
+282,,[]
+283,,[]
+284,,"[700, 705, 800, 807]"
+285,"The speaker is discussing the need for a defence review to address the lack of helicopters for the front line, which is a military intelligence issue (1603). They also mention the negative impact of government decisions on veterans (1609) and the need for increased military spending (1608). Additionally, they imply that the government's actions were misguided (1601).","[1603, 1609, 1608, 1601]"
+286,,[]
+287,,[]
+288,"The excerpt discusses the importance of addressing xenophobic rhetoric and promoting a balanced debate on migration, while condemning instances of hate speech and promoting a critical view of the police's role in addressing these issues.","[200, 230, 1200, 1207, 1209]"
+289,,"[500, 505, 2011]"
+290,,[]
+291,,"[1900, 1901, 200, 230, 500, 502, 2011]"
+292,,"[1200, 1207, 1209, 1203, 1205]"
+293,,[]
+294,,[]
+295,"The speaker is arguing against the UK's nuclear missile system, citing its Cold War-era design and the need to prioritize spending on more pressing issues, such as equipping troops in Afghanistan.","[1600, 801, 807, 500, 502]"
+296,,"[1200, 1203, 1209, 230]"
+297,,[]
+298,,"[1900, 1910, 1000, 1001]"
+299,,[]
+300,,"[1200, 1205, 1207]"
+301,,"[1900, 1803, 1000, 1001]"
+302,,"[107, 100, 105]"
+303,,"[500, 505, 1401]"
+304,,"[200, 230]"
+305,"The excerpt discusses the need for reform of the House of Commons and the House of Lords, and the proposal to put it to a referendum. It also criticizes the Conservatives for rejecting these reforms.","[2001, 2011, 2012, 2032]"
+306,"The speaker is discussing the importance of economic stability as the foundation for future growth, and mentions that the current state is 'overloaded' and 'not fully funded', which implies a discussion of the national budget and the need for fiscal responsibility.","[100, 105, 101]"
+307,,[]
+308,"The speaker is discussing the National Health Service (NHS) and expressing a positive view of its overall quality, while acknowledging that some individuals may have had a bad experience.","[300, 301]"
+309,,[]
+310,,[1207]
+311,,"[200, 230, 1600, 1610]"
+312,,[]
+313,,[]
+314,"The excerpt discusses taxation (107) and its potential impact on the economy (101). The speaker also touches on the importance of cooperation and open communication in government (1000), referencing the potential for a hung parliament (2011) and the need to avoid short-term political point scoring (2012).","[107, 101, 1000, 2011, 2012]"
+315,"The excerpt discusses education opportunities, specifically university and technical skills, and the importance of providing jobs and housing for young people. It also mentions national service and the Prime Minister's proposal, which is a law and crime issue.","[600, 601, 600, 604, 1401, 1000, 1200, 1209]"
+316,"The speaker is discussing the importance of fairness in addressing the country's financial issues, specifically the need to balance the books and fill the public finance deficit. They propose a tax switch to benefit low-income individuals and close loopholes at the top, indicating a focus on taxation and employment.","[100, 105, 107, 500, 503]"
+317,"The excerpt discusses immigration and its impact on the UK, specifically mentioning the increase in net migration since 1997 and the need to bring it down.","[200, 230, 500, 529]"
+318,,[]
+319,,[]
+320,,[]
+321,,"[1900, 1901, 200, 230, 300, 601, 602, 603]"
+322,,[]
+323,,[]
+324,,[]
+325,"The speaker is discussing Labour's plans to tax healthcare professionals' pensions, which is related to healthcare reform (301). They are also discussing taxation (107) and employee benefits (503), which is related to labour and employment. The mention of healthcare professionals leaving the NHS is also related to labour and employment.","[301, 107, 500, 503]"
+326,,"[1600, 1608, 1603]"
+327,"The speaker discusses the NHS vacancies, migrant workers in the NHS, scapegoating of migrants, and the need for bold decisions on public service funding. They also mention the Green Party's honesty about the issue.","[300, 325, 500, 230, 507, 1000, 200, 230, 201, 1000, 2011, 2012]"
+328,,"[500, 506, 325]"
+329,,[]
+330,,[]
+331,The excerpt discusses the issue of housing and its relation to immigration and employment.,"[1401, 1406, 500, 529]"
+332,"The speaker is discussing the flexibility of employment contracts, specifically zero-hours contracts, and the preference of employees to have multiple contracts with different employers. They are also highlighting the importance of considering the needs of different groups, such as students, who may prefer flexibility in their work arrangements.","[500, 504, 505, 506]"
+333,,"[1900, 1911, 2000, 2011]"
+334,,"[500, 529]"
+335,,"[1200, 1203, 1205]"
+336,,[]
+337,"The excerpt does not mention any specific policy or issue, but rather refers to the Prime Minister's record, which is a general statement about the government's performance.",[]
+338,,"[1200, 1205]"
+339,,[]
+340,"The speaker is criticizing the government's handling of the police and the environment, referencing the Extinction Rebellion protests and the need for a political solution to address the issues. They are also referencing the impact of austerity and the need for action to protect the future.","[1200, 1209, 1207, 1205, 1203, 1201, 1208]"
+341,"The excerpt discusses immigration levels, the Prime Minister's responsibility, and the failure to keep a promise related to immigration. The codes reflect the discussion of immigration (200, 230), the employment and workforce implications (500), and the migrant workers (529).","[200, 230, 500, 529]"
+342,"The excerpt discusses the government's spending on social care and the NHS, highlighting the importance of a strong economy to support these investments. The codes reflect the discussion of macroeconomic issues (100), the impact of taxation on the economy (105), the reform of the NHS (301), and the need for energy conservation (807).","[100, 105, 301, 807]"
+343,"The excerpt discusses housing and community development (1401), specifically the issue of private rented sector insecurity and the need for stability (1406). It also touches on fair labour standards (507) by mentioning the unfairness of letting agents charging fees to tenants. Additionally, it mentions the need for parental leave and childcare (508) by highlighting the impact of insecurity on families.","[1401, 1406, 507, 508]"
+351,"The speaker is discussing energy policy, specifically the need to reduce dependence on oil and increase the use of nuclear and renewable energy sources. They mention a target of 15% renewables by 2020 and highlight the UK's leadership in offshore wind power. They criticize the opposing parties for being against nuclear power and not having a renewables target, and question their stance on onshore wind power.","[800, 801, 806, 807]"
+361,"The speaker is discussing defence and military issues, specifically the need to increase defence spending, restore military manpower to 2010 levels, and maintain Trident. They also mention the importance of supporting ex-servicemen and women.","[1600, 1608, 1609, 1610, 1603]"
+388,,[]
+394,The excerpt discusses the importance of maintaining the UK's independent nuclear deterrent in the face of uncertain global circumstances.,"[1600, 801]"
+404,,"[1200, 1209, 1203, 1205, 1208]"
+416,,"[200, 207, 400, 408, 500, 508, 230]"
+429,"The excerpt discusses the NHS, specifically the price it pays for drugs, and the speaker's commitment to protecting it. The speaker also mentions walking away from trade discussions where the NHS is compromised, which relates to industrial policy (nationalisation). Additionally, the speaker's emphasis on the NHS implies a focus on public transportation (mass and public transportation and safety).","[300, 321, 108, 1000, 1001]"
+432,,[]
+447,,[]
+455,,"[500, 503, 504, 505, 1304, 1302, 1303, 1305, 1406, 1409, 1501, 2011, 2012]"
+484,,"[1200, 1205, 1207, 1304, 500, 502]"
+624,"The excerpt discusses the UK's exit from the EU, specifically the need for a timely departure, regaining control over fishing waters, borders, and the single market. It also mentions the importance of controlling immigration.","[1000, 1002, 1005, 1900, 1800, 401, 408, 230, 500, 529]"
+628,,[]
+671,,[]
+737,,[]
+748,,[]
+998,"The excerpt discusses the Liberal Democrats' stance on defence, specifically their commitment to maintaining the nuclear deterrent, reversing defence cuts, increasing defence spending, and providing decent homes for veterans and armed forces.","[1600, 1603, 1608, 1609, 1601, 1604]"
+1222,,[]
+1361,,[]
+1420,"The excerpt discusses crime rates, police presence, and local governance, highlighting the positive impact of increased police numbers and conservative police crime commissioners on crime reduction.","[1200, 1209, 1205, 1207, 1208]"
+1426,,[]
+1756,,[]
+2601,,[]
+3070,,"[1800, 1803]"
+3356,,[]

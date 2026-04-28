@@ -1,0 +1,680 @@
+QUESTIONER_0: Let's start with short opening statements from the leaders in alphabetical order, starting with the co-leader of the Green Party, Sian Berry.
+BERRY: Tonight, this is what you'll see.
+BERRY: Every leader on this stage will agree, with me.
+BERRY: They will all work hard to sound a little bit like the Green Party.
+BERRY: Some might even sound convincing.
+BERRY: It's progress.
+BERRY: But as you watch, ask yourself two important questions.
+BERRY: Do their plans match the scale of the emergency we face?
+BERRY: And do you trust them to get this done without more Greens in Parliament making sure of it?
+BERRY: If the answer is no, then vote Green.
+BERRY: If not now, when?
+BERRY: Thank you.
+BERRY: And next Jeremy Corbyn.
+CORBYN: This election is our last chance to tackle the climate and environment emergency.
+CORBYN: The climate movement has changed our politics forever and Labour has listened.
+CORBYN: Just 100 companies are responsible for 70% of emissions.
+CORBYN: And you at home must not pay the price of the transition to a net zero economy.
+CORBYN: Labour will kickstart a green industrial revolution, bringing new wealth to all parts of our country.
+CORBYN: Labour is on your side and on the side of the environment.
+CORBYN: It is time for real change.
+QUESTIONER_0: Next, for Applied Cymru, its leader Adam Price.
+PRICE: As a new father, the climate crisis feels personal now.
+PRICE: My son is only one, but one day soon he's going to ask me, you had power, so what did you do?
+PRICE: What I want to do is to combine hope with urgency, to make a trinity of zeros, zero carbon, zero waste, zero poverty, our common goal by 2030.
+PRICE: To turn Wales into the world's test bed,
+PRICE: to make this moment not a tipping point of disaster, but a turning point of change.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: And now the leader of the SNP, Nicola Sturgeon.
+STURGEON: Tackling the global climate emergency is a moral obligation and Scotland is already leading the way.
+STURGEON: We have almost halved our emissions and now set a new legal target to reach net zero of all emissions by 2045, five years ahead of the rest of the UK.
+STURGEON: That goes further than the Paris Agreement and beyond what international experts say is needed globally.
+STURGEON: Our focus now is on taking the action to secure this transition in a fair way, and in partnership with other countries in the EU and beyond.
+STURGEON: It is a big challenge, but one that we all must meet, and the SNP is determined to do so.
+QUESTIONER_0: And now, the leader of the Liberal Democrats, Jo Swinson.
+SWINSON: The climate crisis is even more important than Brexit.
+SWINSON: But Brexit is a climate crime.
+SWINSON: It is morally wrong to leave our seat at the table and give up our influence to create the change we need right across the world.
+SWINSON: We have two paths ahead of us.
+SWINSON: one where our children inherit a poisoned planet, or one where our children breathe clean air, where going green is the easier, cheaper option, where we protect our planet for future generations.
+QUESTIONER_0: Thank you all.
+QUESTIONER_0: So let's begin.
+QUESTIONER_0: Our format is simple.
+QUESTIONER_0: Each leader will get the chance to answer at least one question first, and then we'll freely debate it between everyone.
+QUESTIONER_0: There's a lot to get through, so please keep your answers brief.
+QUESTIONER_0: First, the Conservatives are committed to reaching the emissions target of net zero by 2050.
+QUESTIONER_0: That means the amount of greenhouse gases we are putting into the atmosphere will be balanced by the amount we are taking out.
+QUESTIONER_0: So is 2050 the right target?
+QUESTIONER_0: Jeremy Corbyn.
+CORBYN: Well, on the government's current target, they won't reach it until 2099 anyway, because they're simply not living up to the demands made of the Paris Climate Change Accord or indeed of their own statements.
+CORBYN: I think we have to do everything we can to get to a 2030.
+CORBYN: zero emissions target and we do that by investment in green energy jobs, solar, wind and wave power and we do that by creating jobs in transforming our energy consumption by retrofitting homes to make them environmentally sustainable.
+CORBYN: We also have to work
+CORBYN: on the global stage, because at the moment, it's going to be well into the end of this century before there's anywhere near sustainability on a global stage.
+CORBYN: And by that time, temperatures will have gone up by three degrees centigrade.
+CORBYN: And so I want to host COP26 next year to go further than Paris so that we can be leaders on the world stage in setting an agenda of achieving this degree of sustainability by 2030.
+QUESTIONER_0: So Labour's aiming at 2030.
+QUESTIONER_0: Nicola Sturgeon, I mean, you're making a big deal of going for 2045.
+QUESTIONER_0: climate change said Scotland would be doing anyway?
+STURGEON: It is what the Committee on Climate Change said is at the outer limits right now.
+STURGEON: That is what we should be aiming for at the very latest.
+STURGEON: What Scotland has done is pile on the pressure to meet higher targets earlier.
+STURGEON: We are going beyond what the Committee on Climate Change has said for 2030, a 75% reduction in all emissions
+STURGEON: by 2030, carbon neutrality by 2040.
+STURGEON: Now, the IPCC, the international expert, says that the world needs to reach carbon neutrality by 2050 and half emissions, carbon emissions, by 2030.
+STURGEON: So we are going beyond that.
+STURGEON: And unlike the other leaders here, I'm actually in government, leading a government that is leading by example.
+STURGEON: Our targets are the toughest anywhere in the world.
+STURGEON: They include aviation,
+STURGEON: shipping and they don't rely on international credits and that's the kind of ambition we need to see all countries take.
+QUESTIONER_0: Adam Price, it's the opposite problem for you.
+QUESTIONER_0: If Scotland has the resources to get there quicker, the Commission on Climate Change says Wales has less and yet you want to go quicker.
+PRICE: Well, yeah, and we need the power to do that, you know, so that we can actually use the huge advantages that we have in terms of the green jobs revolution, the fantastic marine energy resources that we have across all over our coastline.
+PRICE: But of course, at the moment, we don't have the power to tap into that potential.
+PRICE: We want to see that investment.
+PRICE: I have to say to Jeremy, of course, it was great to see the Labour motion at your conference coming out for 2030.
+PRICE: That's absolutely the right target.
+PRICE: But unfortunately, the manifesto says you want to get the majority of emissions by 2030.
+PRICE: A couple of countries that are already in the world have gone for 2030.
+PRICE: We need to show that same level of ambition.
+PRICE: We have the technology now to reach carbon neutrality by 2030.
+PRICE: Unfortunately, what's lacking is the political will.
+PRICE: That's the monuments to the lack of political leadership that we have either side of us here.
+PRICE: We've got to change that.
+PRICE: And the people that aren't represented here as well are the future generations.
+PRICE: We've got to be their voice and get to 2030 carbon neutrality.
+QUESTIONER_0: So you're another 2030.
+QUESTIONER_0: Joe Swinson, where are you?
+SWINSON: Well, we think that it is absolutely possible to get there by 2045, but we should do this as quickly as we can.
+SWINSON: So you're less ambitious?
+SWINSON: No, because we should do it as quickly as we can and bring that date forward.
+SWINSON: But the important thing is not only when we get to net zero, it's how quickly we cut emissions right now, how much carbon we take out of the atmosphere right now.
+SWINSON: That is what is going to give us the best chance of saving our planet.
+SWINSON: But can I inject a note of optimism?
+SWINSON: I noticed in your film at the beginning, the fate of that koala at the end of it perhaps was a bit of a somber note.
+SWINSON: And often in these climate discussions, that can be how it feels.
+SWINSON: It can feel impossible.
+SWINSON: When I was growing up in the 1980s, the big challenge that we were thinking about was the hole in the ozone layer and how we were going to deal with that and all of the negative impacts that had.
+SWINSON: What gives me hope is that international action was taken, governments got together and agreed.
+SWINSON: CFCs were cut by 98% and the hole in the ozone layer is now the smallest it has been for 30 years and looks like it will repair.
+SWINSON: That shows me that we can solve this problem.
+QUESTIONER_0: how credible is 2030, which is also your pledge, when the experts on the Committee on Climate Change just say that's too fast?
+BERRY: We have to do what the science demands, not what's politically convenient here.
+BERRY: And the key thing about a 2050 target is it leaves us with a 50% chance of tipping over into runaway climate chaos.
+BERRY: Now, would you cross a bridge with those odds of getting to the other side?
+BERRY: It's incredibly important that we do what the IPCC warned us about, which is
+BERRY: get involved in cutting emissions as quickly as possible.
+BERRY: Because when we do that, the sooner a target we set, the early action helps in terms of getting people's lives better and equality, and especially global equality as well.
+BERRY: If we leave it too late, we end up using technology to solve the problem, some of which we don't already have.
+BERRY: So 2030 is the right target.
+BERRY: We shouldn't just give up on it and weaken it like Labour have done when things get difficult.
+BERRY: Our plans, our Green New Deal, are several times larger than any party who's here.
+BERRY: They will achieve that target.
+BERRY: We're not weakening.
+BERRY: And they put faith in people to achieve it from the bottom up as well as from the top down.
+CORBYN: We're not weakening.
+CORBYN: We're not giving up on it.
+CORBYN: I'm determined to achieve it.
+CORBYN: That's why I've put that in our manifesto.
+CORBYN: we recognise there are huge problems on the way.
+CORBYN: Adam made the point about Wales being part of a net zero emissions country in the future.
+CORBYN: I absolutely agree with that.
+CORBYN: That means very big investment in the Swansea Bay Lagoon.
+CORBYN: It means big investments all around the UK on wind farms and the solar energy jobs.
+CORBYN: I'm determined to achieve it.
+CORBYN: We recognise that we just cannot go on like this, but also we have to recognise we are one country in the whole world, so it's what Britain does on the world stage and particularly
+CORBYN: particularly at the COP conference next year.
+SWINSON: I totally agree that the role that we play internationally is so important.
+SWINSON: But surely, you can see, that's why it's so important that we keep our seat at the European Union table.
+SWINSON: Because we have led the way in Europe on this.
+SWINSON: Europe has led the world.
+SWINSON: That's how we got the ambitious Paris Accords through.
+SWINSON: And turning our back on the European Union is turning our back on our best way of fighting the climate emergency.
+CORBYN: It was Labour who put the climate emergency motion to Parliament on May 1st and led the way in the UK.
+STURGEON: I don't think it is helping the planet
+STURGEON: that much for us all to be squabbling with each other here.
+STURGEON: This is something we should actually be trying to find unity and common purpose on.
+STURGEON: Now, I'm proud of the fact that Scotland is leading the way.
+STURGEON: The UN recognises us as a world leader.
+STURGEON: COP will be in Glasgow next year.
+STURGEON: And we should be agreeing that Scotland, the UK, should be leading the world.
+STURGEON: And then we should be putting pressure on other countries.
+STURGEON: Because right now, the world is not on track to limit temperature rises to 1.5 degrees.
+STURGEON: We've heard your ambitions.
+STURGEON: And let's make sure that we focus on the ambitions that we need to
+QUESTIONER_0: We have heard your ambitions.
+QUESTIONER_0: They range from 2030 to 2045 and 2050 in the case of the Conservatives.
+QUESTIONER_0: But how are you all going to get there?
+QUESTIONER_0: What will it mean for how we live our lives?
+QUESTIONER_0: Let's start with food.
+QUESTIONER_0: It makes up about a fifth of the UK's greenhouse gas emissions.
+QUESTIONER_0: Sean Berry, how do we need to change that?
+BERRY: We absolutely need to look at every single layer of our society to do this.
+BERRY: Our Green New Deal looks at our homes, our industry, our energy, and very importantly, our agriculture, our food, and how we deal with our land.
+BERRY: At the moment, we focus far too much of our land on pasture.
+BERRY: We don't have enough woods.
+BERRY: We need to plant an awful lot more trees.
+BERRY: We need to rewild our landscape.
+BERRY: What about red leech?
+BERRY: And it means some of the landscapes that are currently being used for pasture land
+BERRY: for meat need to be changed to being forestry, need to be changed to being absorbing carbon as well.
+BERRY: And that's really important.
+QUESTIONER_0: And you want to tax dairy and meat, don't you?
+BERRY: Just explain how that would work.
+BERRY: Well, our taxes are all absolutely revenue neutral.
+BERRY: Every single penny from the tax that we put on carbon and the tax we put on methane at the level of meat and dairy would go straight back into changing what's going on.
+BERRY: We're not about making money.
+BERRY: We're about changing how things happen.
+BERRY: And so, yeah, we want the industry to change.
+BERRY: We don't want any of those taxes to reach people's plates.
+BERRY: We want the industry to reduce the amount of meat that they're producing, to produce the greener, healthier choices, and make those the cheapest choices for everybody.
+BERRY: That's how the green values always work on these things.
+BERRY: We're about changing things.
+QUESTIONER_0: Nicola Sturgeon, do we need to go plant-based?
+STURGEON: I think we all have to think about the balanced, healthy diets that we eat.
+STURGEON: We also have to think much more carefully about where our food is sourced from.
+STURGEON: Absolutely, the practices that are used in agriculture and farming have to change, have to become
+STURGEON: much more energy efficient and environmentally friendly.
+STURGEON: But of course, again, talking about Scotland, we have the climate and the environment to actually support sustainable, high-quality produce, and we should be supporting our farmers to do that.
+STURGEON: A lot has already been done just now, but we need to do more of that.
+STURGEON: Land use, I absolutely agree about land use.
+STURGEON: I've been listening to all of the parties here today talk about the number of trees
+STURGEON: they want to plant.
+STURGEON: Last year in Scotland, 22 million trees were planted, 84% of the UK total.
+QUESTIONER_0: I want to talk about the food on people's plates.
+QUESTIONER_0: Do you need to show leadership and say to people, you have got to eat less Aberdeen Angus?
+QUESTIONER_0: And say to your farmers, you're going to have to sell this.
+STURGEON: We've got to make sure that the food that we are producing is produced in a way that is more environmentally friendly.
+STURGEON: There's a lot of work ongoing to do that right now.
+STURGEON: But for environmental reasons and for health reasons, yes, of course, we've got to be encouraging people to eat balanced diets and to think about getting their food much more locally sourced.
+STURGEON: That's good for the economy as well as being good for people's health and good for the environment.
+QUESTIONER_0: Adam Price, are you prepared to tell your sheep and cattle farmers that people are going to have to eat less meat?
+QUESTIONER_0: No.
+PRICE: No, it's an absolute myth actually that the IPCC report was somehow advocating moving away from meat and milk, the kind of produce that we produce in a temperate, wet, largely
+PRICE: wet climate like in Wales, actually animals fed on grassland make a positive contribution because grass is one of the most important stores of carbon that we have.
+PRICE: If you lose that, if you move away from that, actually you move to scrub etc, then you actually
+PRICE: actually lead to higher emissions as a result of that.
+PRICE: The real message on food, right, is that we, all of us, as individuals, public authorities, schools, NHS, etc., we need to be buying more locally.
+PRICE: We need to create local food systems producing the whole range, both of plant protein and animal protein, and stop importing it to the level we do.
+PRICE: And farmers are an important part
+PRICE: of the climate change that we want to create because they are custodians of the environment and we should be involving them as allies rather than decrying them as the enemies of...
+QUESTIONER_0: I think you're the only one who's gone plant-based, aren't you?
+QUESTIONER_0: I mean, do the rest of us as well?
+QUESTIONER_0: What's that, sir?
+QUESTIONER_0: Going plant-based in terms of our diet.
+QUESTIONER_0: You've gone there already, basically, haven't you?
+QUESTIONER_0: Do the rest of us have to follow you?
+CORBYN: Well, I think meat consumption is falling anyway and more and more people are recognising that you need a balanced diet.
+CORBYN: It doesn't mean everybody's got to become a vegetarian tomorrow and neither will they, but it does mean we have to look at the balance of our food sources as well.
+CORBYN: Therefore, more UK production of fruit and vegetables is perfectly possible.
+CORBYN: Looking at the issues of the damage we do to our environment by
+CORBYN: but flying vegetables in from all over the world when they could be produced here.
+CORBYN: There's a whole lot of issues surrounding that.
+CORBYN: But we also have to recognize that many people in this country are actually obese because of the poor quality food that they eat, or hungry because they can't afford to eat properly.
+CORBYN: So it is also about food pricing.
+CORBYN: And with our farms, yes,
+CORBYN: The farms are absolutely crucial to this.
+CORBYN: It is about extending biodiversity on our farms.
+CORBYN: It is about expanding headlands around fields.
+CORBYN: It is about rewilding part of it in order to strengthen our levels of biodiversity.
+CORBYN: If we go on damaging our soil at the rate we are, destroying the insect population at the rate we are, the levels of agricultural production will actually start to go down, not up.
+QUESTIONER_0: Let's talk about another aspect of our lives and how it might have to change.
+QUESTIONER_0: If that one doesn't have to change that radically, it sounds like it.
+QUESTIONER_0: I mean, Jo Swinson, how much do we have to change the amount we fly?
+QUESTIONER_0: You want to tax us according to how we fly.
+SWINSON: Yeah.
+SWINSON: I mean, the international flights, obviously, the biggest amount of carbon released in terms of aviation, and we've said we would start with an international frequent flyer tax for those taking more than three return long-haul flights a year.
+SWINSON: How much?
+SWINSON: What it would mean is it would be more expensive for those taking more than three return flights a year.
+SWINSON: What would you pay?
+SWINSON: We've got the whole costing set, obviously it's on a scale.
+SWINSON: So people who are flying very, very frequently, the people that are racking up those long haul flights will pay a lot more.
+SWINSON: I haven't flown internationally on holiday for a very long time, but I do fly domestically and that is because I represent
+SWINSON: a constituency of 400 miles from London.
+SWINSON: And at the moment, we do not have good enough transport infrastructure.
+SWINSON: We've got Victorian railway infrastructure, and we're in the 21st century.
+SWINSON: That's why we need the investment in things like High Speed 2 to bring our domestic travel in the UK up to the standards it needs.
+SWINSON: Hardly anyone
+SWINSON: would think of flying between London and Paris or London and Brussels these days since the Eurostar came in.
+SWINSON: That's the kind of 21st century infrastructure that we need.
+QUESTIONER_0: Sian Berry, what would the impact of HS2 be on wildlife?
+BERRY: We are one of the only parties here, I think, who want to cancel HS2.
+BERRY: And it's the opportunity cost of investing in such a big project when we could be investing in the local sustainable transport
+BERRY: that people are crying out for.
+BERRY: People are trapped in their cars.
+BERRY: They want better buses.
+BERRY: They want better local transport.
+BERRY: They want to be able to walk and cycle.
+BERRY: And that's where we differ on HS2.
+BERRY: We like Eurostar.
+BERRY: We like high speed rail.
+BERRY: But that project at this moment, we could spend that money so much better in other places.
+QUESTIONER_0: You want to extend HS2 right up
+QUESTIONER_0: to Scotland, don't you?
+STURGEON: We don't want Scotland to be left behind in these things, but we want to invest more in public transport.
+STURGEON: In answer to your question earlier on, do people have to fly less?
+STURGEON: Yes, I think we do, where we can.
+STURGEON: Something like half of all international flights are taken by 10% of the population.
+STURGEON: So we have to invest more.
+STURGEON: We are investing half a billion pounds to improve bus infrastructure.
+STURGEON: We need to get the rail services.
+STURGEON: better.
+STURGEON: Where flights are necessary, in a country like Scotland, sometimes they are, we have set a target to decarbonise all flights within Scotland by 2040.
+STURGEON: We have already one of the most comprehensive electric vehicle charging networks anywhere in Europe with a target of phasing out... Are you beseeching people to fly less or are you going to tax them to make sure they fly less?
+STURGEON: The UK already has one of the highest levels of air passenger duty.
+STURGEON: My party had a long-standing commitment to cut that, and we decided we couldn't do that, in all conscience, because of the climate emergency.
+STURGEON: So, you know, I think we need to make sure the alternatives are there and encourage people.
+STURGEON: But on all of this discussion about individual behaviour, important though it is, somebody made a point about the small number of companies responsible for the majority of emissions.
+STURGEON: We've got to make sure that industry and government are leading by example.
+QUESTIONER_0: Indeed, Jeremy Corbyn, Heathrow Airport is the single biggest emitter of greenhouse gases.
+QUESTIONER_0: Are you in favour of giving it that third runway?
+CORBYN: I voted against it at the time it came up, and we would set any expansion of any airport against tests on noise, on pollution, on sustainability, and on climate change targets.
+CORBYN: And if we are to reduce the amount of flying going on, then we do have to invest in extending and expanding our rail network, and particularly the rail network into Europe.
+CORBYN: I mean, I looked at the price of going to Berlin the other week.
+CORBYN: One airline was offering a £19 single ticket to go to Berlin.
+CORBYN: To go by train would have cost £240 and the rail infrastructure was totally invested in by the public.
+CORBYN: There has to be a much more efficient link-up.
+CORBYN: of the Eurostar rail service with the whole of the rest of Europe in order to reduce the number of short-haul flights that go to Europe and there has to be an expansion of our rail network all across the country if we are to get people to use trains rather than flights and also make the train fares cheaper so that it is actually a real offer, an option for everybody in this country.
+QUESTIONER_0: So cheap flights for the mayor have got to end, haven't they?
+CORBYN: I think we do it better by offering a sensible alternative which is also, and I'll finish on this point, also about improving bus services all across the country.
+CORBYN: They're pretty good in London, they're pretty poor in most other parts of the country.
+CORBYN: There has to be full regulation and demand for provision of adequate bus services all over the country to cut down on air pollution from cars.
+BERRY: Yeah, just on the aviation point, I mean, we are very late, the rest of the parties here, to being against aviation expansion.
+BERRY: Just over a year ago, more than half of Labour MPs voted for Heathrow expansion.
+BERRY: The Lib Dems voted against, Plaid Cymru voted against, the SNP abstained, and you cannot abstain on climate change.
+BERRY: It's good that we're there now saying
+BERRY: we need to limit the amount of aviation.
+BERRY: The question now is how we share out the flights that we can take more fairly.
+BERRY: And that does mean targeting those 15% of people who take 70% of all flights.
+BERRY: These are the frequent flyers who need...
+BERRY: I will let you answer in a moment.
+PRICE: As Sian rightly says, we would cancel the third runway at Heathrow.
+PRICE: We would also cancel HS2.
+PRICE: It is a vanity project.
+PRICE: It is kind of obscene.
+PRICE: The suggestion is that England is going to get a high-speed north-south railway
+PRICE: we in Wales haven't got any kind of railway link north to south within our country.
+PRICE: We want to rectify that, bring back the Aberystwyth to Carmarthen railway link, take it up all the way to Caernarfon and Ynys Môn and see the proper investment in our transport infrastructure within Wales.
+PRICE: We only get 1% of the transport infrastructure investment in the UK, we've got 5% of the population and it's been like that for decades.
+PRICE: I have to say, Jeremy, under Labour governments as well.
+STURGEON: One of the points I wanted to make, going back to the discussion about targets, is the UK government's target right now, the 2050 target, actually excludes aviation emissions from it.
+STURGEON: Scotland's target includes aviation emissions.
+STURGEON: And I suspect if the UK was to include emissions from aviation, Heathrow expansion would not align with that.
+STURGEON: So we've got to make sure that these targets, if they are to be meaningful, are actually including all of the emissions and the biggest emitters along the way.
+STURGEON: You have to include aviation.
+QUESTIONER_0: Let's move on from transport.
+QUESTIONER_0: Time is short, we want to get through quite a lot on this.
+QUESTIONER_0: A third of our emissions come from our homes.
+QUESTIONER_0: The Conservatives say they will invest over £9 billion on energy efficiency.
+QUESTIONER_0: You all talk big on cutting that with insulation and zero carbon homes, but how are you actually going to make people change their heating systems?
+SWINSON: Well, I think the first thing that we can do, which is so important, is actually about retrofitting homes to insulate them properly.
+SWINSON: And in terms of how we can encourage people to do that, well, that's actually going to be something which is good for people because it cuts energy bills, it helps people save money.
+SWINSON: And for low-income households, that should be something which we do, that we make sure that that is done by the government so that those homes, within the next five years, are insulated to help cut fuel poverty, cut energy bills.
+SWINSON: But the other thing we absolutely need to be doing and it's I mean it's madness and it's you know the Conservatives that have dropped this.
+SWINSON: We know how to build homes that are zero carbon homes.
+SWINSON: A couple of weeks ago I was in Sheffield eco construction site where they're building these homes.
+SWINSON: It was you know November.
+SWINSON: The homes weren't completed yet.
+SWINSON: I was in the home and even then it was warm because it was properly built in a way that retained heat.
+SWINSON: So we know how to do this.
+SWINSON: They've been doing it in Scandinavia for years.
+SWINSON: We need to make sure that now we have a target for all new build homes to be zero carbon and to have those high standards.
+SWINSON: And the Conservatives, who can't even be bothered to turn up tonight, scrapped those plans.
+QUESTIONER_0: Jeremy Corbyn, how are you going to make everybody change to get rid of their gas boilers and insulate their homes unless you pay for it?
+CORBYN: Jo Swinson says she will pay for low-income homes.
+CORBYN: When you offer people either an interest-free loan to convert their house or you do it for them in the case of social housing or much in the
+CORBYN: social rented sector, then I think you've made a massive step forward.
+CORBYN: We can and do retrofit homes.
+CORBYN: We can generate electricity from solar wave and wind.
+CORBYN: We don't have to destroy our countryside with fracking.
+CORBYN: We don't have to go on in this way.
+CORBYN: But it does mean a determination and that's why our manifesto quite clearly sets out a very large
+CORBYN: Green Transformation Fund which will allow that investment in zero carbon homes will create a very large number of jobs in retrofitting those homes and actually give people cheaper electricity as well.
+CORBYN: Who will qualify for government help?
+CORBYN: those that are in social housing will get that done because it will be done by their landlords like the local authority or the Housing Association.
+CORBYN: Those on low incomes will have it done for them.
+CORBYN: Everyone else will be offered an interest-free loan to ensure that it's done.
+CORBYN: thousands of pounds on their homes.
+CORBYN: No, but they will get the benefits of it in lower bills for their gas or electricity or whatever form of heating they do.
+CORBYN: It is actually possible to construct homes that use very, very little energy.
+CORBYN: New homes should all be done like that and at the moment they're not.
+QUESTIONER_0: Is any of this realistic?
+QUESTIONER_0: I mean if you look at smart meters, which are still only in a few million homes after years,
+QUESTIONER_0: That's just a little box.
+QUESTIONER_0: How on earth are you going to get people to change everything about their home heating?
+BERRY: You've got to go in, and you've got to do it street by street in a comprehensive way.
+BERRY: Now, at the moment, more than half the emissions from the UK are from our buildings and our homes.
+BERRY: And the reason for that is because each successive government we've had has neglected this issue of the homes that already exist, because it's not sexy going around and putting insulation in people's homes.
+BERRY: Now, we've got a massive backlog, and we have to make up for it.
+BERRY: And I hope you're fact checkers.
+BERRY: We'll be checking the amount of money each of us are committing to this big gap that closing this loophole that's been left by everybody so far.
+BERRY: Of our 100 billion a year that we're putting into our Green New Deal, 38 billion needs to go into homes because this is the biggest thing we've not cracked so far.
+BERRY: We need a deeper retrofit than Labour are proposing.
+BERRY: They keep talking about loft insulation and windows.
+BERRY: It needs to be much deeper than that.
+BERRY: And that's because, and your question again about how can we change
+BERRY: everyone's boiler.
+BERRY: We can change everyone's boiler to a heat pump, but only if we insulate first, because then the heat pump needs to be smaller and we don't have to change everyone's radiators.
+BERRY: And I know how annoying it would be if we went round to everyone's house and said, we need to change your radiators as well as your boiler.
+BERRY: So we do think about things more deeply.
+BERRY: We are putting in the resources and none of the other parties have anything like our plans for home.
+QUESTIONER_0: Nicola Sturgeon, this of course takes us to fossil fuels.
+QUESTIONER_0: Oil and gas still provides more than 75% of UK total primary energy, that's houses and cars.
+QUESTIONER_0: What are you going to do in the next five years to get that down?
+STURGEON: Scotland already produces 75% of its electricity from renewable sources.
+STURGEON: We absolutely now must prioritise transport, which we have spoken about, and heat.
+STURGEON: We already have a home energy efficiency programme.
+STURGEON: We are already investing hundreds of millions of pounds in trying to help people insulate their homes and heat their homes better.
+STURGEON: There is also a role for regulation here.
+STURGEON: We have given a commitment already to have a new home building standards in place.
+STURGEON: By 2024, all new buildings will have to have non-fossil fuel boilers in them.
+STURGEON: There is a big programme of work here.
+QUESTIONER_0: when they will have to do that.
+STURGEON: I have just spoken about the home energy efficiency programme which provides financial support, we are going to update that.
+STURGEON: But people have to pay some money themselves.
+STURGEON: Absolutely, this is a collective effort but government has a big part to play here.
+STURGEON: One other point I was going to make, which Scotland cannot do on our own, so we need to have cooperation from whoever is in the UK government, is around decarbonisation of the gas grid.
+STURGEON: There is not enough priority being given to that by the current UK government and I hope that changes.
+QUESTIONER_0: What about the oil industry?
+QUESTIONER_0: The Greens say you have to start decommissioning oil rigs.
+STURGEON: We are in the transition away from fossil fuels and that transition has to accelerate.
+STURGEON: Scotland is one of the most renewable energy rich countries in the world.
+STURGEON: If we were to stop tomorrow,
+STURGEON: in terms of oil production.
+STURGEON: We would make ourselves more reliant on imports.
+STURGEON: The carbon intensity would increase.
+STURGEON: So that transition has got to be done in a way that cuts our emissions.
+STURGEON: But the one other thing that's not been mentioned here right now, which is where we've taken action and other countries haven't, is about the justice of the transition.
+STURGEON: not doing this in a way that leaves people behind, that decimates people's jobs.
+STURGEON: We have a just transition commission that's looking at how we do this transition fairly and justly.
+STURGEON: And that's really important as well.
+STURGEON: I grew up in the west of Scotland in the 1980s.
+STURGEON: I saw the effects of deindustrialisation and leaving people behind.
+STURGEON: The legacy of that is still there in too many of our communities and we can't make that mistake again.
+PRICE: Adam Price.
+PRICE: There are two great opportunities for us, and let's be positive about this.
+PRICE: So one is powering down, we were talking about that, so that's about energy efficiency in homes, the five billion that we in Wales would want to invest in that, and also transport, decarbonising our transport system.
+PRICE: The other one then is powering up.
+PRICE: powering up the great renewable revolution.
+PRICE: And, you know, after Scotland, I think Wales has got incredible renewable energy resources.
+PRICE: And the great thing is, you know, we were the cradle of the last industrial revolution.
+PRICE: We could be there at
+PRICE: the start of this new industrial revolution as well, if we tap into that potential.
+PRICE: And the great thing is, as the entire world is looking at decarbonisation, if we get there earlier, if we get to 2030, if we set that kind of target, of course, there are advantages then.
+PRICE: We can reap the benefits of that, because if we solve the world's problems first, then we actually have created a new global industry which is economically useful for us, as well as helping us meet our environmental responsibilities earlier than anyone else.
+SWINSON: Absolutely, Adam.
+SWINSON: I wholeheartedly agree.
+SWINSON: This is an opportunity for us as a country to take a real lead.
+SWINSON: And if you look at what the great success story has been in the last few years, if we were having this debate six or seven years ago, people were saying renewables, they're really expensive and they won't be so reliable.
+SWINSON: there was no offshore wind.
+SWINSON: We are now in the UK a leader, world leader, in offshore wind.
+SWINSON: It is now the cheapest way to generate electricity.
+SWINSON: Because of the support for that industry that was put in by the Liberal Democrats when we were running the climate change department, that has created a great British industry.
+SWINSON: It's cutting energy bills.
+SWINSON: That's a great example of what we need to
+STURGEON: offshore wind is now half the price of nuclear.
+STURGEON: I don't know why Labour and the Tories are still supporting new nuclear power.
+STURGEON: We also need to get more support for onshore wind, which the Tories disgracefully have taken away.
+STURGEON: These technologies are here now and we have to do much more to support them.
+CORBYN: Offshore wind is a huge opportunity.
+CORBYN: 5% of the UK's electricity needs could be met from the west coast of Scotland alone.
+CORBYN: Add that to the major projects like the Mersey Barrage or the Swansea Bay Lagoon, you get a huge way down the line of getting totally sustainable electricity production in Britain.
+CORBYN: You have to plan for it, you have to invest in it, and you have to make sure...
+CORBYN: We have to make sure that the jobs are there to produce it, such as the BiFab works in Scotland are very much part of that industrial revolution for the future.
+QUESTIONER_0: Could you answer Nicola Sturgeon's question about nuclear?
+CORBYN: Well, there has to be a baseline of production of electricity from some totally sustainable source.
+CORBYN: Otherwise, if you rely solely on wind and solar and wave, it is obviously...
+CORBYN: could now be like new nuclear power.
+CORBYN: No, what I'm saying is that when we move into government, if any of us moved into government, we're inheriting a mixed base.
+CORBYN: I want that to go to 80% or 90% of renewables over time, and that is the direction in which we want to go.
+BERRY: It's very old thinking.
+BERRY: Yeah, I mean the more diverse a grid is, the more you have different sources, the bigger the grid is, the more you have battery power in people's homes, the more you're investing in long-term storage, the easier it is to do without nuclear power.
+BERRY: We cannot be investing in any more nuclear power stations and they take longer
+BERRY: than ten years.
+CORBYN: Also, everything produced has to be measured against the strike price that could be obtained at the time of its production.
+CORBYN: Everyone has agreed that wind power has become much, much cheaper.
+CORBYN: There was a time when it was more expensive.
+CORBYN: It isn't so.
+CORBYN: Likewise, solar has also reduced in price.
+CORBYN: So actually, the future is in sustainable green energy spaces.
+PRICE: And possibly nuclear.
+PRICE: Adam Price.
+PRICE: It is a genuine question.
+PRICE: I can understand and I support actually taking the energy distribution companies into public ownership, though we'd like to see that within Wales with a national energy company.
+PRICE: But why are you nationalising the gas distribution network when you're going to decarbonise?
+PRICE: You're going to spend billions of pounds on an energy form that you say you want to get
+CORBYN: What we want to do is bring the national grid into public ownership to ensure that you can feed into it as well as out of it in all places and invest in it for the future.
+CORBYN: Gas is an important part of the energy basis at the moment.
+CORBYN: Yes, it may well decline over time but it's there at the moment and if you want to change it and also introduce a greater degree of biogas then it obviously helps.
+CORBYN: If the grid itself is in public ownership which can ensure
+CORBYN: that distribution and that supply system.
+QUESTIONER_0: I want to move on now to another topic that many of you have already touched on, which is something Britain is surprisingly bad at.
+QUESTIONER_0: We are going to miss 14 out of 19 of our biodiversity targets.
+QUESTIONER_0: One in seven species in the UK are threatened with extinction and we are one of the most nature depleted countries on earth.
+QUESTIONER_0: Adam Price, are you prepared to say to some of your farmers in Wales that they may have to change their farms to have more woodland?
+PRICE: Well, yeah, I think farmers are very, very keenly engaged with this question.
+PRICE: And indeed, of course, actually, there's a lot of evidence of the positive benefit of farming because, look, the ecology of much of Wales has grown up with farming.
+PRICE: And indeed, that's why the RSPB, for example, has grazing animals on its land.
+QUESTIONER_0: But where is your manifesto plan for this?
+PRICE: in the next five years?
+PRICE: I think the nature crisis is as critically important as the climate change crisis.
+PRICE: What we need both nationally and internationally is legislation to tackle the extinction crisis, placing a legal obligation on this and every future government to
+PRICE: to act for the recovery of nature.
+PRICE: The two crises, which are interconnected, they have different drivers, deforestation internationally, pollution, and hunting in some areas as well, but they need to be now treated with the same level of seriousness, because obviously, as was said in the film, we are facing the mass extinction of a million species.
+PRICE: It is what you are going to do about it.
+QUESTIONER_0: Now the Conservatives, for example, have got a £640 million Nature for Climate Change fund.
+QUESTIONER_0: Sian Berry, what would you do?
+BERRY: Well, we're very, very behind on biodiversity and nature.
+BERRY: I mean, credit to the movement, first of all, for getting this debate heard and for bringing climate change and new targets forward through so many motions, through councils, starting with Carla Denyer in Bristol, but now there's
+BERRY: 389 climate and ecological emergency motions passing through councils.
+BERRY: A lot of them were 2030 as their target.
+BERRY: But it's the ecological stuff where we're behind.
+BERRY: I have far too much trouble, I've spent years trying to argue against road schemes that are going to go straight through.
+BERRY: sites of scientific interest.
+BERRY: I've got HS2 going through ancient woodland.
+BERRY: People have been very, very careless of our natural world.
+BERRY: I have too much trouble getting councils off pesticides.
+BERRY: We've got resistance from some farmers to using pesticides.
+BERRY: We have to think more carefully about the actual world.
+BERRY: I'm looking for your actual talk.
+BERRY: I mean, Nicola Sturgeon.
+BERRY: And this is something where we're very, very far behind.
+QUESTIONER_0: We've got hardly anywhere.
+QUESTIONER_0: You might have expected the SNP in its manifesto to have something about peatlands.
+STURGEON: and what you are going to do to protect them?
+STURGEON: Hold on a second, it is not in our manifesto for a Westminster election because it is a responsibility of my government right now.
+STURGEON: We don't need a Westminster election, we are doing it.
+STURGEON: There are people outside Scotland as well.
+STURGEON: I think people would expect me to take responsibility for what I can do directly.
+STURGEON: We have increased funding for peatland restoration and it is important that we continue to do that.
+STURGEON: We want to restore by 2030 40% of our degraded peatlands.
+STURGEON: In terms of tree planting, Scotland is absolutely leading the way.
+STURGEON: Last year, 22 million trees, more than 11,000 hectares
+STURGEON: That was 84% of the total number of trees planted across the UK.
+STURGEON: We need to increase that number.
+STURGEON: And yes, we have to work with our farmers.
+STURGEON: I agree with Adam.
+STURGEON: We should see farmers as allies in this, not as enemies.
+STURGEON: But peatlands are being burnt still, aren't they?
+STURGEON: sometimes.
+STURGEON: We don't deliberately burn peatlands, we are in the business of restoring peatlands.
+STURGEON: Again, I am not standing here, I agree with others, I think the ecological crisis has to be given the same priority as the climate crisis, they are obviously connected and we have all got more to do here, but I do think that others could look to some of the work we are doing in Scotland here and to some extent learn from it as we continue to seek to go further.
+QUESTIONER_0: Jeremy Corbyn, you announced 2 billion trees by 2040.
+QUESTIONER_0: Today, that's 100 million trees a year.
+QUESTIONER_0: How are you going to...
+QUESTIONER_0: plant them, where are you going to put them?
+CORBYN: I'll leave you a copy of this afterwards.
+CORBYN: Well, where are you going to put them?
+CORBYN: Well, I'll leave you a copy of this afterwards, and this sets out in great detail the whole proposals we've made, both on tree planting... You didn't need to print it off, I could have looked online.
+CORBYN: ...as well as on biodiversity.
+CORBYN: Yes, that tree planting will take place in national parks, in existing forests, and on farmland all across the country.
+CORBYN: We have the lowest level of tree cover of almost any country in Europe.
+CORBYN: It hasn't grown very much over the past 50 years or so, and it should have done.
+CORBYN: So you will pay farmers to plant trees?
+CORBYN: We will do exactly that.
+CORBYN: We'll also be planting in new forests as well as the new national parks that we've proposed.
+CORBYN: We have to restore the levels of biodiversity in this country.
+CORBYN: Whole species of birds have completely disappeared.
+CORBYN: Sparrows, reduced.
+CORBYN: House martins, reduced.
+CORBYN: The cuckoo, almost unheard of in many parts of the country.
+CORBYN: That biodiversity
+CORBYN: eventually catches up with us and damages food production and farming itself.
+CORBYN: So it is about restoring peat bogs and salt marshes which have been destroyed.
+CORBYN: It is about upstream river management and that's why we want to bring the water industry into public ownership to work alongside the Environment Agency so that we do use upstream floodplains as a way of reducing flooding as well as, of course, flood protection.
+CORBYN: If we don't do this,
+CORBYN: then we're all damaged.
+CORBYN: Our plant life is damaged, our natural world is damaged and eventually we're all damaged as a result of that.
+SWINSON: So, I mean, I think about my childhood and those types of birds that you would see in the garden.
+SWINSON: I think about bringing my children up and I want them to be able to see that kind of wildlife.
+SWINSON: Hedgehogs, I remember having a little hedgehog box in the garden and putting out food for hedgehogs.
+SWINSON: They've halved the hedgehog population in the last 20 years.
+SWINSON: I don't think my five-year-old has actually seen a hedgehog.
+SWINSON: We need to protect our amazing wildlife and biodiversity.
+SWINSON: So what do we need to do?
+SWINSON: strict legal targets in a Nature Act where we have very clear legally binding targets.
+SWINSON: We need to be able to enforce them.
+SWINSON: We'd have a new Office of Environmental Protection and we need to invest.
+SWINSON: So we do need to plant those trees.
+SWINSON: We do need that to be in national parks.
+SWINSON: We also need to look at how we do that
+SWINSON: within our urban spaces and greening our cities as well, which has an obvious benefit in terms of reducing carbon dioxide by taking that out of the atmosphere and public health benefits, making those places greener and more pleasant for people to be in.
+SWINSON: And that's, I think, one of the key things about this.
+SWINSON: This is something which makes people's lives better.
+SWINSON: Of course it's good for the environment, it's good for us in the longer term, but so many of the measures that we can take will make the places we live more pleasant places to be.
+PRICE: I think it's also important to recognise the biodiversity crisis in our oceans as well and off our own coasts.
+PRICE: We would want to ban fossil fuel licences for exploration, for instance in Cardigan Bay, and also see the UK signing the
+PRICE: UN Global Ocean Treaty, which seeks to create a network of ocean sanctuaries across the whole of the Earth, which will be worth 30% of our oceans.
+QUESTIONER_0: OK.
+QUESTIONER_0: Huge numbers of people, especially children, are personally alarmed by the climate emergency and genuinely scared for their futures.
+QUESTIONER_0: I want to ask you all now, what is your personal climate change resolution to cut your carbon footprint?
+QUESTIONER_0: Nicola Sturgeon.
+STURGEON: I'm already trying to do that.
+STURGEON: So in terms of how I keep my own home, my energy provider is one that gets all its energy from renewable sources, smart meter installed, trying to fly less myself.
+STURGEON: Sometimes it's inescapable in the job that I do, but trying to use the train much more when I'm coming to London, as I did today, for example, being much more conscious about what I eat and where I source the food that I eat from.
+STURGEON: So a whole host of things that I think it's really important that all of us
+STURGEON: lead by example.
+STURGEON: If we are asking other people to do these things, it is simply not right that we don't do these things ourselves.
+STURGEON: We have all got to stop putting more plastics into our oceans and that is why I think banning things like cotton buds, as we have already done, the deposit return scheme that we are introducing in Scotland, increasing the charge for single-use coffee cups, plastic bags, all of these things are important and we have got to keep doing all of them.
+QUESTIONER_0: Your personal resolution,
+SWINSON: Well, I try to do all of these small things as well, whether it's taking your keep cup, making sure you're doing the recycling.
+SWINSON: My campaign bus for this election is the first electric political campaign bus.
+QUESTIONER_0: But we all need to do a lot more, don't we?
+SWINSON: We do.
+SWINSON: That's the point of this.
+SWINSON: And I will say that I think the most important thing that politicians can do
+SWINSON: is to put in place the policy frameworks, whether it's in terms of getting rid of single-use plastics much sooner, the regulations that are going to make it easier, because what we want to do is to make it easier and cheaper for everybody to do the right thing so that the obvious decision to make is the one that is good for our climate.
+PRICE: Adam Price.
+PRICE: I'm going to start cycling to the Senedd every day.
+PRICE: I'm going to shift to an electric vehicle in the new year.
+PRICE: And also, I convinced my partner as well, we're going to give a go with reusable nappies as well to make our own small but important contribution.
+PRICE: Are you going to wash them?
+PRICE: Yes, yes, yeah.
+PRICE: I think that's the point.
+PRICE: No, I meant you.
+PRICE: Yeah, absolutely.
+PRICE: I do change, that means no, but the point is, you know, for him and his generation, I want to do this.
+QUESTIONER_0: Jeremy Corbyn, your personal resolution for the next generation?
+CORBYN: To do everything I can to improve recycling systems in local authorities and elsewhere.
+CORBYN: There are, I think, 40 different local recycling schemes across the country, which means that we don't have a great record as a country on the world stage about recycling.
+CORBYN: Also, do everything I can to reduce the levels of excessive packaging.
+CORBYN: The waste of plastic with bubble wrap and all that goes with that.
+CORBYN: What about your life?
+QUESTIONER_0: What are you going to change about your life?
+CORBYN: Well, my life...
+CORBYN: It's beyond reproach, is it?
+CORBYN: Nobody's life is beyond reproach.
+CORBYN: I'm always the last one to turn the heating on.
+CORBYN: In fact, we turned it on for the first time last week in my house, and that was very low temperature anyway, and I turned it off pretty quickly after that.
+CORBYN: I'm quite miserable, actually, on this basis, because I don't like to see the waste of energy that goes with it.
+CORBYN: And also, it is about... Everybody can grow something.
+CORBYN: If they've got a garden or a window box or whatever,
+CORBYN: You can grow appropriate plants which do improve biodiversity.
+CORBYN: So you can plant lavender or something which attracts bees and so on.
+CORBYN: So I do all of that in my garden and on my allotment and in my life.
+BERRY: Sian Berry.
+BERRY: I'm sorry, I've spent a lot of my life listening to politicians list green things they want to do and even list green policies and it isn't about lists.
+BERRY: So many of these pledges end up on a dusty shelf after we stop shining a light on them.
+BERRY: And a light's on them today, and they're saying an awful lot of things.
+BERRY: But I just cannot sit back and watch this happen again.
+BERRY: I mean, Greta Thunberg is only a teenager.
+BERRY: She's already sick of hearing broken promises.
+BERRY: Think how I feel at my age.
+BERRY: Now, in my own life, I'm a private renter.
+BERRY: I still do not have the ability to do my own home.
+BERRY: So there's not a lot I can do, but I can carry on working to change the system.
+BERRY: And it does need to be a comprehensive system change.
+BERRY: The science demands it.
+BERRY: The emergency demands it.
+BERRY: And it isn't about listing things.
+BERRY: It's about changing the way things work for good.
+STURGEON: You know, I've not been talking here tonight about things that I'm simply promising.
+STURGEON: I'm the only one here in government.
+STURGEON: The things I've been talking about are the things we're doing.
+STURGEON: OK. We've got to do more.
+STURGEON: We've got to leave it there.
+BERRY: We've got to be doing these things.
+BERRY: Greene's holding you for a count on that in the Parliament.
+BERRY: Thank you all very much indeed.
+BERRY: Doing a good job.
+QUESTIONER_0: Thank you all very much indeed.
+QUESTIONER_0: After the break, a final thought from three of the country's leading climate academics.
+QUESTIONER_0: What do they make of that debate and our politicians' pledges?
+QUESTIONER_0: Welcome back.
+QUESTIONER_0: Well, making sense of what's been said over the past 50 minutes are three of the country's leading climate scientists.
+QUESTIONER_0: Emily Shuckborough, who heads the University of Cambridge's new initiative, Cambridge Zero, bringing together more than 1,000 academics to help find a path to a zero-carbon future.
+QUESTIONER_0: Professor Rebecca Willis, an academic from Lancaster University's Environment Centre.
+QUESTIONER_0: And Dr Natalie Seddon, who runs the Nature-Based Solutions Initiative at Oxford University.
+QUESTIONER_0: Let's begin with you, Emily.
+QUESTIONER_0: What did you make of it?
+QUESTIONER_0: Did they make any bloopers?
+QUESTIONER_1: No, but I mean, we're sitting here in a studio with melting ice caps.
+QUESTIONER_1: And in the real world, the ice caps are also melting.
+QUESTIONER_1: My colleagues are down in Antarctica at the moment looking at the state of the West Antarctic ice sheet.
+QUESTIONER_1: And to me, that really brings home the scale of the challenge that we face.
+QUESTIONER_1: The really important question to me is what actions are going to be made over the next five years?
+QUESTIONER_1: And do they add up?
+QUESTIONER_1: to the scale of change that's required to ensure that we're on the right trajectory to keep temperatures well below 1.5 degrees.
+QUESTIONER_0: I mean, do you feel a taste of it tonight?
+QUESTIONER_0: It gives you any sense that our main politicians have grasped this to the extent they need to?
+QUESTIONER_1: Well, one of the things that I think is so incredibly important that's going to be happening within the next 12 months, and it was mentioned, we are going to be holding in Glasgow, in the UK, the next really big climate conference.
+QUESTIONER_1: That is our opportunity on the world stage to take a leadership position.
+QUESTIONER_1: It is so critical that we do that.
+QUESTIONER_1: We have to inspire the change to turn a nightmare vision of the future into a mission to shape a world that we would be proud of leaving to our children and our grandchildren.
+QUESTIONER_0: Rebecca, we did talk a lot about land use, farming, diversity.
+QUESTIONER_0: Do they get it?
+QUESTIONER_2: I think that's Natalie's question.
+QUESTIONER_3: Yeah, that's my question, I think.
+QUESTIONER_3: I'm a biodiversity expert here.
+QUESTIONER_3: I think nature is our ally.
+QUESTIONER_3: It's our major ally in the fight against climate change and other global challenges.
+QUESTIONER_3: Nature is our life support system.
+QUESTIONER_3: And I think you get it.
+QUESTIONER_3: And so the fact that you're all pledging to raise ambition for nature and biodiversity is welcome, but it's more than welcome.
+QUESTIONER_3: It's absolutely essential.
+QUESTIONER_3: But you spend a lot of time talking about tree planting, and this worries me.
+QUESTIONER_3: So three major points on tree planting.
+QUESTIONER_3: One, this is not an excuse to do business as usual with our economies.
+QUESTIONER_3: We need to decarbonize our economies, we need to keep fossil fuels in the ground, and we need to look after nature.
+QUESTIONER_3: It's not an either or.
+QUESTIONER_3: The other thing is that other ecosystems are important.
+QUESTIONER_3: Tree planting, monoculture, big commercial plantations are not going to save us.
+QUESTIONER_3: We need to restore our peatlands, our natural ecosystems.
+QUESTIONER_3: We need to protect what we've got, restore what we've lost, and we need to do careful tree planting, the right species in the right place.
+QUESTIONER_0: Natalie, thank you.
+QUESTIONER_0: So, Rebecca, talk about the measures they want to take to take the carbon out of the economy.
+QUESTIONER_2: Yeah, well, I mean, firstly, credit for turning up and competing over climate policies.
+QUESTIONER_2: And that is fantastic.
+QUESTIONER_2: Hasn't happened before.
+QUESTIONER_2: It's where we need to be.
+QUESTIONER_2: I would say, I mean, our research shows that people are willing to play their bit, but politicians need to be consistent.
+QUESTIONER_2: And one thing I've heard tonight is that there isn't that consistency.
+QUESTIONER_2: So you can't tell people how to live their lives if you as a party are supporting really high carbon projects.
+QUESTIONER_2: There's a coal mine being consented down the road from me in Cumbria.
+QUESTIONER_2: North Sea oil and gas extraction is continuing.
+QUESTIONER_2: It's not good enough to say we can't close it down tomorrow.
+QUESTIONER_2: We can't, but we can close it down over a phased process over the next five to 10 years.
+QUESTIONER_2: So all I'd say now is that the challenge I want to set is that you should be asking the carbon question of every single policy.
+QUESTIONER_2: Have that consistency and that way you'll take people with you and you'll cut the carbon.
+QUESTIONER_0: Thank you very much indeed.
+QUESTIONER_0: Well, thank you to all our party leaders who came tonight.

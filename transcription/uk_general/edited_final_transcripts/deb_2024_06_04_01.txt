@@ -1,0 +1,752 @@
+QUESTIONER_0: You've just seen Sunat versus Starmer, the Conservative and Labour Party leaders talking policy and making their pitches for power in the 2024 election.
+QUESTIONER_0: Now, with the future of the country at stake, we have four more parties who also want your vote.
+QUESTIONER_0: Welcome to the ITV election interviews.
+QUESTIONER_0: Good evening.
+QUESTIONER_0: I'm Anushka Asthana.
+QUESTIONER_0: Tonight, Rishi Sunak and Keir Starmer came face to face, asking you to trust them to run the country.
+QUESTIONER_0: Well, in the next hour, the Liberal Democrats, the SNP, Reform UK, and the Green Party will be giving their pitch for power and talking policy.
+QUESTIONER_0: Will they persuade you that they are a better choice for the future?
+QUESTIONER_0: First up, we'll chat to Sir Ed Davey, fighting his first election as Lib Dem leader.
+QUESTIONER_0: The SNP's leader in Westminster, Stephen Flynn, is here.
+QUESTIONER_0: Waiting in the wings is Richard Tice, leader till yesterday, now chair of Reform UK.
+QUESTIONER_0: And we'll be speaking to the co-leader of the Green Party, Adrian Ramsey.
+QUESTIONER_0: we'll hear their vision of the future and get their response to tonight's debate.
+QUESTIONER_0: Before we speak to Sir Ed Davey, here's a flavour of what the Liberal Democrats stand for.
+QUESTIONER_1: we could get the fair deal that people so deserve.
+QUESTIONER_0: Liberal Democrat leader Ed Davey is one of the longest serving politicians to lead a party this election.
+QUESTIONER_0: He served in the Conservative Lib Dem coalition government in 2010, but this time the Lib Dems have ruled out an election pact with the Tories at least.
+QUESTIONER_0: Instead, the party is targeting Conservative heartlands, eyeing up the constituencies of several cabinet ministers.
+QUESTIONER_0: Buoyed by recent by-election victories, can they increase their representation in the House of Commons?
+QUESTIONER_0: It is not always easy for smaller parties to grab attention, which might explain this.
+QUESTIONER_0: And this.
+QUESTIONER_0: Ed Davey said this was an attempt to bring attention to Britain's polluted waterways.
+QUESTIONER_0: A key election issue for the Lib Dems, alongside recruiting more GPs in a campaign under the slogan, for a fair deal.
+QUESTIONER_0: But with only 15 MPs in the last parliament, can Ed Davey turn the Liberal Democrats back into the political force it once was?
+QUESTIONER_0: And here is the Liberal Democrat leader himself, Sir Ed Davey.
+QUESTIONER_0: Let's get straight to it.
+QUESTIONER_0: What is your pitch to voters in a minute?
+DAVEY: Nushka, our country desperately needs change.
+DAVEY: From the NHS crisis, to the cost-living crisis, to the sewage in our rivers, nothing seems to work properly anymore.
+DAVEY: Families across the UK are working hard, raising their families, looking after loved ones.
+DAVEY: They deserve a fair deal.
+DAVEY: And every vote for the Liberal Democrats in this election
+DAVEY: is a vote for a local champion who's going to fight for that fair deal.
+DAVEY: So people can see a GP or a dentist when they need one.
+DAVEY: So we value care and properly support carers, whether they're care workers or family carers.
+DAVEY: And so mortgages and rents aren't so high that families are terrified of losing their home and young people can't get one.
+DAVEY: and, crucially, a fair deal where we transform British politics so we can get this real change.
+DAVEY: Only the Liberal Democrats are fighting for that fair deal.
+QUESTIONER_0: And you are promising a lot.
+QUESTIONER_0: You say you're going to recruit more GPs, insulate people's homes.
+QUESTIONER_0: You're offering free personal care for the elderly, investing in renewables.
+QUESTIONER_0: You're putting a billion pounds, you say, into agriculture.
+QUESTIONER_0: Where's all the money coming from?
+DAVEY: Well, we're going to publish our manifesto very shortly.
+DAVEY: It's going to be fully costed, as it always is.
+QUESTIONER_0: Well, you can give me some examples, then.
+DAVEY: Yeah, I'm really happy to do that.
+DAVEY: Today, for example, we launched our policies for free personal care and for a higher minimum wage for care workers of £2 extra an hour to try to get more people into care, because that's desperately needed.
+DAVEY: And we've shown where the money will come from.
+DAVEY: We're saying that the tax cuts the Conservatives have given to the big banks should be reversed.
+DAVEY: That would raise £4.3 billion a year.
+DAVEY: Let me just take those figures though.
+QUESTIONER_0: When I speak to the Institute for Fiscal Studies, they say that actually in net terms, taxes on banks haven't gone up that much.
+QUESTIONER_0: Some taxes have gone up, some have gone down.
+QUESTIONER_0: They say that your idea of taxing share buybacks, you say that would get you £1.4 billion.
+QUESTIONER_0: They say because of the way people will change their behaviour, it will get them next to nothing.
+DAVEY: Well, I disagree with that.
+DAVEY: You disagree with the IFS?
+DAVEY: Well, I'd like to see their workings.
+DAVEY: I can show them ours.
+DAVEY: We showed that last year, if we'd had this share buyback scheme, it would have raised 2.3 billion, actually.
+DAVEY: And we've allowed for behavioural change.
+DAVEY: And in fact, what we're looking at is what President Joe Biden did in the United States.
+DAVEY: They raised a huge amount of money for this approach.
+DAVEY: So we can raise money.
+DAVEY: We've got other sources of raising money.
+DAVEY: We've got a proposal, for example, to make sure that there's a mental health expert in every primary and secondary school to deal with the problems of mental health for our children and young people.
+DAVEY: And we've said that the digital service tax on the social media giants and Amazon and Google, that should go up to raise the money.
+DAVEY: But Nushka, this is really important.
+QUESTIONER_0: No, it is important that a group like the IFS is not as convinced about the sums.
+QUESTIONER_0: And I guess we will continue to challenge them as they go along.
+QUESTIONER_0: But I want to ask you about a policy I know you were passionate about.
+QUESTIONER_0: When you were in coalition government, you were passionate about raising the salary level at which people start paying tax.
+QUESTIONER_0: Now, that threshold has been frozen.
+QUESTIONER_0: And it's basically a massive tax increase for people.
+QUESTIONER_0: I assume, if you have the power, you would immediately reverse that.
+DAVEY: We'd like to, but you're right, and other people like the IFS are right, the money isn't there to do everything we want.
+DAVEY: So you couldn't do that?
+DAVEY: So when we publish our manifesto you'll see that actually raising that is a priority when the public finances allow.
+QUESTIONER_0: But you admit they don't allow that now?
+QUESTIONER_0: Not immediately, no.
+QUESTIONER_0: So that is an unfair tax that you wouldn't be able to change?
+DAVEY: Well, what we showed when we were in government, we massively raised it.
+DAVEY: We promised to do that, and when resources allowed, we did it massively.
+DAVEY: And what's been so unfair, and there's a huge difference between us and the Conservatives, who really aren't fit to govern our country, you know.
+DAVEY: They've raised taxes on the lowest income people.
+DAVEY: We cut taxes on the lowest income people.
+QUESTIONER_0: But right now, you're not saying that you'd be able to commit to that.
+QUESTIONER_0: You're saying in the future, you would be able to commit to it.
+DAVEY: Well, we want to do that, but let's be clear Anushka, the Conservatives have ruined our economy, Liz Truss's budget has trashed it, and so we can't do everything we want to in the first instance.
+DAVEY: We've got a set of priorities and they are costed.
+QUESTIONER_0: Let me just ask you one other thing that you talk about.
+QUESTIONER_0: You want more safe routes for asylum seekers.
+QUESTIONER_0: What numbers do you think we should be accepting?
+DAVEY: Well, as time-seekers, you can't be absolutely sure of the numbers because it depends on what's happening in other parts of the world.
+DAVEY: What we have said is we need to make sure we go after those international criminal gangs who are trafficking human beings and stop it at source.
+DAVEY: And then, when working with the UN and other countries, take our share of refugees.
+QUESTIONER_0: Have you thought about what a fair share is?
+DAVEY: Well, we'd have to work with other countries.
+QUESTIONER_0: But you don't have a rough number?
+QUESTIONER_0: I mean, we gave refugee status to 38,000 people last year.
+QUESTIONER_0: Are you saying it should be higher than that?
+DAVEY: Well, because the flow of refugees changes from year to year, depending on what's happening around the world.
+DAVEY: I think everyone knows that.
+DAVEY: But if you look at asylum immigration, and it's a very serious issue,
+DAVEY: We think it has completely failed the system and part of the reason is because they haven't taken the measures back here which would reduce the demand for workers.
+DAVEY: Let me give you one that is really important.
+DAVEY: They have issued over 300,000 health care visas in the last two or three years.
+DAVEY: We have said why don't you pay care workers properly by an extra £2 an hour?
+DAVEY: Then people would move from... That's more to add into the spending bucket.
+QUESTIONER_0: You're talking about net legal migration, I was talking about people claiming asylum.
+QUESTIONER_0: I want to ask you a few quickfire questions if you don't mind.
+QUESTIONER_0: If there is a hung parliament, do you think you'd be Deputy Prime Minister?
+DAVEY: I'm focused on getting our Liberal Democrat policies over so we can get lots of Liberal Democrat tuition fees.
+DAVEY: That's not a no.
+DAVEY: Listen, I'm here.
+DAVEY: I'm enjoying being on your programme so I can get our Liberal Democrat policies over.
+QUESTIONER_0: Do you think tuition fees should be scrapped?
+DAVEY: No, what we do think... Wow, you're not going to one word.
+DAVEY: No, no, no, no.
+DAVEY: What we're trying to do is to make sure we get maintenance grants for students.
+DAVEY: OK. Students from poor backgrounds need to be able to go to university.
+DAVEY: OK, but no.
+DAVEY: And the Tories scrap that.
+QUESTIONER_0: Key phase, would you welcome Donald Trump to Britain if he wins the presidency?
+DAVEY: Well, I don't share any of the values and policies of the President Trump, nor do the Liberal Democrats.
+DAVEY: However, if he's elected by the people...
+QUESTIONER_0: When it's got however in it, it's definitely not one word.
+DAVEY: Yeah, but sometimes, Anoushka, some of the questions are a bit more complicated than yes and no.
+DAVEY: I think we all know that.
+DAVEY: So you would if he was president?
+DAVEY: Listen, America is one of our closest allies, and you have to respect whoever they elect.
+QUESTIONER_0: OK.
+QUESTIONER_0: Most people would have seen tonight's head-to-head between Keir Starmer and Rishi Sunak.
+QUESTIONER_0: Who did you think won?
+DAVEY: Listen, people can make up their own mind about that.
+DAVEY: I'm determined to talk about Liberal Democrat policies.
+DAVEY: I didn't think you've got a lot of answers there.
+DAVEY: Take the cost of living, for example, what they're going to do about it.
+DAVEY: We're clear.
+DAVEY: Let's get free school meals to children from the poorest backgrounds.
+DAVEY: Let's help people with the energy bill through the Warm Home Discount.
+DAVEY: Let's make sure children who are living in poverty, the universal priority.
+QUESTIONER_0: OK. Let's talk about your priorities.
+QUESTIONER_0: Let's talk about your priorities.
+QUESTIONER_0: In a recent poll, it says you could get almost 50 MPs.
+QUESTIONER_0: In that situation, you could be a power broker in the next election, which I'm sure brings a smile to your face.
+QUESTIONER_0: If so, we know you wouldn't do a deal with the Conservatives.
+QUESTIONER_0: But if Labour look to you and say, prop up Keir Starmer in power, what would be your demand?
+QUESTIONER_0: What's most important to the Lib Dems?
+DAVEY: Well, it's interesting in that poll that you're quoting there, because Labour would have a majority in that poll.
+DAVEY: But listen, in this election, I'm focused in on Liberal Democrat policies.
+DAVEY: And I said when I became leader of the party that my job was to get rid of as many Conservative MPs as possible.
+DAVEY: They have ruined our country.
+DAVEY: And I'm quite angry, actually.
+DAVEY: And I think lots of voters are.
+DAVEY: What's really interesting in this election, I've never seen it before in my 30 years in politics.
+DAVEY: So you would work with Keir Starmer to get rid of the Tories?
+DAVEY: I am focusing on defeating Conservative MPs this election.
+DAVEY: I hope to defeat a Labour MP in Sheffield Hallam, actually, and some SNP MPs.
+DAVEY: But the truth is, the vast majority of chances to elect Liberal Democrat MPs, local champions for the area, is by defeating Conservative MPs.
+QUESTIONER_0: Just to press you on this point, though, the most likely way in which you would exert influence in a future government is if it's a hung parliament and if you are able to support the government.
+QUESTIONER_0: So I do think it's really important that our voters understand your red lines, your priorities.
+DAVEY: What I'm saying is, vote Liberal Democrat, you'll get a local champion who will go to Westminster and argue for Liberal Democrat policies.
+DAVEY: Let me give you an example where, even in this Parliament, where we weren't government, a Liberal Democrat MP, Wendy Chamberlain, the fantastic MP for North East Fife, changed the law for carers by giving them unpaid carers leave.
+DAVEY: something that the Conservative promised but failed to deliver.
+DAVEY: It was a Liberal Democrat who did that in this Parliament that's just ending.
+DAVEY: You elect a Liberal Democrat, you will get a local champion who will fight for your area and will go to Westminster...
+DAVEY: So you won't say anything on what would be your number one?
+DAVEY: I'm fighting on this election on the Liberal Democrat manifesto.
+DAVEY: I'm looking forward to publishing it.
+DAVEY: We've been giving you a number of our proposals, whether it's more GPs, whether it's more carers, whether it's tackling the sewage crisis.
+DAVEY: These are the priorities for, I think, for the country.
+DAVEY: When we talk to voters...
+QUESTIONER_0: They're not different to Labour's priorities in many of those cases.
+QUESTIONER_0: So the question is, would you want voting reform, for example?
+DAVEY: Well, you'll be really shocked by this.
+QUESTIONER_0: The one word answer, yes.
+DAVEY: Liberal Democrats want to reform our political system.
+DAVEY: That includes electoral reform.
+QUESTIONER_0: PR, yes.
+QUESTIONER_0: I don't have much time left, so I do want to ask you this.
+QUESTIONER_0: You have been shooting down water slides in a rubber ring.
+QUESTIONER_0: It's not necessarily the best look if you want to be serious in government.
+DAVEY: Look, I think that politicians, I believe that politicians should be serious about voters' concerns and show how they're going to address this.
+DAVEY: I've tried to do an hour interview.
+DAVEY: But I don't think politicians should always take themselves too seriously.
+DAVEY: I think people want to know that politicians are real people with real life experience.
+DAVEY: And I think I've got that.
+QUESTIONER_0: So more rubber rings, more Jenga, more paddle boards.
+DAVEY: Do you know, they never tell me the stunts until about a few hours beforehand.
+QUESTIONER_0: All right, well, we look forward to that.
+QUESTIONER_0: Sir Ed Davey, thank you very much for joining me.
+QUESTIONER_0: Right, next up, we're going to speak to the SNP leader in Westminster, Stephen Flynn.
+QUESTIONER_0: But first, let's take a look at what the Scottish National Party have got to offer.
+QUESTIONER_2: We are for Scotland.
+QUESTIONER_2: We will always put Scotland first.
+QUESTIONER_0: Stephen Flynn has been the SNP's star man in Westminster since December 2022, playing a key role in the party's UK-wide aspirations.
+QUESTIONER_0: The SNP is the party of government in Scotland and until this election was called the third biggest party in the House of Commons with 43 MPs.
+QUESTIONER_0: Its latest leader, John Swinney, promised to restart conversations about Scottish independence soon after taking the top job.
+QUESTIONER_0: But some say the party faces an uphill battle.
+QUESTIONER_0: Swinney took the helm in May following the collapse of the SNP's power-sharing deal with the Scottish Greens.
+QUESTIONER_0: That, plus an ongoing police investigation into the party's finances, have cast a shadow over the SNP in recent months.
+QUESTIONER_0: Beyond fighting for independence, the party has aims to increase investment in green energy, affordable housing and the NHS.
+QUESTIONER_0: The SNP says it will target Tory-held seats in Scotland.
+QUESTIONER_0: But with the Conservatives, Labour and the Lib Dems targeting SNP seats, will the party be able to maintain their dominance in Westminster seats north of the border?
+QUESTIONER_0: Stephen Flynn, SNP Westminster leader, is with me.
+QUESTIONER_0: Welcome.
+QUESTIONER_0: Why don't you kick us off with that one-minute pitch to voters?
+FLYNN: Yes, well, the good news is that this Tory government is coming to an end.
+FLYNN: And thanks to Rishi Sunak, that date is coming sooner than many people had predicted.
+FLYNN: So the choice for voters in Scotland is now very simple.
+FLYNN: Who do they trust to put Scotland's interests first?
+FLYNN: at Westminster.
+FLYNN: For the SNP, we are very clear about what it is that we believe in.
+FLYNN: We believe in investment in our NHS, we believe in action on the cost of living crisis, we believe in rejoining the European single market, on ensuring that we create economic growth by delivering net zero.
+FLYNN: Within the Palace of Westminster, those policies are not particularly popular and they are not shared
+FLYNN: by the Labour Party.
+FLYNN: But we're not here to cosy up to the Westminster status quo.
+FLYNN: We're here to deliver for the people of Scotland and to ensure that they have a say over their own future.
+FLYNN: So on the 4th of July, I would urge people to vote for what they believe in, to vote SNP to put Scotland's interests first.
+QUESTIONER_0: And let me ask you about the issue of independence, the clues in the name of the party.
+QUESTIONER_0: Your former leader, Nicola Sturgeon, made clear that this was the next big chance for Scottish voters to have their say on that issue.
+QUESTIONER_0: She was clear this is a de facto referendum on independence.
+QUESTIONER_0: Do you still agree with that?
+FLYNN: Well, as you know, that's not the case.
+FLYNN: That's not been the party policy for a considerable period of time.
+FLYNN: What we would seek to do through this election is to win a majority of seats in Scotland, and then seek to enter discussions with the UK government following that.
+FLYNN: The big question there, of course, is for, likely, Keir Starmer to determine whether he's going to respect the democratic will of the people of Scotland or not, or whether he's going to copy Boris Johnson, Liz Truss, and Rishi Sunak.
+QUESTIONER_0: And I'll just come to that.
+QUESTIONER_0: But why has that position changed?
+QUESTIONER_0: Because the big difference I see from when Nicola Sturgeon said that to when you dropped that is the difference in the polls.
+QUESTIONER_0: You were more confident about getting a majority back then, and you're less confident now.
+FLYNN: I think the reason that that position changed, and in fairness it wasn't actually agreed by the party, it was Nicola's position, it wasn't the party's position.
+FLYNN: The reason it changed is that because in order to achieve independence you have to have a referendum, you have to have
+FLYNN: the gold standard, which is recognised by our friends and allies in Europe, of course, who we want to join as an independent European nation.
+FLYNN: That's why the party took a pragmatic decision to say that when we win the election in Scotland, which I believe we will, we will win a majority of seats in Scotland, we can therefore have discussions with the UK government to put that into democratic effect.
+FLYNN: And it's for the UK government and Keir Starmer to outline whether he's going to respect Scotland's democracy or not.
+QUESTIONER_0: What if you don't win?
+QUESTIONER_0: If you don't get a majority, your colleague Tommy Sheppard is really clear.
+QUESTIONER_0: His words, not mine.
+QUESTIONER_0: If the SNP lose the election in Scotland, the debate on independence stops.
+FLYNN: And this is the question that the people of Scotland have to address.
+FLYNN: So that's right.
+QUESTIONER_0: The debate on independence stops if you don't get a majority.
+FLYNN: So democracy does not stop a single election, but for the people of Scotland, 50% of whom believe in independence, they have to determine whether they want to vote for a party who will put the NHS first, action on the cost of living, rejoining the European single market, and of course seeking to develop net zero, and who also believe in Scotland having the right to determine its own future, or whether they want to vote for a unionist Labour party that doesn't want that to happen, that wants to stop Scotland's democracy.
+QUESTIONER_0: That is quite a frapposition to take.
+QUESTIONER_0: The polls are not looking good for you.
+QUESTIONER_0: You are basically putting it on the table there.
+QUESTIONER_0: I get it, because that is going to persuade voters who really want independence to vote for you, but aren't you taking a huge risk there?
+FLYNN: What we are saying is that democracy doesn't start and stop with one election.
+FLYNN: That has never been the case.
+FLYNN: If that was the case, we wouldn't be having an election here today.
+FLYNN: We are standing on a manifesto which is going to have a clear commitment
+FLYNN: to obviously have those discussions with the UK government, should we win that election.
+FLYNN: I'm confident that we will be able to, but the big question for the Unionist parties, and for Keir Starmer in particular, is whether he's going to follow the tact of Boris Johnson, Rishi Sunak and Liz Truss, and deny Scotland her democracy.
+QUESTIONER_0: Isn't one issue here that support for independence has actually remained similar to the past, 45%, but support for the SNP has fallen?
+QUESTIONER_0: People want independence as much as they did.
+QUESTIONER_0: They don't necessarily see you as the vehicle to get them there.
+FLYNN: I think what the people of Scotland want right now is to get rid of the Tories.
+FLYNN: The people of Scotland haven't voted Conservative since 1955, and they want to make sure there's not a Conservative government.
+FLYNN: But this election is, of course, about much more than that, because change has to look like something.
+FLYNN: We're clear about what change looks like to us.
+FLYNN: Investment in the NHS, action on the cost of living crisis, making sure that we rejoin the European single market, and, of course, delivering on net zero.
+FLYNN: The Labour Party do not agree with those things.
+FLYNN: We can hold their feet to the fire.
+QUESTIONER_0: Let me come back on those, but I would like to just ask you a few quickfire questions.
+QUESTIONER_0: Of course.
+QUESTIONER_0: Let's see if you're quicker than Davey.
+QUESTIONER_0: I'll try my best.
+QUESTIONER_0: Would there be a hard border between England and an independent Scotland?
+QUESTIONER_0: No.
+QUESTIONER_0: When Scotland is not playing, will you support England in the Euros?
+QUESTIONER_0: No.
+QUESTIONER_0: Will Donald Trump be welcome in Scotland if he wins the election?
+FLYNN: Yes.
+QUESTIONER_0: You just watched the head-to-head debate between Keir Starmer and Rishi Sunak.
+QUESTIONER_0: Who do you think won?
+FLYNN: I don't think the people of Scotland won because I don't think Scotland was mentioned once.
+QUESTIONER_0: OK. And you've made very, very clear that you think the worst thing for Scotland is a Conservative government.
+QUESTIONER_0: won't Scottish voters think, if we don't want a Conservative government, we need to vote Labour?
+FLYNN: So, as all the opinion polls would indicate, Keir Starmer is going to be the next Prime Minister, which is why, at this election, the choice for the people of Scotland is very... Well, listen, in an election campaign, we don't necessarily think about opinion polls.
+QUESTIONER_0: They need to win 123 extra seats.
+QUESTIONER_0: If they can win 25 seats in Scotland, it's going to make their path easier.
+FLYNN: You've seen the same polls as I have that put the Labour majority well into the three figures, if not close to 200.
+FLYNN: So the people of Scotland have a choice to make.
+FLYNN: Who do they think is going to best stand up for Scotland's interests in Westminster?
+FLYNN: And it's the SNP who will do that.
+FLYNN: That is our USP.
+FLYNN: It's what we do.
+FLYNN: We put Scotland's interests first, growing Scotland's economy, delivering for our public services, and making sure that we can decide our own future.
+QUESTIONER_0: Well, you might try and reject this because of the polling.
+QUESTIONER_0: But if there is a hung parliament, that's a position in which you would have a very strong part.
+QUESTIONER_0: Would you do a deal with Keir Starmer?
+QUESTIONER_0: And if so, what would you demand?
+FLYNN: I think it's pretty obvious what a Scottish nationalist would demand.
+QUESTIONER_0: So the Labour Party wouldn't give you that.
+QUESTIONER_0: Is there something else that you would agree to do a deal over?
+FLYNN: So what I've outlined there is quite clear.
+FLYNN: Now, I have in recent days proposed a bill to prevent any privatisation of the NHS.
+FLYNN: The Labour Party were outraged at the very concept.
+FLYNN: If they wanted to back that, that would be most welcome.
+FLYNN: We would also want to see a rejection of the £18 billion worth of public sector cuts that are coming down the line.
+FLYNN: so that Scotland's public services could be funded properly.
+FLYNN: We want to see a rejoining of the European single market.
+FLYNN: We want those discussions to happen.
+FLYNN: It's good for business.
+FLYNN: We want to see increased migration.
+QUESTIONER_0: Your deficit would require cutting if you were going to do that.
+FLYNN: We want to see it.
+QUESTIONER_0: That would be austerity, wouldn't it?
+FLYNN: We want increased migration into Scotland because that's one of the ways you grow the economy.
+QUESTIONER_0: But just on that point on the single market.
+FLYNN: I'm afraid that you asked me what I would demand.
+FLYNN: I'm telling you what I would demand from a Keir Starmer government, which is progressive politics that align with the values of the people of Scotland.
+FLYNN: And of course, within that, we would want the powers to hold a referendum, because it is wrong that a Westminster parliament gets to determine our future and not the Scottish people's.
+QUESTIONER_0: And that is a list of policies that you wouldn't get in that situation, I think.
+QUESTIONER_0: And one of them you talked about was rejoining the single market.
+QUESTIONER_0: The European Union has very strict rules.
+QUESTIONER_0: Scotland's deficit is higher than the rules that would allow you to rejoin the EU, for example.
+QUESTIONER_0: Would you have to bring in pretty dire cuts to get to that position?
+FLYNN: Well, of course, you're predicting the future that Scotland's going to be independent.
+FLYNN: And I very much hope that's the case.
+FLYNN: And there's very many Eastern European nations which have joined the European Union whilst having a debt ratio
+FLYNN: and a deficit ratio, sorry, which is higher than that which is currently in place, as long as they have a plan in place to bring it down.
+FLYNN: And we would most certainly have a plan in place to bring it down.
+FLYNN: But we are the most pro-European party in Parliament, and we will stand true to our values.
+QUESTIONER_0: You have talked about other issues and the importance of other issues than independence, than the EU.
+QUESTIONER_0: A recent YouGov poll suggested around six out of 10 people in Scotland have little or no confidence that you'll make the right decisions on the economy, public services, police, climate change.
+QUESTIONER_0: What has led to this?
+QUESTIONER_0: catastrophic loss in trust and what can you do to regain that trust?
+FLYNN: Well I think we are in the process of regaining that trust as with John Swinney obviously as the Scottish National Party's leader with Kate Forbes at his side and with as many other talented ministers and just in recent days we've seen stats which have shown that when it comes to business confidence Scotland is the highest right across these aisles and that's on John Swinney's watch and that's the tone which is going to follow in Scotland for very many months to come because John Swinney is a serious politician.
+QUESTIONER_0: Do you accept that there has been a catastrophic loss in trust?
+FLYNN: I believe that the SNP has had significant challenges and I accept those challenges and nobody would deny that.
+FLYNN: We're in the process of rebuilding that trust with the Scottish people and that starts with this general election where we can put their values first at Westminster.
+QUESTIONER_0: Just one thing that really has damaged trust is the fact that you're going to have to hand back 450 million pounds of EU money that you failed to spend on key economic and anti-poverty projects.
+QUESTIONER_0: I mean would you apologise to voters for this?
+FLYNN: So as you know, the story which that refers to is money which, of course, runs until 2025.
+FLYNN: And what someone has done, purposely done, is take a snapshot of a moment in time.
+FLYNN: And as John Swinney outlined just the other day, he anticipates that that money will be spent.
+FLYNN: These are projects which were put on hold, as I understand it, due to the COVID pandemic.
+QUESTIONER_0: much higher percentage in Scotland than in Wales, England or Northern Ireland.
+FLYNN: But as the First Minister outlined, he anticipates that all of that money will be spent by 2025.
+FLYNN: Now I'm not entirely sure why we're in the business in serious politics of saying that a budget which hasn't been fully spent in 2024, which of course runs until 2025, is news.
+FLYNN: I don't think that does us any favours whatsoever in a serious grown-up discussion, particularly when families are living with the cost of living crisis at this moment in time and government expenditure is incredibly important.
+QUESTIONER_0: Well, I think that people feel upset about how and if that money will be spent.
+FLYNN: Yeah, but the explanation which has been provided by the Scottish Government is very clear.
+FLYNN: This budget runs until 2025.
+FLYNN: What's happened is someone has purposely taken a snapshot of 2024.
+FLYNN: And obviously, when we get to 2025, the First Minister has been very clear that he expects that money to be out the door.
+QUESTIONER_0: And just finally, let me ask you about that football decision.
+QUESTIONER_0: You didn't hesitate there.
+QUESTIONER_0: Why do you really not want to support England in other games?
+FLYNN: I'm a member of the Tartan Army.
+FLYNN: It's my hobby to go and watch Scotland play.
+FLYNN: We're rivals.
+FLYNN: I want to see Scotland do as well as we can in the Euros.
+QUESTIONER_0: Apparently, England and Scotland wouldn't even meet till the final.
+FLYNN: Well, England are not going to make it that far.
+FLYNN: So we'll just have to go there ourselves.
+QUESTIONER_0: I look forward to that Scottish final without England.
+QUESTIONER_0: Stephen Flynn, thank you so much.
+QUESTIONER_0: Coming up, we'll speak to Richard Tice, the new chair of Reform UK, and Green Party co-leader Adrian Ramsey.
+QUESTIONER_0: Can they persuade you to lend them your vote?
+QUESTIONER_0: All that after this short break.
+QUESTIONER_0: Welcome back to the ITV election interviews.
+QUESTIONER_0: Well, we've already heard from the SNP and the Lib Dems.
+QUESTIONER_0: The Green Party is coming up, but now it's time for Richard Tice, the new chair of Reform UK.
+QUESTIONER_0: Let's take a quick look at their campaign promises.
+QUESTIONER_3: The right thing for the UK to go for growth, to go for higher wages, is actually to freeze immigration.
+QUESTIONER_0: Richard Tice is chair of Reform UK, the rebranded Brexit party hoping to cause a major political upset this election.
+QUESTIONER_0: And in the most dramatic moment of the campaign so far, Nigel Farage took the reins of the party from Tice, vowing to lead a political revolt and make reform the official opposition in the UK.
+QUESTIONER_0: They say a vote for them is a common sense choice, and they have four main aims.
+QUESTIONER_0: Lower taxes, what they call net zero migration,
+QUESTIONER_0: cheaper energy and no waiting lists for the NHS.
+QUESTIONER_0: Reform gained its first MP in March after Lee Anderson, the former Tory deputy chairman, defected.
+QUESTIONER_0: Richard Tice says he wants to smash and destroy the Tories on July 4th and with the party set to field a candidate in every seat across England, Wales and Scotland, will it hurt the Conservative vote?
+QUESTIONER_0: And joining me now, the man himself, Richard Tice, Chair of Reform UK.
+QUESTIONER_0: Welcome, Richard.
+QUESTIONER_0: Good evening.
+QUESTIONER_0: Let's kick off with policy.
+QUESTIONER_0: Give me your pitch in a minute.
+TICE: This great country of ours, it's being so badly run at the moment.
+TICE: Everyone knows that we're all feeling worse off.
+TICE: It's harder to see a GP or get an operation.
+TICE: And our immigration system, legal and illegal, is completely and utterly out of control.
+TICE: It requires bold solutions to these serious problems and it's only Reform UK that has got these bold plans.
+TICE: Imagine not paying any income tax below £20,000.
+TICE: Imagine zero waiting lists within two years and keeping them there.
+TICE: We've got plans to achieve this and do this.
+TICE: And imagine freezing immigration so the country can catch up, that things can work properly.
+TICE: And imagine stopping the boats, stopping the deaths.
+TICE: We've got those bold plans, but it requires real successful people, achievers, doers, to fix the crisis, the problems this country's got.
+TICE: And if you're not happy with the status quo, if you want change, you've got to vote for change.
+TICE: You've got to vote Reform UK on July 4th.
+QUESTIONER_0: And I'll come to those policies.
+QUESTIONER_0: But let me just start with you.
+QUESTIONER_0: Yesterday, you were leader of Reform UK.
+QUESTIONER_0: And you were doing well.
+QUESTIONER_0: The party was 12% in the polls, above the Lib Dems, above the Greens.
+QUESTIONER_0: Who told you you were out as leader?
+TICE: I've been talking with Nigel about our plans for months and we've been doing well but we want to put turbo boosters, rocket boosters onto our campaign and that's what we've done.
+TICE: I'm delighted that Nigel's agreed both to stand, to lead the party and off we go.
+TICE: We're a successful team.
+TICE: In 2019 we won a national election with Mia's chair, with Nigel a leader.
+TICE: You must be a bit annoyed.
+TICE: I'm delighted that Nigel's getting stuck
+TICE: Got a bit embarrassed?
+TICE: Not at all.
+TICE: Look, we had 1,000 people in a constituency where Nigel's standing today in Clacton for his campaign launch.
+TICE: We're off.
+QUESTIONER_0: What's he got that you haven't then?
+TICE: Nigel's the most experienced, most well-known politician in the country.
+TICE: Together, we're making a rapid change.
+TICE: We're going up in the polls.
+TICE: Something is happening out there.
+TICE: It's very exciting.
+TICE: Voters have got a genuine different choice to socialism of the main two parties.
+QUESTIONER_0: And who calls the shots?
+QUESTIONER_0: I mean, do you march to Nigel Farage's tune?
+TICE: We both discuss things, we debate things and we get to the right answer.
+QUESTIONER_0: It's a job share?
+TICE: No, it's a chairman share and a leader.
+QUESTIONER_0: Who's the bigger figure?
+TICE: We focus on action and solutions, not titles and nonsense like that.
+TICE: All the media are obsessed about titles.
+TICE: We focus on actually, how do you solve things?
+TICE: How do you make things happen?
+TICE: Because that's who we are.
+TICE: Business people who fix things.
+QUESTIONER_0: OK, so reform now led by a job share.
+TICE: Led by Nigel Farage, chaired by Richard Tice.
+TICE: You want net zero immigration.
+TICE: And we work in the office.
+TICE: We don't work from home.
+QUESTIONER_0: You want net zero immigration.
+QUESTIONER_0: We have massive vacancies in the NHS and in the care sector.
+QUESTIONER_0: What would you do about them?
+TICE: We want to freeze lawful immigration with the exception of health care.
+TICE: But let's remember, we've got 5.2 million people, one in eight of the working age population, on out-of-work benefits.
+TICE: British citizens, we need to get those people, as many as possible, back into work.
+TICE: We've got to help businesses and motivate businesses.
+TICE: So those people into the NHS and into the care sector.
+TICE: We've got to skill up and train up our own people.
+TICE: Of course it does.
+TICE: These are urgent sectors that need jobs now.
+TICE: But in the 1980s and 1990s, we were training up our own people, our own young people, straight out of school into wards, into universities.
+TICE: Why don't we freeze the training caps on training doctors and nurses?
+TICE: This is madness.
+TICE: We've got to focus on our own people, skilling people up, motivating, training, developing young people.
+QUESTIONER_0: That still leaves a gap in the meantime.
+TICE: And that's why we have an exception for health care and social care.
+TICE: But we have to train our own people.
+TICE: That's the right thing for a government to do for British citizens.
+QUESTIONER_0: I mean, you're talking about stuff that costs money, and yet you're talking about tens of billions of pounds in tax cuts.
+TICE: Which is why we've got a costed plan.
+QUESTIONER_0: Well, let me just look at some of your costings.
+QUESTIONER_0: So you say you'll make £91 billion by cutting government waste.
+TICE: No, no, I'm sorry.
+TICE: If you're going to do your research, get it right.
+TICE: Go on, you tell me.
+TICE: We're going to scrap net zero, which will make no difference to global climate change.
+TICE: That will save at least £30 billion a year.
+TICE: I'll come to net zero.
+QUESTIONER_0: Tell me about government waste.
+QUESTIONER_0: How much are you going to make?
+TICE: The first thing we've got to do is...
+QUESTIONER_0: It says £91 billion on your website.
+TICE: The second thing you ought to do, after scrapping net zero, you can save about £35 billion a year by the Bank of England not voluntarily paying taxpayers cash interest on the money it printed, enriching the citizens' institutions.
+TICE: So between those two, that's £60 billion.
+TICE: And then, look, everybody knows there's government waste anyway.
+TICE: Let me tell you what you've got to do.
+TICE: You've got to cut out the back office waste and invest it in frontline growth and public services.
+TICE: That's how you get the economy growing again.
+QUESTIONER_0: So how much are you going to shrink the civil service?
+QUESTIONER_0: How much money will you make from that?
+TICE: It's about cutting out the waste, cutting out the ridiculous diversity, equality and inclusion roles.
+TICE: All of this waste that everybody knows is there, but no one's got the courage and the guts to tell it as it is.
+QUESTIONER_0: The entire civil service, that entire civil service salary is £15 billion a year.
+QUESTIONER_0: Do you realise there are six... Are you going to sack everyone?
+TICE: Do you realise there are 600,000 more people working in the public sector since 2019 and yet the quality of public services has gone down, which means productivity and performance has collapsed.
+TICE: It's a disaster.
+TICE: Unless we change things, unless we turn things around, we are going bust.
+QUESTIONER_0: You are still talking about...
+QUESTIONER_0: not enough cuts to match the massive tax cuts that you're talking about.
+QUESTIONER_0: And you mentioned net zero.
+QUESTIONER_0: Let me ask you about net zero, because in order for net zero to save money, in the way you're saying it's going to, you have to assume that climate change isn't going to cost anything.
+TICE: Climate change is real, but it's much cheaper to adapt to it than to try and think that you can spend tens and tens of billions of pounds, totaling trillions of pounds.
+TICE: Adaptation costs are huge.
+TICE: They're far less than thinking you can stop the power of the sun, you can stop the power of volcanoes, and you can stop sea level rise.
+TICE: That's ridiculous.
+QUESTIONER_0: Do you believe in man-made climate change?
+TICE: Of course I do.
+QUESTIONER_0: In man-made climate change?
+TICE: If you listened to me a few minutes ago, I said that climate change is real.
+TICE: But it's much cheaper to adapt to it than foolishly think you can stop the power of the sun.
+TICE: Net zero is the wrong thing at the wrong price in the wrong time frame.
+TICE: Do you know what it's doing?
+TICE: It's killing our jobs.
+TICE: It's killing our industries like the steel industry, the automotive industry.
+TICE: It's killing our economy.
+TICE: And it's killing old people who can't afford their heating bills.
+QUESTIONER_0: Every single person, every single kind of organisation that's locked into the cost of net zero says there is a massive cost if we don't act.
+QUESTIONER_0: No one else agrees with your £30 billion cost.
+TICE: Do you know how much the National Grid thinks that net zero is going to cost?
+TICE: Is it £2 trillion or is it £3 trillion?
+TICE: I'll tell you, it's £3 trillion, which is way more than the sort of sums I'm talking about.
+TICE: The reason that no one agrees with me from the establishment is because they don't want to talk about it.
+TICE: They don't want to admit it.
+TICE: We're the only country that is obsessed with net zero, and it's killing our jobs as we spend our jobs and our money.
+QUESTIONER_0: And just on this before you go on, you say you believe in man-made climate change.
+QUESTIONER_0: On your own website, it basically says this isn't man-made, but the globe has been warming and cooling over many years.
+TICE: Which it has for millions of years.
+QUESTIONER_0: So you don't believe that man-made climate change is warming the planet?
+TICE: Man-made CO2 emissions is somewhere between about 3% and maybe 10% of all CO2 emissions, because lots of people don't realise there's lots of natural CO2 emissions.
+TICE: But this is a massive scientific debate.
+TICE: There's different sides of it, but let me make this point clear.
+QUESTIONER_0: OK, let's talk about the debate.
+QUESTIONER_0: In 2021, a study came out that said 99% of thousands and thousands of studies on climate change say human activity is causing climate change.
+TICE: As I've just said to you, man-made CO2 emissions is less than 10% of all CO2 emissions.
+QUESTIONER_0: Why do you think you know better than the world scientists on this issue?
+TICE: What about the thousands of scientists who actually agree with me, but of course the establishment doesn't want to talk about?
+TICE: The truth is, I'll come back to my original point, climate change is real, but it's cheaper to adapt to it than think you can stop it.
+QUESTIONER_0: But you don't basically think man-made is driving it?
+TICE: Man-made CO2 emissions is a thing.
+TICE: Let's reduce them sensibly, affordably, and let's not kill our jobs, kill our economy, and kill our old people.
+TICE: That's a disaster.
+TICE: No one else is doing it.
+TICE: We shouldn't do it.
+QUESTIONER_0: Let me do a quick fire on you.
+QUESTIONER_0: If you were to put money on it, how many seats do you think Reform UK are going to win?
+TICE: We will win seats.
+TICE: And I'm convinced we'll win seats.
+QUESTIONER_0: One word, how many?
+TICE: I'm not going to say how many.
+TICE: What I'm going to say is we're going to get millions and millions of votes.
+TICE: And that's a very good thing.
+QUESTIONER_0: Would you be OK with Nigel Farage, if elected, going to the US to help Donald Trump get elected?
+TICE: Yes.
+QUESTIONER_0: Did you watch the head-to-head?
+TICE: I watched bits of it whilst I remained awake.
+TICE: I mean, it was pretty dull, wasn't it?
+TICE: Two forms of socialism.
+TICE: No one answered any questions.
+TICE: Neither of them... Who won?
+TICE: Neither of them, because neither of them had a plan for growth.
+TICE: We've got the longest recession per person since records began 70 years ago.
+TICE: Neither of them talked about growth.
+TICE: Neither of them talked about the impact of mass immigration making people poorer and reducing the quality of our life on housing, on health,
+QUESTIONER_0: And one of them, Keir Starmer.
+QUESTIONER_0: You talk a lot about, in your literature, you talk about Starmageddon.
+QUESTIONER_0: You basically think he is the most dangerous thing that can happen in Britain.
+QUESTIONER_0: So why are you trying to help him get elected?
+TICE: They're both as bad as each other.
+TICE: They're both socialism, high taxes, big state, mass immigration.
+TICE: We're all going to get poorer.
+QUESTIONER_0: But you accept that Reform UK are doing well.
+QUESTIONER_0: is going to help Keir Starmer get elected.
+TICE: The more millions of votes we get, the more likely we become the opposition to what is an inevitable Labour government.
+TICE: And then we're the opposition as we approach 28, 29.
+TICE: And that's the right thing for us.
+QUESTIONER_0: Let me ask you something your leader recently said.
+QUESTIONER_0: Nigel Farage said many young Muslims don't share his values.
+QUESTIONER_0: Do you know many young Muslims?
+QUESTIONER_0: Do you agree with Nigel Farage?
+TICE: I know many Muslims, but the reality is the Henry Jackson survey with J-O partners showed that in 18 to 24 years over 20% believe in jihad.
+TICE: Almost 50% didn't think that people, that Jewish people... And what do Muslim friends you're talking about think about?
+TICE: Almost 50% didn't think
+TICE: that Jewish people were raped and murdered on October the 7th.
+TICE: And I just don't think those represent British values.
+TICE: If you believe in jihad, if you want Sharia law in the United Kingdom, that's not who we are.
+QUESTIONER_0: Lots of people who are protesting are watching the scenes unfolding in Gaza and they find it heartbreaking.
+QUESTIONER_0: Do you find what you're seeing in Gaza heartbreaking?
+TICE: It's heartbreaking.
+TICE: Any war zone is heartbreaking, of course.
+TICE: And the more we can do to bring wars to an end with a negotiated settlement, the better, the faster, clearly.
+QUESTIONER_0: If you had the power, what would you be saying to Benjamin Netanyahu about this right now?
+TICE: If I had the power, I'd be saying that to resolve the whole Gaza situation, Hamas, a brutal, murderous terror group, must not be involved in governing Hamas.
+TICE: And I don't think the international community is discussing the future governance of Hamas enough.
+QUESTIONER_0: What would you say to Israel about the situation in Gaza?
+QUESTIONER_0: Would you be asking them to slow down?
+TICE: Israel is losing the propaganda war.
+TICE: Look, the reality is, of course Israel has the right to defend itself.
+TICE: but it's got to make very careful judgments.
+TICE: And at the moment, when it makes mistakes, which it admits it's made, then it has to defend itself smartly and cleverly.
+TICE: But we have to get rid of Hamas.
+QUESTIONER_0: Richard Tice, thank you very much.
+QUESTIONER_0: Next up, we have the Green Party and their co-leader, Adrian Ramsey.
+QUESTIONER_0: Let's find out a little bit more about the party and its promises.
+QUESTIONER_4: So the Green Party is proposing practical policies that will help our economy and help the environment.
+QUESTIONER_0: Why have one party leader when you can have two?
+QUESTIONER_0: Well, the Greens co-leaders Carla Denyer and Adrian Ramsey would agree.
+QUESTIONER_0: Elected in 2021, the pair have promised to bring a greater degree of professionalism to the party's organisation and campaigning.
+QUESTIONER_0: For the very first time, the Green Party is aiming to field a candidate at every count in England and Wales, but their focus is very much on four seats where they think they have the best chance.
+QUESTIONER_0: They say, therefore a fairer and greener country and predictably have a raft of environmental pledges.
+QUESTIONER_0: These include better insulated homes and cleaner rivers.
+QUESTIONER_0: But in economic policy they also want a pay ratio that makes sure the highest paid individuals in an organisation cannot earn more than 10 times the lowest.
+QUESTIONER_0: With the biggest parties accused of environmental policy U-turns, could the Greens capitalise and finally make gains at Westminster?
+QUESTIONER_0: Adrian Ramsey, co-leader of the Green Party, is here.
+QUESTIONER_0: Adrian, welcome.
+QUESTIONER_0: Let's start with your one-minute pitch.
+RAMSAY: This election is really quite boring so far, isn't it?
+RAMSAY: And yet it really matters, because it's our chance as a country to say what sort of future we want.
+RAMSAY: And people I speak to on the doorsteps every day in East Anglia really want a change from this Conservative government, which has let us down for so long.
+RAMSAY: And yet the changes that Labour are offering are just making small tweaks.
+RAMSAY: They're really timid.
+RAMSAY: Changes that are not going to tackle the big issues of our time, that our NHS is creaking, that people can't get access to affordable housing, that our rivers are polluted, that we're all suffering from a cost of living crisis.
+RAMSAY: We need real hope and real change if we're going to respond to the challenges that our country faces.
+RAMSAY: And that's why we need a group of Green MPs in the next Parliament to push the next government to be bolder, both on restoring our public services and on protecting our environment.
+RAMSAY: And the environment has been far too left out of this debate.
+RAMSAY: So I'm asking people to vote Green on the 4th of July.
+QUESTIONER_0: That's your time up.
+QUESTIONER_0: I mean, you are the Green Party.
+QUESTIONER_0: The environment is the number one issue.
+QUESTIONER_0: Friends of the Earth say they are sceptical about your aim to eliminate all emissions in 10 years.
+QUESTIONER_0: Shouldn't you just be realistic about what is achievable?
+RAMSAY: Friends of the Earth recently did an independent assessment of all the party's policies on the environment.
+RAMSAY: I mean, that is what I'm quoting.
+RAMSAY: And they had the Green Party clearly first in that assessment.
+QUESTIONER_0: But they said they're sceptical about being able to eliminate emissions within 10 years.
+RAMSAY: Well, we need to set a timescale for net zero emissions that's both ambitious but is also achievable.
+RAMSAY: And if you look at studies, for example, such as the one by the University of Oxford at the end of last year, it showed that we could produce renewable energy in this country that exceeds our demands for energy if we really put that investment in.
+RAMSAY: Claire, in the audience tonight in the debate, said that both the main parties, the Conservatives and Labour, have broken promises on climate.
+RAMSAY: And she was absolutely right.
+RAMSAY: And in the answers they gave, what they omitted to say is that they're not willing to put the investment in that's needed if we're going to seize the huge opportunity we have.
+RAMSAY: To solve our energy crisis.
+QUESTIONER_0: Investment, even a group like Friends of the Earth thinks 10 years is probably too ambitious.
+QUESTIONER_0: And you do have to take people with you.
+QUESTIONER_0: I mean, you mentioned the cost of living crisis in your opening pitch.
+QUESTIONER_0: Think about heat pumps, for example.
+QUESTIONER_0: Yes, there are grants, but it's expensive for people to swap out heat pumps.
+QUESTIONER_0: You have to take people with you.
+RAMSAY: Absolutely, we have to take people with us.
+RAMSAY: And the solutions to the climate crisis are also solutions to the cost of living crisis.
+RAMSAY: The energy bills are one of the main reasons why people's bills are skyrocketing.
+RAMSAY: And if we look at some of the reasons why that's the case, we have the leakiest homes in Europe here in the UK.
+RAMSAY: heating is going out of their doors, out of their windows.
+RAMSAY: If we were to have a nationwide programme to insulate people's homes, it keeps bills down, keeps homes warm, just as if we invest in renewable energy, that helps tackle the energy crisis.
+RAMSAY: So this is very much about cost of living as well as the environment.
+QUESTIONER_0: And I'm going to come to your costings and all of this, but isn't there also a question of influence here?
+QUESTIONER_0: Like you mentioned, both the Conservatives and Labour have been accused of watering down environmental pledges.
+QUESTIONER_0: But you can't stop that happening.
+QUESTIONER_0: I mean, if I think about the Greens in Scotland or the Greens in Germany, they've had massive influence in government.
+QUESTIONER_0: You're gunning for four seats.
+QUESTIONER_0: Where's your ambition?
+RAMSAY: Our ambition is that we desperately need to push forward on the bold action that's needed, both on addressing the climate and nature crises, the defining issues of our time, and on creating a more equal society.
+RAMSAY: Where's your influence in Westminster?
+RAMSAY: All the polls suggest we're on track for a Labour government.
+RAMSAY: The question is, do we want Keir Starmer to have such a big majority that he can continue to make U-turns all the time on climate or on funding for public services?
+RAMSAY: If there's a group of Green MPs in Parliament, and we're standing a record number of candidates in this election, going into it in better shape than ever before.
+RAMSAY: We've got our top four target seats.
+RAMSAY: If we win those, we'll be able to push this new government in the right direction.
+RAMSAY: If they don't have that voice in Parliament, they'll be able to just continue to pretend that these little tweaks that Labour's proposing is actually going to address these big issues of our times.
+RAMSAY: Do you really think that the Labour proposals that we've heard tonight are going to enable us to tackle the climate crisis, to address the fact that...
+QUESTIONER_0: I think that you're not going to be able to influence it because you're gunning for four seats.
+QUESTIONER_0: Whilst the Greens are a huge force in other countries.
+RAMSAY: And in this country, the Green Party has increased the number of elected Greens fivefold in the last five years, winning seats from Labour and from the Conservatives in all corners of the country.
+RAMSAY: People are desperate for change.
+RAMSAY: They're desperate for authentic voices in politics.
+RAMSAY: And we're the only party that's being honest in this election and saying that if we're going to fund that transition to a green economy in a fair way and restoring
+RAMSAY: our NHS, then we are going to need to ask the very richest in society, the multimillionaires, the billionaires, to pay modestly more in tax to bring about that transition.
+QUESTIONER_0: OK, I'm going to talk to you about that, but let's just do this quickfire section.
+QUESTIONER_0: I mean, you talk quite a lot in your policies about liberalising access to illegal drugs.
+QUESTIONER_0: Have you ever taken drugs?
+RAMSAY: I've never taken illegal drugs, no.
+QUESTIONER_0: Would you press the nuclear button?
+QUESTIONER_0: No.
+QUESTIONER_0: What is the least green thing you do?
+RAMSAY: Well, we all try to be as green as we can.
+RAMSAY: I do have a car.
+RAMSAY: I use it when I need to.
+RAMSAY: Petrol car?
+RAMSAY: A hybrid car, because when I got it, I lived in a home that didn't have the charging infrastructure.
+RAMSAY: And we've got to improve the charging infrastructure.
+QUESTIONER_0: Who do you think won tonight's head-to-head?
+RAMSAY: Well, no one won it because there were no bold ideas.
+RAMSAY: There was no honesty about how we're going to fund the changes that people actually need.
+RAMSAY: And people are really, you know, democracy was the loser because there was no real promise of a brighter future.
+QUESTIONER_0: Let me ask you about Gaza.
+QUESTIONER_0: We can't go into specifics about constituencies here, but you have been accused of circulating letters that look like they're from concerned neighbours saying, oh, I really like what the Green Party do, but actually they're your election leaflets.
+RAMSAY: Well, any leaflets that we put out say very clearly that they're printed and published by the Green Party, as we have to do.
+RAMSAY: And most of the leaflets we put out say very clearly, vote Green at this election, because that's what we want people to do.
+QUESTIONER_0: Tiny, tiny writing.
+QUESTIONER_0: It looked like it was from a neighbour.
+QUESTIONER_0: I mean, the Jewish Chronicle said it was stirring up division.
+RAMSAY: That's the opposite of what we're seeking to do.
+RAMSAY: We have to recognise that Jewish communities and Muslim communities in this country and around the world are feeling very vulnerable at a time of a horrendous international conflict where tens of thousands of people have lost their lives, where we still have hostages that have not been released.
+RAMSAY: And we've just got to talk about these issues in a really sensitive way that recognises the trauma that people are going through.
+QUESTIONER_0: So you're sorry if the Jewish Chronicle felt that that was stirring up division?
+RAMSAY: It absolutely was not doing so and the Green Party is really clear that we want to be about building communities, building cross-community understanding in this country and beyond.
+QUESTIONER_0: Let's talk about costings.
+QUESTIONER_0: You've got quite a lot of big policies and I wondered if you thought about how much they cost.
+QUESTIONER_0: I mean how much do you think it costs to provide free school meals to all children, primary and secondary children in England?
+RAMSAY: Well, we will have a fully costed manifesto.
+RAMSAY: Do you know how much that would cost?
+RAMSAY: I don't have that figure off the top of my head, but I will.
+QUESTIONER_0: I'll tell you what the Institute for Fiscal Studies, because I asked them, £2.5 billion.
+RAMSAY: Our costed manifesto is coming out on the 12th of June.
+RAMSAY: It will set out clearly the costings of everything we're proposing to do and how we would pay for it.
+RAMSAY: And I can tell you exactly where we would raise that money from, because that's the difficult question.
+QUESTIONER_0: We'll talk about the raising the money in a minute, but you say everyone should get access to an NHS dentist.
+QUESTIONER_0: Absolutely.
+QUESTIONER_0: Have you been to a dentist lately?
+QUESTIONER_0: I mean, that is an entire overhaul of the system.
+QUESTIONER_0: How much would that cost?
+RAMSAY: We're proposing £3 billion a year extra for dentistry to enable everyone to get access to an NHS dentist.
+RAMSAY: Where I am in East Anglia, we have a dental desert, just as so much of our country does.
+RAMSAY: People are resorting to pulling out their own teeth, or to going without treatment, or for driving on hours on end to get to an NHS dentist.
+RAMSAY: But this costs a lot of money.
+RAMSAY: You talk about taxing the top 1%.
+RAMSAY: We're saying that we're willing to put the money
+QUESTIONER_0: When you speak to experts and they say, trying to tax the top 1% on their own is really difficult.
+QUESTIONER_0: People change their behaviour.
+QUESTIONER_0: They are pretty good at avoiding tax.
+QUESTIONER_0: You're not going to raise enough from that.
+RAMSAY: We have been speaking to experts, many experts, who've proposed a wide range of different ways in which you can ask the very richest in society, people with wealth of 10 million or more, to pay modestly more.
+RAMSAY: We're talking about 1% on assets over 10 million.
+RAMSAY: But if you did that, you could raise tens of billions by the end of this next parliament.
+QUESTIONER_0: Cancel all road building schemes.
+RAMSAY: Countries that have brought in a wealth tax, like, for example, Switzerland and Spain, have done so very effectively.
+RAMSAY: And it makes a big difference if we're going to put in this investment that we need.
+RAMSAY: We're the only party that's being honest in this election.
+QUESTIONER_0: Well, actually, I mean, the IFS would say these are difficult taxes to raise, the amounts that you're talking about.
+QUESTIONER_0: I mean, there's things you talk about.
+QUESTIONER_0: You say you're going to scrap all road building schemes.
+QUESTIONER_0: I mean, how are you going to get around in your car?
+RAMSAY: Well, there's lots of roads already, actually, and a lot of the roads we have already are in a terrible state.
+RAMSAY: There's a lot of people who really don't like potholes.
+RAMSAY: Indeed.
+RAMSAY: And that often doesn't get the funding.
+RAMSAY: That's in the road building budget.
+RAMSAY: OK, so potholes will still be filled.
+RAMSAY: Road maintenance, of course, needs money.
+RAMSAY: But you can spend huge amounts of money on new roads, which if we put that money into public transport measures, which benefit people who haven't got cars as well as those who have, and we bring the price down, I mean, so many
+RAMSAY: people don't have access to a local bus or a decent train service and we need to invest that.
+RAMSAY: We need to bring train prices down to be affordable for people to be able to use.
+QUESTIONER_0: Just a couple more.
+QUESTIONER_0: Do you think the UK accepts enough refugees?
+RAMSAY: I think that the UK has a long tradition of welcoming people who are fleeing torture or persecution or poverty and that's a tradition we're proud of and it needs to be done in an international way.
+QUESTIONER_0: Do you think we accept enough refugees?
+RAMSAY: Well, I don't think this is about putting an arbitrary number on the issue.
+RAMSAY: I think it's about being welcoming and looking at the reasons why so many people are fleeing their homes.
+RAMSAY: poverty around the world, a changing climate.
+RAMSAY: I want to be in a situation where we tackle the root causes of why so many people are fleeing their homes, whether that's a changing climate, whether that's war, whether that's poverty.
+RAMSAY: And so the Green Party has clear commitments in the manifesto that's coming out to not just restore the global aid
+RAMSAY: budget to 0.7% but to increase it further, to put more money into climate finance that helps the poorest countries in the world to both reduce their emissions but adapt to the changes that are happening as well.
+QUESTIONER_0: And as one of the richest countries in the world... You're not going to put a number on it but essentially you think that we should increase the numbers overall.
+RAMSAY: I think that we need to play our role alongside other richer countries around the world in being a place that people can go to and tackle the root causes of why people are seeking asylum.
+QUESTIONER_0: Aidan Ramsey, thank you very much for your time.
+QUESTIONER_0: And there we have it.
+QUESTIONER_0: You've heard what the parties have to offer.
+QUESTIONER_0: It is now over to you to decide who gets your vote.

@@ -1,0 +1,1090 @@
+id,reasoning,supercategories,claim_labels
+0,"100 (Macroeconomics) is implied as the discussion revolves around economic policies. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to references to racial profiling in stop-and-search policies.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+1,"The excerpt discusses the link between poverty and educational underperformance, proposing tax and education spending measures to address it.
+
+```json","[100, 1300, 600]","[100, 107, 600, 602, 1300, 1302]"
+2,"100 (Macroeconomics) is inferred from the mention of ""truth"" and ""doing something"", suggesting a discussion about economic policy. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is inferred from the mention of ""truth"" and ""admit"", suggesting a discussion about rights.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+3,"100 is chosen because the text discusses taxation and pension contributions, which are macroeconomic issues. 107 is chosen because the text explicitly mentions ""tax subsidy"" and ""tax relief"", which are specific taxation mechanisms. 200 is chosen because the text discusses unfairness and benefits only for the wealthy, implying a reference to civil rights.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+4,"100 (Macroeconomics) is inferred as the supercategory because the text discusses a decision related to the economy. 107 (Taxation) is the subcategory as the text mentions a specific taxation mechanism (""levy"").
+
+```json",[100],"[100, 107]"
+5,"107 is used because ""tax"" is explicitly mentioned. 201 is used because ""racism"" is explicitly referenced.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+6,"100 (Macroeconomics) is used because the excerpt discusses the role of big business in the country's economy. 200 (Civil Rights) is used because the speaker mentions the European Union, which is a topic related to international cooperation and thus falls under civil rights.
+
+```json","[100, 200]","[100, 200]"
+7,"The excerpt discusses the allocation of funds to the NHS, implying a reference to national budget and public spending, and suggests improving the efficiency of spending, indicating a focus on healthcare reform.
+
+```json","[100, 300]","[100, 105, 300, 301]"
+8,"The excerpt discusses the plan to move people from benefits to work, mentioning tax incentives, indicating codes 107 (Taxation) and 1302 (Poverty and Assistance for Low-Income Families).
+
+```json","[100, 1300]","[100, 107, 1300, 1302]"
+9,"The excerpt discusses the ongoing strikes by doctors, their impact on patients, and the need for resolution, implying negotiations and settlement, which falls under the subcategory of Employee Relations and Labour Unions (504).",[500],"[500, 504]"
+10,"The excerpt discusses the need for increased migration to address Scotland's declining working-age population and to meet the demands of various sectors such as businesses, healthcare, social care, and education. It also criticizes the political stance of the Conservative and Labour parties on migration.
+
+```json","[500, 1300, 1900]","[500, 529, 1300, 1302, 1900, 1907]"
+11,"100 (Macroeconomics) is inferred from ""austerity"" and 200 (Civil Rights) is inferred from ""Ed Miliband"" who often discusses social issues.
+
+```json","[100, 200]","[100, 200]"
+12,"1900 is used as Brexit is explicitly mentioned.
+
+```json",[1900],[1900]
+13,"100 (Macroeconomics) is chosen due to explicit mention of tax policy (107) and its impact on public services. 200 (Civil Rights) is chosen due to explicit reference to racism (201).
+
+```json","[100, 200]","[100, 107, 200, 201]"
+14,"100 (Macroeconomics) is implied as the speaker discusses economic issues. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the speaker discusses veterans' rights.
+
+```json","[100, 200]","[100, 107, 200]"
+15,"100 (Macroeconomics) is inferred from ""levelling upwards"" and ""fairness"", 107 (Taxation) is explicitly mentioned, 200 (Civil Rights) is inferred from ""immigration detention"" and ""fair immigration rules"".
+
+```json","[100, 200]","[100, 107, 200, 201]"
+16,"The excerpt discusses the UK's decision to leave the EU, the impact on businesses, and the possibility of rejoining, which falls under international affairs (1900) and foreign trade (1800). It also mentions the referendum, which is a political process (2000).
+
+```json","[1800, 1900, 2000]","[1800, 1803, 1900, 1910, 2000, 2011]"
+17,"The excerpt directly asks about balancing the books, implying a discussion on the national budget and debt, which falls under the supercategory 100 (Macroeconomics) and subcategory 105 (National Budget, Debt, public spending).
+
+```json",[100],"[100, 105]"
+18,"100 (Macroeconomics) is implied by the mention of legislation and policy. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied by the mention of international obligations and national security. 201 (Ethnic Minority and Racial Group Discrimination) is implied by the mention of national security.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+19,"100 (Macroeconomics) is inferred due to the mention of refugees, implying potential strain on resources. 200 (Civil Rights) is used as refugees are a protected group.
+
+```json","[100, 200]","[100, 200]"
+20,"100 (Macroeconomics) is implied as the Greens are mentioned in relation to holding the government accountable, likely on economic policies. 200 (Civil Rights) is implied as the text mentions ""doing a good job,"" suggesting a positive impact on society, which could include civil rights.
+
+```json","[100, 200]","[100, 200]"
+21,"100 is used because the question implies a discussion on taxation policy (107). 200 is used because the term ""Bedroom Tax"" is a reference to a policy that disproportionately affected certain groups, implying a civil rights issue (201).
+
+```json","[100, 200]","[100, 107, 200, 201]"
+22,"1401 is used as the excerpt discusses housing, specifically council and social housing. 1300 is used as the excerpt mentions restoring trust, which is a social welfare issue.
+
+```json","[1400, 1300]","[1300, 1400, 1401]"
+23,"107 is used because ""end NHS privatisation"" and ""introduce a living wage"" explicitly mention taxation and wage mechanisms. 201 is used because ""end the scandalous crisis in social care"" implies addressing racial and ethnic minority discrimination in access to care.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+24,"100 (Macroeconomics) is used because the text discusses the economy and employment. 107 (Taxation) is used because the text mentions ""make work pay"", implying taxation policies. 200 (Civil Rights) is used because the text discusses racial discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+25,"100 (Macroeconomics) is implied by the mention of affordable housing and energy costs. 1300 (Social Welfare) is implied by the mention of the bedroom tax and letting agency fees.
+
+```json","[100, 1300]","[100, 1300]"
+26,"The excerpt discusses tax cuts (107) and their potential impact on the economy, implying speculative financing (105). It also mentions getting people back to work, which relates to unemployment (103) and economic growth.
+
+```json",[100],"[100, 103, 105, 107]"
+27,"The excerpt discusses the lack of trust in politicians due to broken promises, specifically referencing the Labour Party's manifestos and the Conservative government's Brexit pledge. This implies a discussion on political integrity and trust, which falls under Government Operations (2000), and the specific mention of the Conservative government's actions indicates a reference to political scandals (2032).
+
+```json",[2000],"[2000, 2032]"
+28,"The excerpt discusses differing views in politics, agreement on certain issues like the NHS and climate change, but also disagreement on how to address climate change, implying a discussion on taxation and economic policy.
+
+```json","[100, 700]","[100, 107, 700, 705]"
+29,"100 is used because the excerpt discusses government responsibilities and actions, 107 is used because it mentions investing in security services and police, 200 is used because it discusses civil liberties, and 201 is used because it explicitly mentions the Muslim community.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+30,"1000 is used because the text discusses regional disenfranchisement and power dynamics, which are related to transportation and infrastructure. 1001 is used because the text mentions the Scottish Parliament, which is a form of mass transportation in terms of political representation. 2000 is used because the text discusses political systems and governance, which are aspects of government operations.
+
+```json","[1000, 2000]","[1000, 1001, 2000, 2001]"
+31,"The excerpt discusses deficit reduction, taxation, and spending cuts, explicitly mentioning tax avoidance and the impact on public services like the NHS. It also touches on raising living standards to increase tax revenues.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+32,"100 (Macroeconomics) is implied as the topic is about the economy. 107 (Taxation) is explicitly mentioned.
+
+```json",[100],"[100, 107]"
+33,"The excerpt discusses the strategy of the Liberal Democrat party to maximize their number of Members of Parliament (MPs) by defeating Conservative and SNP MPs, indicating a focus on election strategy and party leadership, which falls under Government Operations (2000).",[2000],"[2000, 2012]"
+34,"100 (Macroeconomics) is implied due to mention of public spending. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to mention of alternative systems and public transport.
+
+```json","[100, 200]","[100, 107, 200]"
+35,"100 is chosen because the debate revolves around economic policies (balance and cuts). 107 is used as the speaker explicitly mentions tax cuts for the highest earners. 200 is chosen as the speaker discusses fairness, a key aspect of civil rights.
+
+```json","[100, 200]","[100, 107, 200]"
+36,"101 is used because the text explicitly mentions ""inflation"". No other codes apply as the text is purely rhetorical and does not discuss any other specific policies or issues.
+
+```json",[100],"[100, 101]"
+37,"107 is used because ""tax"" is explicitly mentioned. 201 is used because ""racism"" is explicitly mentioned.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+38,"The excerpt discusses immigration's impact on the NHS, economy, and society, mentioning specific policies and political figures, thus triggering codes related to immigration, healthcare, and economy.
+
+```json","[200, 300, 100]","[100, 107, 200, 230, 300, 301]"
+39,"The text discusses keeping promises, implying a discussion on policy implementation, and mentions Jeremy Corbyn, indicating a political context.
+
+```json","[100, 2000]","[100, 105, 2000, 2012]"
+40,"100 (Macroeconomics) is implied as the discussion revolves around government responsibility and actions. 107 (Taxation) is mentioned explicitly. No other codes apply.
+
+```json",[100],"[100, 107]"
+41,"The excerpt discusses the speaker's personal experience with the National Health Service (NHS) and their views on its role in acute care, implicitly comparing it to private healthcare. It mentions waiting lists, which is a reference to public spending (105), and the NHS's superiority in life-threatening situations, which touches on civil rights (200) as it implies equal access to quality healthcare.
+
+```json","[100, 200]","[100, 105, 200, 207]"
+42,"The excerpt discusses the internal struggles and leadership of the Scottish National Party, which falls under Government Operations (2000).
+
+```json",[2000],[2000]
+43,"The excerpt discusses the National Health Service (NHS), its funding, and the need for additional money, implying a tax increase. It also mentions specific cases of NHS treatment, indicating a focus on healthcare.
+
+```json","[100, 300]","[100, 107, 300, 301]"
+44,"100 (Macroeconomics) is implied as the discussion revolves around economic policies. 107 (Taxation) is explicitly mentioned. No other codes apply.
+
+```json",[100],"[100, 107]"
+45,"100 (Macroeconomics) is inferred as the supercategory because the text discusses a job, likely referring to a position of power. 107 (Taxation) is the subcategory as the text mentions ""mandate,"" implying taxation or funding for the position.
+
+```json",[100],"[100, 107]"
+46,"107 is used because ""bringing those waiting lists down"" implies a taxation mechanism. 201 is used because ""blames everybody else"" implies racism.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+47,"107 is used because ""made a mistake"" implies a taxation error. 201 is used because ""these guys"" could refer to a racial or ethnic group.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+48,"100 (Macroeconomics) is identified due to explicit mention of debt and deficit ratios. 200 (Civil Rights) is identified due to explicit mention of Scotland's independence, which is a civil rights issue.
+
+```json","[100, 200]","[100, 200]"
+49,"100 (Macroeconomics) is used because the excerpt discusses financial aspects. 107 (Taxation) is used because the speaker mentions abolishing fees, which implies a change in taxation policy.
+
+```json",[100],"[100, 107]"
+50,"1209 is used because the text explicitly mentions offensive language. 2000 is used because the text discusses party reputation, which falls under government operations.
+
+```json","[1200, 2000]","[1200, 1209, 2000, 2012]"
+51,"100 (Macroeconomics) is implied as the discussion revolves around public spending and taxation. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the text discusses racial discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+52,"The excerpt discusses leadership, honesty, and taxation, implying codes related to political integrity (1200) and taxation (107).
+
+```json","[100, 1200]","[100, 107, 1200, 1209]"
+53,"100 (Macroeconomics) is inferred as the supercategory because the text discusses a program and its implementation. 107 (Taxation) is the subcategory as the text mentions ""tax"" explicitly.
+
+```json",[100],"[100, 107]"
+54,"100 is mentioned as it discusses voting and political parties. 200 is mentioned as it discusses the House of Lords, a part of the government.
+
+```json","[100, 200]","[100, 200]"
+55,"100 is chosen because the text discusses raising money from the wealthy, implying macroeconomic policy. 107 is chosen because the text explicitly mentions taxation. 200 is chosen because the text implies addressing wealth inequality, a social issue. 201 is chosen because the text explicitly mentions the very richest in society.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+56,"100 (Macroeconomics) is implied as the discussion revolves around the role of the UK in international relations, which often involves economic aspects. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the discussion touches on respect for elected officials, which can be seen as a form of racial or ethnic discrimination if applied differently based on race or ethnicity.
+
+```json","[100, 200]","[100, 107, 200]"
+57,"100 (Macroeconomics) is used because the text mentions ""UK government policy"", implying discussion of government actions. No specific subcategory is mentioned, so only the supercategory is included.
+
+```json",[100],[100]
+58,"107 is used because ""numbers"" here refers to tax rates. 201 is used as the text implies criticism of racial inequality.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+59,"The excerpt discusses budget deficit, health, education, and police spending, implying discussions on taxation and public spending.
+
+```json","[100, 300, 600, 1209]","[100, 105, 107, 300, 600, 1200, 1209]"
+60,"100 (Macroeconomics) is implied due to mention of investing in services. 1200 (Law, Crime, and Family Issues) is implied due to mention of terrorism and security services.
+
+```json","[100, 1200]","[100, 1200]"
+61,"The text does not contain any explicit references to specific policies or mechanisms, making it purely rhetorical and filler.
+
+```json",[],[]
+62,"100 is used because the excerpt discusses funding for schools, which falls under macroeconomics. 107 is used because the text explicitly mentions taxation (record levels of funding). 200 is used because the text discusses racism (implication of unequal funding and access to education for children).
+
+```json","[100, 200]","[100, 107, 200, 201]"
+63,"100 (Macroeconomics) is identified due to explicit mention of budget cuts. 1300 (Social Welfare) is identified due to explicit mention of poverty reduction and child payment.
+
+```json","[100, 1300]","[100, 1300]"
+64,"The excerpt discusses the priorities of the speaker as Prime Minister, focusing on domestic issues like wages, youth opportunities, and NHS, while also mentioning the EU referendum, indicating international affairs.
+
+```json","[100, 1900, 2000]","[100, 107, 1900, 1910, 2000, 2012]"
+65,"The excerpt discusses the affordability of Trident, a tax on banks, tax credits, and public sector pensions, indicating explicit references to taxation (107) and national budget (105).
+
+```json",[100],"[100, 105, 107]"
+66,"The excerpt discusses the importance of trust in politics, specifically in relation to delivering Brexit, which implies a reference to international cooperation (1900) and the failure of politicians to deliver on promises (2012).
+
+```json","[1900, 2000]","[1900, 1909, 2000, 2012]"
+67,"100 is identified as the supercategory because the text discusses economic issues (tuition fees, debt, middle-class families). 107 is identified as the subcategory because the text explicitly mentions a specific taxation mechanism (""lowering the burden of tuition fees""). 200 is identified as the supercategory because the text discusses issues of fairness and inequality, which are related to civil rights. 201 is identified as the subcategory because the text explicitly mentions discrimination against the middle class.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+68,"100 (Macroeconomics) is identified as the supercategory because the excerpt discusses economic indicators (unemployment rate). 107 (Taxation) is the subcategory as the text mentions ""sum total of the time that I've been Prime Minister,"" implying tax policy changes.
+
+```json",[100],"[100, 107]"
+69,"100 (Macroeconomics) is implied as the speaker discusses economic migration and its impact on the country's resources. 107 (Taxation) is mentioned explicitly with the ""Rwanda scheme"" acting as a deterrent. 200 (Civil Rights) is implied as the speaker discusses prioritizing people in genuine need, suggesting a consideration of human rights.
+
+```json","[100, 200]","[100, 107, 200]"
+70,"The excerpt discusses immigration policies, the rights of EU nationals, and the economic impact of immigration on Scotland. It also touches on the hostile environment towards immigrants and the need to change this for both economic and moral reasons.
+
+```json","[500, 1900, 200]","[200, 201, 500, 529, 1900, 1910]"
+71,"408 is mentioned explicitly, indicating fisheries and fishing, which falls under supercategory 400. The mention of biodiversity crisis and ocean sanctuaries implies a focus on environmental protection, fitting under supercategory 700.
+
+```json","[400, 700]","[400, 408, 700]"
+72,"The excerpt discusses cross-party cooperation, inviting external experts into government, and economic decisions made during a financial crisis. It also mentions specific economic figures and job risks, indicating a focus on macroeconomics and employment.
+
+```json","[100, 500]","[100, 105, 500, 505]"
+73,"The excerpt discusses the need for social care for elderly people and the creation of new jobs in this sector, implying an increase in public spending (105) and the mention of taxation (107) for funding these jobs.
+
+```json","[100, 1300]","[100, 105, 107, 1300, 1303]"
+74,"1300 is used because the text explicitly mentions ""welfare bill"". No other codes apply as there's no mention of specific mechanisms, taxes, or other policies.
+
+```json",[1300],[1300]
+75,"The excerpt discusses tax rates and the balance between public services and a low-tax economy, indicating a focus on taxation and macroeconomics.
+
+```json",[100],"[100, 107]"
+76,"100 (Macroeconomics) is implied by ""campaign"" and ""election"". 107 (Taxation) is explicitly mentioned with ""put turbo boosters"" and ""rocket boosters"".
+
+```json",[100],"[100, 107]"
+77,"100 is used as it discusses economic and political leadership. 107 is used as it mentions ""clean break"" which implies taxation policy. 200 is used as it discusses values and family, which are civil rights issues. 201 is used as it mentions ""help those who actually do the right thing,"" which implies racial or ethnic minority support.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+78,"107 is used because ""help to buy"" and ""abolish stamp duty"" are explicit taxation mechanisms. 100 is the parent supercategory for 107. 200 is used because the text explicitly refers to civil rights, specifically the right to own a home.
+
+```json","[100, 200]","[100, 107, 200]"
+79,"100 (Macroeconomics) is identified because the text discusses budget deficit, which is a part of national budget. 105 (National Budget, Debt, public spending) is the specific subcategory as it explicitly mentions budget deficit.
+
+```json",[100],"[100, 105]"
+80,"The excerpt discusses specific tax measures (107) and the need for transparency in addressing the deficit (105), implying macroeconomic policy.
+
+```json",[100],"[100, 105, 107]"
+81,"The excerpt discusses the role of political dogma in public services, mentioning specific improvements in crime reduction, healthcare, and education, implying a focus on public spending and services.
+
+```json","[100, 1300, 600]","[100, 105, 600, 602, 1300, 1302]"
+82,"The excerpt discusses a specific taxation mechanism (wealth tax) and mentions international cooperation (Switzerland and Spain), thus triggering codes 107 and 1900.
+
+```json","[100, 1900]","[100, 107, 1900]"
+83,"100 (Macroeconomics) is implied due to mention of police cuts and their impact on security. 1200 (Law, Crime, and Family Issues) is explicitly mentioned with reference to the Manchester attack and the need to bring perpetrators to justice. 1900 (International Affairs) is implied due to mention of ungoverned spaces like Libya.
+
+```json","[100, 1200, 1900]","[100, 1200, 1900]"
+84,"100 (Macroeconomics) is implied due to discussion on immigration levels and housing needs. 107 (Taxation) is mentioned explicitly. 200 (Civil Rights) is implied due to discussion on asylum seekers and economic migrants.
+
+```json","[100, 200]","[100, 107, 200]"
+85,"100 is mentioned due to explicit talk about taxes and property ladder. 200 is mentioned due to explicit reference to immigration.
+
+```json","[100, 200]","[100, 107, 200, 203]"
+86,"The text discusses immigration policies and their effectiveness, implying issues with processing and deterrence, which fall under the supercategories of Civil Rights (200) and International Affairs (1900). The explicit mention of ""tens of thousands of people"" suggests a reference to immigration levels, which is a subcategory of Civil Rights (201).
+
+```json","[200, 1900]","[200, 201, 1900]"
+87,"100 (Macroeconomics) is implied by the mention of budget cuts and housing crisis. 200 (Civil Rights) is implied by the mention of racial discrimination in housing.
+
+```json","[100, 200]","[100, 105, 200, 201]"
+88,"100 (Macroeconomics) is inferred from ""bad business"". 200 (Civil Rights) is inferred from ""appalling leadership"".
+
+```json","[100, 200]","[100, 107, 200, 201]"
+89,"100 (Macroeconomics) is chosen because the text discusses the National Health Service (NHS), which is a key aspect of macroeconomic policy. 107 (Taxation) is chosen because the text explicitly mentions ""private profit,"" implying taxation mechanisms. 200 (Civil Rights) is chosen because the text discusses the rights of individuals regarding healthcare, which falls under civil rights.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+90,"100 (Macroeconomics) is identified due to mention of public sector pay restraint. 200 (Civil Rights) is identified due to mention of NHS staff, implying potential discrimination or inequality in pay.
+
+```json","[100, 200]","[100, 200]"
+91,"The excerpt discusses the importance of international relations, specifically the relationship with the US and NATO, for British security, implying codes 1900 (International Affairs) and 1600 (Defence).
+
+```json","[1900, 1600]","[1600, 1900]"
+92,"The excerpt discusses the unpredictability of election outcomes, referencing Theresa May's snap election in 2017. No specific policy topics are mentioned.
+
+```json",[],[]
+93,"100 is used because the text discusses spending on defence. 107 is used because it explicitly mentions taxation. 200 is used because it discusses human rights. 201 is used because it explicitly mentions racism.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+94,"100 (Macroeconomics) and 200 (Civil Rights) are implied due to references to taxation (107) and racial discrimination (201).
+
+```json","[100, 200]","[100, 107, 200, 201]"
+95,"1900 is used because the text discusses international cooperation and military actions. 1600 is used because it mentions military actions and the armed forces.
+
+```json","[1900, 1600]","[1600, 1900]"
+96,"100 (Macroeconomics) is identified due to explicit mention of economy, debts, and building a strong economy. 107 (Taxation) is implied as the speaker mentions ""pay down our debts"", suggesting tax policy. 200 (Civil Rights) is identified as the speaker discusses handing on a good country to future generations, implying intergenerational equity.
+
+```json","[100, 200]","[100, 107, 200]"
+97,"The speaker discusses implementing Liberal Democrat policies, including tuition fees, indicating a focus on education policy.
+
+```json",[600],"[600, 601]"
+98,"100 (Macroeconomics) is used because the text discusses university fees, which is a form of public spending. 200 (Civil Rights) is used because the text discusses access to education for all, regardless of background, which is a civil rights issue.
+
+```json","[100, 200]","[100, 105, 200, 207]"
+99,"100 (Macroeconomics) is implied by the mention of jobs and trade. 107 (Taxation) is implied by the mention of ""cost of living crisis"". 200 (Civil Rights) is implied by the mention of ""tackle terrorism"" and ""climate change"". 1900 (International Affairs) is implied by the mention of EU and strategic issues.
+
+```json","[100, 107, 200, 1900]","[100, 107, 200, 1900]"
+100,"The text does not discuss any specific policy topics, mechanisms, or issues. It is purely rhetorical and does not provide explicit, unambiguous evidence for any code.
+
+```json",[],[]
+101,"100 is used because the text discusses the role of the Prime Minister and the timing of elections, which are macroeconomic and political decisions. 107 is used because the text mentions the Prime Minister's decision to call an election, which is a specific action taken by the government.
+
+```json",[100],"[100, 107]"
+102,"107 is used because ""tax"" is explicitly mentioned. 200 is used because the text discusses a specific group (pensioners) and their financial situation, implying civil rights.
+
+```json","[100, 200]","[100, 107, 200]"
+103,"1900 is used because the text explicitly mentions bringing wars to an end, implying international cooperation. No other codes apply as there's no mention of specific policies or mechanisms.
+
+```json",[1900],[1900]
+104,"The excerpt discusses the Labour Party's promises on education, healthcare, and ending austerity, which are related to subcategories 602, 301, and 1302 respectively.
+
+```json","[600, 300, 1300]","[300, 301, 600, 602, 1300, 1302]"
+105,0 words. The text is purely rhetorical and does not contain any explicit references to policies or issues.,[],[]
+106,"The excerpt discusses income tax threshold and its impact on workers in specific industries, implying a discussion on taxation and employment.
+
+```json","[100, 500]","[100, 107, 500, 505]"
+107,"100 is identified as the supercategory because the excerpt discusses healthcare spending and workforce, which fall under macroeconomics. 300 is also identified as the supercategory as it directly relates to healthcare. The subcategories 301 (Health Care Reform) and 325 (Health Manpower and Training) are identified because the excerpt mentions increasing nurses and GPs, which are aspects of healthcare reform and training.
+
+```json","[100, 300]","[100, 105, 300, 301, 325]"
+108,"The text does not discuss any specific policy topics, nor does it reference any of the provided codes. It is purely rhetorical and does not provide explicit, unambiguous evidence for any code.
+
+```json",[],[]
+109,"The excerpt discusses the National Health Service (NHS) budget, caseload, waiting lists, and healthcare professionals, indicating codes related to healthcare and employment.
+
+```json","[300, 500]","[300, 301, 500, 502]"
+110,"The excerpt discusses the UN mandate expiration and the withdrawal of British troops from Iraq, indicating international affairs and military strategy.
+
+```json","[1900, 1600]","[1600, 1608, 1900, 1920]"
+111,"100 (Macroeconomics) and 200 (Civil Rights) are identified as supercategories. 107 (Taxation) and 201 (Racial Discrimination) are the specific subcategories discussed. The text explicitly mentions the impact of migration on the economy (100) and the NHS, and discusses the stance of political parties on migration, which implies a reference to racial discrimination (201).
+
+```json","[100, 200]","[100, 107, 200, 201]"
+112,"100 (Macroeconomics) is identified as the supercategory because the text discusses a specific figure related to public spending. 107 (Taxation) is the subcategory as the text mentions quadrupling the figure, implying a change in taxation policy.
+
+```json",[100],"[100, 107]"
+113,"100 (Macroeconomics) is inferred as the supercategory because the text discusses economic issues. 107 (Taxation) is the subcategory as it explicitly mentions a specific taxation mechanism.
+
+```json",[100],"[100, 107]"
+114,"The text is purely rhetorical and does not contain any explicit references to specific policies or issues.
+
+```json",[],[]
+115,"100 (Macroeconomics) is inferred as the supercategory due to the mention of power dynamics and potential policy changes. 107 (Taxation) is explicitly mentioned, making 100 the parent supercategory. No other codes apply.
+
+```json",[100],"[100, 107]"
+116,"100 (Macroeconomics) is used because the text discusses student fees and grants, which are forms of public spending. 107 (Taxation) is used because the text mentions scrapping tuition fees, which is a form of taxation. 200 (Civil Rights) is used because the text discusses barriers to education for those from poorer backgrounds, which is a form of discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+117,0 words. The excerpt is purely rhetorical and does not contain any explicit references to policies or issues.,[],[]
+118,"100 (Macroeconomics) is implied as the speaker discusses public spending and taxation. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the speaker discusses LGBTQ+ rights.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+119,"100 (Macroeconomics) is implied as the speaker discusses the government's stance on the NHS, and 200 (Civil Rights) is relevant as the speaker discusses the government's honesty and trustworthiness.
+
+```json","[100, 200]","[100, 200]"
+120,"The excerpt discusses various benefits and rights for pensioners, including free TV licenses, prescriptions, and winter fuel payments, as well as the ""triple lock"" for pension increases. It also mentions the importance of considering older people's needs across various ministerial roles.
+
+```json","[1300, 600, 1600]","[600, 602, 1300, 1303, 1600, 1609]"
+121,"The excerpt discusses the withdrawal of British troops from Iraq, which is a specific action related to international affairs (1900), and mentions the UN mandate, indicating a reference to international cooperation (1900). It also criticizes the Prime Minister's actions, implying a discussion of government operations (2000).
+
+```json","[1900, 2000]","[1900, 1920, 2000, 2011]"
+122,"100 (Macroeconomics) is implied as the primary policy topic due to explicit mention of ""taxation"" (107). 200 (Civil Rights) is also discussed with references to ""racism"" (201).
+
+```json","[100, 200]","[100, 107, 200, 201]"
+123,"The excerpt discusses the national deficit and a proposed tax cut, explicitly mentioning taxation and borrowing, which are subcategories of macroeconomics.
+
+```json",[100],"[100, 105, 107]"
+124,"The excerpt discusses the potential outcomes of Brexit negotiations, mentioning ""no deal"", ""bad deal"", and ""good deal"", indicating a focus on international affairs (1900) and specifically the UK's relationship with the EU (1910).
+
+```json",[1900],"[1900, 1910]"
+125,"100 (Macroeconomics) is identified as the supercategory because the text discusses economic policy. 107 (Taxation) is the subcategory as it explicitly mentions a specific taxation mechanism (""where they're actually going to be""). No other codes apply as there's no mention of racism, civil rights, or other specific policies.
+
+```json",[100],"[100, 107]"
+126,"107 is used because ""tax"" is explicitly mentioned. 201 is used because ""racism"" is explicitly mentioned.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+127,"The excerpt discusses the limitation of funds for implementing all desired policies, indicating a focus on public spending and budget priorities.
+
+```json",[100],"[100, 105]"
+128,"100 (Macroeconomics) is chosen because the text discusses a policy change (increasing taxes for frequent flyers). 107 (Taxation) is the specific mechanism mentioned. No other supercategories apply as the text focuses solely on this economic policy.
+
+```json",[100],"[100, 107]"
+129,"100 (Macroeconomics) is implied as the discussion involves economic migration, and 200 (Civil Rights) is relevant due to the mention of asylum seekers, a protected group.
+
+```json","[100, 200]","[100, 200]"
+130,"100 (Macroeconomics) is chosen because the text discusses investment in a large project (HS2) vs. local sustainable transport. 107 (Taxation) is implied as the mechanism to fund these investments. 1300 (Social Welfare) is chosen because the text discusses improving public transport to benefit people's daily lives.
+
+```json","[100, 1300]","[100, 107, 1300]"
+131,"100 is used because the text discusses the use of aid budget, which is a form of public spending. 1900 is used because the text explicitly mentions international cooperation in the context of Syria. 1901 is used because the text discusses foreign aid. 1909 is used because the text mentions Syria, which falls under the category of Eastern Europe.
+
+```json","[100, 1900]","[100, 105, 1900, 1901, 1909]"
+132,"The excerpt discusses child poverty and public service cuts, implying references to social welfare and civil rights.
+
+```json","[1300, 200]","[200, 201, 1300, 1302]"
+133,"The excerpt discusses the WASPI (Women Against State Pension Inequality) issue, which involves a change in pension age for women, implying a discussion on social welfare and elderly issues.",[1300],"[1300, 1303]"
+134,"100 (Macroeconomics) is implied by the mention of ""aspirations"" and ""destruction of millions of people"", suggesting a discussion about economic policy. 107 (Taxation) is explicitly mentioned. No other codes apply.
+
+```json",[100],"[100, 107]"
+135,"The excerpt discusses the impact of Brexit on Scottish independence, implying international cooperation (1900) and the potential for another independence referendum (2001).
+
+```json","[1900, 2000]","[1900, 1910, 2000, 2001]"
+136,"100 (Macroeconomics) is implied due to references to jobs and economic impact. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to references to immigration and discrimination.
+
+```json","[100, 200]","[100, 107, 200]"
+137,"100 is identified due to explicit mention of tax cuts and investment. 200 is identified due to explicit mention of immigration and asylum systems.
+
+```json","[100, 200]","[100, 107, 200, 230]"
+138,"100 is used because the excerpt discusses taxation and public spending. 107 is used because the text explicitly mentions corporation tax. 200 is used because the text refers to social care and the NHS, which are aspects of civil rights. 201 is used because the text mentions people sleeping on the streets, implying issues related to racial or ethnic minority discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+139,"The excerpt discusses the relationship between fitness and politics, implying a personal approach to people, but lacks explicit policy details.
+
+```json",[],[]
+140,"100 (Macroeconomics) is chosen because the text discusses the impact of climate change policies on the economy. 107 (Taxation) is implied as the speaker mentions ""foolishly think you can stop the power of the sun,"" suggesting a taxation mechanism for climate change mitigation. 200 (Civil Rights) is chosen due to the explicit reference to elderly people struggling with heating bills.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+141,"The text is purely rhetorical and does not contain any explicit references to policies or issues, hence no codes apply.
+
+```json",[],[]
+142,"The text is purely rhetorical and does not contain any explicit references to policies or issues.
+
+```json",[],[]
+143,"The text is purely rhetorical and does not contain any explicit references to specific policy topics.
+
+```json",[],[]
+144,"100 (Macroeconomics) is inferred as the supercategory due to the mention of incentives and sanctions, which are economic mechanisms. 107 (Taxation) is the subcategory as the text explicitly mentions ""set of sanctions and incentives"".
+
+```json",[100],"[100, 107]"
+145,"100 is used because the text discusses allocating resources and making decisions, which are macroeconomic topics. 107 is used because it explicitly mentions taxation (childcare). 200 is used because it discusses racial discrimination (childcare). 201 is used because it explicitly mentions racism.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+146,"1900 is used because the text discusses international cooperation, specifically mentioning Russia and ISIS. 100 is used as a parent supercategory for 107, as the text discusses taxation mechanisms (levy).
+
+```json","[1900, 100]","[100, 1900]"
+147,"100 (Macroeconomics) is implied as the discussion revolves around economic policies and their impact on the economy. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the speaker discusses the balance between security and civil liberties.
+
+```json","[100, 200]","[100, 107, 200]"
+148,"The text is purely rhetorical and does not contain any explicit references to specific policies or issues.
+
+```json",[],[]
+149,"100 (Macroeconomics) is implied due to mention of resources and investment. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to mention of stop and search and sentencing.
+
+```json","[100, 200]","[100, 107, 200]"
+150,"The excerpt discusses taxation (107) and economic growth, implying a need for public services (1300).
+
+```json","[100, 1300]","[100, 107, 1300]"
+151,"100 (Macroeconomics) is used because the excerpt discusses allocating resources (£300 million) to police forces. 1200 (Law, Crime, and Family Issues) is used because it mentions police powers and crime prevention.
+
+```json","[100, 1200]","[100, 1200]"
+152,"100 (Macroeconomics) is implied as the topic discusses budget and spending. 107 (Taxation) is explicitly mentioned. 201 (Racial Discrimination) is implied as the topic discusses inequality and race.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+153,"The excerpt discusses unity in Parliament regarding support for Ukraine, mentioning Boris Johnson, Rishi Sunak, and Liz Truss, indicating a focus on international affairs and political leadership.
+
+```json","[1900, 2000]","[1900, 1920, 2000, 2011]"
+154,"100 (Macroeconomics) is implied as the topic is about the economy. 107 (Taxation) is explicitly mentioned.
+
+```json",[100],"[100, 107]"
+155,"100 (Macroeconomics) is chosen because the text discusses energy policy, which is a macroeconomic topic. 107 (Taxation) is chosen because the text explicitly mentions ""support for that industry,"" implying tax incentives or subsidies. 200 (Civil Rights) is chosen because the text mentions ""great success story,"" which could imply progress in racial or ethnic minority rights.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+156,"The excerpt is purely rhetorical and does not contain any explicit references to specific policies or issues. It is a question asking for a plan during an election campaign, but no specific policy areas are mentioned.
+
+```json",[],[]
+157,"The excerpt discusses specific taxation mechanisms (levy, duty) and their impact on public spending, particularly on healthcare and social care, thus triggering codes 107 and 105 under supercategory 100.
+
+```json",[100],"[100, 105, 107]"
+158,"100 (Macroeconomics) is implied as the discussion revolves around the economic implications of Brexit and Scottish independence. 107 (Taxation) is explicitly mentioned with ""deals"". 200 (Civil Rights) is implied as the discussion touches on the rights of Scotland and the UK to hold referendums.
+
+```json","[100, 200]","[100, 107, 200]"
+159,"107 is used because ""extra appointments"" implies a taxation mechanism (levy) to fund this. 201 is used because ""record high"" waiting lists and ""turned on its head"" implies racial discrimination in healthcare access.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+160,"The text is purely rhetorical and does not contain any explicit references to policies or issues.
+
+```json",[],[]
+161,"100 is used because the text discusses employment and work. 1300 is used because the text mentions work not paying and people needing to work to feed their families, implying social welfare issues.
+
+```json","[100, 1300]","[100, 1300]"
+162,"100 is used because the text discusses supporting security services and intelligence, which are macroeconomic aspects of national security. 107 is used because the text explicitly mentions increasing police numbers, implying a taxation mechanism to fund this. 200 is used because the text explicitly refers to terrorism, which is a form of civil rights issue.
+
+```json","[100, 200]","[100, 107, 200]"
+163,"100 is used because the excerpt discusses budget allocation for police and counter-terrorism policing. 107 is used because it explicitly mentions taxation (increased funding). 200 is used because it discusses counter-terrorism policing and legislation, which are related to civil rights and security.
+
+```json","[100, 200]","[100, 107, 200]"
+164,"107 is used because ""negotiate"" is explicitly mentioned, implying taxation or levy. 100 is the parent supercategory.
+
+```json",[100],"[100, 107]"
+165,"200 is used because the text explicitly mentions ""refugees"" and ""asylum seekers"", which fall under civil rights. 100 is used because the text discusses the processing of these individuals, which involves policy decisions on immigration and refugee intake, thus implicating macroeconomic considerations.
+
+```json","[100, 200]","[100, 200]"
+166,"107 is used because ""tax"" is explicitly mentioned. 201 is used because ""racism"" is explicitly mentioned.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+167,"The text is purely rhetorical and does not contain any explicit references to policies or issues.
+
+```json",[],[]
+168,"100 is used because the text discusses national security, which is a macroeconomic concern. 107 is used because NATO is explicitly mentioned, implying taxation or levies. 200 is used because the text discusses party politics, and 201 is used because it mentions internal party disputes.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+169,"1600 (Defence) is the primary supercategory as the text discusses nuclear weapons. 1610 (Military Procurement) is the subcategory as it mentions a policy of disarmament. 1900 (International Affairs) is also relevant as it discusses global disarmament.
+
+```json","[1600, 1900]","[1600, 1610, 1900]"
+170,"100 (Macroeconomics) is implied as the discussion revolves around economic agreements. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the speaker discusses the rights of the UK in negotiations.
+
+```json","[100, 200]","[100, 107, 200]"
+171,"100 (Macroeconomics) is identified due to explicit mention of population growth and infrastructure demands. 200 (Civil Rights) is identified due to explicit mention of immigration reduction and social cohesion.
+
+```json","[100, 200]","[100, 200]"
+172,"The excerpt discusses dealing with debts and deficit, mentioning specific plans of Labour and Conservatives, indicating a focus on macroeconomics (100) and taxation (107).
+
+```json",[100],"[100, 107]"
+173,"100 (Macroeconomics) is implied due to mention of ""strong economy"", 107 (Taxation) is explicitly mentioned, 201 (Racial Discrimination) is implied due to mention of ""minority groups"".
+
+```json","[100, 200]","[100, 107, 200, 201]"
+174,"100 (Macroeconomics) is used because the text discusses pension uprating, which is a macroeconomic policy. 107 (Taxation) is used because the text mentions ""the billionaires"", implying a discussion on taxation. 200 (Civil Rights) is used because the text discusses the treatment of pensioners, which can be seen as a civil rights issue.
+
+```json","[100, 200]","[100, 107, 200]"
+175,"1400 is identified as the supercategory due to explicit mention of housing schemes. 1410 is the subcategory as it discusses mortgages and ownership.
+
+```json",[1400],"[1400, 1410]"
+176,"1521 is used as the small business is explicitly mentioned. 105 is used as the reduction in business rates is a form of public spending reduction.
+
+```json","[1500, 100]","[100, 105, 1500, 1521]"
+177,"The excerpt discusses Brexit, the NHS, schools, and police, implying a focus on domestic issues and moving on from Brexit. It mentions specific actions (sorting Brexit, focusing on priorities), indicating policy discussion.
+
+```json","[100, 1900, 1300]","[100, 107, 1300, 1302, 1900, 1910]"
+178,"The excerpt discusses unfunded promises made by a potential Prime Minister, which could impact pensioners. This implies a discussion on public spending (105) and the well-being of pensioners (1303).
+
+```json","[100, 1300]","[100, 105, 1300, 1303]"
+179,"100 (Macroeconomics) is used because the text discusses trade agreements, which impact the economy. 107 (Taxation) is used because the text mentions ""legally required to do"", implying tax obligations. 1900 (International Affairs) is used because the text discusses international trade and relations with Europe.
+
+```json","[100, 1900]","[100, 107, 1900]"
+180,"100 (Macroeconomics) is implied as the discussion revolves around international relations and global politics, which often intersect with economic policies. 107 (Taxation) is mentioned explicitly with ""breach of United Nations resolutions"" implying taxation or levies. 200 (Civil Rights) is implied as the discussion touches on international cooperation and global consensus, which often involves human rights and civil liberties.
+
+```json","[100, 200]","[100, 107, 200]"
+181,"The excerpt discusses the government's failure to eliminate the deficit, asking what specific cuts will be made, implying a discussion on budget and spending, which falls under Macroeconomics (100). The mention of ""they"" and ""you"" suggests a racial undertone, hinting at discrimination or bias, which falls under Civil Rights (200).
+
+```json","[100, 200]","[100, 105, 200, 201]"
+182,"100 (Macroeconomics) is implied by the mention of government actions and societal changes. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied by the mention of societal changes and public attitudes.
+
+```json","[100, 200]","[100, 107, 200]"
+183,"107 is used because ""deposits"" and ""rent"" are explicitly mentioned, indicating a discussion on taxation (deposit caps). 201 is used due to the explicit reference to ""discrimination"" against renters.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+184,"100 (Macroeconomics) is implied by the mention of ""public spending"" and ""taxation"". 200 (Civil Rights) is explicitly referenced by ""racism"" and ""civil rights"".
+
+```json","[100, 200]","[100, 105, 200, 201]"
+185,"100 is chosen because the excerpt discusses taxation and spending, which are macroeconomic issues. 107 is chosen because the text explicitly mentions a tax cut. No other supercategories or subcategories apply as the text does not discuss any other topics.
+
+```json",[100],"[100, 107]"
+186,"107 is used because ""cut taxes"" is explicitly mentioned, indicating a specific taxation mechanism. 100 is the parent supercategory of 107.
+
+```json",[100],"[100, 107]"
+187,"201 is used because the text explicitly refers to racism and hate crimes. 1300 is used because the text discusses the need for social services and support systems to prevent radicalization.
+
+```json","[200, 1300]","[200, 201, 1300, 1302, 1303, 1304]"
+188,"100 (Macroeconomics) is implied by ""devolving power to local communities"" and ""proportional representation"" as they suggest changes in governance and voting systems. 107 (Taxation) is implied by ""what you do with power"", suggesting decisions on taxation and spending. 200 (Civil Rights) is implied by ""every single vote of every single person actually counts"", suggesting improvements in voting rights and representation.
+
+```json","[100, 200]","[100, 107, 200]"
+189,"The text explicitly mentions ""Brexit"", indicating a reference to international affairs (1900), and ""Brexit Party"", which is a political party (2000).
+
+```json","[1900, 2000]","[1900, 1909, 2000, 2011]"
+190,"100 (Macroeconomics) is implied by references to schools and elderly care, 107 (Taxation) is implied by ""taking for granted"", 200 (Civil Rights) is implied by references to ""heartless"" government and ""extreme Brexit"", 201 (Racial Group Discrimination) is implied by mention of Nigel Farage.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+191,"The excerpt discusses budget cuts and their impact on the NHS, explicitly mentioning taxation (107) and racial discrimination (201).
+
+```json","[100, 200]","[100, 107, 200, 201]"
+192,"600 is not applicable as there's no mention of education. 100 is applicable as the text discusses a policy (Labour's policy) related to the National Health Service (NHS), which falls under macroeconomics.",[100],[100]
+193,"The excerpt discusses the power to set tax rates and rules around tax avoidance, explicitly mentioning taxation mechanisms and the impact on revenue.
+
+```json",[100],"[100, 107]"
+194,"The excerpt discusses specific taxation mechanisms (107), public spending (105), and the impact of living standards on tax revenues, implying a focus on balancing the budget.
+
+```json",[100],"[100, 105, 107]"
+195,"The excerpt discusses the implementation of a tax policy across the UK, including Scotland, and the potential impacts on revenue. It mentions the power over taxation in Scotland and the need for a nationwide approach to prevent income shifting.
+
+```json",[100],"[100, 107]"
+196,"The excerpt discusses education policies, including teaching methods, school structure, and special needs education, which fall under the supercategory of Education (600). It also mentions economic failure and inequality, which are related to the supercategory of Macroeconomics (100).
+
+```json","[600, 100]","[100, 105, 600, 602, 603, 604, 606]"
+197,"The excerpt is purely rhetorical and does not contain any explicit references to policies or issues, hence no codes apply.
+
+```json",[],[]
+198,"100 (Macroeconomics) is implied as the speaker discusses negotiation strategies, which often involve economic aspects. 107 (Taxation) is explicitly mentioned as a specific mechanism. 200 (Civil Rights) is implied as the speaker brings up their business experience, which could relate to discrimination in hiring or employment.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+199,"100 (Macroeconomics) is identified due to mention of healthcare professionals and budget. 107 (Taxation) is implied by mention of taxing healthcare professionals out of their jobs. 200 (Civil Rights) is identified due to explicit reference to the NHS being at risk.
+
+```json","[100, 200]","[100, 107, 200]"
+200,"1900 is used because the text explicitly mentions a UN-brokered plan, indicating international cooperation. No subcategory is needed as the supercategory is sufficient.
+
+```json",[1900],[1900]
+201,"100 (Macroeconomics) is implied as the speaker discusses potential applicants, which could relate to labor market dynamics. 107 (Taxation) is explicitly mentioned, making 100 (Macroeconomics) the supercategory.
+
+```json",[100],"[100, 107]"
+202,"The excerpt does not contain any explicit references to specific policies or issues, making it purely rhetorical. Therefore, no codes apply.
+
+```json",[],[]
+203,"100 is mentioned through references to economy, taxes, and wages. 107 is explicitly mentioned. 200 is implied through references to immigration and public services.
+
+```json","[100, 200]","[100, 107, 200]"
+204,"The excerpt discusses tax policies and income inequality, explicitly mentioning taxation (107) and low-income individuals (506).
+
+```json","[100, 500]","[100, 107, 500, 506]"
+205,"The text is purely rhetorical and does not contain explicit references to any specific policy topics.
+
+```json",[],[]
+206,"1900 is used because the text explicitly mentions international cooperation, implying international affairs.
+
+```json",[1900],[1900]
+207,"100 (Macroeconomics) is implied by the mention of salary, 107 (Taxation) is implied by the mention of salary as an MEP, 200 (Civil Rights) is implied by the mention of discrimination, and 201 (Ethnic Minority and Racial Group Discrimination) is explicitly mentioned.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+208,"The excerpt discusses the timeline for achieving a certain goal, but it doesn't provide explicit details about any specific policy or mechanism, so no codes apply.
+
+```json",[],[]
+209,"The excerpt discusses financial mismanagement by the Labour Party, leading to increased taxes, which implies discussion of taxation (107) and national budget (105).
+
+```json",[100],"[100, 105, 107]"
+210,"100 (Macroeconomics) is used because the excerpt discusses the state pension, which is a form of public spending. 107 (Taxation) is used because the speaker mentions ""exactly"" which implies a specific taxation mechanism or policy.
+
+```json",[100],"[100, 107]"
+211,"1900 is used because the text discusses international trade negotiations. 107 is used because the text explicitly mentions ""trade agreement"" and ""trade agreement negotiation"".
+
+```json",[1900],"[100, 107, 1900]"
+212,"The excerpt discusses budget allocation and changes in policing strategies, including counter-terrorism and cybercrime, indicating primary policy topics of taxation (107) and international cooperation (1900).
+
+```json","[100, 1900]","[100, 107, 1900]"
+213,"The excerpt discusses the role of a politician versus a judge, implying a legal context, but no specific policy topics are explicitly mentioned.
+
+```json",[],[]
+214,"107 is used because the text explicitly mentions a specific taxation mechanism (""I think.""). 100 is the parent supercategory of 107.
+
+```json",[100],"[100, 107]"
+215,"100 is used because the text discusses economic issues (making work pay). 107 is used because the text explicitly mentions taxation (Section 21). 200 is used because the text discusses discrimination (homelessness for families). 201 is used because the text explicitly mentions racism (gypsy).
+
+```json","[100, 200]","[100, 107, 200, 201]"
+216,"602 is used because the text explicitly discusses primary school education. 504 is used because the text mentions teachers' workload and bureaucracy, implying issues with employee relations and labor unions.
+
+```json","[600, 500]","[500, 504, 600, 602]"
+217,"100 is used because the excerpt discusses economic growth and innovation, which are macroeconomic topics. 107 is used because the text explicitly mentions taxation (public investment).
+
+```json",[100],"[100, 107]"
+218,"The excerpt discusses the SNP's proposals to compensate WASPI women, implying a focus on social welfare and inter-party cooperation.
+
+```json","[1300, 1900]","[1300, 1303, 1900, 1907]"
+219,"107 is used because ""trade negotiation"" is explicitly mentioned, implying taxation or levies. 201 is used because the text explicitly refers to racism (""conceal the void at the heart of his Brexit policy"").
+
+```json","[100, 200]","[100, 107, 200, 201]"
+220,"100 (Macroeconomics) is used because the text discusses average savings per household, which is a macroeconomic indicator. 107 (Taxation) is used because the text mentions ""savings,"" which can be influenced by taxation policies.
+
+```json",[100],"[100, 107]"
+221,"The excerpt discusses economic stability, taxes, migration, and environmental goals, which are all related to macroeconomics and international cooperation.
+
+```json","[100, 1900]","[100, 107, 1800, 1803, 1900, 1909]"
+222,"The excerpt discusses the influence of the SNP in a hung Parliament, the potential leaders of the UK, and the policies the SNP would champion, including ending austerity, protecting the NHS, improving pensions, and respecting Scotland's right to choose its future.
+
+```json","[100, 200, 1300, 1400, 1500, 1600, 1800, 1900]","[100, 105, 107, 200, 201, 1300, 1302, 1303, 1304, 1400, 1500, 1600, 1800, 1900, 1901, 1907, 1910]"
+223,"100 (Macroeconomics) is implied due to the mention of global initiatives and investments. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to the mention of waste management and recycling, which are social issues.
+
+```json","[100, 200]","[100, 107, 200]"
+224,"100 (Macroeconomics) and 602 (Elementary and Secondary Education) are identified as supercategories due to explicit mention of taxation and education spending. 107 (Taxation) and 602 are identified as subcategories due to explicit mention of taxing the top 1% and spending on education.
+
+```json","[100, 600]","[100, 107, 600, 602]"
+225,"The excerpt discusses specific healthcare professionals (GPs) and their recruitment, retention, and training, which falls under the supercategory of Health (300). It also mentions the cost of this policy, which is a form of public spending (105).
+
+```json","[300, 100]","[100, 105, 300, 325]"
+226,"100 (Macroeconomics) is implied due to mention of workforce strategy. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to mention of discrimination in pay.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+227,"100 (Macroeconomics) is identified as the supercategory because the text discusses the economic aspects of the Brexit deal. 107 (Taxation) is the subcategory as it explicitly mentions ""zero tariff"" and ""zero quota"", which are forms of taxation. 200 (Civil Rights) is also identified as the supercategory because the text mentions ""regulatory framework"", which is a form of civil rights.
+
+```json","[100, 200]","[100, 107, 200]"
+228,"100 (Macroeconomics) is implied by mention of ""fair economy"", 107 (Taxation) by ""vote for change"", 200 (Civil Rights) by ""public NHS"", and 1900 (International Affairs) by ""stable climate"".
+
+```json","[100, 200, 1900]","[100, 107, 200, 1900]"
+229,"1900 is used as the UN and international cooperation are explicitly mentioned. 100 is used as the speaker mentions Britain's strength and leadership in the economy and climate change negotiations, implying macroeconomic policies.
+
+```json","[1900, 100]","[100, 1900]"
+230,"107 is used because the text explicitly mentions introducing rules for people coming from within the EU, implying a change in taxation or levying of fees. 201 is used because the text discusses immigration rules, which is a form of racial discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+231,"The text does not discuss any specific policy topics or mechanisms, so no codes apply.
+
+```json",[],[]
+232,"The excerpt does not contain any explicit references to specific policy topics, making it purely rhetorical/filler. Therefore, no codes apply.
+
+```json",[],[]
+233,"100 (Macroeconomics) is implied by the mention of immigration policies affecting the economy. 200 (Civil Rights) is implied by the mention of ID cards and biometric visas, which are forms of identification and control over individuals.
+
+```json","[100, 200]","[100, 200]"
+234,"The excerpt discusses specific benefits for pensioners (free eye tests, prescription charges, winter fuel allowance), which fall under the subcategories 1303 (Elderly Issues and Elderly Assistance Programs) and 1302 (Poverty and Assistance for Low-Income Families). The mention of a manifesto also implies discussion of policy, fitting under 100 (Macroeconomics) and 107 (Taxation, Tax policy, and Tax Reform).
+
+```json","[100, 1300]","[100, 107, 1300, 1302, 1303]"
+235,"100 (Macroeconomics) is implied by the mention of childcare policies and their impact on the economy. 1300 (Social Welfare) is explicitly mentioned through references to healthcare and childcare. 1209 (Police, Fire, and Weapons Control) is implied by the mention of ensuring communities are safe for women and girls.
+
+```json","[100, 1300, 1200]","[100, 107, 1200, 1209, 1300, 1305]"
+236,"100 (Macroeconomics) is implied as the discussion revolves around economic policies. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the discussion involves consultation and dialogue, which are principles of fair and equal treatment.
+
+```json","[100, 200]","[100, 107, 200]"
+237,"The excerpt discusses immigration figures, abuse in the immigration system, and the impact of leaving the EU on immigration rules, indicating codes 230 (Immigration) and 1900 (International Affairs).
+
+```json","[200, 1900]","[200, 230, 1900]"
+238,"1900 is used because the text explicitly mentions involving the electorate in the decision-making process.
+
+```json",[1900],[1900]
+239,"100 (Macroeconomics) is mentioned through ""strong economy"". 107 (Taxation) is implied by ""spend more every year"". 200 (Civil Rights) is implied by ""impossibly difficult decisions"" which could refer to handling economic crises that often disproportionately affect marginalized communities.
+
+```json","[100, 200]","[100, 107, 200]"
+240,"100 (Macroeconomics) is implied as the topic is about the economy. 107 (Taxation) is explicitly mentioned.
+
+```json",[100],"[100, 107]"
+241,"100 (Macroeconomics) is implied due to mention of ""rescuing"" the NHS, 107 (Taxation) is explicitly mentioned, 200 (Civil Rights) is implied due to mention of ""trust"" and ""broken bond"", 201 (Racial Group Discrimination) is implied due to mention of ""British people"".
+
+```json","[100, 200]","[100, 107, 200, 201]"
+242,"The excerpt discusses knife crime, police-community relations, and stop-and-search policies, implicating codes related to law, crime, and community policing.
+
+```json","[1200, 1300]","[1200, 1202, 1209, 1300, 1302]"
+243,"100 (Macroeconomics) is implied as the policy topic due to explicit mention of ""detaining people"" and ""removing them"", which suggests a policy action. 107 (Taxation) is also implied as the specific mechanism for this action, as it involves explicit mention of ""planes"" and ""flights"". 200 (Civil Rights) is implied due to the mention of ""illegally"" and ""shouldn't be able to stay"", which suggests a policy regarding immigration and rights of immigrants.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+244,"100 (Macroeconomics) is used because the text discusses economic stability, which is a macroeconomic topic. 101 (Inflation, prices, and interest rates) is used because economic stability is often discussed in relation to these factors.
+
+```json",[100],"[100, 101]"
+245,"100 (Macroeconomics) is implied by references to debt, spending, and taxes. 1300 (Social Welfare) is implied by references to apprenticeships, housing, and employment.
+
+```json","[100, 1300]","[100, 1300]"
+246,"107 is used because ""levy"" is explicitly mentioned, indicating a specific taxation mechanism. 100 is the parent supercategory of 107. No other codes apply as the text does not discuss any other policy topics.
+
+```json",[100],"[100, 107]"
+247,"100 (Macroeconomics) is used because the text discusses household savings, which is a macroeconomic indicator. 107 (Taxation) is used because the text mentions ""20%"" which could imply a tax rate.
+
+```json",[100],"[100, 107]"
+248,"100 (Macroeconomics) is identified as the supercategory because the text implies a disagreement on economic policies. 107 (Taxation) is the subcategory as ""Yes"" likely refers to a taxation policy.
+
+```json",[100],"[100, 107]"
+249,"The excerpt discusses the implementation of a local income tax, its impact on pensioners, and the redistribution of financial gains and losses. It explicitly mentions ""local income tax"" (107) and ""pensioners"" (1303), implying a discussion on taxation (107) and elderly issues (1303).
+
+```json","[100, 1300]","[100, 107, 1300, 1303]"
+250,"100 (Macroeconomics) is inferred as the supercategory because the text discusses economic schemes. 107 (Taxation) is the subcategory as it explicitly mentions ""schemes"" which could refer to tax policies. No other codes apply as there's no explicit reference to other topics.
+
+```json",[100],"[100, 107]"
+251,"The excerpt discusses policies related to social welfare (free personal care and higher minimum wage for care workers) and funding these policies through reversing tax cuts given to banks.
+
+```json","[1300, 1500]","[1300, 1305, 1500, 1501]"
+252,"100 (Macroeconomics) and 1400 (Planning and Housing Issues) are identified as supercategories because the excerpt discusses housing affordability and ownership. 107 (Taxation) is identified as a subcategory because the excerpt mentions a rent-to-own scheme, which involves a form of taxation (rent). 1401 (Housing and Community Development) is identified as a subcategory because the excerpt specifically discusses helping young people get on the property ladder.
+
+```json","[100, 1400]","[100, 107, 1400, 1401]"
+253,"The excerpt discusses the lack of resources to implement certain policies, mentioning the manifesto and comparing the current government's stance with the previous one's. It implies criticism of the Conservatives' approach to public spending and taxation.
+
+```json","[100, 200]","[100, 105, 200, 201]"
+254,"100 (Macroeconomics) is identified due to explicit mention of funding and budget cuts. 107 (Taxation) is implied as the mechanism to achieve funding parity. 200 (Civil Rights) is identified due to the mention of Wales' decades-long funding disadvantage, implying a reference to regional equality.
+
+```json","[100, 200]","[100, 107, 200]"
+255,"The excerpt discusses pension increases, retirement age, and funding for pensions, which fall under the supercategory of Social Welfare (1300) and the subcategory of Elderly Issues and Elderly Assistance Programs (1303). It also mentions the budget deficit, which is related to the supercategory of Macroeconomics (100) and the subcategory of National Budget, Debt, public spending (105).
+
+```json","[100, 1300]","[100, 105, 1300, 1303]"
+256,"100 (Macroeconomics) and 200 (Civil Rights) are identified as supercategories. 107 (Taxation) and 201 (Racial Discrimination) are identified as subcategories because the text discusses funding changes and mentions ""people actually need"", implying taxation, and ""brighter future"", implying racial equality.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+257,"The excerpt discusses the economic implications of leaving the European Union, the need to fund the NHS, and the honesty of political parties regarding their funding sources. It mentions specific taxation (107) and the NHS (1300), but no other codes apply.
+
+```json","[100, 1300]","[100, 107, 1300]"
+258,"100 (Macroeconomics) is implied due to mention of trade deals and EU. 107 (Taxation) is explicitly mentioned with ""tax on nurses"". 200 (Civil Rights) is implied due to mention of discrimination against EU nurses.
+
+```json","[100, 200]","[100, 107, 200, 202]"
+259,"The excerpt discusses the UK's relationship with Europe, mentioning specific aspects like trading, cooperation, power transfer, currency, rebate, bureaucracy, and regulations. It also references other European leaders, indicating international cooperation.
+
+```json","[1800, 1900]","[1800, 1806, 1900, 1907, 1910]"
+260,"The text is purely rhetorical and does not contain any explicit references to policies or issues. It's a reassuring statement without any specific content that could be coded.
+
+```json",[],[]
+261,"100 (Macroeconomics) is identified because the speaker mentions creating a strong economy. 200 (Civil Rights) is identified due to the mention of fairness, which often relates to civil rights issues in political discourse.
+
+```json","[100, 200]","[100, 200]"
+262,"The excerpt discusses specific measures to improve the NHS and mental health services, including training more medical professionals, investing in mental health support, and integrating social care into the NHS. It also mentions the need to address staff pressure and improve patient care.
+
+```json","[300, 1300]","[300, 301, 325, 331, 1300, 1302]"
+263,"The excerpt discusses the leadership qualities of the Prime Minister and the Labour leader, focusing on their ability to negotiate with the EU and deliver for the country. It mentions specific roles and achievements of Theresa May, implying her capability in handling international affairs and domestic issues.","[1900, 100]","[100, 104, 1900, 1909]"
+264,"100 (Macroeconomics) is identified due to explicit mention of housing policies (Help to Buy, stamp duty). 1400 (Planning and Housing Issues) is identified due to discussion on planning system and creating permanent sites for housing. No other supercategories apply as there's no explicit mention of other policy areas.
+
+```json","[100, 1400]","[100, 107, 1400, 1401]"
+265,"The text discusses the need for a confirmatory referendum on Brexit, indicating a reference to international cooperation (1900) and the failure of politicians (2000).
+
+```json","[1900, 2000]","[1900, 2000]"
+266,"100 is chosen because the text discusses financial support for families, which is a macroeconomic issue. 107 is chosen because the text explicitly mentions a specific financial mechanism, the maternity support. 200 is chosen because the text discusses support for elderly parents, which is a civil rights issue.
+
+```json","[100, 200]","[100, 107, 200]"
+267,"The excerpt discusses policies related to elderly care and housing, specifically mentioning ""old people's homes"" and ""Alzheimer's"" (1303), and ""home ownership"" (1410).
+
+```json","[1300, 1400]","[1300, 1303, 1400, 1410]"
+268,"100 (Macroeconomics) is implied as the speaker discusses immigration policies that could affect the economy. 107 (Taxation) is implied as the speaker mentions ""contribute before they claim"" benefits. 200 (Civil Rights) is explicitly mentioned as the speaker discusses immigration policies and their impact on wages. 201 (Ethnic Minority and Racial Group Discrimination) is implied as the speaker mentions ""exploited"" migrant labor.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+269,"100 (Macroeconomics) is identified due to explicit mention of economic recovery and unemployment. 107 (Taxation) is identified as the speaker discusses taking money out of the economy, implying tax increases. No other supercategories or subcategories apply.
+
+```json",[100],"[100, 107]"
+270,"100 (Macroeconomics) is implied as the speaker discusses the economy's impact on various sectors. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the speaker discusses racial discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+271,"The excerpt discusses the European Union (EU) and referendums, specifically mentioning international cooperation (1900) and the democratic process (2007).
+
+```json","[1900, 200]","[200, 1900, 1910, 2000, 2007]"
+272,"50 characters or less. No explicit policy topic mentioned.
+
+```json",[],[]
+273,"The phrase ""get it sorted"" implies a need for resolution or action, but it's too vague to assign a specific code. ""Move on"" suggests a desire to progress or change, but again, it's too general. No explicit policy topics are discussed.
+
+```json",[],[]
+274,"1900 is used because the text explicitly mentions international cooperation. 100 is used as the parent supercategory for 107, which is used because the text discusses taxation mechanisms (levy).
+
+```json","[1900, 100]","[100, 107, 1900]"
+275,"The excerpt discusses trade negotiations, protecting European nationals, and maintaining environmental conditions and workers' rights, indicating a focus on international cooperation and labour issues.
+
+```json","[1800, 500, 1900]","[500, 504, 1800, 1803, 1900, 1910]"
+276,"107 is used because the text explicitly mentions ""tax cut"" and ""Help to Buy"" (a specific taxation mechanism). 100 is the parent supercategory of 107. 200 is used because the text discusses helping young people, which is a civil rights issue.
+
+```json","[100, 200]","[100, 107, 200]"
+277,"100 (Macroeconomics) is implied by mention of budget for Trident renewal. 1900 (International Affairs) is implied by discussion on US politics, NATO, and the special relationship with America.
+
+```json","[100, 1900]","[100, 1900]"
+278,"The excerpt discusses the Chancellor's request to the Shadow Chancellor to rule out raising taxes beyond already announced levels, and the Shadow Chancellor's inability to do so. This implies a discussion on taxation (107) and budgeting (105).
+
+```json",[100],"[100, 105, 107]"
+279,"100 (Macroeconomics) is implied as the text discusses economic issues. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the text discusses racial discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+280,"107 is used because ""Rwanda plan"" is explicitly mentioned, indicating a specific taxation mechanism. 201 is used because the text explicitly refers to racism, with the mention of ""illegal migrants"" and their fears about Rwanda.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+281,"100 (Macroeconomics) is inferred from ""net migration"" as it's often discussed in relation to economic impacts. 200 (Civil Rights) is explicitly mentioned with ""racism"".
+
+```json","[100, 200]","[100, 200]"
+282,"The text does not contain any explicit references to specific policies or issues, making it purely rhetorical and not assignable to any code.
+
+```json",[],[]
+283,"100 (Macroeconomics) is inferred as the supercategory because the text discusses taxation, a subcategory of macroeconomics. 107 (Taxation) is explicitly mentioned.
+
+```json",[100],"[100, 107]"
+284,"The excerpt discusses climate change and the Paris Agreement, explicitly mentioning international cooperation and economic implications, thus triggering codes 1900 and 100.
+
+```json","[100, 1900]","[100, 107, 1900]"
+285,100 (Macroeconomics) is implied as the speaker discusses military spending and resource allocation. 1600 (Defence) is explicitly mentioned. No other supercategories are relevant.,"[100, 1600]","[100, 105, 1600, 1610]"
+286,"The excerpt discusses taxation for education, specifically university tuition fees and student loan debts, which falls under 107 (Taxation) and 105 (National Budget, Debt, public spending). It also mentions a minimum wage increase, which is related to 505 (Fair Labour Standards).
+
+```json","[100, 500]","[100, 105, 107, 500, 505]"
+287,"200 is used as the text explicitly refers to discrimination (Islamophobia) and 202 is implied by the mention of gender pay gap and women in the workforce.
+
+```json",[200],"[200, 201, 202]"
+288,"The excerpt discusses migration and the rhetoric around it, mentioning specific politicians and a controversial poster, implying criticism of their actions and policies.
+
+```json",[200],"[200, 207, 230]"
+289,"100 (Macroeconomics) is inferred from the mention of pay rise, 1300 (Social Welfare) is inferred from the mention of resolving strikes.
+
+```json","[100, 1300]","[100, 1300]"
+290,"The excerpt is purely rhetorical and does not contain any explicit references to specific policies or issues, hence no codes apply.
+
+```json",[],[]
+291,"100 (Macroeconomics) is implied as Brexit deal negotiations involve economic aspects. 200 (Civil Rights) is implied due to mention of ""deepening divisions"" and ""democratic"" principles.
+
+```json","[100, 200]","[100, 200]"
+292,"100 (Macroeconomics) is implied as the text discusses taxation, 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to references to racism and discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+293,"1000 is used because the excerpt discusses military operations and national security. 1300 is used because it mentions the need for proper equipment and aid, which are forms of social welfare for military personnel and civilians in conflict zones.
+
+```json","[1000, 1300]","[1000, 1300]"
+294,"107 is used because ""tax"" is explicitly mentioned. 201 is used because ""racism"" is explicitly mentioned.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+295,"100 (Macroeconomics) is used because the text discusses national spending. 107 (Taxation) is implied as the mechanism for this spending. 200 (Civil Rights) is used because the text mentions the Cold War, implying a reference to racial or ethnic discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+296,"100 (Macroeconomics) is implied as the topic is about migration, which impacts the economy. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as migration often involves discussions about racial and ethnic minorities.
+
+```json","[100, 200]","[100, 107, 200]"
+297,"The text is purely rhetorical and does not contain any explicit references to policies or issues.
+
+```json",[],[]
+298,"100 (Macroeconomics) is inferred as the supercategory due to the mention of ""deal"", which could refer to economic agreements. 107 (Taxation) is the subcategory as ""no deal"" and ""bad deal"" imply taxation and trade mechanisms. No other codes apply as the text is purely rhetorical.
+
+```json",[100],"[100, 107]"
+299,"0 words, no explicit policy topics mentioned.
+
+```json",[],[]
+300,"100 (Macroeconomics) is implied by the mention of ""toughening up sentences"" and ""full sentence"", which suggests changes in public spending (105). 200 (Civil Rights) is implied by the mention of ""terrorists"" and ""heinous crimes"", which suggests a discussion on racial or ethnic minority discrimination (201).
+
+```json","[100, 200]","[100, 105, 200, 201]"
+301,"100 (Macroeconomics) is chosen because the text discusses trade arrangements and investments, which are economic factors. 107 (Taxation) is implied as the text mentions trade relationship, suggesting taxation may be involved. 200 (Civil Rights) is chosen as the text discusses the certainty of knowing trade relationships, which could imply rights and freedoms.
+
+```json","[100, 200]","[100, 107, 200]"
+302,"The excerpt discusses tax cuts and the relationship between economic growth and tax burden, explicitly mentioning taxation and economic growth.
+
+```json",[100],"[100, 101, 107]"
+303,"The excerpt discusses the use of food banks and the solution to reduce their usage, implying a focus on employment and economic stability.
+
+```json","[500, 1300]","[500, 505, 1300, 1302]"
+304,"230 is used as immigration is explicitly mentioned.
+
+```json",[200],"[200, 230]"
+305,"100 is used because the text discusses political reforms, which fall under macroeconomics. 107 is used because Nick's support for fundamental reform is explicitly mentioned. 200 is used because the text discusses a referendum, which is a form of civil rights.
+
+```json","[100, 200]","[100, 107, 200, 207]"
+306,"100 (Macroeconomics) is identified as the supercategory because the excerpt discusses economic stability. 105 (National Budget, Debt, public spending) is the subcategory as it mentions funding and economic stability.
+
+```json",[100],"[100, 105]"
+307,"The excerpt discusses maintaining investment in education per pupil while cutting the deficit, mentioning teachers and teaching assistants, implying budget cuts. It also mentions risks to education, health service, and crime due to budget cuts.
+
+```json","[600, 100, 1300]","[100, 105, 600, 602, 1300, 1302]"
+308,"300 is identified as the supercategory because the text discusses the health service. 301 is identified as the subcategory as the text mentions improvement and waiting times in the healthcare system.
+
+```json",[300],"[300, 301]"
+309,"The excerpt discusses the role of grass-fed animals in carbon storage and the importance of local food systems, implicating agriculture and food production.
+
+```json","[400, 600]","[400, 401, 600, 602]"
+310,"100 (Macroeconomics) is implied as the discussion involves public spending, while 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to references to victims and their treatment.
+
+```json","[100, 200]","[100, 107, 200]"
+311,"100 (Macroeconomics) is implied due to mention of ""securing our borders"" and ""country's security"". 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to mention of ""foreign court"".
+
+```json","[100, 200]","[100, 107, 200]"
+312,"The excerpt discusses pension benefits and welfare spending, explicitly mentioning the ""welfare bill"" and ""drivers of the welfare bill"".
+
+```json","[1300, 100]","[100, 105, 1300, 1303]"
+313,"The excerpt discusses welfare policy, including responsibility, job guarantees, housing benefits, minimum wage, and economic factors driving welfare bill increases.
+
+```json","[1300, 500, 100]","[100, 105, 500, 505, 1300, 1302]"
+314,"The excerpt discusses taxation (107) and the formation of a government (2001), which involves intergovernmental relations.
+
+```json","[100, 2000]","[100, 107, 2000, 2001]"
+315,"602 (Elementary and Secondary Education) is implied by ""further education opportunities"", 601 (Higher Education) by ""university"", 502 (Employment Training and Workforce Development) by ""technical skills"", 1401 (Housing and Community Development) by ""build the houses"", and 1209 (Police, Fire, and Weapons Control) by ""national service"".
+
+```json","[600, 500, 1400, 1200]","[500, 502, 600, 601, 602, 1200, 1209, 1400, 1401]"
+316,"The excerpt discusses balancing the national budget (105) and implementing a tax reform that favors lower-income individuals (107), while also emphasizing fairness (200), which implies addressing racial or ethnic disparities (201).
+
+```json","[100, 200]","[100, 105, 107, 200, 201]"
+317,"107 is used because the text explicitly mentions ""net migration"", which is a specific taxation mechanism. 201 is used because the text explicitly refers to racism by stating that the high migration levels are ""just too high"".
+
+```json","[100, 200]","[100, 107, 200, 201]"
+318,"100 (Macroeconomics) is implied by the mention of reducing waiting lists and managing staff workload. 107 (Taxation) is implied by the mention of paying staff properly. 1300 (Social Welfare) is implied by the mention of supporting NHS staff and reducing their workload.
+
+```json","[100, 1300]","[100, 107, 1300]"
+319,"The excerpt does not contain any explicit references to specific policy topics, nor does it discuss any mechanisms for reducing or increasing public spending, taxation, racism, civil rights, international cooperation, or social welfare. Therefore, no codes apply.
+
+```json",[],[]
+320,"100 (Macroeconomics) is inferred as the supercategory because the text discusses a specific sum, implying economic context. 107 (Taxation) is explicitly mentioned.
+
+```json",[100],"[100, 107]"
+321,"100 (Macroeconomics) is implied due to mention of immigration policies affecting the economy. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to mention of rights of EU nationals.
+
+```json","[100, 200]","[100, 107, 200]"
+322,"The excerpt discusses pension reforms (100) and benefits (1300), including specific measures like linking pensions to earnings (107) and requiring work for benefits (1302).
+
+```json","[100, 1300]","[100, 107, 1300, 1302]"
+323,"The excerpt discusses the economy, poverty, and the party's past achievements, implying a plan for future governance.
+
+```json","[100, 1300]","[100, 105, 1300, 1302]"
+324,"100 (Macroeconomics) is identified as the supercategory because the text discusses economic figures. 107 (Taxation) is the subcategory as the text mentions ""figures"" which could refer to tax figures. No other codes apply as there's no explicit mention of racism, civil rights, or other specific topics.
+
+```json",[100],"[100, 107]"
+325,"100 (Macroeconomics) is chosen because the text discusses taxation, which falls under macroeconomic policy. 200 (Civil Rights) is chosen because the text explicitly refers to discrimination against healthcare professionals.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+326,"The excerpt discusses investment in defense and national security, implying a reference to taxation (107) and the threat posed by extremist groups (201).
+
+```json","[100, 200]","[100, 107, 200, 201]"
+327,"The excerpt discusses the underfunding of public services, mentions specific sectors (NHS, social care, hospitality), and implicates political parties' decisions. It also touches on immigration and the role of migrants in public services.
+
+```json","[500, 1300, 1900]","[500, 504, 1300, 1302, 1900]"
+328,"100 (Macroeconomics) is implied due to mention of cuts to public services. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to mention of challenging ideology.
+
+```json","[100, 200]","[100, 107, 200]"
+329,"100 (Macroeconomics) is identified because of explicit mention of ""taxation"". 201 (Ethnic Minority and Racial Group Discrimination) is identified due to the explicit reference to ""racism"".
+
+```json","[100, 200]","[100, 107, 200, 201]"
+330,"The excerpt discusses the lack of access to dental care, implying a need for increased public spending (105) and potentially increased taxation (107) to address this issue.
+
+```json","[100, 300]","[100, 105, 107, 300]"
+331,"100 (Macroeconomics) is used because the excerpt discusses housing supply and demand, which impacts the economy. 107 (Taxation) is implied as the speaker suggests training more people to build houses, which could potentially increase the tax base. 1400 (Planning and Housing Issues) is used because the excerpt explicitly mentions housing.
+
+```json","[100, 1400]","[100, 107, 1400]"
+332,"505 is used because the excerpt discusses fair labor standards, specifically the flexibility of zero-hours contracts. The employee's choice to prefer these contracts indicates a fair labor standard.",[500],"[500, 505]"
+333,"The speaker explicitly mentions their stance on the European Union (EU) and their support for a ""people's vote,"" indicating a discussion about international cooperation (1900) and the specific mechanism of referendums (107).
+
+```json",[1900],"[100, 107, 1900]"
+334,"500 is chosen because the text explicitly discusses migration, which is a labour issue. 100 is chosen as the parent supercategory because economic growth is a macroeconomic topic.
+
+```json",[100],"[100, 500, 529]"
+335,"The excerpt discusses the reduction in asylum claims backlog and the increase in removal rates for failed asylum seekers, explicitly mentioning the process of removing those who failed their claims.
+
+```json",[200],"[200, 230]"
+336,"The excerpt discusses specific tax policies (107) and the protection of tax credits and child benefits, implying a focus on racial and ethnic minority groups (201).
+
+```json","[100, 200]","[100, 107, 200, 201]"
+337,"100 (Macroeconomics) is implied due to mention of the Prime Minister's record, 107 (Taxation) is explicitly mentioned.
+
+```json",[100],"[100, 107]"
+338,"The excerpt discusses penal policy, which involves the punishment of offenders, implying a focus on crime and law enforcement.
+
+```json",[1200],"[1200, 1205]"
+339,"100 is identified as the supercategory due to explicit mention of budget and spending. 107 is identified as the subcategory due to explicit mention of a specific taxation mechanism (computer system). 300 is also identified as a supercategory due to explicit mention of healthcare services. 301 is identified as the subcategory due to explicit mention of healthcare reform.
+
+```json","[100, 300]","[100, 107, 300, 301]"
+340,"100 (Macroeconomics) is implied by mention of ""austerity"" and ""investing in police"". 107 (Taxation) is implied by mention of ""political will"". 200 (Civil Rights) is implied by mention of ""Extinction Rebellion protesters"" and ""playing fast and loose with our future"".
+
+```json","[100, 200]","[100, 107, 200, 207]"
+341,"The excerpt discusses high levels of migration and the Prime Minister's failure to keep his promise to stop people crossing the Channel in boats, implying a lack of control over immigration policies.
+
+```json",[200],"[200, 230]"
+342,"100 (Macroeconomics) is identified due to explicit mention of economy. 1300 (Social Welfare) is identified due to explicit mention of social care and NHS.
+
+```json","[100, 1300]","[100, 1300]"
+343,"107 is used because the text explicitly mentions ""rent"" and ""tenancies"", implying a discussion on taxation (in this case, rent control). 201 is used as the text discusses discrimination against young people and families in the housing market.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+351,"The excerpt discusses specific energy sources (nuclear, renewables, oil, gas) and sets targets for renewable energy, indicating a focus on energy policy.
+
+```json",[800],"[800, 801, 806]"
+361,"The excerpt discusses defence spending, international tensions, and veteran care, explicitly mentioning Trident and 2% commitment, thus triggering codes 1600, 1900, 1608, and 1609.
+
+```json","[1600, 1900]","[1600, 1608, 1609, 1610, 1900]"
+388,"100 (Macroeconomics) is implied as the Green New Deal affects various sectors of the economy. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the text discusses changes in land use, which could potentially impact racial and ethnic groups.
+
+```json","[100, 200]","[100, 107, 200]"
+394,"The excerpt discusses the importance of maintaining the UK's independent nuclear deterrent, implying a focus on national defense and security.
+
+```json",[1600],"[1600, 1610]"
+404,"100 (Macroeconomics) is implied due to references to government actions and budget cuts. 1200 (Law, Crime, and Family Issues) is implied due to references to police force and probation service.
+
+```json","[100, 1200]","[100, 1200]"
+416,"100 (Macroeconomics) is implied due to references to business and tourism industry. 200 (Civil Rights) is explicitly mentioned with ""demonising people who come from somewhere else"".
+
+```json","[100, 200]","[100, 200]"
+429,"100 (Macroeconomics) is used because the excerpt discusses trade negotiations and the NHS. 107 (Taxation) is used because the speaker mentions ""the price the NHS pays for drugs"". 200 (Civil Rights) is used because the speaker discusses supporting the NHS.
+
+```json","[100, 200]","[100, 107, 200]"
+432,"100 is used because the text discusses the state of the NHS and funding issues, 107 is used because privatisation is explicitly mentioned, 200 is used because the text discusses discrimination against patients and staff, and 201 is used because the text implies racial discrimination in access to healthcare.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+447,"The excerpt discusses the need for political parties to work together to address the country's financial issues, implying a need for cooperation and transparency. It also mentions the ""black hole"" in public finances, indicating a discussion about budget deficits.
+
+```json","[100, 1900]","[100, 105, 1900]"
+455,"100 is used because the excerpt discusses economic issues (work, unemployment, benefits) and 1300 is used because it mentions social welfare issues (disabled, unemployed, poverty).
+
+```json","[100, 1300]","[100, 500, 505, 1300, 1302, 1304]"
+484,"100 (Macroeconomics) is implied due to mention of ""review"" and ""role"" for parole board and probation service, suggesting policy discussion. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied due to mention of ""keeping people safe and secure"" and ""rehabilitation programmes"".
+
+```json","[100, 200]","[100, 107, 200]"
+624,"100 (Macroeconomics) is implied as the speaker discusses economic aspects of leaving the EU. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the speaker discusses controlling borders, a civil rights issue.
+
+```json","[100, 200]","[100, 107, 200]"
+628,"The excerpt discusses drug-related issues, including drug use, deaths, and treatment services, which fall under the supercategory of Health (300). It also mentions the establishment of a task force and a safe consumption room, indicating a focus on policy and legislation (1000).
+
+```json","[300, 1000]","[300, 331, 344, 1000, 1001]"
+671,"The excerpt discusses issues of poverty, racial discrimination, and inequality in job opportunities, which fall under the supercategories of Social Welfare (1300) and Civil Rights (200). The subcategories identified are Poverty and Assistance for Low-Income Families (1302) and Ethnic Minority and Racial Group Discrimination (201).
+
+```json","[1300, 200]","[200, 201, 1300, 1302]"
+737,"The excerpt discusses specific actions taken by the government to tackle climate change, including committing to net zero emissions, banning single-use plastics, and phasing out coal. It also mentions the importance of recycling, which is a form of waste management.
+
+```json","[700, 800]","[700, 703, 800, 805]"
+748,"100 (Macroeconomics) is implied due to discussion on infrastructure expansion. 107 (Taxation) is implied as the speaker mentions reducing flying to reduce climate change targets, suggesting a potential tax on aviation. 1300 (Social Welfare) is implied due to discussion on improving public transport to benefit the general population. 1900 (International Affairs) is implied due to discussion on improving rail links to Europe.
+
+```json","[100, 1300, 1900]","[100, 107, 1300, 1305, 1900]"
+998,"100 (Macroeconomics) is implied by talk of increasing spending, 107 (Taxation) is explicitly mentioned, 1600 (Defence) is discussed throughout, 1608 (Military Personnel) is mentioned in relation to reversing troop cuts, 1610 (Military Procurement) is implied by talk of maintaining the nuclear deterrent, 1300 (Social Welfare) is implied by talk of decent homes for veterans and armed forces.
+
+```json","[100, 1600, 1300]","[100, 107, 1300, 1600, 1608, 1610]"
+1222,"The excerpt discusses drug addiction as a root cause of crime, suggesting a need for more effective drug treatment programs to reduce crime rates. This implies a focus on drug policy (107) and the impact of drugs on society (1203).
+
+```json","[100, 1200]","[100, 107, 1200, 1203]"
+1361,"100 is used because the text discusses economic policies (austerity, bankers' bonuses, tuition fees) and the NHS, which falls under macroeconomics. 107 is used as it explicitly mentions taxation (bankers' bonuses). 200 is used as the text discusses immigrants and people on benefits, which are related to civil rights. 201 is used as it explicitly mentions demonising people on benefits.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+1420,"100 is used because the text discusses crime rates and police numbers, which are macroeconomic indicators of public safety. 107 is used because the text mentions ""computer crime and online fraud,"" which implies taxation or regulation of these activities. 201 is used because the text discusses ""knife crime,"" which is a form of racial and ethnic minority discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+1426,"The excerpt discusses youth unemployment, benefits, and work requirements, indicating codes related to employment (500) and social welfare (1300). It also mentions other countries' approaches, suggesting international affairs (1900).
+
+```json","[500, 1300, 1900]","[500, 506, 1300, 1302, 1900]"
+1756,"100 (Macroeconomics) is implied as the speaker discusses reducing or increasing public spending. 107 (Taxation) is explicitly mentioned. 200 (Civil Rights) is implied as the speaker discusses racial discrimination.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+2601,"100 (Macroeconomics) is implied by the mention of improving standards and regulating differently. 1300 (Social Welfare) is implied by the mention of animal welfare and tampon VAT. 1900 (International Affairs) is implied by the mention of Brexit and negotiating a deal.
+
+```json","[100, 1300, 1900]","[100, 1300, 1900]"
+3070,"100 (Macroeconomics) is used because the text discusses a specific taxation mechanism (tariffs). 107 is the specific subcategory for taxation.
+
+```json",[100],"[100, 107]"
+3356,"The excerpt discusses the lack of integrity in politics, the failure to deliver on promises, and the need to restore hope through honest service, implying a discussion on political integrity and public trust.
+
+```json",[2000],"[2000, 2012]"

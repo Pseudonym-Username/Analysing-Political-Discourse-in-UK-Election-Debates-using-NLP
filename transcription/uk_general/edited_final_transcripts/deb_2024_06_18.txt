@@ -1,0 +1,998 @@
+QUESTIONER_0: Now, the questions tonight come mainly from the audience, but we also have an exclusive poll from Savanta to inform the debate.
+QUESTIONER_0: For our first part, we're going to focus on law and order.
+QUESTIONER_0: We asked people across the UK, which of the following parties do you think would have the best policies for reducing crime?
+QUESTIONER_0: Labour polled the best here on 35%, while 20% said the Conservatives, which is broadly in line with national voting intentions.
+QUESTIONER_0: 12% said reform, 4% the Lib Dems, 23% said they don't know.
+QUESTIONER_0: We also asked, to what extent do you trust or not trust the police's ability to keep women safe in public?
+QUESTIONER_0: Just 10% said they trust the police a lot.
+QUESTIONER_0: Amongst women, it's just 5%.
+QUESTIONER_0: But overall, 52% say they have some or a lot of trust in the police, while more than 42% don't, including 13% who do not trust them at all.
+QUESTIONER_0: Overall, women were evenly split, with 46% saying they trust the police and 46% saying they don't.
+QUESTIONER_0: And our third question, the government has recently announced that in England and Wales, some prisoners near the end of their sentence may be released up to 70 days early in a bid to tackle prison overcrowding.
+QUESTIONER_0: To what extent do you support or oppose this?
+QUESTIONER_0: As you can see, a pretty even split between those who oppose it or are neutral.
+QUESTIONER_0: Overall, more than half the people polled oppose early release and just 22% support it.
+QUESTIONER_0: Well, let's address the first of those results by going straight to our audience and a question from Simon Atwood.
+QUESTIONER_0: Simon.
+QUESTIONER_1: We're becoming more fearful of victim-based crime.
+QUESTIONER_1: Only a week ago, Colchester Gazette and others reported on sentencing of a 14-year-old boy who attacked another with a kitchen knife while the teacher was present.
+QUESTIONER_1: That heroic teacher prevented serious injury.
+QUESTIONER_1: This is my daughter's otherwise superb Ofsted Outstanding Secondary School.
+QUESTIONER_1: But what are the local victim crime facts?
+QUESTIONER_1: Essex Police Annual Publication Performance Summary to October 2023.
+QUESTIONER_1: Of Colchester's near 15,000 victim-based crimes, half of those were violent against the person.
+QUESTIONER_1: Only 11.7% were solved.
+QUESTIONER_1: It turns out Colchester and Essex Police as a whole did very well.
+QUESTIONER_1: Nationally, this figure shockingly averages nearer 6% solved.
+QUESTIONER_1: Do the panel find current crime figures fearful?
+QUESTIONER_1: And what new measures would you propose to reduce victim-based crime and improve policing solved statistics?
+QUESTIONER_0: OK, before we go to the panel, I want to bring in another member of our audience, Rory Ryhill, who has just resigned as a police sergeant in the Metropolitan Police after 11 years.
+QUESTIONER_0: Rory, where are you?
+QUESTIONER_2: Hello, yes, that's me.
+QUESTIONER_2: So yes, I've recently resigned as a police sergeant in the Metropolitan Police Service where I proudly served for 11 years.
+QUESTIONER_2: I became disillusioned with the career that I loved due to atrocious working conditions, ineffective IT and a complete lack of support from politicians at every level and from every party.
+QUESTIONER_2: It was recently publicised that a third of my former colleagues are considering a similar move in resignation.
+QUESTIONER_2: What specific actions would the panel take to retain our talented police officers across the country?
+QUESTIONER_0: OK, let's begin with Chris Felt.
+PHILP: Christian, well, Simon, thank you for your question, because the father of a daughter myself, the story you told about what happened at your daughter's school is as concerning to me as it is to you.
+PHILP: Nobody wants their daughter or their son or any of their relations exposed to violence of that kind.
+PHILP: Now, what I can say by way of reassurance is that since 2010, violent crime, according to the Office for National Statistics, has come down by 44%, which is significant progress.
+PHILP: But we do need to go further.
+PHILP: Now, in relation to knife crime,
+PHILP: The incident you mentioned involved a 14-year-old perpetrator, I think you said.
+PHILP: Now, I remember attending a few months ago the tragic funeral of Eliane and Amin Croydon, a 15-year-old girl murdered by a young alleged perpetrator.
+PHILP: So what I'd like to see is more early intervention to get those youngsters onto the right track.
+PHILP: We're investing an extra... We're going to invest next year £75 million in doing that.
+PHILP: I'm working to identify young people in local authority areas
+PHILP: most at risk of getting onto the wrong track, so we can intervene early with mentoring and other interventions to stop people that young committing offences in the first place.
+PHILP: But that is only part of it.
+PHILP: We need tougher enforcement as well.
+PHILP: I believe in stop and search as a way of taking knives off the street.
+PHILP: Labour's Mayor Sadiq Khan in London unfortunately doesn't, which leads I think to London streets being less safe.
+PHILP: We also need to invest in hotspot policing.
+PHILP: We've now got hotspot patrols.
+PHILP: They launched just a few weeks ago across England and Wales.
+PHILP: Every single police force intensive patrols in areas where antisocial behavior and serious violence is a problem, including many right here in Essex, to make sure the police are on the spot when antisocial behavior or other incidents may occur.
+PHILP: So while it's good that we've got violent crime down by 44% during this government's term of office,
+PHILP: We need to go further.
+PHILP: Those measures combined with record ever police numbers and the 8,000 extra officers we're going to hire, I hope and I expect, will make sure that fathers like you and me and mothers and fathers across the country can be confident that their children are going to be safe.
+QUESTIONER_0: Just factually, of course, we should tell people that although the absolute number of police officers, if they deliver, will be the highest ever, they won't be the highest ever per capita.
+QUESTIONER_0: Nick Thomas-Simmons, he's the policing minister.
+QUESTIONER_0: Is he on the right track?
+THOMAS-SYMONDS: No, and thank you, first of all, Simon, for your question.
+THOMAS-SYMONDS: It's awful to hear about the incident at your daughter's school.
+THOMAS-SYMONDS: And thank you, sir, for your 11 years of service to the Metropolitan Police.
+THOMAS-SYMONDS: And I'm very sorry to hear about your experience and how you feel about a lack of support, because police officers up and down the country are going out and putting themselves in harm's way on the front line to try to protect other people.
+THOMAS-SYMONDS: I think we should appreciate and mark that.
+THOMAS-SYMONDS: Fundamentally, we need to protect communities, we need to prevent crime, and we need to punish criminals.
+THOMAS-SYMONDS: And frankly, the Conservatives are failing on all three.
+THOMAS-SYMONDS: And listening to Chris then, as the policing minister, somehow boasting about violent crime coming down, that really is out of touch with how people feel up and down the country.
+THOMAS-SYMONDS: I think of a grandmother that I met in my hometown only in recent weeks.
+THOMAS-SYMONDS: worked hard all her life trying to enjoy her retirement, and yet telling me that she doesn't feel safe when she is going out on the streets at night.
+THOMAS-SYMONDS: We need to change that.
+THOMAS-SYMONDS: And one of the fundamental things we have to do is the restoration of neighbourhood policing.
+THOMAS-SYMONDS: Because when the Conservatives tell you about more police officers, it's a con trick.
+THOMAS-SYMONDS: The first thing they did coming into power in 2010 was to cut
+THOMAS-SYMONDS: our police by 21,000.
+THOMAS-SYMONDS: They somehow want us to be grateful for putting 20,000 of those back.
+QUESTIONER_0: But they're offering 8,000 and you're only offering 3,000.
+THOMAS-SYMONDS: We are saying we will put 13,000 officers on our streets, a real visible policing presence.
+QUESTIONER_0: Only 3,000?
+THOMAS-SYMONDS: What we are talking about is we will take 3,000 from the existing uplift to go out into communities, the additional 3,000, 4,000 PCSOs and additional 3,000 special constables.
+THOMAS-SYMONDS: 13,000 in total to give that visible reassurance to our communities that frankly when I go up and down the country people tell me is desperately needed.
+QUESTIONER_0: OK, Keith Brown, it was reported last year that 100 serving officers in Scotland had applied to join a single police force in Australia.
+QUESTIONER_0: You've got the same problem as this man here in the Met.
+BROWN: First of all, I should say that this election will not change the administration of the police in Scotland.
+BROWN: It's dealt with by the government, currently the SNP government.
+BROWN: And to make some suggestions for Simon for the terrible situation he described, first of all, you should pay your police officers more.
+BROWN: So in Scotland, every single rank of police officer is paid more than they are in England and Wales.
+BROWN: You should have more police officers.
+BROWN: So we have around 20% more police officers per capita in Scotland than they have in England and Wales.
+BROWN: And thirdly, we had a very...
+BROWN: successful initiatives called No Knives, Better Lives, which instead of taking what you've heard from the Conservatives, the hit them hard, stop and search stuff, it was about public health.
+BROWN: And it oversaw a massive reduction in knife crime.
+BROWN: It worked.
+BROWN: I mean, Glasgow in particular, the reputation, as you may know, for many years has been a knife capital, certainly of Scotland, perhaps even the UK.
+BROWN: We've dramatically reduced knife crime since 2007.
+BROWN: However, all those things are put at jeopardy by what you've not heard from the two speakers, the £18 billion of cuts which they're both going to bring in.
+BROWN: And that will affect policing in Scotland because the cuts which you've seen already under austerity will come from Labour, they'll come from the Tories, whoever gets in, and that is the biggest threat to continued effective policing in Scotland.
+BROWN: And I have every sympathy with the situation you've described.
+BROWN: Chris Philp, that's right, isn't it?
+PHILP: You've got £18 billion of cuts up your sleeve.
+PHILP: The Scottish Government already receive much more generous funding than England and Wales because of the Barnett formula.
+PHILP: And as I say, actually police numbers in Scotland have recently gone down.
+PHILP: We have now hit record ever numbers across England and Wales, more in fact, as Nick knows, more than there were in 2010 by about 3,000.
+TICE: Richard Sarnes.
+PHILP: Be honest with the figures.
+TICE: 8,000 more.
+TICE: Since you've been in charge, the population has increased by about 6 million people.
+PHILP: Crime's gone down.
+PHILP: No, it hasn't.
+PHILP: Crime has gone down.
+PHILP: No, it hasn't.
+TICE: Knife crime has almost tripled.
+TICE: Let's remember, you talk about stop and search, but actually stop and search under your government has reduced by two-thirds in the last 14 years.
+TICE: Per 100,000 people, we're almost 10% less.
+TICE: officers, police officers across England and Wales.
+TICE: So the reality is that you've presided over a massive reduction and that we've got to get more police out on the streets, away from the back office, away from their desks, get police officers on the streets, preventing crime, reassuring people.
+TICE: Stop and search works, we know it works, we need to dramatically increase the use of it.
+QUESTIONER_0: Carla, you're shaking your head at that.
+DENYER: I am, because research from the Runnymede Trust has shown that black people are 18 times more likely to be stopped with stop-and-search than people who are not black.
+DENYER: So it's really clear.
+DENYER: The way that stop-and-search works, whether it's intended to be or not, is racist, and the Green Party would stop the routine use of stop-and-search.
+QUESTIONER_0: Does that mean it doesn't work?
+TICE: So knife crime's going to go up, because the evidence is there, Carla.
+TICE: Reduce stop-and-search, knife crime soars.
+TICE: No, it doesn't.
+BROWN: Not in Scotland.
+DENYER: We would stop the routine use of stop-and-search.
+DENYER: If there is a reasonable suspicion...
+TICE: Brilliant.
+TICE: So the Green Party get in, we're all going to be stabbed a nice even more.
+DENYER: If there is a reasonable suspicion, then, sure, you need to search somebody.
+DENYER: But the routine use of stop-and-search, whether it's intended to be or not, is a racist endeavor.
+TICE: It's called a deterrent.
+TICE: That's what policing is all about.
+TICE: It's being a deterrent.
+QUESTIONER_0: Daisy Cooper from the Lib Dems.
+COOPER: If I can speak to Simon, can I just say it's every parent's worst nightmare that their child might have a knife pulled on them.
+COOPER: The Conservatives have tried to ban zombie knives three times in the last few years and it's clear that that isn't working.
+COOPER: So we do need a different approach.
+COOPER: We have to have expert youth services that can go in and support young people who are scared in their communities.
+COOPER: We have got to have community policing so that police officers know their communities.
+COOPER: They work with faith groups, community groups, Neighbourhood Watch, all those kind of different groups.
+COOPER: They work hand in glove so they have intelligence led.
+COOPER: And on stop and search, let's be really clear, there is a place
+COOPER: for stop and search, but it has to be based on intelligence, not on profiling.
+COOPER: And the use of suspicionless stop and search is what builds up animosity and a distrust between communities and police, rather than building the trust that we so desperately need.
+IORWERTH: Let's hear from Plaid Cymru and reenact yours.
+IORWERTH: Talking about victims, that's what was at the heart of the question.
+IORWERTH: I was attacked when I was about 13 or 14 by other teenagers.
+IORWERTH: It left a deep scar on me for many years, actually.
+IORWERTH: No knives involved, thankfully, but it didn't take away the fear in me at that time.
+IORWERTH: And when the same thing happened to my son recently, I could feel his pain.
+IORWERTH: On knife crime, we had
+IORWERTH: the attack at a school in Ammanford in the south of Wales recently.
+IORWERTH: Again, looking at the victims, Applied Cymru is talking about establishing a role of a victim's commissioner for Wales, because it's by listening to and hearing and acting on the fears and the wishes of victims that we build a better criminal justice system.
+IORWERTH: On policing, by the way, and retention,
+IORWERTH: It's like with teachers and nurses in many ways.
+IORWERTH: What I think police women and men want to feel is to feel valued.
+IORWERTH: And when you've gone through a process over the past 14 years of being told, we want fewer, police, public spending cuts slashes the numbers, then they gradually build it back up when they realize the errors of their ways.
+IORWERTH: just undermines policing.
+IORWERTH: Some of it's about pay, but some of it is about just feeling valued.
+IORWERTH: But for us in Wales, of course, we need to get hold of powers over policing.
+IORWERTH: Every bit of evidence suggests we should.
+IORWERTH: Both the Conservatives and Labour ignore that.
+QUESTIONER_0: Let's move to another aspect of this from the audience.
+QUESTIONER_0: No, hold on.
+QUESTIONER_0: I need to bring in another question from the audience, which is informed by our poll.
+QUESTIONER_0: Petra Jones.
+QUESTIONER_3: The question is specifically about the safety of women and girls and how can the rates of violence against women and girls be reduced.
+QUESTIONER_0: Carla Denyer from the Greens.
+DENYER: Well, you're right to ask the question.
+DENYER: This is such a serious issue and the continuing abuse, harassment and worse of women and girls in this country is an absolute stain on our society.
+DENYER: The Green Party would make it a priority to end domestic abuse and violence against women and girls.
+DENYER: We want to free up police time to ensure that they can focus on those issues.
+DENYER: and we would make sure that police are trained to deal with domestic violence because too often we hear reports of women who have brought these cases to the police and have not been taken seriously, so that's the absolute top line for me.
+DENYER: We would also, and this has been a long-running Green Party campaign for a few years set up by our former deputy leader Amelia Womack,
+DENYER: is to make misogyny a hate crime.
+DENYER: It's amazing that it isn't already.
+DENYER: I think that would help the police and our justice system to take it seriously.
+DENYER: And finally, we would develop and implement a new UK-wide strategy to tackle rape, sexual abuse, FGM and trafficking.
+DENYER: OK.
+DENYER: But to undermine, just briefly... You need to be really quick.
+DENYER: ..to underpin all of this...
+DENYER: We need proper accountability so that women can regain trust in the police force because too many incidents in recent years, police officers have been part of the problem rather than the solution.
+QUESTIONER_0: I'm going to have to ask you all to be briefer with your answers because we've got quite a few questions to get through.
+QUESTIONER_0: Does Labour want a misogyny hate crime?
+THOMAS-SYMONDS: Addressing violence against women and girls has to be a guiding mission of any government.
+THOMAS-SYMONDS: If Labour were privileged enough to form a government, that is exactly what it would be.
+THOMAS-SYMONDS: Just 3 in 100 reported rapes results in a charge, let alone a conviction.
+THOMAS-SYMONDS: And rape victims are waiting on average 400 days when it does get to that initial charge.
+THOMAS-SYMONDS: What we need to do as a first step
+THOMAS-SYMONDS: is we need specialist rape courts in our criminal justice system to speed that up.
+THOMAS-SYMONDS: And secondly, we need to make sure that victims are at the heart of the process and get the support they need.
+THOMAS-SYMONDS: Because what happens with delays and results like that is it puts people off coming forward.
+THOMAS-SYMONDS: And it also means that in the course of the criminal process, witnesses go to one side, they don't turn up.
+THOMAS-SYMONDS: We have to make it a guiding mission and a priority, and that's exactly...
+QUESTIONER_0: But you won't go as far as the Greens, clearly?
+QUESTIONER_0: on a hate law on misogyny?
+THOMAS-SYMONDS: Well, I think we absolutely need to tackle misogyny.
+THOMAS-SYMONDS: I think we need to be addressing it in schools before people are even adults and coming into society.
+THOMAS-SYMONDS: Absolutely we need to deal with misogyny in our society.
+THOMAS-SYMONDS: But that is about leadership from government and it's about all of us together too.
+QUESTIONER_0: Keith Brown from the SNP.
+BROWN: Well, we are quite far down the road towards the Misogyny Act, actually informed by the work of Helena Kennedy, who's a Labour peer in the House of Lords.
+BROWN: And it's a huge issue, and it reflects wider society, the misogyny that we see there.
+BROWN: And some of the stuff that's happened in the Met, which people will be familiar with, is not unknown in Scotland as well.
+BROWN: And it doesn't just affect women and girls or members of the public, it affects women and girls, well, women in particular, in the police force.
+BROWN: So you have to have that transparency that's been talked about.
+BROWN: You have to have proper vetting.
+BROWN: The vetting has not been good, and even finding out a police officer that served with another police force, what their background is, you have to know that, and you have to have the accountability, which means that when somebody is accused of something, there's a proper process that people can have faith in.
+BROWN: So there is a huge job to do in terms of rebuilding trust across the country.
+BROWN: The same will be true in Scotland as well.
+BROWN: But the root of it is the misogyny, which is evident in wider society, and that's why I'm very proud that Scotland's taking the lead in terms of misogyny.
+QUESTIONER_0: Daisy, I don't know what you thought of the poll, but, you know, almost half of the women saying they have confidence in the police.
+QUESTIONER_0: But it means that every other one doesn't.
+QUESTIONER_0: That's quite shocking, isn't it?
+COOPER: It's not shocking to me as a woman, it really isn't.
+COOPER: What I would say is the first thing we have to do is work on prevention.
+COOPER: And that's something that doesn't get talked about enough.
+COOPER: So Liberal Democrats would require every social media company to publish regularly what they're doing to tackle online abuse and violence and hate towards women.
+COOPER: We need to have powerful public safety campaigns.
+COOPER: We know that they've worked in other parts of the world, particularly empowering men to root out misogyny and sexism amongst their male counterparts.
+COOPER: then we have to make misogyny a hate crime, we have to, because it will then treat those hate crimes with the same seriousness as any hate that is driven by racial or religious hatred.
+COOPER: We want to have a domestic abuse expert in every single police force and in every single 999 response room as well.
+COOPER: And finally on the point about the Met,
+COOPER: What I would say, and to Rory I think her name was, who had worked in the Met, I'm from Hertfordshire, Hertfordshire Police Force works very closely with the Met, and I have to say the Louise Casey review that happened into the standards of the Met was really shocking and it blew a lid off the institutional sexism, misogyny, homophobia and racism that existed in that force.
+COOPER: And I know that there are many people in the Met who don't deserve to be working there, and there are many people who do, because many of them have said to me that they were the good guys.
+COOPER: They're the ones that spoke up bravely to call out those people who were involved in the most horrific forms of conduct.
+COOPER: So we have to support our police officers so that all of us can have trust in the police.
+QUESTIONER_0: Richard Tice, given what we've seen some of your candidates say, are you sure they're all on the right side of this debate?
+TICE: Well, I certainly hope so.
+TICE: Look, the reality is trust in police is woeful at 50% plus or minus.
+TICE: That is a disaster.
+TICE: We have to improve that.
+TICE: The police themselves have to do much more.
+TICE: But the time that crimes take, or potential crimes take to go through the criminal justice system, is an absolute disgrace.
+TICE: We have to accelerate that.
+TICE: Only 5%
+TICE: of crimes are now resulting in a charge.
+TICE: And violence against women and girls is absolutely abominable.
+TICE: And women and girls have got to feel much, much more confidence.
+TICE: We've got to have a much faster criminal justice system.
+TICE: And there has to be proper sentencing that go right through until the end of the sentence, not to be let out early.
+PHILP: Briefly, Chris Philp.
+PHILP: Yeah, so look, Petra, you're right to raise this.
+PHILP: Women and girls across the country should feel safe to walk the streets at day or at night without feeling any fear.
+PHILP: And as a father of a young daughter, I feel that as strongly as anyone.
+PHILP: We've recruited 1,000 independent sexual violence advisors to support victims through the criminal justice process.
+PHILP: There's 1,000 extra judges to speed up the legal process, rape prosecutions.
+PHILP: are 56% higher than they were in 2010 under Labour.
+PHILP: And there's a whole range of things that this government has made illegal.
+PHILP: Coercive and controlling behaviour.
+PHILP: We've banned upskirting.
+PHILP: We've made stalking illegal.
+PHILP: Revenge porn and deepfakes also banned.
+PHILP: These are all things that almost entirely affect women and girls, that it's this government
+PHILP: that has taken action by banning.
+PHILP: We'd like to go further.
+PHILP: We're going to outlaw spiking.
+PHILP: We're going to make sure there's a 25-year minimum sentence for domestic homicide where someone murders their partner.
+PHILP: We're going to make sure that victims can give evidence quickly on videotape.
+PHILP: It's called a Section 28 evidence.
+PHILP: It's almost like you say everything's OK. To make sure...
+PHILP: to make sure that evidence is given quickly.
+PHILP: Rape sentences have gone up from six and a half years under Labour to about ten years now and we have legislated to make sure, to Richard's point, that people who are convicted of rape are not automatically released at the halfway point as they were previously.
+PHILP: Labour, shockingly, voted against that measure during the passage of the police crime and sentences.
+THOMAS-SYMONDS: How astonishing.
+THOMAS-SYMONDS: Chris stands there when 97 of every 100 reported rapes in this country today, absolutely nothing will happen.
+THOMAS-SYMONDS: And he talks about early release.
+THOMAS-SYMONDS: Chris and his government are presiding over people being released 70 days early, a number of whom posed a threat to the public.
+THOMAS-SYMONDS: I mean, come on, Chris, you should be apologising to this audience, not boasting.
+QUESTIONER_0: Right, I'm going to move us on to another question, very briefly, from our audience, and it's from Chris McNally.
+QUESTIONER_4: Yes, I'm a prison officer, and the state of prisons across the country is absolutely abysmal.
+QUESTIONER_4: If your party wins this election, what would you do to combat the declining conditions of this country's prisons for both prisoners and staff?
+QUESTIONER_0: In less than a minute, let's hear from Plaid Cymru first.
+IORWERTH: We are going to be talking about immigration later.
+IORWERTH: I had family that migrated into culture, so they were working in the prison service at the time many years ago.
+IORWERTH: But I fear that whatever problems there were in the prison service back then still exist within our prisons now.
+IORWERTH: We want a radical overhaul of the way that we
+IORWERTH: build the criminal justice system in Wales.
+IORWERTH: It should be devolved to us.
+IORWERTH: I'm sure most of you would agree with me that the way policing and criminal justice works should be as close to the people it affects as possible.
+IORWERTH: What we've seen in some of the highest incarceration rates anywhere in Europe is a failure
+IORWERTH: of the people that the criminal justice system is meant to serve.
+IORWERTH: We've had the building of a huge super prison in Wales, causing more problems than it resolves.
+IORWERTH: We need to move away from, you know, using prisons, which are absolutely needed for the most serious of criminals, towards a system which is restorative, which does deal with crime at its source.
+IORWERTH: And for prisons themselves, that would allow us then to concentrate on investing in the kinds of prisons that work.
+IORWERTH: You'll have heard about Park Prison, a privately run prison, dogged with problems in recent weeks and months.
+IORWERTH: The number of deaths there are consistently rising.
+IORWERTH: We cannot have the prison service in the hands of the private sector and we need to invest in it for the future.
+QUESTIONER_0: You could be facing a crisis on this within weeks of a new government.
+THOMAS-SYMONDS: We have no doubt at all what an awful inheritance this is and frankly our prisons are in a quite awful state
+THOMAS-SYMONDS: at the moment, bursting at the seams.
+THOMAS-SYMONDS: And they are in that condition because the 20,000 places, additional prison places, that the Conservatives promised to build in 2021, they simply haven't built.
+THOMAS-SYMONDS: They allocated the money to it, they haven't even spent all the money, and that's why they find themselves in the position they are in today.
+QUESTIONER_0: But will you stick with the early release scheme, which is so unpopular with them?
+THOMAS-SYMONDS: We will not release prisoners who are assessed to be a threat to the public on that scheme, which is what this government has been doing.
+THOMAS-SYMONDS: But we need those 20,000 additional places.
+THOMAS-SYMONDS: And what we will do is change the planning rules.
+THOMAS-SYMONDS: We will declare this of national importance.
+THOMAS-SYMONDS: So Labour's answer is more and more prisons.
+THOMAS-SYMONDS: Ministers can make the decision to actually put these prisons in place.
+THOMAS-SYMONDS: And we wouldn't be, frankly, in the position we are today if the Conservatives had done that.
+THOMAS-SYMONDS: Can you just confirm that this is an embarrassment?
+QUESTIONER_0: for your legacy as well.
+PHILP: First of all, let me be clear that no one who is a threat to the public is ever going to get released early.
+PHILP: Nick Thomas-Simmons has a cheek talking about this.
+PHILP: The last Labour government released 80,000 people early.
+PHILP: We are building 20,000 more prison places.
+PHILP: 7,900 of those will be delivered
+PHILP: by next December to make sure dangerous criminals get taken off the street.
+PHILP: Last year we took, we had 35,000 more successful criminal justice outcomes than we had the previous year.
+PHILP: That is to say more criminals were successfully prosecuted.
+PHILP: We're going to make sure the prison places are available to take them where necessary off the streets so they can't offend and the public are kept
+THOMAS-SYMONDS: They have released people who are a threat to the public.
+THOMAS-SYMONDS: Look at the inspectorate, look at what the governor of Lewes Prison said.
+THOMAS-SYMONDS: And Rhiannon, in answer to your question, I make no apology at all.
+THOMAS-SYMONDS: I think of the terrorist street I grew up in in South Wales.
+THOMAS-SYMONDS: I think those people are entitled to be kept safe and that does mean the people who commit violent and sexual offences should be behind bars.
+QUESTIONER_0: We've got to stop there because we're going to a break.
+QUESTIONER_0: In a moment, the biggest dividing line this election, immigration.
+QUESTIONER_0: Labour says it would scrap the Rwanda deportation scheme on day one.
+QUESTIONER_0: We'll fight it out with our seven parties.
+QUESTIONER_0: Welcome back to the First Sight Arts Centre in Colchester for this special extended edition of Channel 4 News.
+QUESTIONER_0: If you're just joining us, we've had half an hour of sometimes quite fiery debate on law and order with representatives from the seven main political parties fighting this election.
+QUESTIONER_0: Now we're going to hear from them on immigration.
+QUESTIONER_0: It is the one big issue with very clear divisions.
+QUESTIONER_0: Who can come to this country?
+QUESTIONER_0: Who is excluded?
+QUESTIONER_0: How do they get here?
+QUESTIONER_0: How are they sent home?
+QUESTIONER_0: What are the economic benefits and societal pressures?
+QUESTIONER_0: We have some polling on this too, but this time we've targeted the question around the two main parties as they are the only ones realistically who could be running the Home Office after the election.
+QUESTIONER_0: Both the Conservative Party and the Labour Party have pledged to cut net migration.
+QUESTIONER_0: That's the difference between those people coming here legally and those leaving to live abroad.
+QUESTIONER_0: It is largely determined by the government's immigration rules.
+QUESTIONER_0: So what did people make of the Labour and Tory pledge to bring legal migration down?
+QUESTIONER_0: Well, 28% said they only believe Labour.
+QUESTIONER_0: Just 15% said they only believe the Conservatives.
+QUESTIONER_0: 43% don't believe either of them.
+QUESTIONER_0: So a clear lack of trust in both those main parties.
+QUESTIONER_0: And that rises to 52% among the over 55 older voters.
+QUESTIONER_0: Secondly, we asked, both the Conservative Party and the Labour Party have pledged to stop small boats crossing the Channel if elected at the next general election.
+QUESTIONER_0: Which of the following is closest to your view?
+QUESTIONER_0: 27% said they only believe Labour, 16% believe the Conservatives, 7% believe both of them, but again, far more people, 44%, said they don't believe either party.
+QUESTIONER_0: Let's just get some reaction to that from Chris Philp and Nick Thomas-Simmons.
+QUESTIONER_0: Chris Philp, it is your broken policy pledges that has caused this massive lack of trust, isn't it?
+PHILP: Well, there's no question that the British public want net migration to be lower.
+PHILP: They're right.
+PHILP: We agree it does need to be lower.
+PHILP: Look, in recent years, of course, we have had a lot of people coming here from Ukraine and from Hong Kong fleeing the brutal repression by the Chinese Communist Party.
+PHILP: But we need to get it down.
+QUESTIONER_0: Now, I'm going to be... What proportion of net migration do they take up?
+PHILP: So, I mean, there is about 200,000 or more from Ukraine and a similar number from Hong Kong.
+PHILP: But we need to get the family and work numbers down as well.
+PHILP: And we have already, not in the future, but we have already taken action to do that.
+PHILP: For example, saying that people coming here, that most people coming here to study, people coming on social care visas can't bring dependents.
+PHILP: We're raising the salary thresholds as well.
+PHILP: We'll get to the specifics, but I just wanted to comment on the poll.
+PHILP: And that has, let me finish this point, that has already, already cut net migration by 10% year-on-year.
+PHILP: No, but nobody believes you, that's the point.
+PHILP: Look, I'm giving you the facts, OK, so people can just hear the facts.
+PHILP: And nobody believes you, that was the point.
+TICE: The facts are that you have allowed mass immigration in the last three years.
+TICE: Let me finish.
+PHILP: Hang on, Richard, we know.
+PHILP: I'll bring you in, Richard Tyson.
+PHILP: And in the last few months, these are applications which are a leading indicator, are down 30%.
+PHILP: People we need.
+PHILP: The measures we are taking already will reduce net migration by 300,000.
+PHILP: OK.
+PHILP: And in addition to that, we will come to the measures in detail.
+PHILP: We're going to be imposing a parliamentary cap, so those are very clear, tangible and credible actions.
+QUESTIONER_0: What I wanted to talk about was the fact that both of you aren't believed by voters, Nick Thomas-Symonds.
+QUESTIONER_0: Is that a problem for you, or is it rather good because nobody believes you're going to solve the problem anyway?
+QUESTIONER_0: Of course you want to.
+THOMAS-SYMONDS: Of course you want to build trust, but it's no surprise that people don't have trust, having had four Conservative governments elected on manifestos that have all broken their promises.
+THOMAS-SYMONDS: So those figures don't come as a surprise.
+THOMAS-SYMONDS: Net migration is too high at 685,000, and what we need is a plan to bring it down.
+THOMAS-SYMONDS: So firstly, what we need to do is, where there are particular sectors, we need a proper
+THOMAS-SYMONDS: plan so that we can upskill our own workforce.
+THOMAS-SYMONDS: Take engineering for example.
+THOMAS-SYMONDS: Engineering visas for people coming from overseas have doubled, whilst engineering apprenticeships here in the UK have almost halved.
+QUESTIONER_0: But what is your actual pledge?
+QUESTIONER_0: Because they've taken the measures that will bring the immigration figures down.
+THOMAS-SYMONDS: If you get into government, you'll claim that that's because of you.
+THOMAS-SYMONDS: They haven't taken measures to bring immigration down.
+THOMAS-SYMONDS: You look at recent years, it's been at a record high.
+THOMAS-SYMONDS: And what they needed to do, and what the next Labour government, should we be privileged enough to form one, will do, is have a skills strategy right across those different sectors, like health and social care, for example, the IT sector, and not just move to that lever of many people coming in... What's the number?
+TICE: What's the number of net migration that you think is right for this country?
+THOMAS-SYMONDS: Richard, a number is not a plan.
+THOMAS-SYMONDS: What you actually need is a plan.
+TICE: How do you plan for infrastructure?
+TICE: How do you plan for housing?
+THOMAS-SYMONDS: How do you plan for doctors?
+THOMAS-SYMONDS: And secondly, what we need to do as well is where people... Like, we convinced the Conservatives to abandon their discount on employing workers from overseas at 20% less than here.
+THOMAS-SYMONDS: What they also need to do
+THOMAS-SYMONDS: is to be able to crack down on poor employment practices where workers from overseas have been employed without proper rights and at a lower rate.
+THOMAS-SYMONDS: That needs to be dealt with as well.
+PHILP: We're going to raise the salary threshold further to £38,000.
+BROWN: Will you do that?
+BROWN: I think this is an utterly depressing conversation.
+BROWN: It does not serve the people of Scotland, certainly, and I would argue the people of the UK.
+BROWN: Immigration can be an economic benefit.
+BROWN: That's the way we should look at it.
+BROWN: It should be fair, it should be rights-based.
+QUESTIONER_0: I want to bring in the audience on precisely this point.
+QUESTIONER_0: Let's get a question from Lily Lloyd-Smith.
+QUESTIONER_5: I work with the children of recent migrants in my job, and I know about some really negative experiences that they have in the UK.
+QUESTIONER_5: So I'd like to ask the panel, how would you combat all of the hostility that's directed towards migrants right now?
+BROWN: First of all, I think you have to stop the rhetoric we've seen, hostile rhetoric we've seen, chasing people around in vans around the streets of London, telling them to go home.
+BROWN: We wouldn't have that in Scotland.
+BROWN: I was lucky enough to host a Ukrainian family that came as refugees.
+BROWN: One is now working in a vital job in the ferry infrastructure, one is working in a supermarket.
+BROWN: They are additions to our country.
+BROWN: They pay tax, they contribute.
+BROWN: That's the way we should be looking at immigration.
+BROWN: And also, the fact you have the small boats, and I know that's an issue much more in this part of the country, is because the Tories have cut off every legal route
+BROWN: to immigration.
+BROWN: That's why they've been forced into small boats.
+BROWN: That's why people are dying in the Channel.
+BROWN: You have to have a complete rethink on immigration.
+BROWN: And honestly, the Labour Tory chasing reform votes is not the right way to go.
+BROWN: Richard Tice, what's your answer to that question?
+TICE: The answer...
+TICE: What are you going to do?
+TICE: The answer is to have a competent asylum process that processes people quickly and promptly with a rapid appeals process so that actually the people who are genuine asylum seekers can be accepted and those who are not, who are economic migrants, can be rejected.
+TICE: But the truth is that the Conservative Party have allowed mass immigration in the last two years deliberately in complete contrast to what they promised
+TICE: election after election after election.
+TICE: One person is arriving legally every minute.
+TICE: That means we need to build a new home just for those arriving every two minutes.
+TICE: How many leave?
+TICE: How often do they leave?
+TICE: That's the net number.
+TICE: How many do they leave?
+TICE: The net number in 2023 was almost 700,000 people, just below the net number in 2022.
+TICE: So those numbers I've just given you, that is the net increase.
+TICE: We're not building enough homes for our own people, let alone the homes for people... No, we're not.
+COOPER: And that's the real problem, isn't it?
+TICE: Daisy Cooper.
+COOPER: This rhetoric around resources completely misses the point and it fans the flames of the very rhetoric that you have mentioned.
+COOPER: Lady on the front row, I didn't catch your name, I'm sorry.
+COOPER: Under our migration system, under the Conservatives, we have the worst of both worlds.
+COOPER: We have sectors like the NHS, social care, hospitality, engineering, so many different sectors that simply cannot get the people they need with skills because there hasn't been an investment in this country in apprentices and skills programs.
+COOPER: And at the same time, the government is also cutting the supply from abroad as well.
+COOPER: So it's hardly any surprise that our economy is flatlining.
+COOPER: So what we need to do is get rid of these ridiculous arbitrary targets, get rid of arbitrary salary thresholds.
+COOPER: We need to invest in a proper skills strategy in this country.
+COOPER: Liberal Democrats are the only party saying that we will have a higher minimum wage for care workers.
+COOPER: More than 105,000 people came to this country to work in our care sector last year.
+COOPER: We should welcome them and thank them for propping up our care system and for looking after our loved ones.
+COOPER: But we should not be doing that.
+COOPER: at the expense of investing in our own workforce.
+COOPER: And it is possible to do both in a way where we can invest in our own domestic workforce, and then when we need to get different people in from abroad for different sectors, we can do that sector by sector, depending on what we need.
+COOPER: And that avoids that kind of resource-driven rhetoric that fans the flames.
+TICE: about half a million people leave the UK every year.
+TICE: So we can welcome about half a million people, highly qualified, highly skilled, that we can accommodate.
+TICE: But the truth is that we are in the longest recession per person, and that's what really matters to all of us, the longest recession per person since records began 70 years ago.
+TICE: economic growth and we're dividing the cake by three quarters of a million more people every year.
+TICE: The right thing to do is invest in our own people as we did in the 1990s and 90s.
+DENYER: Listen, Richard is so close to getting the point.
+DENYER: He's so close to getting the point.
+TICE: I've got the point exactly.
+TICE: You want net zero immigration, train our own people, train our own people so that we can skill up our own people.
+TICE: That's the role of the British government, to look after British citizens.
+DENYER: But the reality is that the UK is a country of migrants and migration is a good thing for our country, for our culture and for our economy.
+DENYER: It's absolutely vital in supporting our public services.
+TICE: How is it good for our economy when we're in the longest recession per person?
+DENYER: Let's be real, we have over 100,000 vacancies in the NHS alone.
+DENYER: That's not even counting social care, hospitality and other sectors.
+DENYER: And I've said this before, but it hasn't become less true.
+DENYER: If you meet a migrant in the NHS, they're more likely to be treating you than to be ahead of you in the queue.
+DENYER: Now, some politicians, and unfortunately, the list of which politicians that is, is getting longer.
+DENYER: like to scapegoat migrants for the problems with underfunding public services, when in reality, the cause of that is decades of decisions to underfund those public services by political parties.
+DENYER: They could choose to make other decisions, they could choose to make bold decisions about how you pay for public services and how you raise those funds, and the Green Party is the only party in England being honest about that.
+QUESTIONER_0: Read out yours.
+QUESTIONER_0: Hang on, Richard.
+IORWERTH: The question is about how to combat hostility.
+IORWERTH: How about these guys stop creating and stoking that hostility in the first place?
+IORWERTH: We need to have an honest debate.
+IORWERTH: Of course, we need to control borders.
+IORWERTH: Every country controls its borders.
+IORWERTH: But to blame migrants for housing, for problems in the NHS, to blame what for public spending cuts that have been...
+IORWERTH: It's called pressure on public services.
+QUESTIONER_6: ..that have been done by the Conservatives.
+QUESTIONER_6: If you don't plan for it...
+IORWERTH: But what about pressure on public services?
+IORWERTH: Yes, exactly.
+IORWERTH: Caused by a failure to invest in public services.
+IORWERTH: You have to plan, don't you?
+IORWERTH: How about looking at what our actual needs are?
+IORWERTH: What I'd like to do is look at how we have visa powers in Wales, for example, to make sure that we can bring in people into shortage occupations.
+IORWERTH: give visas to those that we need here.
+QUESTIONER_6: What about training people in Wales?
+IORWERTH: What about skilling up your own people?
+IORWERTH: We have a great success here, says the Conservative representative on the panel, by cutting the number of visas to people accompanying workers.
+IORWERTH: There has been a 76% drop in visa applications for social care because you have taken that decision.
+IORWERTH: Now, in social care, I don't know who you want to look after you when you're in your old age, but we'll need people to work.
+IORWERTH: well as training.
+IORWERTH: Let Crystal answer that.
+PHILP: Just to pick up a couple of points that have come up.
+PHILP: On public service investment, just to be clear about that, the NHS is receiving more money than it has ever received in history.
+PHILP: Not per page.
+PHILP: In terms of the economy, we had the highest growth in the G7 Q1 this year.
+PHILP: Let me address the question about migration.
+PHILP: We have about 6 or 7 million, maybe even 8 million, UK citizens of working age who are not active in the workforce.
+PHILP: Now some of those have caring responsibilities or there are good reasons why
+PHILP: they're not working, but for others of them, there are reasons why they could get into the workforce.
+PHILP: So priority number one is to encourage those UK citizens here already to get into the workforce and Mel Stride, the Welfare Secretary, has set out some plans to get that done.
+PHILP: So that is priority number one.
+PHILP: Now, of course, where there are skill gaps, like particularly for high skilled jobs,
+PHILP: scientific researchers, IT professionals, people working in financial services, doctors in the NHS, nurses as well.
+PHILP: Of course those are people we would like to welcome here, but it needs to be in the areas where there are genuine
+PHILP: finished Chris Richard, in areas where there are genuine skill shortages and people with high levels of skills who will add value to our economy.
+PHILP: So that is the strategy that's being pursued.
+PHILP: Now the levels of net migration we've recently seen have been frankly too high and that's why specific measures have already been taken, not in the future, they've already been taken that will get those numbers down by 300,000 and we've seen that drop in visa applications already.
+PHILP: So we're going to get hang on we're going to get the right balance.
+PHILP: We don't want mass low-skilled immigration.
+PHILP: It's not good for the economy.
+TICE: We do want high-skilled migration that will add value to the economy.
+TICE: You've just allowed mass immigration that means that everybody is getting poorer.
+TICE: That's the reality.
+TICE: What we need to do is to make work happen.
+TICE: We need to make work pay for British citizens.
+TICE: The way to do that is to lift the starting point at which we pay any income tax to £20,000 a year from £12,500.
+TICE: That's a massive motivator.
+TICE: That frees up 7 million people of the lowest paid back into work paying zero income tax.
+TICE: The role of government is to look after British citizens, in particular to motivate our young people into work as opposed to being trapped.
+QUESTIONER_0: I want to go a bit further into the economic argument around what we need.
+QUESTIONER_0: Piers Baker, you're the owner of three local businesses.
+QUESTIONER_0: Where are you?
+QUESTIONER_0: You rely on staff from abroad, don't you?
+QUESTIONER_7: We do, yeah.
+QUESTIONER_0: So what do you make of this conversation going on about reducing the number of people coming to this country?
+QUESTIONER_7: We need more people.
+QUESTIONER_7: Despite best efforts of trying to attract people into hospitality and our supply chains, there are not enough.
+QUESTIONER_7: We want apprentices.
+QUESTIONER_7: They can't get to work because of the transportation links.
+QUESTIONER_7: So we do try really, really hard to get people into hospitality, but there aren't enough.
+QUESTIONER_7: We need immigration.
+QUESTIONER_7: It is a net benefit to us.
+QUESTIONER_0: OK, and Kate Wilson from the NHS, where are you?
+QUESTIONER_8: I'm really proud to work for the NHS and I see every day in all the teams I work with how much it's struggling due to a lack of staffing and being able to appoint adequately trained staff.
+QUESTIONER_8: How would you make it easier to recruit from abroad?
+THOMAS-SYMONDS: Can I just answer firstly on social care, if I can, because it reminds me of a conversation I had recently with someone who was telling me, a social care worker, telling me how difficult it is, both in terms of pay, but also the way in which standards in that sector are very squeezed.
+THOMAS-SYMONDS: She was telling me, for example, she was allowed a couple of minutes in her programme for the day to carry out a journey that was clearly a lot longer than that.
+THOMAS-SYMONDS: And I think, of course, overseas works have made an extraordinary contribution to our care sector.
+THOMAS-SYMONDS: But what we need to do is firstly have fair pay agreements in our social care sector.
+THOMAS-SYMONDS: People are paid what they deserve.
+THOMAS-SYMONDS: But also that we have national standards as well.
+THOMAS-SYMONDS: Because frankly our social carers, those who are employed, those who frankly are unpaid carers at home, they are real unsung heroes in our society.
+THOMAS-SYMONDS: It is giving them status, giving that profession the status it deserves so we can attract more people from the workforce here into it too.
+BROWN: That's not going to radically change things.
+BROWN: I have to drop in the word that's not been mentioned, which is Brexit.
+BROWN: Now, Brexit...
+BROWN: Since Brexit happened, that's when you've seen the contraction of the labour market.
+BROWN: That's when you've seen... For example, the UK took virtually every dentist out of Estonia previously, and hundreds of thousands of other people came across from Europe to work in our public services, and that stopped.
+BROWN: And the other effect of Brexit, of course, is because of what's happened in terms of the loss, £69 billion last year to the UK economy,
+BROWN: because that's happened, there's less money for public services.
+BROWN: So what's rightly been said is, it's not just the people, you need to have the transport links, you need to have the investment in the health service and the care service, and people can talk about how much more is going into it.
+BROWN: It's not enough.
+BROWN: The population is growing, the needs of the population are growing.
+BROWN: We have to grow the NHS.
+BROWN: And the one way to do that, the biggest, most effective way to do it, certainly for Scotland, because we voted against Brexit, we never wanted it, we want to reverse it, and that's the biggest single thing you could do to reverse some of the problems that some people are talking about, especially in the NHS.
+TICE: You've just admitted, if the population's growing by 2.5 million people in the last three years alone, you haven't got a labour shortage.
+TICE: You've got to make work pay, you've got to train your own people.
+TICE: We haven't got a people shortage.
+TICE: There's no labour shortage.
+TICE: Does anyone else agree there's no labour shortage?
+TICE: We haven't got a people shortage, but too many people, work doesn't pay.
+QUESTIONER_0: Are you not listening to what the audience is telling you?
+QUESTIONER_0: There's a difference between a people shortage and a labour shortage.
+TICE: Because under the Tories, they've frozen the threshold at which you start paying income tax and therefore for too many people, particularly in industries like hospitality and social care, work doesn't pay.
+TICE: That's the reality.
+TICE: That's why if you lift the threshold to £20,000, automatically that's an extra net £1,500.
+TICE: purpose.
+IORWERTH: What about the threshold for allowing people in to work?
+IORWERTH: How does ever increasing that threshold help hospitality businesses, for example, who need to bring people in, who aren't going to be on that kind of salary but are needed?
+IORWERTH: I've got restaurants in my constituency who are unable to find people to work because it was Brexit.
+IORWERTH: Hospitality depended on so many people...
+TICE: The population is 2.5 million bigger than it was three years ago.
+TICE: It's got nothing to do with Brexit.
+TICE: It's because taxes
+COOPER: The problem both in hospitality and in the NHS is a skills shortage and so it comes back to what I said before, Liberal Democrats would get rid of the arbitrary salary threshold and work with every single industry to work out what skills we actually need and do that alongside
+COOPER: a skilled strategy to make sure that we're training our domestic workforce at the same time.
+COOPER: Specifically, I think your question about the NHS, I'm the health spokesperson for my party and I'm very passionate about our NHS and our social care systems.
+COOPER: We need to look at recruitment, but we need to look at retention as well, and we're talking about having a 10-year retention programme.
+COOPER: Part of that needs to be retaining people that we have here in our domestic workforce, but we do need to retain people who have come from abroad and need to make sure that our recruitment from abroad is ethical recruitment as well.
+COOPER: And one of the reasons why people are leaving our NHS is because of burnout, because of the workload.
+COOPER: And so we need to improve not only the working conditions in the NHS by the NHS being a more flexible employer, but we can reduce the pressure on the NHS by fixing social care.
+COOPER: OK. Liberal Democrats have a comprehensive plan for doing that and we will keep banging the drum until it's fixed.
+QUESTIONER_0: I'm going to move us on.
+QUESTIONER_0: I'm going to move us on because we've spent quite a lot of time on that.
+QUESTIONER_0: I want to hear from a refugee now.
+QUESTIONER_0: Gwali Pasole.
+QUESTIONER_0: Now, you came here from Afghanistan as a 12-year-old.
+QUESTIONER_0: What's your question?
+QUESTIONER_9: Thank you, good evening.
+QUESTIONER_9: My question is, Christian, how could we have a sensible and productive debate on these issues of migration?
+QUESTIONER_9: As a citizen now and as a taxpayer, I'd like to see a fair deal and a fair system and policies on the public behalf, but also a compassionate and humane approach towards refugees and asylum seekers.
+QUESTIONER_9: Unfortunately, as we heard, they've been scapegoated and dehumanized and criminalized for coming seeking protection.
+QUESTIONER_9: I feel like, as a British citizen now, I'm going to be voting for the first time, which I'm really looking forward to.
+QUESTIONER_9: And I hope everyone votes and gets involved.
+QUESTIONER_9: We should be proud of providing sanctuary to people like me.
+QUESTIONER_0: OK, so we talked about legal migration.
+QUESTIONER_0: Let's now talk about asylum seekers and refugees, like our questioner, Keith Brown.
+BROWN: Yeah, I was just mentioning my own experience in terms of asylum seekers, and I'm very proud that in Scotland we've done more than our fair share in terms of both Ukrainian asylum seekers and Syrian refugees as well.
+BROWN: But I'm very interested in your own experience in Afghanistan, because I think what the UK did in Afghanistan was utterly appalling.
+BROWN: The people they left behind that had acted as intelligence support and various other forms of support, and I say this as an ex-service person myself, was utterly atrocious, betraying those people that should have had safe flight back out of Afghanistan.
+BROWN: Very dangerous, I'm to say, given the roles that they played.
+BROWN: And I absolutely agree with your point, that if we demonise them non-stop, that's why these problems come.
+BROWN: And why are they wanting to demonise them?
+BROWN: Because there's other stuff they should be doing, the big parties are not doing, so they go after scapegoats.
+BROWN: And it's easy to go after refugees, and it's wrong.
+BROWN: for the Greens.
+DENYER: Firstly, congratulations on your citizenship, and I'm really glad that you were able to successfully seek refuge through this unnecessarily hostile asylum system.
+QUESTIONER_9: It took me 15 years.
+DENYER: Yeah, well, it took you 15 years, exactly.
+DENYER: That makes the point, doesn't it?
+DENYER: At the Green Party, we take a totally different approach to refugees, because this is ultimately about what kind of society we want to live in.
+DENYER: And I'm clear that the majority of Brits want us to live
+DENYER: in a welcoming and civilised society.
+DENYER: So we think the UK government needs to do three things.
+DENYER: Firstly, to create safe and legal routes for those fleeing danger, persecution and war so that the smugglers with their small boats taking advantage of people in a desperate situation
+DENYER: lose their business model.
+DENYER: That's the first thing.
+DENYER: Second, we need to speed up the asylum system so that timely and fair decisions are made and we're not unnecessarily keeping people in detention and preventing them from integrating into their new communities.
+DENYER: And third, we want to allow asylum seekers to work to support themselves while they're waiting for their decision.
+DENYER: I visited a refugee centre in my home city of Bristol recently, and I met a woman who'd been practising as a nurse in her home country.
+DENYER: She would need to do a little bit more training in order to start practising here.
+DENYER: She wasn't able to get started on that.
+DENYER: She wasn't able to work.
+DENYER: She'd been waiting in this country for 10
+DENYER: years.
+DENYER: She wanted to work in the NHS, contribute to our country, to our public services and to our tax system and our stupid asylum system stopped her.
+DENYER: We are a civilised country and we should act like it.
+QUESTIONER_0: Chris Philp, when you hear a man from Afghanistan asking for a little compassion in this debate, are you a little ashamed of where this has all got to?
+PHILP: No, frankly, I'm not.
+PHILP: And firstly, congratulations for achieving citizenship and for voting in your first election here.
+PHILP: Obviously, you're taking it seriously.
+PHILP: And well done for reaching that milestone and participating in this fantastic democracy of ours.
+PHILP: Look, there was a question earlier about safe and legal routes.
+PHILP: And I think
+PHILP: You were asking about this as well.
+PHILP: Where there are crises, this country, the United Kingdom, is generous-hearted and open.
+PHILP: So when there was the crisis in Syria, when Assad was murdering his own people, we set up the UK resettlement scheme.
+PHILP: We directly and legally and safely resettled 25,000 people from Syria and from refugee camps on Syria's borders into the UK.
+PHILP: That was the largest legal resettlement scheme in relation to Syria.
+PHILP: I've mentioned Ukraine already.
+PHILP: 200,000 Ukrainians have been welcomed here to the UK.
+PHILP: A similar number of people from Hong Kong fleeing oppression by the communist regime in Afghanistan.
+PHILP: Of course, your own
+PHILP: the Taliban.
+QUESTIONER_9: in Pakistan, the same number of people are actually waiting to come.
+PHILP: That's right, and we're urging, the Home Office is urgently working to bring those people safely into the United Kingdom, and that work is happening as we speak.
+PHILP: So where there is a real need, then this country rightly welcomes people, but it does have to be done in a safe and legal way.
+PHILP: We're probably going to come on to small boats later, but that is not the way to organise asylum.
+PHILP: We should do it safely and legally, like those examples I've just given, and welcome again.
+QUESTIONER_0: the tone of this debate if you get into government?
+QUESTIONER_0: Or is it going to carry on along the way?
+THOMAS-SYMONDS: I sincerely hope so.
+THOMAS-SYMONDS: And can I just say in relation to this question, and congratulations on your citizenship, some of the proudest moments I've had as a member of Parliament since 2015
+THOMAS-SYMONDS: In Glenavon, Pontypool, Cumbrian, the places that I've been privileged to represent is welcoming people from Syria, welcoming people from Afghanistan and welcoming people from Ukraine and hugely proud as well of the welcome that they've had from local people in my home valley.
+THOMAS-SYMONDS: It's been remarkable to see.
+THOMAS-SYMONDS: But we do need to reform those resettlement routes.
+THOMAS-SYMONDS: You just mentioned your own journey of 15 years, which is clearly an unacceptable period for you to have waited.
+THOMAS-SYMONDS: But also, just to take Afghanistan just for a moment, we have a particular duty to those people who risked themselves to serve and help
+THOMAS-SYMONDS: are armed forces when they were in Afghanistan.
+THOMAS-SYMONDS: We owe those people a moral duty.
+THOMAS-SYMONDS: And frankly, it's disgraceful that nearly three years on now, since we left Afghanistan, you still have thousands of people who helped us, who would be at massive risk of their safety as a consequence in Afghanistan, now stuck in neighbouring countries like in Pakistan.
+THOMAS-SYMONDS: We need that process speeded up because we owe those people a moral duty.
+QUESTIONER_0: People often talk about the ones who helped British troops.
+QUESTIONER_0: What about the rest of them?
+THOMAS-SYMONDS: I think that we have a very particular duty to groups of people.
+THOMAS-SYMONDS: I think that particular group of people, we call it the ARAP scheme, the interpreters who helped us, others who provided support to our troops.
+THOMAS-SYMONDS: And not the girls who can't go to school anymore.
+THOMAS-SYMONDS: Absolutely, and that
+THOMAS-SYMONDS: position is appalling as well.
+THOMAS-SYMONDS: You also the judges as well that you could talk about but it is about I think that particular moral duty where people have put themselves at risk for us that we should repay that duty.
+QUESTIONER_0: Right one of the big issues here of course is the existing system and what to do with it so let's get a question on that from Lorcan Furlong.
+QUESTIONER_0: Lorcan where are you?
+QUESTIONER_10: It is clear that our current asylum backlog is far too large and a key issue seems to be processing.
+QUESTIONER_10: What is your plan to improve processing so people can start working and contribute to society or if it becomes that their asylum claims are denied?
+TICE: Richard Tice.
+TICE: Yeah, you're quite right.
+TICE: I mean, it's complete and utter chaos.
+TICE: 15 years ago, people were assessed within a fortnight, had a right to appeal within about a week or two, and then a final decision was made, either to be accepted or to be rejected.
+TICE: And then the number being accepted was about 20%.
+TICE: The number now is about 75%.
+TICE: And going back to the previous point, you know, congratulations, sir.
+TICE: But actually, of course, we want a fair, compassionate system which works promptly and efficiently.
+TICE: We've got an incompetent Home Office,
+TICE: which means that the backlog has increased, and therefore the cost to all of us as taxpayers has soared through the roof.
+TICE: The right way to have a fair system is to assess people promptly, rapidly, so that everybody gets a fair deal and knows where they stand.
+TICE: And that just seems to be completely beyond the wit of the Home Office, despite minister after minister after minister.
+TICE: It's just unacceptable.
+PHILP: Well, look, the system is being sped up.
+PHILP: The productivity has gone up about three times.
+PHILP: About 112,000 asylum decisions were made last year.
+PHILP: The so-called legacy backlog, those are the older cases before certain legal changes, is down by 95%.
+PHILP: It's gone from 92,000 down to 5,000.
+PHILP: Now, there are some changes we're making through a thing called the Illegal Migration Act, which essentially returns to a system more like the one that Richard was describing.
+PHILP: where decisions are made quickly and you can't make these sort of repeated claims.
+PHILP: Those have arisen over time as essentially case law has expanded the grounds on which people can claim asylum again and again.
+PHILP: The Illegal Migration Act, which I think Labour voted against, is designed to make that process a lot more streamlined.
+PHILP: So it's speeding up already and the commencement of that act
+PHILP: will make the process a lot faster and a lot more final.
+COOPER: The backlog issue is a complete mess entirely of the Conservatives making.
+COOPER: So because of the legislation that they've introduced, there are now 118,000 people who can't claim asylum in this country.
+COOPER: neither can they be deported to Rwanda to have their claims processed there.
+COOPER: So there's 118,000 people stuck in no-man's land without any ability to do anything at all, and taxpayers are having to pay for that.
+COOPER: So the first thing that we would do is scrap the Rwanda scheme, which has been incredibly expensive, unworkable, completely immoral, that has cost £291 million already, without a single person being sent to Rwanda who wasn't paid to go.
+COOPER: And by scrapping that scheme, that money alone that's been spent already could have been used to pay for 6,000 Home Office caseworkers to process those claims, get the claims down.
+COOPER: So what Liberal Democrats will do is scrap the Rwanda scheme, invest in Home Office processors, get the claims down to processors within three months for each person, and if anybody's claim can't be dealt with within three months, they then have the right to work, which means that taxpayers aren't subsidising people to work and pay tax.
+TICE: Under the Liberal Democrat scheme, if the application is rejected, what will happen to that person?
+TICE: Will they be returned?
+TICE: Will they be deported?
+COOPER: This has always been the case that if somebody makes an application to this country and their application is refused, then of course they get returned to their country of origin.
+COOPER: That has always been the case.
+COOPER: But the problem we have at the moment is we have this no man's land situation.
+COOPER: As you described, the backlog of 118,000 people.
+COOPER: Instead of paying for the Rwanda scheme, which hasn't worked, we could invest that money in getting those claims down.
+QUESTIONER_0: Where's Saira Javid?
+QUESTIONER_0: Saira, you've got a question on this as well.
+QUESTIONER_11: I do have a question, and I'll probably say this going slightly off script.
+QUESTIONER_11: I can probably dismantle all of your immigration policies.
+QUESTIONER_11: Please do reach out.
+QUESTIONER_11: So I'm an immigration solicitor, and I work for the Joint Council for the Welfare of Immigrants.
+QUESTIONER_11: My clients are in limbo and stuck in the system for years.
+QUESTIONER_11: They can't work.
+QUESTIONER_11: And some of you do say you'll give them the right to work.
+QUESTIONER_11: But really, you haven't before.
+QUESTIONER_11: and they are stuck in crap housing, bad hotels, they are put in army barracks that are not fit for purpose, and they are also put onto barges.
+QUESTIONER_11: These are traumatized people and we demonize them.
+QUESTIONER_11: How will this panel really bring back humanity into our system, give safety to the people who are seeking
+QUESTIONER_11: you know, safety in our country.
+QUESTIONER_11: And we do say we are leaders of human rights.
+TICE: Where are they?
+TICE: The answer is incredibly simple.
+QUESTIONER_11: And speed isn't one of them, I'll tell you right now.
+TICE: Speed is absolutely one of them.
+TICE: It is not.
+TICE: That is the kind and compassionate thing to do, is to deal with the applications promptly and appropriately.
+TICE: It worked 15 to 20 years ago.
+TICE: It wasn't a crisis then, so that's what we should return to.
+QUESTIONER_0: I want to hear the two main parties on this point.
+QUESTIONER_0: Nick Thomas-Symonds.
+THOMAS-SYMONDS: Well, listen, we would scrap the Rwanda scheme, which is completely unworkable.
+THOMAS-SYMONDS: They've poured hundreds of millions of pounds down the drain to essentially send two volunteers and a couple of Tory Home Secretaries there so far.
+THOMAS-SYMONDS: And we need to redirect.
+THOMAS-SYMONDS: They've already allocated £75 million.
+THOMAS-SYMONDS: We need to redirect that money.
+THOMAS-SYMONDS: We need to create a proper border security command.
+THOMAS-SYMONDS: There already is one.
+THOMAS-SYMONDS: No, there is not.
+THOMAS-SYMONDS: There's a small boat operations command that's part of Border Force.
+THOMAS-SYMONDS: What our Border Security Command would do is bring together Border Force, it would bring together Immigration Enforcement, it would bring together Crown Prosecution Service, International, and crucially, our security services.
+THOMAS-SYMONDS: Because what we need to do, Keir Starmer was the chief prosecutor, he busted the terror gangs.
+THOMAS-SYMONDS: I don't believe for a moment you can't bust the criminal smuggler gangs as well and their evil trade, and that is precisely what's happening.
+QUESTIONER_0: And what would you do about the 40,000 people who have come into this country on small boats since the 2023 Act was passed and are stuck in limbo and can't do anything?
+QUESTIONER_0: What would you do with them?
+THOMAS-SYMONDS: Hang on, they are not stuck in limbo because they are already in our system, they are already in our accommodation.
+THOMAS-SYMONDS: And the government talks about the 101%.
+THOMAS-SYMONDS: Well, that's exactly what is going to have to happen.
+THOMAS-SYMONDS: And what will happen then is those who are found to have no right to be here, we will get a proper enforcement and returns agreement in the Home Office, if we are privileged enough to govern, that will actually then deport people who are not entitled to be here.
+THOMAS-SYMONDS: That's the flights that will be taken off under a Labour government, not wasting money on the Rwandan people.
+TICE: will you actually stop the boat?
+TICE: About 800 people have arrived today.
+PHILP: So the way to deal with this is to make sure that there are safe and legal routes set up where necessary and I've mentioned some of the examples before like the Afghan scheme and the Syrian scheme.
+PHILP: What we can't have is people illegally entering the country by small boat
+PHILP: From a safe place, France is a safe country, nobody has to leave France to flee danger.
+PHILP: The people coming across on small boats are overwhelmingly young, single men.
+PHILP: We should be prioritising people who are in genuine need.
+PHILP: The people that came from Syria, for example, very often they were women and children and people who needed support.
+PHILP: So we cannot have this small boat traffic continuing.
+PHILP: And that is why the Rwanda scheme is so important.
+PHILP: It acts as a deterrent.
+PHILP: It's clearly not a deterrent, Chris.
+PHILP: 800 people have come today, Chris.
+PHILP: Today, 800.
+PHILP: It's not a deterrent.
+PHILP: Richard, in case you haven't noticed, the Rwanda scheme has actually not started yet, and indeed it won't start.
+PHILP: So how do you know it's a deterrent?
+PHILP: You're right it won't start because you're not going to be in government.
+PHILP: Unless the Conservatives win the general election.
+PHILP: How do you know it's a deterrent?
+PHILP: Well, it's a very good question, so there's a couple of...
+PHILP: The Home Office hasn't... Well, I'll give you the answer.
+PHILP: I'll give you the answer.
+PHILP: So, the Australians tried something similar about ten years ago.
+PHILP: They called it Operation Sovereign Borders.
+PHILP: They completely stopped what they called their illegal maritime arrivals.
+PHILP: That's because they had a pick-up policy, they had a push-back policy.
+PHILP: Using removals to, in that case, Nauru.
+PHILP: But secondly, we set up a returns agreement with Albania about a year and a half ago, and that saw...
+PHILP: A 94% reduction in Albanians crossing the English Channel because they knew if they came across there'd be a return.
+PHILP: So there are two very clear case studies showing you how a return scheme or removal scheme acts as a deterrent.
+PHILP: It'll end these dangerous and illegal and unnecessary crossings, giving us capacity to focus our attention on those people who are genuinely in need.
+BROWN: I'm happy to bet with anybody that the Rwanda scheme will not happen at all, and not just because the Tories are not going to be in government in any event.
+BROWN: It's a nonsense, it's a gimmick.
+BROWN: It panders to the worst kind of instincts of people.
+BROWN: It's not going to happen at all.
+BROWN: So to go back to the lady's question, working with immigrants, it is going to have to be about resources being put into the Home Office, and also into the housing and the other facilities available for people, whilst we have this huge backlog of refugees because they've not dealt with it.
+BROWN: But the one thing I would say, the most important thing in this election is to bear in mind, the money's not going to be there.
+BROWN: both the parties, Labour and Tory, £18 billion short.
+BROWN: That's what the IFS says.
+BROWN: They're not going to have the money to do these things.
+BROWN: That's the biggest problem we've got, and it won't deal with the long-standing problems of refugees, it won't deal with policing, it won't deal with crime, because the money is not there, either from Labour or the Conservative Party.
+DENYER: I'll be brief, Krishnan.
+DENYER: Sarma, thank you so much for your work.
+DENYER: I've been a fan and signed up on the mailing list of the JCWI since before I was a politician.
+DENYER: briefly we would create safe and legal routes as I said we would scrap the Rwanda scheme which at 1.8 million pounds per asylum seeker is an incredibly expensive way to be cruel.
+DENYER: We would allow asylum seekers to work in the meantime while they're waiting for their decision so they can support themselves
+DENYER: We would restore legal aid, which is the issue that's brought up to me time and time again by those working in the legal profession and as volunteers to support those seeking asylum.
+DENYER: We would end indefinite detention.
+DENYER: Asylum seekers are not criminals.
+DENYER: And finally, we would take expert advice from people like yourself.
+IORWERTH: The answer is in your question, of course, and it's about stopping the demonisation.
+IORWERTH: Of course, the Conservatives have made a right hash of processing asylum applications, and people caught up in that backlog are the people who are then demonised.
+IORWERTH: We have to remember that the UK has international obligations under the 1951 Refugees Act to play its part as a global player.
+IORWERTH: And you know what?
+IORWERTH: The UK's standing on the international stage has been damaged so much by the actions of this Conservative government in undermining those obligations.
+IORWERTH: We have to change the language.
+IORWERTH: My daughter worked for a youth organization welcoming Afghan refugees to Wales.
+IORWERTH: It enriched her life so much.
+IORWERTH: I'm so proud of her seeing those refugees settle in our communities, learning English, learning Welsh.
+IORWERTH: That's the nature of sanctuary principles that are important to us.
+IORWERTH: And they're just our international obligations that we should be proud of stepping up to the mark to deliver on.
+QUESTIONER_0: Richard Tice, you've been trying to get in.
+TICE: Yeah, look, the reality is, under the Green Party scheme, that that will act as a magnet for more people to come here, dangerously, across the English Channel, because if you give people the right to work, then that will increase it.
+TICE: What we've got to do, actually, is we've got to pick people up out of the boats and take them back to France.
+TICE: That will stop the deaths.
+TICE: That's the compassionate thing to do.
+TICE: That will stop the illegal trade.
+TICE: We know it works.
+QUESTIONER_0: You can't.
+QUESTIONER_0: You can't do that.
+TICE: We can do that.
+TICE: The Belgian authorities have been doing it off their own shores.
+TICE: They've been taking people back.
+QUESTIONER_0: Well, you just dropped them off
+QUESTIONER_0: on the beach.
+TICE: France has legal international obligations.
+TICE: It's because of Brexit that we can't do that.
+TICE: Under the 1982 UN Convention of Law at Sea, France has international obligations in order to pick people up and take them back.
+TICE: They're failing in those obligations.
+TICE: We're entitled to do that.
+TICE: That's the kind of thing to do.
+TICE: It will stop people dying.
+TICE: Forced returns are illegal, of course.
+TICE: Just answer that.
+TICE: It's a variant of
+TICE: Why don't you do that?
+THOMAS-SYMONDS: Is it legal?
+THOMAS-SYMONDS: In order to deal with the problem, nobody wants to see people risking their lives in these small boats in the English Channel.
+THOMAS-SYMONDS: I've been down to Dover, I've been across to France.
+THOMAS-SYMONDS: Just deal with that point about returning people to France.
+THOMAS-SYMONDS: Firstly, what we need to do is to work internationally.
+THOMAS-SYMONDS: The idea that you just do, as Richard is saying, is complete fantasy, to be frank.
+THOMAS-SYMONDS: The way that the French authorities would react would be to damage our cooperation, not enhance it.
+THOMAS-SYMONDS: But secondly, let me just say about the European Convention on Human Rights, I am proud of Britain, proud of our contribution to the world, proud of the contribution that cross-party Clement Attlee, Winston Churchill made to that European Convention on Human Rights.
+THOMAS-SYMONDS: To walk away from it and to become an international pariah
+THOMAS-SYMONDS: would frankly make us a country with far less influence on the world stage and I think we're much better than that.
+QUESTIONER_0: Nonsense.
+QUESTIONER_0: Yes.
+QUESTIONER_12: What's your perspective?
+QUESTIONER_12: Well, mine is actually a question.
+QUESTIONER_12: I'm talking about non-essential immigration here.
+QUESTIONER_12: It's causing, obviously putting a lot of pressure on the national health and police services.
+QUESTIONER_12: As a lone person, I'm starting to feel increasingly vulnerable and I'm seriously considering moving outside of the UK.
+QUESTIONER_12: How are you going to encourage me to stay?
+QUESTIONER_12: Because I really want to.
+QUESTIONER_0: OK, well, I'm not going to circle back into legal immigration, but Chris Philp, just answer that.
+QUESTIONER_0: How are you going to persuade her to stay?
+PHILP: Well, Kamalina... Do you want to persuade her to stay?
+QUESTIONER_0: Yeah, of course.
+PHILP: Of course, Kamalina, yes, we do want you to stay.
+PHILP: Of course we do.
+PHILP: We want to make sure that our immigration system
+PHILP: is reasonable in terms of numbers, which means, as we discussed previously, much, much lower numbers than we have at the moment.
+PHILP: We want to make sure it's targeted at people with high skills that we need to come and work here so that it helps our economy to grow.
+PHILP: And where there are people...
+PHILP: I think it was... Was it Piers, I think, who was struggling to recruit in...
+PHILP: I think it was the hospitality sector.
+PHILP: We want to focus first on trying to get people who are living here already
+PHILP: maybe on benefits or maybe just not working at all into those jobs.
+PHILP: I think that's the sort of coherent strategy that I hope will encourage you to stay in this fantastic country, in this fantastic county of Essex.
+QUESTIONER_0: Nick, if someone is so concerned by immigration that they're thinking of leaving the country,
+QUESTIONER_0: do you definitely want them to stay?
+THOMAS-SYMONDS: I'm just hugely concerned to hear that but I think what we need in terms of our immigration debate and indeed our immigration system is we just need a sense of fairness and we actually need to enforce the rules and I think it's those two things that gives the public confidence.
+THOMAS-SYMONDS: It's why, then, we have a very welcoming environment.
+THOMAS-SYMONDS: And, frankly, it's the absolute chaos that we've seen in our immigration system that I think has led, in a sense, Christian, to where you started late when you were...
+TICE: But we've actually heard from the poll that the public don't have confidence in either of the main two parties' plans for lawful immigration.
+TICE: That's the reality because they've broken promise after promise after promise.
+IORWERTH: And one further point, if I can make, and I wish you very well whatever decision you make, but your question goes to prove that people move.
+QUESTIONER_0: Okay, I'm going to move us on to a broader topic now, which is about the bigger global picture when it comes to migration.
+QUESTIONER_0: Let's take a question from Hamza Eagle.
+QUESTIONER_0: Hamza.
+QUESTIONER_13: Yes, clearly the migration debate is telling us that we're very interconnected as a global entity.
+QUESTIONER_13: My question is how do our policies impact migration?
+QUESTIONER_13: Our foreign policy, our trade policies, how do they impact migration?
+QUESTIONER_13: For example, we saw in places like Libya where slave markets emerged and where people are being ferried from by these gangs that we keep referring to.
+QUESTIONER_13: So how does our foreign policy, for example, again, places like Rwanda and the DRC, how do we ensure that our foreign policy does not add to migration
+QUESTIONER_13: from a negative perspective.
+QUESTIONER_13: Daisy Cooper.
+COOPER: So one of the reasons why I'm a liberal, why I'm a liberal Democrat is because I'm an internationalist and I think that we have a proud history as a country of playing a leading role on the world stage and I do think that under the Conservatives that record has been pretty trashed in many ways actually and the fact is we do live in an interconnected world and
+COOPER: And I believe that the way that we deal with these big global problems, whether it's the climate emergency, whether it's migration, whether it's international terrorism, whatever it might be, we have to do that by working with our friends and allies.
+COOPER: And we do that by being active on the world stage, by playing a leading role in international organisations, by having a seat at the table.
+COOPER: But it also means that we have to project our values.
+COOPER: Liberal Democrats want to make sure that our commitment to human rights is front and centre of any trade deal that we do with any country around the world.
+COOPER: Any arms sales that we do has to be governed by their human rights records.
+COOPER: We have to put our own values of democracy and human rights first and foremost and then work with our allies.
+QUESTIONER_0: Thank you.
+QUESTIONER_0: You've got about a minute each or so.
+QUESTIONER_0: Plaid Cymru, you're up.
+IORWERTH: It's a very, very important question.
+IORWERTH: I'm an internationalist too.
+IORWERTH: I chair the Welsh Parliament's branch of the Commonwealth Parliamentary Association, working with parliamentarians across the world.
+IORWERTH: I think the important thing for me is that leaders at a UK level should recognise that there is an impact to decisions made in terms of foreign policy.
+IORWERTH: And I would also make this point, Krishnan, that historically there's a reason why many people
+IORWERTH: are choosing to come to the UK because of the English language connection and the fact that those years of empire created those connections.
+IORWERTH: So those decisions made in terms of foreign policy many years ago are having an impact today.
+IORWERTH: Carla.
+DENYER: Well, I think that's a very good question, Hamza, and it's one that the UK government should be considering carefully.
+DENYER: It's the reason why the Green Party would increase the government's international aid budget and take a more proactive role in working towards
+DENYER: towards more peace especially in the Middle East at the moment and that's something the Green Party has been consistent on and also on tackling climate change because we know that with increasing climate change we are going to see increasing levels of conflict for example over water scarcity and it's going to cause increasing levels of migration and so yes
+DENYER: UK policy on everything from climate to aid has a huge impact on migration.
+DENYER: And if we are worried about numbers, and I have to say that I welcome migration, as you've heard from many of my other answers, but if we are worried about numbers, then the way to tackle that isn't to bring up the drawbridge, it's to reach out and to collaborate and to work internationally for the good of everybody.
+QUESTIONER_0: Let me just add in a question from Jane Richardson here, which is pertinent as well, Jane.
+QUESTIONER_14: Carly, you've already sort of touched on my question, but I wanted to ask the panel if they agree that the climate crisis will be the main driver of immigration in the future.
+IORWERTH: Rhun ap Iorwerth.
+IORWERTH: Absolutely.
+IORWERTH: I mean, we're already seeing the impacts of climate change.
+IORWERTH: It was disturbing, if I may say, hearing a spokesman on behalf of the Reform Party speaking on television in Wales last night with all the classic climate change-denying tropes being...
+TICE: You're denying climate change.
+TICE: Your spokesman was.
+TICE: It's how you adapt to it.
+TICE: Your spokesman was.
+TICE: It's about how you adapt to climate change.
+TICE: And the point is that net zero is the one answer.
+IORWERTH: No, no, no, he was denying climate change.
+IORWERTH: He was saying that scientists don't believe in climate change.
+IORWERTH: OK, let's tie this off for now.
+IORWERTH: But this, this is going to be at the heart of the movement of people...
+TICE: Which is why you've got to create economic growth in developing nations.
+TICE: That's the key thing.
+TICE: It's all about...
+TICE: Creating economic growth in itself doesn't tackle climate change.
+TICE: International trade is about creating economic growth, particularly in developing nations, to reduce that pressure on migration.
+TICE: But that doesn't tackle climate change.
+TICE: It absolutely does because what you've got economic growth and so that you can develop growth and systems within those developing nations in areas where there is greater climate change.
+TICE: You cannot expect mass immigration and migration to continue unparalleled.
+BROWN: Try and take photos of these questions if you like.
+BROWN: Hamza shows an admirable concern for the wider global issues which are going on.
+BROWN: If you look at Mexico today, for example, or previously in Venezuela, or coming out of Africa, and it's the same thing that underlies the concern about climate change, which is inequality of resources and poverty throughout the world.
+BROWN: That's what's driving it.
+BROWN: And if you want to have an influence on that, you have to have some moral authority behind you.
+BROWN: And the UK doesn't.
+BROWN: During the Brexit time, they struck deals which he did not believe they would even want to fulfil.
+BROWN: He said that afterwards.
+BROWN: Boris Johnson said he struck a deal and had no intention of fulfilling it.
+BROWN: So the level of trust, the level of regard for the UK is diminished hugely and that's detrimental.
+BROWN: And of course, the other side of it is real money going into foreign aid and support.
+BROWN: rather than spend £3 billion a year on nuclear weapons with the new Trident, why not spend it on trying to reduce inequality around the world?
+BROWN: And in Scotland, the only chance you've got to come out of the Brexit fix in which you've found yourself is to vote SNP.
+BROWN: Chris Philp.
+PHILP: Yes, so, Hamza, thank you for the question.
+PHILP: And your question seemed premised on a concern that perhaps we'd see mass migration movements in response to some of these challenges.
+PHILP: Now, I don't think mass migration would be
+PHILP: particularly good either for the country where people were leaving or indeed potentially Western countries to which people might be going.
+PHILP: So we should try and find ways of avoiding that happening.
+PHILP: And there are two components I think to that.
+PHILP: The first of those is peace and the second is prosperity.
+PHILP: Now in relation to peace, we've seen, you mentioned Libya as an example.
+PHILP: Now we've seen Russia actively stoking up conflict in Libya.
+PHILP: We've seen Russia intervening in Syria in the past as well.
+PHILP: We've seen China intervening in a number of African countries.
+PHILP: I think we need to be very mindful of the inflammatory effect that particularly Russia and China have, and as the West seek to contain that and prevent it causing instability in countries like Libya that you referenced.
+PHILP: Now, the second component besides peace is prosperity.
+PHILP: And I think one of the best ways that we in the West, including the United Kingdom, can promote prosperity
+PHILP: is through trade.
+PHILP: People can become more prosperous by building businesses and by exporting and importing.
+PHILP: Now, you know, the UK has recently jumped up the export league table.
+PHILP: We're now, I think, fourth in the world for exports.
+PHILP: But I'd like to see us, you know, using our free trade freedoms we now have to trade more with other countries, particularly in the developing
+THOMAS-SYMONDS: Nick Thomas-Simmons.
+THOMAS-SYMONDS: The climate crisis and the deep war, I think, will continue to be drivers around the world of people being unable to stay in their homes.
+THOMAS-SYMONDS: Their home's going to be extremely unsafe.
+THOMAS-SYMONDS: First of all, in foreign policy, which the other question was directed at, we need to set an example ourselves, first of all, that we are a country that abides by international law.
+THOMAS-SYMONDS: To have conservative cabinet ministers, no less, talking about breaking international law in a limited and specific way in the House of Commerce
+THOMAS-SYMONDS: Commons did us a great deal of damage.
+THOMAS-SYMONDS: I used to be shadowing international trade and I travelled the world and people were just astonished that Britain, famous for its rule of law, could have a cabinet minister doing that.
+THOMAS-SYMONDS: And secondly, on our international aid budget, it also is very, very important that we use it where there is war, where people are driven from their homes, so we can help people in their region so they can actually return to their home as quickly as they can.
+QUESTIONER_0: Right, thank you very much indeed.
+QUESTIONER_0: We're going to have to leave it there.
+QUESTIONER_0: Thank you all very much indeed for addressing those questions.
+QUESTIONER_0: Thank you to our audience for engaging with a very wide-ranging debate.

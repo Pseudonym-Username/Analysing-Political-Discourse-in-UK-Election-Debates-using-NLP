@@ -1,0 +1,4064 @@
+1
+00:00:01,381 --> 00:00:14,243
+[SPEAKER_07]: Tonight, in a Channel 4 News special, the seven main parties go head-to-head on two of the biggest issues this election, immigration and law and order.
+
+2
+00:00:21,344 --> 00:00:33,545
+[SPEAKER_07]: Good evening from Colchester, the original capital of Roman Britain, a city established by some of the first people to come here in small boats across the Channel, the perfect location then to debate immigration.
+
+3
+00:00:34,186 --> 00:00:40,617
+[SPEAKER_07]: We're at the first site art centre in the shadow of Colchester Castle, used for centuries as a jail.
+
+4
+00:00:41,038 --> 00:00:44,704
+[SPEAKER_07]: It was famously grim, damp, run down and overcrowded.
+
+5
+00:00:45,285 --> 00:00:46,407
+[SPEAKER_07]: Sound familiar?
+
+6
+00:00:46,387 --> 00:00:50,693
+[SPEAKER_07]: On this special extended programme, we'll also discuss law and order.
+
+7
+00:00:50,994 --> 00:00:56,021
+[SPEAKER_07]: We'll hear from an audience drawn from across the political spectrum and from the seven main parties.
+
+8
+00:00:56,562 --> 00:01:00,488
+[SPEAKER_07]: For the Conservatives, we have Home Office Minister Chris Philp.
+
+9
+00:01:00,508 --> 00:01:03,753
+[SPEAKER_07]: Nick Thomas-Simmons is Labour's Shadow Cabinet Office Minister.
+
+10
+00:01:04,194 --> 00:01:07,018
+[SPEAKER_07]: Daisy Cooper is the Liberal Democrat Deputy Leader.
+
+11
+00:01:07,479 --> 00:01:09,902
+[SPEAKER_07]: Richard Tice is Chairman of Reform UK.
+
+12
+00:01:10,443 --> 00:01:13,828
+[SPEAKER_07]: Carla Denyer is Co-Leader of the Green Party.
+
+13
+00:01:13,808 --> 00:01:22,060
+[SPEAKER_07]: Keith Brown is the SNP Deputy Party Leader, and representing Plaid Cymru is its leader, Rhyn App Yorworth.
+
+14
+00:01:22,080 --> 00:01:29,051
+[SPEAKER_07]: Now, the questions tonight come mainly from the audience, but we also have an exclusive poll from Savanta to inform the debate.
+
+15
+00:01:29,572 --> 00:01:32,997
+[SPEAKER_07]: For our first part, we're going to focus on law and order.
+
+16
+00:01:33,658 --> 00:01:41,149
+[SPEAKER_07]: We asked people across the UK, which of the following parties do you think would have the best policies for reducing crime?
+
+17
+00:01:41,129 --> 00:01:49,769
+[SPEAKER_07]: Labour polled the best here on 35%, while 20% said the Conservatives, which is broadly in line with national voting intentions.
+
+18
+00:01:50,331 --> 00:01:56,826
+[SPEAKER_07]: 12% said reform, 4% the Lib Dems, 23% said they don't know.
+
+19
+00:01:56,806 --> 00:02:03,594
+[SPEAKER_07]: We also asked, to what extent do you trust or not trust the police's ability to keep women safe in public?
+
+20
+00:02:04,155 --> 00:02:06,999
+[SPEAKER_07]: Just 10% said they trust the police a lot.
+
+21
+00:02:07,379 --> 00:02:08,801
+[SPEAKER_07]: Amongst women, it's just 5%.
+
+22
+00:02:09,682 --> 00:02:20,856
+[SPEAKER_07]: But overall, 52% say they have some or a lot of trust in the police, while more than 42% don't, including 13% who do not trust them at all.
+
+23
+00:02:20,836 --> 00:02:28,146
+[SPEAKER_07]: Overall, women were evenly split, with 46% saying they trust the police and 46% saying they don't.
+
+24
+00:02:29,223 --> 00:02:40,893
+[SPEAKER_07]: And our third question, the government has recently announced that in England and Wales, some prisoners near the end of their sentence may be released up to 70 days early in a bid to tackle prison overcrowding.
+
+25
+00:02:41,314 --> 00:02:43,776
+[SPEAKER_07]: To what extent do you support or oppose this?
+
+26
+00:02:44,377 --> 00:02:49,701
+[SPEAKER_07]: As you can see, a pretty even split between those who oppose it or are neutral.
+
+27
+00:02:50,342 --> 00:02:58,369
+[SPEAKER_07]: Overall, more than half the people polled oppose early release and just 22% support it.
+
+28
+00:02:59,513 --> 00:03:06,422
+[SPEAKER_07]: Well, let's address the first of those results by going straight to our audience and a question from Simon Atwood.
+
+29
+00:03:06,442 --> 00:03:06,783
+[SPEAKER_07]: Simon.
+
+30
+00:03:08,104 --> 00:03:10,928
+[SPEAKER_04]: We're becoming more fearful of victim-based crime.
+
+31
+00:03:13,031 --> 00:03:23,565
+[SPEAKER_04]: Only a week ago, Colchester Gazette and others reported on sentencing of a 14-year-old boy who attacked another with a kitchen knife while the teacher was present.
+
+32
+00:03:23,585 --> 00:03:26,128
+[SPEAKER_04]: That heroic teacher prevented serious injury.
+
+33
+00:03:27,070 --> 00:03:32,557
+[SPEAKER_04]: This is my daughter's otherwise superb Ofsted Outstanding Secondary School.
+
+34
+00:03:32,577 --> 00:03:34,760
+[SPEAKER_04]: But what are the local victim crime facts?
+
+35
+00:03:35,741 --> 00:03:39,686
+[SPEAKER_04]: Essex Police Annual Publication Performance Summary to October 2023.
+
+36
+00:03:40,427 --> 00:03:48,637
+[SPEAKER_04]: Of Colchester's near 15,000 victim-based crimes, half of those were violent against the person.
+
+37
+00:03:49,478 --> 00:03:52,622
+[SPEAKER_04]: Only 11.7% were solved.
+
+38
+00:03:53,632 --> 00:03:56,765
+[SPEAKER_04]: It turns out Colchester and Essex Police as a whole did very well.
+
+39
+00:03:57,568 --> 00:04:02,950
+[SPEAKER_04]: Nationally, this figure shockingly averages nearer 6% solved.
+
+40
+00:04:04,752 --> 00:04:09,117
+[SPEAKER_04]: Do the panel find current crime figures fearful?
+
+41
+00:04:09,638 --> 00:04:15,424
+[SPEAKER_04]: And what new measures would you propose to reduce victim-based crime and improve policing solved statistics?
+
+42
+00:04:15,665 --> 00:04:23,954
+[SPEAKER_07]: OK, before we go to the panel, I want to bring in another member of our audience, Rory Ryhill, who has just resigned as a police sergeant in the Metropolitan Police after 11 years.
+
+43
+00:04:23,994 --> 00:04:24,595
+[SPEAKER_07]: Rory, where are you?
+
+44
+00:04:24,875 --> 00:04:26,237
+[SPEAKER_22]: Hello, yes, that's me.
+
+45
+00:04:26,707 --> 00:04:35,020
+[SPEAKER_22]: So yes, I've recently resigned as a police sergeant in the Metropolitan Police Service where I proudly served for 11 years.
+
+46
+00:04:35,962 --> 00:04:50,284
+[SPEAKER_22]: I became disillusioned with the career that I loved due to atrocious working conditions, ineffective IT and a complete lack of support from politicians at every level and from every party.
+
+47
+00:04:50,264 --> 00:04:57,059
+[SPEAKER_22]: It was recently publicised that a third of my former colleagues are considering a similar move in resignation.
+
+48
+00:04:57,881 --> 00:05:04,034
+[SPEAKER_22]: What specific actions would the panel take to retain our talented police officers across the country?
+
+49
+00:05:04,375 --> 00:05:05,758
+[SPEAKER_07]: OK, let's begin with Chris Felt.
+
+50
+00:05:07,122 --> 00:05:16,492
+[SPEAKER_02]: Christian, well, Simon, thank you for your question, because the father of a daughter myself, the story you told about what happened at your daughter's school is as concerning to me as it is to you.
+
+51
+00:05:16,612 --> 00:05:21,598
+[SPEAKER_02]: Nobody wants their daughter or their son or any of their relations exposed to violence of that kind.
+
+52
+00:05:21,638 --> 00:05:31,028
+[SPEAKER_02]: Now, what I can say by way of reassurance is that since 2010, violent crime, according to the Office for National Statistics, has come down by 44%, which is significant progress.
+
+53
+00:05:31,369 --> 00:05:32,450
+[SPEAKER_02]: But we do need to go further.
+
+54
+00:05:32,770 --> 00:05:34,412
+[SPEAKER_02]: Now, in relation to knife crime,
+
+55
+00:05:34,392 --> 00:05:38,618
+[SPEAKER_02]: The incident you mentioned involved a 14-year-old perpetrator, I think you said.
+
+56
+00:05:38,658 --> 00:05:46,610
+[SPEAKER_02]: Now, I remember attending a few months ago the tragic funeral of Eliane and Amin Croydon, a 15-year-old girl murdered by a young alleged perpetrator.
+
+57
+00:05:46,850 --> 00:05:51,637
+[SPEAKER_02]: So what I'd like to see is more early intervention to get those youngsters onto the right track.
+
+58
+00:05:51,657 --> 00:05:55,623
+[SPEAKER_02]: We're investing an extra... We're going to invest next year £75 million in doing that.
+
+59
+00:05:56,064 --> 00:05:59,809
+[SPEAKER_02]: I'm working to identify young people in local authority areas
+
+60
+00:05:59,789 --> 00:06:08,367
+[SPEAKER_02]: most at risk of getting onto the wrong track, so we can intervene early with mentoring and other interventions to stop people that young committing offences in the first place.
+
+61
+00:06:08,587 --> 00:06:09,509
+[SPEAKER_02]: But that is only part of it.
+
+62
+00:06:09,529 --> 00:06:10,892
+[SPEAKER_02]: We need tougher enforcement as well.
+
+63
+00:06:11,573 --> 00:06:14,299
+[SPEAKER_02]: I believe in stop and search as a way of taking knives off the street.
+
+64
+00:06:14,920 --> 00:06:21,173
+[SPEAKER_02]: Labour's Mayor Sadiq Khan in London unfortunately doesn't, which leads I think to London streets being less safe.
+
+65
+00:06:21,153 --> 00:06:22,956
+[SPEAKER_02]: We also need to invest in hotspot policing.
+
+66
+00:06:23,296 --> 00:06:24,598
+[SPEAKER_02]: We've now got hotspot patrols.
+
+67
+00:06:25,179 --> 00:06:28,364
+[SPEAKER_02]: They launched just a few weeks ago across England and Wales.
+
+68
+00:06:28,445 --> 00:06:43,008
+[SPEAKER_02]: Every single police force intensive patrols in areas where antisocial behavior and serious violence is a problem, including many right here in Essex, to make sure the police are on the spot when antisocial behavior or other incidents may occur.
+
+69
+00:06:43,268 --> 00:06:49,017
+[SPEAKER_02]: So while it's good that we've got violent crime down by 44% during this government's term of office,
+
+70
+00:06:48,997 --> 00:06:49,978
+[SPEAKER_02]: We need to go further.
+
+71
+00:06:50,318 --> 00:07:04,991
+[SPEAKER_02]: Those measures combined with record ever police numbers and the 8,000 extra officers we're going to hire, I hope and I expect, will make sure that fathers like you and me and mothers and fathers across the country can be confident that their children are going to be safe.
+
+72
+00:07:05,011 --> 00:07:14,579
+[SPEAKER_07]: Just factually, of course, we should tell people that although the absolute number of police officers, if they deliver, will be the highest ever, they won't be the highest ever per capita.
+
+73
+00:07:14,839 --> 00:07:17,482
+[SPEAKER_07]: Nick Thomas-Simmons, he's the policing minister.
+
+74
+00:07:17,642 --> 00:07:19,003
+[SPEAKER_07]: Is he on the right track?
+
+75
+00:07:18,983 --> 00:07:22,727
+[SPEAKER_08]: No, and thank you, first of all, Simon, for your question.
+
+76
+00:07:22,767 --> 00:07:25,150
+[SPEAKER_08]: It's awful to hear about the incident at your daughter's school.
+
+77
+00:07:25,170 --> 00:07:29,134
+[SPEAKER_08]: And thank you, sir, for your 11 years of service to the Metropolitan Police.
+
+78
+00:07:29,154 --> 00:07:43,671
+[SPEAKER_08]: And I'm very sorry to hear about your experience and how you feel about a lack of support, because police officers up and down the country are going out and putting themselves in harm's way on the front line to try to protect other people.
+
+79
+00:07:43,711 --> 00:07:46,594
+[SPEAKER_08]: I think we should appreciate and mark that.
+
+80
+00:07:46,574 --> 00:07:52,984
+[SPEAKER_08]: Fundamentally, we need to protect communities, we need to prevent crime, and we need to punish criminals.
+
+81
+00:07:53,044 --> 00:07:57,250
+[SPEAKER_08]: And frankly, the Conservatives are failing on all three.
+
+82
+00:07:57,690 --> 00:08:08,947
+[SPEAKER_08]: And listening to Chris then, as the policing minister, somehow boasting about violent crime coming down, that really is out of touch with how people feel up and down the country.
+
+83
+00:08:08,987 --> 00:08:14,235
+[SPEAKER_08]: I think of a grandmother that I met in my hometown only in recent weeks.
+
+84
+00:08:14,215 --> 00:08:24,546
+[SPEAKER_08]: worked hard all her life trying to enjoy her retirement, and yet telling me that she doesn't feel safe when she is going out on the streets at night.
+
+85
+00:08:24,606 --> 00:08:25,687
+[SPEAKER_08]: We need to change that.
+
+86
+00:08:25,708 --> 00:08:32,695
+[SPEAKER_08]: And one of the fundamental things we have to do is the restoration of neighbourhood policing.
+
+87
+00:08:32,755 --> 00:08:37,020
+[SPEAKER_08]: Because when the Conservatives tell you about more police officers, it's a con trick.
+
+88
+00:08:37,040 --> 00:08:40,864
+[SPEAKER_08]: The first thing they did coming into power in 2010 was to cut
+
+89
+00:08:40,844 --> 00:08:42,768
+[SPEAKER_08]: our police by 21,000.
+
+90
+00:08:43,049 --> 00:08:47,679
+[SPEAKER_08]: They somehow want us to be grateful for putting 20,000 of those back.
+
+91
+00:08:47,699 --> 00:08:50,185
+[SPEAKER_07]: But they're offering 8,000 and you're only offering 3,000.
+
+92
+00:08:50,686 --> 00:08:58,524
+[SPEAKER_08]: We are saying we will put 13,000 officers on our streets, a real visible policing presence.
+
+93
+00:08:58,564 --> 00:08:59,005
+[SPEAKER_07]: Only 3,000?
+
+94
+00:08:58,985 --> 00:09:13,081
+[SPEAKER_08]: What we are talking about is we will take 3,000 from the existing uplift to go out into communities, the additional 3,000, 4,000 PCSOs and additional 3,000 special constables.
+
+95
+00:09:13,102 --> 00:09:22,933
+[SPEAKER_08]: 13,000 in total to give that visible reassurance to our communities that frankly when I go up and down the country people tell me is desperately needed.
+
+96
+00:09:22,913 --> 00:09:29,438
+[SPEAKER_07]: OK, Keith Brown, it was reported last year that 100 serving officers in Scotland had applied to join a single police force in Australia.
+
+97
+00:09:29,759 --> 00:09:32,670
+[SPEAKER_07]: You've got the same problem as this man here in the Met.
+
+98
+00:09:32,971 --> 00:09:37,457
+[SPEAKER_20]: First of all, I should say that this election will not change the administration of the police in Scotland.
+
+99
+00:09:37,517 --> 00:09:40,020
+[SPEAKER_20]: It's dealt with by the government, currently the SNP government.
+
+100
+00:09:40,681 --> 00:09:46,549
+[SPEAKER_20]: And to make some suggestions for Simon for the terrible situation he described, first of all, you should pay your police officers more.
+
+101
+00:09:46,769 --> 00:09:50,775
+[SPEAKER_20]: So in Scotland, every single rank of police officer is paid more than they are in England and Wales.
+
+102
+00:09:51,275 --> 00:09:52,537
+[SPEAKER_20]: You should have more police officers.
+
+103
+00:09:52,677 --> 00:09:57,424
+[SPEAKER_20]: So we have around 20% more police officers per capita in Scotland than they have in England and Wales.
+
+104
+00:09:57,904 --> 00:09:59,907
+[SPEAKER_20]: And thirdly, we had a very...
+
+105
+00:09:59,887 --> 00:10:08,680
+[SPEAKER_20]: successful initiatives called No Knives, Better Lives, which instead of taking what you've heard from the Conservatives, the hit them hard, stop and search stuff, it was about public health.
+
+106
+00:10:09,040 --> 00:10:11,584
+[SPEAKER_20]: And it oversaw a massive reduction in knife crime.
+
+107
+00:10:11,684 --> 00:10:12,145
+[SPEAKER_20]: It worked.
+
+108
+00:10:12,686 --> 00:10:18,935
+[SPEAKER_20]: I mean, Glasgow in particular, the reputation, as you may know, for many years has been a knife capital, certainly of Scotland, perhaps even the UK.
+
+109
+00:10:19,235 --> 00:10:22,620
+[SPEAKER_20]: We've dramatically reduced knife crime since 2007.
+
+110
+00:10:22,600 --> 00:10:29,848
+[SPEAKER_20]: However, all those things are put at jeopardy by what you've not heard from the two speakers, the £18 billion of cuts which they're both going to bring in.
+
+111
+00:10:30,229 --> 00:10:40,661
+[SPEAKER_20]: And that will affect policing in Scotland because the cuts which you've seen already under austerity will come from Labour, they'll come from the Tories, whoever gets in, and that is the biggest threat to continued effective policing in Scotland.
+
+112
+00:10:41,001 --> 00:10:43,063
+[SPEAKER_20]: And I have every sympathy with the situation you've described.
+
+113
+00:10:43,083 --> 00:10:44,625
+[SPEAKER_20]: Chris Philp, that's right, isn't it?
+
+114
+00:10:44,909 --> 00:10:47,493
+[SPEAKER_02]: You've got £18 billion of cuts up your sleeve.
+
+115
+00:10:47,534 --> 00:10:54,445
+[SPEAKER_02]: The Scottish Government already receive much more generous funding than England and Wales because of the Barnett formula.
+
+116
+00:10:55,066 --> 00:10:57,611
+[SPEAKER_02]: And as I say, actually police numbers in Scotland have recently gone down.
+
+117
+00:10:58,032 --> 00:11:08,149
+[SPEAKER_02]: We have now hit record ever numbers across England and Wales, more in fact, as Nick knows, more than there were in 2010 by about 3,000.
+
+118
+00:11:08,129 --> 00:11:08,790
+[SPEAKER_06]: Richard Sarnes.
+
+119
+00:11:08,810 --> 00:11:09,992
+[SPEAKER_02]: Be honest with the figures.
+
+120
+00:11:10,012 --> 00:11:10,814
+[SPEAKER_06]: 8,000 more.
+
+121
+00:11:10,934 --> 00:11:14,219
+[SPEAKER_06]: Since you've been in charge, the population has increased by about 6 million people.
+
+122
+00:11:14,239 --> 00:11:14,860
+[SPEAKER_02]: Crime's gone down.
+
+123
+00:11:15,001 --> 00:11:15,501
+[SPEAKER_02]: No, it hasn't.
+
+124
+00:11:15,522 --> 00:11:16,062
+[SPEAKER_02]: Crime has gone down.
+
+125
+00:11:16,082 --> 00:11:16,423
+[SPEAKER_02]: No, it hasn't.
+
+126
+00:11:16,443 --> 00:11:17,825
+[SPEAKER_06]: Knife crime has almost tripled.
+
+127
+00:11:18,106 --> 00:11:24,657
+[SPEAKER_06]: Let's remember, you talk about stop and search, but actually stop and search under your government has reduced by two-thirds in the last 14 years.
+
+128
+00:11:25,098 --> 00:11:28,804
+[SPEAKER_06]: Per 100,000 people, we're almost 10% less.
+
+129
+00:11:28,784 --> 00:11:32,510
+[SPEAKER_06]: officers, police officers across England and Wales.
+
+130
+00:11:32,530 --> 00:11:46,773
+[SPEAKER_06]: So the reality is that you've presided over a massive reduction and that we've got to get more police out on the streets, away from the back office, away from their desks, get police officers on the streets, preventing crime, reassuring people.
+
+131
+00:11:47,074 --> 00:11:51,802
+[SPEAKER_06]: Stop and search works, we know it works, we need to dramatically increase the use of it.
+
+132
+00:11:51,822 --> 00:11:53,965
+[SPEAKER_07]: Carla, you're shaking your head at that.
+
+133
+00:11:54,569 --> 00:12:05,565
+[SPEAKER_15]: I am, because research from the Runnymede Trust has shown that black people are 18 times more likely to be stopped with stop-and-search than people who are not black.
+
+134
+00:12:06,126 --> 00:12:07,288
+[SPEAKER_15]: So it's really clear.
+
+135
+00:12:07,328 --> 00:12:14,979
+[SPEAKER_15]: The way that stop-and-search works, whether it's intended to be or not, is racist, and the Green Party would stop the routine use of stop-and-search.
+
+136
+00:12:15,039 --> 00:12:16,461
+[SPEAKER_07]: Does that mean it doesn't work?
+
+137
+00:12:16,501 --> 00:12:19,065
+[SPEAKER_06]: So knife crime's going to go up, because the evidence is there, Carla.
+
+138
+00:12:19,365 --> 00:12:21,428
+[SPEAKER_06]: Reduce stop-and-search, knife crime soars.
+
+139
+00:12:21,448 --> 00:12:21,969
+[SPEAKER_06]: No, it doesn't.
+
+140
+00:12:22,009 --> 00:12:23,952
+[SPEAKER_20]: Not in Scotland.
+
+141
+00:12:23,932 --> 00:12:26,157
+[SPEAKER_15]: We would stop the routine use of stop-and-search.
+
+142
+00:12:26,277 --> 00:12:27,680
+[SPEAKER_15]: If there is a reasonable suspicion...
+
+143
+00:12:27,700 --> 00:12:27,960
+[SPEAKER_06]: Brilliant.
+
+144
+00:12:27,980 --> 00:12:30,646
+[SPEAKER_06]: So the Green Party get in, we're all going to be stabbed a nice even more.
+
+145
+00:12:30,666 --> 00:12:34,414
+[SPEAKER_15]: If there is a reasonable suspicion, then, sure, you need to search somebody.
+
+146
+00:12:34,474 --> 00:12:38,843
+[SPEAKER_15]: But the routine use of stop-and-search, whether it's intended to be or not, is a racist endeavor.
+
+147
+00:12:38,863 --> 00:12:39,565
+[SPEAKER_06]: It's called a deterrent.
+
+148
+00:12:39,605 --> 00:12:41,168
+[SPEAKER_06]: That's what policing is all about.
+
+149
+00:12:41,188 --> 00:12:42,210
+[SPEAKER_06]: It's being a deterrent.
+
+150
+00:12:42,230 --> 00:12:43,493
+[SPEAKER_07]: Daisy Cooper from the Lib Dems.
+
+151
+00:12:43,473 --> 00:12:50,750
+[SPEAKER_16]: If I can speak to Simon, can I just say it's every parent's worst nightmare that their child might have a knife pulled on them.
+
+152
+00:12:51,192 --> 00:12:58,830
+[SPEAKER_16]: The Conservatives have tried to ban zombie knives three times in the last few years and it's clear that that isn't working.
+
+153
+00:12:58,850 --> 00:13:00,975
+[SPEAKER_16]: So we do need a different approach.
+
+154
+00:13:00,955 --> 00:13:06,724
+[SPEAKER_16]: We have to have expert youth services that can go in and support young people who are scared in their communities.
+
+155
+00:13:07,125 --> 00:13:11,672
+[SPEAKER_16]: We have got to have community policing so that police officers know their communities.
+
+156
+00:13:11,712 --> 00:13:15,658
+[SPEAKER_16]: They work with faith groups, community groups, Neighbourhood Watch, all those kind of different groups.
+
+157
+00:13:15,678 --> 00:13:18,683
+[SPEAKER_16]: They work hand in glove so they have intelligence led.
+
+158
+00:13:18,943 --> 00:13:22,609
+[SPEAKER_16]: And on stop and search, let's be really clear, there is a place
+
+159
+00:13:22,589 --> 00:13:27,261
+[SPEAKER_16]: for stop and search, but it has to be based on intelligence, not on profiling.
+
+160
+00:13:27,702 --> 00:13:38,149
+[SPEAKER_16]: And the use of suspicionless stop and search is what builds up animosity and a distrust between communities and police, rather than building the trust that we so desperately need.
+
+161
+00:13:38,169 --> 00:13:39,653
+[SPEAKER_09]: Let's hear from Plaid Cymru and reenact yours.
+
+162
+00:13:40,510 --> 00:13:44,714
+[SPEAKER_09]: Talking about victims, that's what was at the heart of the question.
+
+163
+00:13:44,754 --> 00:13:49,659
+[SPEAKER_09]: I was attacked when I was about 13 or 14 by other teenagers.
+
+164
+00:13:50,559 --> 00:13:54,023
+[SPEAKER_09]: It left a deep scar on me for many years, actually.
+
+165
+00:13:55,384 --> 00:14:03,372
+[SPEAKER_09]: No knives involved, thankfully, but it didn't take away the fear in me at that time.
+
+166
+00:14:03,432 --> 00:14:07,796
+[SPEAKER_09]: And when the same thing happened to my son recently, I could feel his pain.
+
+167
+00:14:08,356 --> 00:14:10,298
+[SPEAKER_09]: On knife crime, we had
+
+168
+00:14:10,278 --> 00:14:14,906
+[SPEAKER_09]: the attack at a school in Ammanford in the south of Wales recently.
+
+169
+00:14:15,988 --> 00:14:30,052
+[SPEAKER_09]: Again, looking at the victims, Applied Cymru is talking about establishing a role of a victim's commissioner for Wales, because it's by listening to and hearing and acting on the fears and the wishes of victims that we build a better criminal justice system.
+
+170
+00:14:30,092 --> 00:14:32,556
+[SPEAKER_09]: On policing, by the way, and retention,
+
+171
+00:14:32,536 --> 00:14:35,942
+[SPEAKER_09]: It's like with teachers and nurses in many ways.
+
+172
+00:14:36,223 --> 00:14:40,851
+[SPEAKER_09]: What I think police women and men want to feel is to feel valued.
+
+173
+00:14:40,911 --> 00:14:52,772
+[SPEAKER_09]: And when you've gone through a process over the past 14 years of being told, we want fewer, police, public spending cuts slashes the numbers, then they gradually build it back up when they realize the errors of their ways.
+
+174
+00:14:52,752 --> 00:14:54,776
+[SPEAKER_09]: just undermines policing.
+
+175
+00:14:54,836 --> 00:14:58,562
+[SPEAKER_09]: Some of it's about pay, but some of it is about just feeling valued.
+
+176
+00:14:58,602 --> 00:15:02,850
+[SPEAKER_09]: But for us in Wales, of course, we need to get hold of powers over policing.
+
+177
+00:15:03,030 --> 00:15:04,673
+[SPEAKER_09]: Every bit of evidence suggests we should.
+
+178
+00:15:05,074 --> 00:15:07,658
+[SPEAKER_09]: Both the Conservatives and Labour ignore that.
+
+179
+00:15:07,678 --> 00:15:09,802
+[SPEAKER_07]: Let's move to another aspect of this from the audience.
+
+180
+00:15:09,822 --> 00:15:10,203
+[SPEAKER_07]: No, hold on.
+
+181
+00:15:10,243 --> 00:15:13,949
+[SPEAKER_07]: I need to bring in another question from the audience, which is informed by our poll.
+
+182
+00:15:14,591 --> 00:15:15,452
+[SPEAKER_07]: Petra Jones.
+
+183
+00:15:17,879 --> 00:15:24,392
+[SPEAKER_10]: The question is specifically about the safety of women and girls and how can the rates of violence against women and girls be reduced.
+
+184
+00:15:24,713 --> 00:15:26,100
+[SPEAKER_07]: Carla Denyer from the Greens.
+
+185
+00:15:27,262 --> 00:15:29,186
+[SPEAKER_15]: Well, you're right to ask the question.
+
+186
+00:15:29,226 --> 00:15:39,304
+[SPEAKER_15]: This is such a serious issue and the continuing abuse, harassment and worse of women and girls in this country is an absolute stain on our society.
+
+187
+00:15:39,745 --> 00:15:45,014
+[SPEAKER_15]: The Green Party would make it a priority to end domestic abuse and violence against women and girls.
+
+188
+00:15:45,034 --> 00:15:49,202
+[SPEAKER_15]: We want to free up police time to ensure that they can focus on those issues.
+
+189
+00:15:49,182 --> 00:16:02,262
+[SPEAKER_15]: and we would make sure that police are trained to deal with domestic violence because too often we hear reports of women who have brought these cases to the police and have not been taken seriously, so that's the absolute top line for me.
+
+190
+00:16:02,763 --> 00:16:09,553
+[SPEAKER_15]: We would also, and this has been a long-running Green Party campaign for a few years set up by our former deputy leader Amelia Womack,
+
+191
+00:16:09,533 --> 00:16:11,837
+[SPEAKER_15]: is to make misogyny a hate crime.
+
+192
+00:16:11,917 --> 00:16:13,920
+[SPEAKER_15]: It's amazing that it isn't already.
+
+193
+00:16:13,960 --> 00:16:17,806
+[SPEAKER_15]: I think that would help the police and our justice system to take it seriously.
+
+194
+00:16:18,166 --> 00:16:26,158
+[SPEAKER_15]: And finally, we would develop and implement a new UK-wide strategy to tackle rape, sexual abuse, FGM and trafficking.
+
+195
+00:16:26,178 --> 00:16:26,299
+[SPEAKER_15]: OK.
+
+196
+00:16:26,319 --> 00:16:29,123
+[SPEAKER_15]: But to undermine, just briefly... You need to be really quick.
+
+197
+00:16:29,143 --> 00:16:30,445
+[SPEAKER_15]: ..to underpin all of this...
+
+198
+00:16:30,425 --> 00:16:40,556
+[SPEAKER_15]: We need proper accountability so that women can regain trust in the police force because too many incidents in recent years, police officers have been part of the problem rather than the solution.
+
+199
+00:16:40,576 --> 00:16:45,782
+[SPEAKER_07]: I'm going to have to ask you all to be briefer with your answers because we've got quite a few questions to get through.
+
+200
+00:16:46,303 --> 00:16:47,884
+[SPEAKER_07]: Does Labour want a misogyny hate crime?
+
+201
+00:16:48,185 --> 00:16:55,052
+[SPEAKER_08]: Addressing violence against women and girls has to be a guiding mission of any government.
+
+202
+00:16:55,132 --> 00:16:59,217
+[SPEAKER_08]: If Labour were privileged enough to form a government, that is exactly what it would be.
+
+203
+00:16:59,197 --> 00:17:06,690
+[SPEAKER_08]: Just 3 in 100 reported rapes results in a charge, let alone a conviction.
+
+204
+00:17:07,231 --> 00:17:13,602
+[SPEAKER_08]: And rape victims are waiting on average 400 days when it does get to that initial charge.
+
+205
+00:17:13,623 --> 00:17:15,045
+[SPEAKER_08]: What we need to do as a first step
+
+206
+00:17:15,025 --> 00:17:20,452
+[SPEAKER_08]: is we need specialist rape courts in our criminal justice system to speed that up.
+
+207
+00:17:20,492 --> 00:17:25,819
+[SPEAKER_08]: And secondly, we need to make sure that victims are at the heart of the process and get the support they need.
+
+208
+00:17:25,839 --> 00:17:31,707
+[SPEAKER_08]: Because what happens with delays and results like that is it puts people off coming forward.
+
+209
+00:17:32,027 --> 00:17:37,715
+[SPEAKER_08]: And it also means that in the course of the criminal process, witnesses go to one side, they don't turn up.
+
+210
+00:17:37,735 --> 00:17:41,039
+[SPEAKER_08]: We have to make it a guiding mission and a priority, and that's exactly...
+
+211
+00:17:41,059 --> 00:17:43,142
+[SPEAKER_07]: But you won't go as far as the Greens, clearly?
+
+212
+00:17:43,122 --> 00:17:45,005
+[SPEAKER_07]: on a hate law on misogyny?
+
+213
+00:17:45,145 --> 00:17:48,710
+[SPEAKER_08]: Well, I think we absolutely need to tackle misogyny.
+
+214
+00:17:48,730 --> 00:17:56,061
+[SPEAKER_08]: I think we need to be addressing it in schools before people are even adults and coming into society.
+
+215
+00:17:56,121 --> 00:17:58,104
+[SPEAKER_08]: Absolutely we need to deal with misogyny in our society.
+
+216
+00:17:58,124 --> 00:18:02,190
+[SPEAKER_08]: But that is about leadership from government and it's about all of us together too.
+
+217
+00:18:02,210 --> 00:18:03,392
+[SPEAKER_07]: Keith Brown from the SNP.
+
+218
+00:18:03,372 --> 00:18:09,918
+[SPEAKER_20]: Well, we are quite far down the road towards the Misogyny Act, actually informed by the work of Helena Kennedy, who's a Labour peer in the House of Lords.
+
+219
+00:18:10,159 --> 00:18:14,082
+[SPEAKER_20]: And it's a huge issue, and it reflects wider society, the misogyny that we see there.
+
+220
+00:18:14,603 --> 00:18:19,227
+[SPEAKER_20]: And some of the stuff that's happened in the Met, which people will be familiar with, is not unknown in Scotland as well.
+
+221
+00:18:19,588 --> 00:18:25,614
+[SPEAKER_20]: And it doesn't just affect women and girls or members of the public, it affects women and girls, well, women in particular, in the police force.
+
+222
+00:18:26,114 --> 00:18:28,517
+[SPEAKER_20]: So you have to have that transparency that's been talked about.
+
+223
+00:18:28,537 --> 00:18:30,038
+[SPEAKER_20]: You have to have proper vetting.
+
+224
+00:18:30,018 --> 00:18:43,034
+[SPEAKER_20]: The vetting has not been good, and even finding out a police officer that served with another police force, what their background is, you have to know that, and you have to have the accountability, which means that when somebody is accused of something, there's a proper process that people can have faith in.
+
+225
+00:18:43,414 --> 00:18:47,279
+[SPEAKER_20]: So there is a huge job to do in terms of rebuilding trust across the country.
+
+226
+00:18:47,299 --> 00:18:48,761
+[SPEAKER_20]: The same will be true in Scotland as well.
+
+227
+00:18:49,041 --> 00:18:56,110
+[SPEAKER_20]: But the root of it is the misogyny, which is evident in wider society, and that's why I'm very proud that Scotland's taking the lead in terms of misogyny.
+
+228
+00:18:56,090 --> 00:19:01,670
+[SPEAKER_07]: Daisy, I don't know what you thought of the poll, but, you know, almost half of the women saying they have confidence in the police.
+
+229
+00:19:02,111 --> 00:19:03,616
+[SPEAKER_07]: But it means that every other one doesn't.
+
+230
+00:19:03,978 --> 00:19:05,222
+[SPEAKER_07]: That's quite shocking, isn't it?
+
+231
+00:19:05,607 --> 00:19:08,211
+[SPEAKER_16]: It's not shocking to me as a woman, it really isn't.
+
+232
+00:19:08,912 --> 00:19:11,656
+[SPEAKER_16]: What I would say is the first thing we have to do is work on prevention.
+
+233
+00:19:12,157 --> 00:19:14,120
+[SPEAKER_16]: And that's something that doesn't get talked about enough.
+
+234
+00:19:14,501 --> 00:19:22,453
+[SPEAKER_16]: So Liberal Democrats would require every social media company to publish regularly what they're doing to tackle online abuse and violence and hate towards women.
+
+235
+00:19:22,813 --> 00:19:25,878
+[SPEAKER_16]: We need to have powerful public safety campaigns.
+
+236
+00:19:25,938 --> 00:19:33,690
+[SPEAKER_16]: We know that they've worked in other parts of the world, particularly empowering men to root out misogyny and sexism amongst their male counterparts.
+
+237
+00:19:33,670 --> 00:19:43,805
+[SPEAKER_16]: then we have to make misogyny a hate crime, we have to, because it will then treat those hate crimes with the same seriousness as any hate that is driven by racial or religious hatred.
+
+238
+00:19:44,105 --> 00:19:50,875
+[SPEAKER_16]: We want to have a domestic abuse expert in every single police force and in every single 999 response room as well.
+
+239
+00:19:51,015 --> 00:19:52,978
+[SPEAKER_16]: And finally on the point about the Met,
+
+240
+00:19:52,958 --> 00:20:13,060
+[SPEAKER_16]: What I would say, and to Rory I think her name was, who had worked in the Met, I'm from Hertfordshire, Hertfordshire Police Force works very closely with the Met, and I have to say the Louise Casey review that happened into the standards of the Met was really shocking and it blew a lid off the institutional sexism, misogyny, homophobia and racism that existed in that force.
+
+241
+00:20:13,040 --> 00:20:20,573
+[SPEAKER_16]: And I know that there are many people in the Met who don't deserve to be working there, and there are many people who do, because many of them have said to me that they were the good guys.
+
+242
+00:20:20,913 --> 00:20:26,422
+[SPEAKER_16]: They're the ones that spoke up bravely to call out those people who were involved in the most horrific forms of conduct.
+
+243
+00:20:26,663 --> 00:20:30,449
+[SPEAKER_16]: So we have to support our police officers so that all of us can have trust in the police.
+
+244
+00:20:30,509 --> 00:20:36,499
+[SPEAKER_07]: Richard Tice, given what we've seen some of your candidates say, are you sure they're all on the right side of this debate?
+
+245
+00:20:36,850 --> 00:20:37,731
+[SPEAKER_06]: Well, I certainly hope so.
+
+246
+00:20:37,751 --> 00:20:42,237
+[SPEAKER_06]: Look, the reality is trust in police is woeful at 50% plus or minus.
+
+247
+00:20:42,337 --> 00:20:43,298
+[SPEAKER_06]: That is a disaster.
+
+248
+00:20:43,618 --> 00:20:44,599
+[SPEAKER_06]: We have to improve that.
+
+249
+00:20:44,680 --> 00:20:47,042
+[SPEAKER_06]: The police themselves have to do much more.
+
+250
+00:20:47,383 --> 00:20:53,991
+[SPEAKER_06]: But the time that crimes take, or potential crimes take to go through the criminal justice system, is an absolute disgrace.
+
+251
+00:20:54,271 --> 00:20:56,214
+[SPEAKER_06]: We have to accelerate that.
+
+252
+00:20:56,474 --> 00:20:58,116
+[SPEAKER_06]: Only 5%
+
+253
+00:20:58,096 --> 00:21:01,102
+[SPEAKER_06]: of crimes are now resulting in a charge.
+
+254
+00:21:01,122 --> 00:21:04,550
+[SPEAKER_06]: And violence against women and girls is absolutely abominable.
+
+255
+00:21:04,950 --> 00:21:07,616
+[SPEAKER_06]: And women and girls have got to feel much, much more confidence.
+
+256
+00:21:07,877 --> 00:21:10,402
+[SPEAKER_06]: We've got to have a much faster criminal justice system.
+
+257
+00:21:10,562 --> 00:21:16,695
+[SPEAKER_06]: And there has to be proper sentencing that go right through until the end of the sentence, not to be let out early.
+
+258
+00:21:16,675 --> 00:21:17,496
+[SPEAKER_02]: Briefly, Chris Philp.
+
+259
+00:21:18,097 --> 00:21:19,799
+[SPEAKER_02]: Yeah, so look, Petra, you're right to raise this.
+
+260
+00:21:19,899 --> 00:21:26,327
+[SPEAKER_02]: Women and girls across the country should feel safe to walk the streets at day or at night without feeling any fear.
+
+261
+00:21:26,347 --> 00:21:30,473
+[SPEAKER_02]: And as a father of a young daughter, I feel that as strongly as anyone.
+
+262
+00:21:30,893 --> 00:21:37,402
+[SPEAKER_02]: We've recruited 1,000 independent sexual violence advisors to support victims through the criminal justice process.
+
+263
+00:21:37,422 --> 00:21:43,189
+[SPEAKER_02]: There's 1,000 extra judges to speed up the legal process, rape prosecutions.
+
+264
+00:21:43,169 --> 00:21:46,734
+[SPEAKER_02]: are 56% higher than they were in 2010 under Labour.
+
+265
+00:21:46,754 --> 00:21:50,099
+[SPEAKER_02]: And there's a whole range of things that this government has made illegal.
+
+266
+00:21:50,159 --> 00:21:51,962
+[SPEAKER_02]: Coercive and controlling behaviour.
+
+267
+00:21:52,603 --> 00:21:53,644
+[SPEAKER_02]: We've banned upskirting.
+
+268
+00:21:53,664 --> 00:21:55,267
+[SPEAKER_02]: We've made stalking illegal.
+
+269
+00:21:55,367 --> 00:21:58,051
+[SPEAKER_02]: Revenge porn and deepfakes also banned.
+
+270
+00:21:58,331 --> 00:22:02,477
+[SPEAKER_02]: These are all things that almost entirely affect women and girls, that it's this government
+
+271
+00:22:02,457 --> 00:22:04,620
+[SPEAKER_02]: that has taken action by banning.
+
+272
+00:22:04,720 --> 00:22:05,581
+[SPEAKER_02]: We'd like to go further.
+
+273
+00:22:05,601 --> 00:22:06,602
+[SPEAKER_02]: We're going to outlaw spiking.
+
+274
+00:22:06,843 --> 00:22:13,271
+[SPEAKER_02]: We're going to make sure there's a 25-year minimum sentence for domestic homicide where someone murders their partner.
+
+275
+00:22:13,912 --> 00:22:18,177
+[SPEAKER_02]: We're going to make sure that victims can give evidence quickly on videotape.
+
+276
+00:22:18,197 --> 00:22:20,380
+[SPEAKER_02]: It's called a Section 28 evidence.
+
+277
+00:22:20,600 --> 00:22:22,963
+[SPEAKER_02]: It's almost like you say everything's OK. To make sure...
+
+278
+00:22:22,943 --> 00:22:26,128
+[SPEAKER_02]: to make sure that evidence is given quickly.
+
+279
+00:22:26,289 --> 00:22:39,971
+[SPEAKER_02]: Rape sentences have gone up from six and a half years under Labour to about ten years now and we have legislated to make sure, to Richard's point, that people who are convicted of rape are not automatically released at the halfway point as they were previously.
+
+280
+00:22:40,352 --> 00:22:45,340
+[SPEAKER_02]: Labour, shockingly, voted against that measure during the passage of the police crime and sentences.
+
+281
+00:22:45,320 --> 00:22:46,622
+[SPEAKER_08]: How astonishing.
+
+282
+00:22:46,802 --> 00:22:56,736
+[SPEAKER_08]: Chris stands there when 97 of every 100 reported rapes in this country today, absolutely nothing will happen.
+
+283
+00:22:56,996 --> 00:22:58,378
+[SPEAKER_08]: And he talks about early release.
+
+284
+00:22:58,839 --> 00:23:08,772
+[SPEAKER_08]: Chris and his government are presiding over people being released 70 days early, a number of whom posed a threat to the public.
+
+285
+00:23:08,812 --> 00:23:12,357
+[SPEAKER_08]: I mean, come on, Chris, you should be apologising to this audience, not boasting.
+
+286
+00:23:12,556 --> 00:23:19,146
+[SPEAKER_07]: Right, I'm going to move us on to another question, very briefly, from our audience, and it's from Chris McNally.
+
+287
+00:23:19,166 --> 00:23:23,812
+[SPEAKER_03]: Yes, I'm a prison officer, and the state of prisons across the country is absolutely abysmal.
+
+288
+00:23:24,293 --> 00:23:31,824
+[SPEAKER_03]: If your party wins this election, what would you do to combat the declining conditions of this country's prisons for both prisoners and staff?
+
+289
+00:23:32,545 --> 00:23:36,150
+[SPEAKER_07]: In less than a minute, let's hear from Plaid Cymru first.
+
+290
+00:23:36,637 --> 00:23:38,261
+[SPEAKER_09]: We are going to be talking about immigration later.
+
+291
+00:23:38,301 --> 00:23:44,715
+[SPEAKER_09]: I had family that migrated into culture, so they were working in the prison service at the time many years ago.
+
+292
+00:23:44,735 --> 00:23:51,470
+[SPEAKER_09]: But I fear that whatever problems there were in the prison service back then still exist within our prisons now.
+
+293
+00:23:51,911 --> 00:23:56,181
+[SPEAKER_09]: We want a radical overhaul of the way that we
+
+294
+00:23:56,161 --> 00:23:58,546
+[SPEAKER_09]: build the criminal justice system in Wales.
+
+295
+00:23:58,686 --> 00:24:00,229
+[SPEAKER_09]: It should be devolved to us.
+
+296
+00:24:00,249 --> 00:24:08,386
+[SPEAKER_09]: I'm sure most of you would agree with me that the way policing and criminal justice works should be as close to the people it affects as possible.
+
+297
+00:24:08,646 --> 00:24:14,558
+[SPEAKER_09]: What we've seen in some of the highest incarceration rates anywhere in Europe is a failure
+
+298
+00:24:14,538 --> 00:24:17,161
+[SPEAKER_09]: of the people that the criminal justice system is meant to serve.
+
+299
+00:24:17,181 --> 00:24:22,347
+[SPEAKER_09]: We've had the building of a huge super prison in Wales, causing more problems than it resolves.
+
+300
+00:24:22,687 --> 00:24:37,164
+[SPEAKER_09]: We need to move away from, you know, using prisons, which are absolutely needed for the most serious of criminals, towards a system which is restorative, which does deal with crime at its source.
+
+301
+00:24:37,644 --> 00:24:44,292
+[SPEAKER_09]: And for prisons themselves, that would allow us then to concentrate on investing in the kinds of prisons that work.
+
+302
+00:24:44,272 --> 00:24:50,060
+[SPEAKER_09]: You'll have heard about Park Prison, a privately run prison, dogged with problems in recent weeks and months.
+
+303
+00:24:50,761 --> 00:24:53,144
+[SPEAKER_09]: The number of deaths there are consistently rising.
+
+304
+00:24:53,324 --> 00:24:57,890
+[SPEAKER_09]: We cannot have the prison service in the hands of the private sector and we need to invest in it for the future.
+
+305
+00:24:57,910 --> 00:25:00,814
+[SPEAKER_07]: You could be facing a crisis on this within weeks of a new government.
+
+306
+00:25:00,955 --> 00:25:06,482
+[SPEAKER_08]: We have no doubt at all what an awful inheritance this is and frankly our prisons are in a quite awful state
+
+307
+00:25:06,462 --> 00:25:08,646
+[SPEAKER_08]: at the moment, bursting at the seams.
+
+308
+00:25:09,047 --> 00:25:20,888
+[SPEAKER_08]: And they are in that condition because the 20,000 places, additional prison places, that the Conservatives promised to build in 2021, they simply haven't built.
+
+309
+00:25:21,149 --> 00:25:26,719
+[SPEAKER_08]: They allocated the money to it, they haven't even spent all the money, and that's why they find themselves in the position they are in today.
+
+310
+00:25:26,739 --> 00:25:29,584
+[SPEAKER_07]: But will you stick with the early release scheme, which is so unpopular with them?
+
+311
+00:25:29,564 --> 00:25:37,895
+[SPEAKER_08]: We will not release prisoners who are assessed to be a threat to the public on that scheme, which is what this government has been doing.
+
+312
+00:25:38,255 --> 00:25:40,819
+[SPEAKER_08]: But we need those 20,000 additional places.
+
+313
+00:25:40,839 --> 00:25:43,382
+[SPEAKER_08]: And what we will do is change the planning rules.
+
+314
+00:25:43,442 --> 00:25:46,406
+[SPEAKER_08]: We will declare this of national importance.
+
+315
+00:25:46,426 --> 00:25:48,429
+[SPEAKER_08]: So Labour's answer is more and more prisons.
+
+316
+00:25:48,449 --> 00:25:51,793
+[SPEAKER_08]: Ministers can make the decision to actually put these prisons in place.
+
+317
+00:25:51,813 --> 00:25:56,139
+[SPEAKER_08]: And we wouldn't be, frankly, in the position we are today if the Conservatives had done that.
+
+318
+00:25:56,179 --> 00:25:58,322
+[SPEAKER_08]: Can you just confirm that this is an embarrassment?
+
+319
+00:25:58,302 --> 00:25:59,364
+[SPEAKER_07]: for your legacy as well.
+
+320
+00:25:59,565 --> 00:26:04,996
+[SPEAKER_02]: First of all, let me be clear that no one who is a threat to the public is ever going to get released early.
+
+321
+00:26:05,076 --> 00:26:07,040
+[SPEAKER_02]: Nick Thomas-Simmons has a cheek talking about this.
+
+322
+00:26:07,060 --> 00:26:09,425
+[SPEAKER_02]: The last Labour government released 80,000 people early.
+
+323
+00:26:09,805 --> 00:26:11,689
+[SPEAKER_02]: We are building 20,000 more prison places.
+
+324
+00:26:11,709 --> 00:26:17,982
+[SPEAKER_02]: 7,900 of those will be delivered
+
+325
+00:26:17,962 --> 00:26:21,608
+[SPEAKER_02]: by next December to make sure dangerous criminals get taken off the street.
+
+326
+00:26:21,929 --> 00:26:28,380
+[SPEAKER_02]: Last year we took, we had 35,000 more successful criminal justice outcomes than we had the previous year.
+
+327
+00:26:28,400 --> 00:26:31,445
+[SPEAKER_02]: That is to say more criminals were successfully prosecuted.
+
+328
+00:26:32,026 --> 00:26:39,058
+[SPEAKER_02]: We're going to make sure the prison places are available to take them where necessary off the streets so they can't offend and the public are kept
+
+329
+00:26:39,038 --> 00:26:41,522
+[SPEAKER_08]: They have released people who are a threat to the public.
+
+330
+00:26:41,562 --> 00:26:44,667
+[SPEAKER_08]: Look at the inspectorate, look at what the governor of Lewes Prison said.
+
+331
+00:26:44,868 --> 00:26:48,253
+[SPEAKER_08]: And Rhiannon, in answer to your question, I make no apology at all.
+
+332
+00:26:48,293 --> 00:26:51,038
+[SPEAKER_08]: I think of the terrorist street I grew up in in South Wales.
+
+333
+00:26:51,639 --> 00:26:59,832
+[SPEAKER_08]: I think those people are entitled to be kept safe and that does mean the people who commit violent and sexual offences should be behind bars.
+
+334
+00:26:59,812 --> 00:27:02,618
+[SPEAKER_07]: We've got to stop there because we're going to a break.
+
+335
+00:27:03,039 --> 00:27:06,968
+[SPEAKER_07]: In a moment, the biggest dividing line this election, immigration.
+
+336
+00:27:07,068 --> 00:27:10,936
+[SPEAKER_07]: Labour says it would scrap the Rwanda deportation scheme on day one.
+
+337
+00:27:11,457 --> 00:27:14,023
+[SPEAKER_07]: We'll fight it out with our seven parties.
+
+338
+00:30:09,655 --> 00:30:15,686
+[SPEAKER_07]: Welcome back to the First Sight Arts Centre in Colchester for this special extended edition of Channel 4 News.
+
+339
+00:30:15,847 --> 00:30:25,545
+[SPEAKER_07]: If you're just joining us, we've had half an hour of sometimes quite fiery debate on law and order with representatives from the seven main political parties fighting this election.
+
+340
+00:30:26,106 --> 00:30:28,310
+[SPEAKER_07]: Now we're going to hear from them on immigration.
+
+341
+00:30:28,510 --> 00:30:32,237
+[SPEAKER_07]: It is the one big issue with very clear divisions.
+
+342
+00:30:32,217 --> 00:30:33,579
+[SPEAKER_07]: Who can come to this country?
+
+343
+00:30:33,819 --> 00:30:34,700
+[SPEAKER_07]: Who is excluded?
+
+344
+00:30:35,080 --> 00:30:36,101
+[SPEAKER_07]: How do they get here?
+
+345
+00:30:36,502 --> 00:30:37,543
+[SPEAKER_07]: How are they sent home?
+
+346
+00:30:37,863 --> 00:30:41,287
+[SPEAKER_07]: What are the economic benefits and societal pressures?
+
+347
+00:30:41,728 --> 00:30:54,242
+[SPEAKER_07]: We have some polling on this too, but this time we've targeted the question around the two main parties as they are the only ones realistically who could be running the Home Office after the election.
+
+348
+00:30:54,222 --> 00:30:59,510
+[SPEAKER_07]: Both the Conservative Party and the Labour Party have pledged to cut net migration.
+
+349
+00:31:00,050 --> 00:31:04,937
+[SPEAKER_07]: That's the difference between those people coming here legally and those leaving to live abroad.
+
+350
+00:31:05,338 --> 00:31:08,983
+[SPEAKER_07]: It is largely determined by the government's immigration rules.
+
+351
+00:31:09,404 --> 00:31:14,431
+[SPEAKER_07]: So what did people make of the Labour and Tory pledge to bring legal migration down?
+
+352
+00:31:14,631 --> 00:31:17,896
+[SPEAKER_07]: Well, 28% said they only believe Labour.
+
+353
+00:31:18,677 --> 00:31:22,643
+[SPEAKER_07]: Just 15% said they only believe the Conservatives.
+
+354
+00:31:22,623 --> 00:31:25,789
+[SPEAKER_07]: 43% don't believe either of them.
+
+355
+00:31:26,189 --> 00:31:29,656
+[SPEAKER_07]: So a clear lack of trust in both those main parties.
+
+356
+00:31:29,716 --> 00:31:34,925
+[SPEAKER_07]: And that rises to 52% among the over 55 older voters.
+
+357
+00:31:35,446 --> 00:31:44,462
+[SPEAKER_07]: Secondly, we asked, both the Conservative Party and the Labour Party have pledged to stop small boats crossing the Channel if elected at the next general election.
+
+358
+00:31:44,442 --> 00:31:46,865
+[SPEAKER_07]: Which of the following is closest to your view?
+
+359
+00:31:46,885 --> 00:32:01,480
+[SPEAKER_07]: 27% said they only believe Labour, 16% believe the Conservatives, 7% believe both of them, but again, far more people, 44%, said they don't believe either party.
+
+360
+00:32:01,840 --> 00:32:05,104
+[SPEAKER_07]: Let's just get some reaction to that from Chris Philp and Nick Thomas-Simmons.
+
+361
+00:32:05,364 --> 00:32:10,990
+[SPEAKER_07]: Chris Philp, it is your broken policy pledges that has caused this massive lack of trust, isn't it?
+
+362
+00:32:10,970 --> 00:32:14,638
+[SPEAKER_02]: Well, there's no question that the British public want net migration to be lower.
+
+363
+00:32:15,099 --> 00:32:15,620
+[SPEAKER_02]: They're right.
+
+364
+00:32:15,721 --> 00:32:17,264
+[SPEAKER_02]: We agree it does need to be lower.
+
+365
+00:32:17,444 --> 00:32:24,600
+[SPEAKER_02]: Look, in recent years, of course, we have had a lot of people coming here from Ukraine and from Hong Kong fleeing the brutal repression by the Chinese Communist Party.
+
+366
+00:32:24,901 --> 00:32:25,663
+[SPEAKER_02]: But we need to get it down.
+
+367
+00:32:25,683 --> 00:32:28,489
+[SPEAKER_07]: Now, I'm going to be... What proportion of net migration do they take up?
+
+368
+00:32:28,469 --> 00:32:32,397
+[SPEAKER_02]: So, I mean, there is about 200,000 or more from Ukraine and a similar number from Hong Kong.
+
+369
+00:32:32,417 --> 00:32:35,082
+[SPEAKER_02]: But we need to get the family and work numbers down as well.
+
+370
+00:32:35,102 --> 00:32:38,770
+[SPEAKER_02]: And we have already, not in the future, but we have already taken action to do that.
+
+371
+00:32:39,130 --> 00:32:45,884
+[SPEAKER_02]: For example, saying that people coming here, that most people coming here to study, people coming on social care visas can't bring dependents.
+
+372
+00:32:46,164 --> 00:32:47,928
+[SPEAKER_02]: We're raising the salary thresholds as well.
+
+373
+00:32:47,988 --> 00:32:50,072
+[SPEAKER_02]: We'll get to the specifics, but I just wanted to comment on the poll.
+
+374
+00:32:50,052 --> 00:32:54,559
+[SPEAKER_02]: And that has, let me finish this point, that has already, already cut net migration by 10% year-on-year.
+
+375
+00:32:54,579 --> 00:32:56,341
+[SPEAKER_02]: No, but nobody believes you, that's the point.
+
+376
+00:32:56,361 --> 00:32:58,845
+[SPEAKER_02]: Look, I'm giving you the facts, OK, so people can just hear the facts.
+
+377
+00:32:58,865 --> 00:33:00,087
+[SPEAKER_02]: And nobody believes you, that was the point.
+
+378
+00:33:00,107 --> 00:33:03,292
+[SPEAKER_06]: The facts are that you have allowed mass immigration in the last three years.
+
+379
+00:33:03,312 --> 00:33:03,873
+[SPEAKER_06]: Let me finish.
+
+380
+00:33:03,893 --> 00:33:04,874
+[SPEAKER_02]: Hang on, Richard, we know.
+
+381
+00:33:04,994 --> 00:33:05,796
+[SPEAKER_02]: I'll bring you in, Richard Tyson.
+
+382
+00:33:05,816 --> 00:33:10,322
+[SPEAKER_02]: And in the last few months, these are applications which are a leading indicator, are down 30%.
+
+383
+00:33:10,342 --> 00:33:11,785
+[SPEAKER_02]: People we need.
+
+384
+00:33:11,805 --> 00:33:16,171
+[SPEAKER_02]: The measures we are taking already will reduce net migration by 300,000.
+
+385
+00:33:16,271 --> 00:33:16,752
+[SPEAKER_02]: OK.
+
+386
+00:33:16,732 --> 00:33:21,940
+[SPEAKER_02]: And in addition to that, we will come to the measures in detail.
+
+387
+00:33:21,960 --> 00:33:26,887
+[SPEAKER_02]: We're going to be imposing a parliamentary cap, so those are very clear, tangible and credible actions.
+
+388
+00:33:26,907 --> 00:33:33,257
+[SPEAKER_07]: What I wanted to talk about was the fact that both of you aren't believed by voters, Nick Thomas-Symonds.
+
+389
+00:33:33,658 --> 00:33:38,385
+[SPEAKER_07]: Is that a problem for you, or is it rather good because nobody believes you're going to solve the problem anyway?
+
+390
+00:33:38,405 --> 00:33:39,246
+[SPEAKER_07]: Of course you want to.
+
+391
+00:33:39,226 --> 00:33:49,959
+[SPEAKER_08]: Of course you want to build trust, but it's no surprise that people don't have trust, having had four Conservative governments elected on manifestos that have all broken their promises.
+
+392
+00:33:50,000 --> 00:33:52,783
+[SPEAKER_08]: So those figures don't come as a surprise.
+
+393
+00:33:53,424 --> 00:33:59,011
+[SPEAKER_08]: Net migration is too high at 685,000, and what we need is a plan to bring it down.
+
+394
+00:33:59,031 --> 00:34:04,778
+[SPEAKER_08]: So firstly, what we need to do is, where there are particular sectors, we need a proper
+
+395
+00:34:04,758 --> 00:34:08,023
+[SPEAKER_08]: plan so that we can upskill our own workforce.
+
+396
+00:34:08,063 --> 00:34:09,986
+[SPEAKER_08]: Take engineering for example.
+
+397
+00:34:10,447 --> 00:34:18,079
+[SPEAKER_08]: Engineering visas for people coming from overseas have doubled, whilst engineering apprenticeships here in the UK have almost halved.
+
+398
+00:34:18,099 --> 00:34:19,281
+[SPEAKER_07]: But what is your actual pledge?
+
+399
+00:34:19,321 --> 00:34:23,948
+[SPEAKER_07]: Because they've taken the measures that will bring the immigration figures down.
+
+400
+00:34:23,928 --> 00:34:26,251
+[SPEAKER_08]: If you get into government, you'll claim that that's because of you.
+
+401
+00:34:26,311 --> 00:34:29,034
+[SPEAKER_08]: They haven't taken measures to bring immigration down.
+
+402
+00:34:29,054 --> 00:34:31,837
+[SPEAKER_08]: You look at recent years, it's been at a record high.
+
+403
+00:34:32,178 --> 00:34:49,918
+[SPEAKER_08]: And what they needed to do, and what the next Labour government, should we be privileged enough to form one, will do, is have a skills strategy right across those different sectors, like health and social care, for example, the IT sector, and not just move to that lever of many people coming in... What's the number?
+
+404
+00:34:49,898 --> 00:34:54,524
+[SPEAKER_06]: What's the number of net migration that you think is right for this country?
+
+405
+00:34:54,664 --> 00:34:57,248
+[SPEAKER_08]: Richard, a number is not a plan.
+
+406
+00:34:57,308 --> 00:34:58,469
+[SPEAKER_08]: What you actually need is a plan.
+
+407
+00:34:58,489 --> 00:34:59,270
+[SPEAKER_06]: How do you plan for infrastructure?
+
+408
+00:34:59,291 --> 00:35:00,352
+[SPEAKER_06]: How do you plan for housing?
+
+409
+00:35:00,412 --> 00:35:01,413
+[SPEAKER_08]: How do you plan for doctors?
+
+410
+00:35:01,433 --> 00:35:12,368
+[SPEAKER_08]: And secondly, what we need to do as well is where people... Like, we convinced the Conservatives to abandon their discount on employing workers from overseas at 20% less than here.
+
+411
+00:35:12,428 --> 00:35:14,691
+[SPEAKER_08]: What they also need to do
+
+412
+00:35:14,671 --> 00:35:23,205
+[SPEAKER_08]: is to be able to crack down on poor employment practices where workers from overseas have been employed without proper rights and at a lower rate.
+
+413
+00:35:23,626 --> 00:35:25,449
+[SPEAKER_08]: That needs to be dealt with as well.
+
+414
+00:35:25,609 --> 00:35:28,835
+[SPEAKER_02]: We're going to raise the salary threshold further to £38,000.
+
+415
+00:35:29,255 --> 00:35:32,140
+[SPEAKER_20]: Will you do that?
+
+416
+00:35:32,120 --> 00:35:35,564
+[SPEAKER_20]: I think this is an utterly depressing conversation.
+
+417
+00:35:35,584 --> 00:35:39,749
+[SPEAKER_20]: It does not serve the people of Scotland, certainly, and I would argue the people of the UK.
+
+418
+00:35:40,229 --> 00:35:42,012
+[SPEAKER_20]: Immigration can be an economic benefit.
+
+419
+00:35:42,052 --> 00:35:43,033
+[SPEAKER_20]: That's the way we should look at it.
+
+420
+00:35:43,053 --> 00:35:45,155
+[SPEAKER_20]: It should be fair, it should be rights-based.
+
+421
+00:35:47,137 --> 00:35:50,662
+[SPEAKER_07]: I want to bring in the audience on precisely this point.
+
+422
+00:35:51,342 --> 00:35:53,605
+[SPEAKER_07]: Let's get a question from Lily Lloyd-Smith.
+
+423
+00:35:55,542 --> 00:36:02,324
+[SPEAKER_11]: I work with the children of recent migrants in my job, and I know about some really negative experiences that they have in the UK.
+
+424
+00:36:02,746 --> 00:36:07,662
+[SPEAKER_11]: So I'd like to ask the panel, how would you combat all of the hostility that's directed towards migrants right now?
+
+425
+00:36:08,705 --> 00:36:16,355
+[SPEAKER_20]: First of all, I think you have to stop the rhetoric we've seen, hostile rhetoric we've seen, chasing people around in vans around the streets of London, telling them to go home.
+
+426
+00:36:16,775 --> 00:36:17,876
+[SPEAKER_20]: We wouldn't have that in Scotland.
+
+427
+00:36:18,117 --> 00:36:21,381
+[SPEAKER_20]: I was lucky enough to host a Ukrainian family that came as refugees.
+
+428
+00:36:21,821 --> 00:36:25,826
+[SPEAKER_20]: One is now working in a vital job in the ferry infrastructure, one is working in a supermarket.
+
+429
+00:36:26,087 --> 00:36:27,408
+[SPEAKER_20]: They are additions to our country.
+
+430
+00:36:27,428 --> 00:36:28,830
+[SPEAKER_20]: They pay tax, they contribute.
+
+431
+00:36:29,170 --> 00:36:30,752
+[SPEAKER_20]: That's the way we should be looking at immigration.
+
+432
+00:36:31,073 --> 00:36:38,442
+[SPEAKER_20]: And also, the fact you have the small boats, and I know that's an issue much more in this part of the country, is because the Tories have cut off every legal route
+
+433
+00:36:38,422 --> 00:36:39,084
+[SPEAKER_20]: to immigration.
+
+434
+00:36:39,104 --> 00:36:40,668
+[SPEAKER_20]: That's why they've been forced into small boats.
+
+435
+00:36:40,928 --> 00:36:42,352
+[SPEAKER_20]: That's why people are dying in the Channel.
+
+436
+00:36:42,653 --> 00:36:44,618
+[SPEAKER_20]: You have to have a complete rethink on immigration.
+
+437
+00:36:44,638 --> 00:36:48,387
+[SPEAKER_20]: And honestly, the Labour Tory chasing reform votes is not the right way to go.
+
+438
+00:36:48,407 --> 00:36:50,934
+[SPEAKER_20]: Richard Tice, what's your answer to that question?
+
+439
+00:36:50,954 --> 00:36:51,756
+[SPEAKER_06]: The answer...
+
+440
+00:36:52,411 --> 00:36:53,032
+[SPEAKER_06]: What are you going to do?
+
+441
+00:36:53,052 --> 00:37:08,078
+[SPEAKER_06]: The answer is to have a competent asylum process that processes people quickly and promptly with a rapid appeals process so that actually the people who are genuine asylum seekers can be accepted and those who are not, who are economic migrants, can be rejected.
+
+442
+00:37:08,098 --> 00:37:16,933
+[SPEAKER_06]: But the truth is that the Conservative Party have allowed mass immigration in the last two years deliberately in complete contrast to what they promised
+
+443
+00:37:16,913 --> 00:37:19,279
+[SPEAKER_06]: election after election after election.
+
+444
+00:37:19,760 --> 00:37:22,546
+[SPEAKER_06]: One person is arriving legally every minute.
+
+445
+00:37:22,947 --> 00:37:27,558
+[SPEAKER_06]: That means we need to build a new home just for those arriving every two minutes.
+
+446
+00:37:27,658 --> 00:37:28,280
+[SPEAKER_06]: How many leave?
+
+447
+00:37:28,821 --> 00:37:29,964
+[SPEAKER_06]: How often do they leave?
+
+448
+00:37:30,024 --> 00:37:31,327
+[SPEAKER_06]: That's the net number.
+
+449
+00:37:31,568 --> 00:37:33,893
+[SPEAKER_06]: How many do they leave?
+
+450
+00:37:33,873 --> 00:37:40,468
+[SPEAKER_06]: The net number in 2023 was almost 700,000 people, just below the net number in 2022.
+
+451
+00:37:41,371 --> 00:37:44,197
+[SPEAKER_06]: So those numbers I've just given you, that is the net increase.
+
+452
+00:37:44,458 --> 00:37:50,352
+[SPEAKER_06]: We're not building enough homes for our own people, let alone the homes for people... No, we're not.
+
+453
+00:37:50,372 --> 00:37:51,895
+[SPEAKER_16]: And that's the real problem, isn't it?
+
+454
+00:37:51,915 --> 00:37:52,236
+[SPEAKER_06]: Daisy Cooper.
+
+455
+00:37:52,216 --> 00:38:02,100
+[SPEAKER_16]: This rhetoric around resources completely misses the point and it fans the flames of the very rhetoric that you have mentioned.
+
+456
+00:38:02,180 --> 00:38:03,824
+[SPEAKER_16]: Lady on the front row, I didn't catch your name, I'm sorry.
+
+457
+00:38:04,526 --> 00:38:09,077
+[SPEAKER_16]: Under our migration system, under the Conservatives, we have the worst of both worlds.
+
+458
+00:38:09,057 --> 00:38:24,664
+[SPEAKER_16]: We have sectors like the NHS, social care, hospitality, engineering, so many different sectors that simply cannot get the people they need with skills because there hasn't been an investment in this country in apprentices and skills programs.
+
+459
+00:38:25,004 --> 00:38:28,771
+[SPEAKER_16]: And at the same time, the government is also cutting the supply from abroad as well.
+
+460
+00:38:28,791 --> 00:38:32,297
+[SPEAKER_16]: So it's hardly any surprise that our economy is flatlining.
+
+461
+00:38:32,277 --> 00:38:37,826
+[SPEAKER_16]: So what we need to do is get rid of these ridiculous arbitrary targets, get rid of arbitrary salary thresholds.
+
+462
+00:38:37,846 --> 00:38:41,372
+[SPEAKER_16]: We need to invest in a proper skills strategy in this country.
+
+463
+00:38:41,652 --> 00:38:47,221
+[SPEAKER_16]: Liberal Democrats are the only party saying that we will have a higher minimum wage for care workers.
+
+464
+00:38:47,682 --> 00:38:52,189
+[SPEAKER_16]: More than 105,000 people came to this country to work in our care sector last year.
+
+465
+00:38:52,510 --> 00:38:57,458
+[SPEAKER_16]: We should welcome them and thank them for propping up our care system and for looking after our loved ones.
+
+466
+00:38:57,538 --> 00:38:58,960
+[SPEAKER_16]: But we should not be doing that.
+
+467
+00:38:58,940 --> 00:39:01,907
+[SPEAKER_16]: at the expense of investing in our own workforce.
+
+468
+00:39:01,927 --> 00:39:13,633
+[SPEAKER_16]: And it is possible to do both in a way where we can invest in our own domestic workforce, and then when we need to get different people in from abroad for different sectors, we can do that sector by sector, depending on what we need.
+
+469
+00:39:13,873 --> 00:39:18,163
+[SPEAKER_16]: And that avoids that kind of resource-driven rhetoric that fans the flames.
+
+470
+00:39:18,667 --> 00:39:21,270
+[SPEAKER_06]: about half a million people leave the UK every year.
+
+471
+00:39:21,591 --> 00:39:27,118
+[SPEAKER_06]: So we can welcome about half a million people, highly qualified, highly skilled, that we can accommodate.
+
+472
+00:39:27,419 --> 00:39:39,915
+[SPEAKER_06]: But the truth is that we are in the longest recession per person, and that's what really matters to all of us, the longest recession per person since records began 70 years ago.
+
+473
+00:39:39,895 --> 00:39:45,249
+[SPEAKER_06]: economic growth and we're dividing the cake by three quarters of a million more people every year.
+
+474
+00:39:45,469 --> 00:39:49,520
+[SPEAKER_06]: The right thing to do is invest in our own people as we did in the 1990s and 90s.
+
+475
+00:39:49,540 --> 00:39:52,407
+[SPEAKER_15]: Listen, Richard is so close to getting the point.
+
+476
+00:39:52,448 --> 00:39:54,232
+[SPEAKER_15]: He's so close to getting the point.
+
+477
+00:39:54,252 --> 00:39:54,934
+[SPEAKER_06]: I've got the point exactly.
+
+478
+00:39:54,914 --> 00:40:00,563
+[SPEAKER_06]: You want net zero immigration, train our own people, train our own people so that we can skill up our own people.
+
+479
+00:40:00,603 --> 00:40:05,051
+[SPEAKER_06]: That's the role of the British government, to look after British citizens.
+
+480
+00:40:05,612 --> 00:40:14,447
+[SPEAKER_15]: But the reality is that the UK is a country of migrants and migration is a good thing for our country, for our culture and for our economy.
+
+481
+00:40:14,767 --> 00:40:16,490
+[SPEAKER_15]: It's absolutely vital in supporting our public services.
+
+482
+00:40:16,510 --> 00:40:18,373
+[SPEAKER_06]: How is it good for our economy when we're in the longest recession per person?
+
+483
+00:40:18,353 --> 00:40:21,858
+[SPEAKER_15]: Let's be real, we have over 100,000 vacancies in the NHS alone.
+
+484
+00:40:21,878 --> 00:40:24,983
+[SPEAKER_15]: That's not even counting social care, hospitality and other sectors.
+
+485
+00:40:25,143 --> 00:40:27,847
+[SPEAKER_15]: And I've said this before, but it hasn't become less true.
+
+486
+00:40:28,207 --> 00:40:33,776
+[SPEAKER_15]: If you meet a migrant in the NHS, they're more likely to be treating you than to be ahead of you in the queue.
+
+487
+00:40:33,836 --> 00:40:39,484
+[SPEAKER_15]: Now, some politicians, and unfortunately, the list of which politicians that is, is getting longer.
+
+488
+00:40:39,464 --> 00:40:51,859
+[SPEAKER_15]: like to scapegoat migrants for the problems with underfunding public services, when in reality, the cause of that is decades of decisions to underfund those public services by political parties.
+
+489
+00:40:51,879 --> 00:41:02,071
+[SPEAKER_15]: They could choose to make other decisions, they could choose to make bold decisions about how you pay for public services and how you raise those funds, and the Green Party is the only party in England being honest about that.
+
+490
+00:41:02,111 --> 00:41:02,972
+[SPEAKER_07]: Read out yours.
+
+491
+00:41:02,992 --> 00:41:03,953
+[SPEAKER_07]: Hang on, Richard.
+
+492
+00:41:06,076 --> 00:41:09,941
+[SPEAKER_09]: The question is about how to combat hostility.
+
+493
+00:41:10,021 --> 00:41:16,649
+[SPEAKER_09]: How about these guys stop creating and stoking that hostility in the first place?
+
+494
+00:41:16,669 --> 00:41:17,871
+[SPEAKER_09]: We need to have an honest debate.
+
+495
+00:41:17,911 --> 00:41:19,773
+[SPEAKER_09]: Of course, we need to control borders.
+
+496
+00:41:19,833 --> 00:41:21,655
+[SPEAKER_09]: Every country controls its borders.
+
+497
+00:41:21,695 --> 00:41:28,524
+[SPEAKER_09]: But to blame migrants for housing, for problems in the NHS, to blame what for public spending cuts that have been...
+
+498
+00:41:28,544 --> 00:41:29,866
+[SPEAKER_09]: It's called pressure on public services.
+
+499
+00:41:29,886 --> 00:41:31,508
+[SPEAKER_05]: ..that have been done by the Conservatives.
+
+500
+00:41:31,528 --> 00:41:32,128
+[SPEAKER_05]: If you don't plan for it...
+
+501
+00:41:32,168 --> 00:41:33,450
+[SPEAKER_09]: But what about pressure on public services?
+
+502
+00:41:33,430 --> 00:41:33,851
+[SPEAKER_09]: Yes, exactly.
+
+503
+00:41:33,911 --> 00:41:36,137
+[SPEAKER_09]: Caused by a failure to invest in public services.
+
+504
+00:41:36,478 --> 00:41:37,922
+[SPEAKER_09]: You have to plan, don't you?
+
+505
+00:41:37,942 --> 00:41:39,806
+[SPEAKER_09]: How about looking at what our actual needs are?
+
+506
+00:41:39,826 --> 00:41:49,752
+[SPEAKER_09]: What I'd like to do is look at how we have visa powers in Wales, for example, to make sure that we can bring in people into shortage occupations.
+
+507
+00:41:49,732 --> 00:41:51,675
+[SPEAKER_09]: give visas to those that we need here.
+
+508
+00:41:51,855 --> 00:41:54,119
+[SPEAKER_05]: What about training people in Wales?
+
+509
+00:41:54,279 --> 00:41:55,882
+[SPEAKER_09]: What about skilling up your own people?
+
+510
+00:41:55,902 --> 00:42:03,975
+[SPEAKER_09]: We have a great success here, says the Conservative representative on the panel, by cutting the number of visas to people accompanying workers.
+
+511
+00:42:04,155 --> 00:42:10,946
+[SPEAKER_09]: There has been a 76% drop in visa applications for social care because you have taken that decision.
+
+512
+00:42:11,146 --> 00:42:16,735
+[SPEAKER_09]: Now, in social care, I don't know who you want to look after you when you're in your old age, but we'll need people to work.
+
+513
+00:42:16,715 --> 00:42:17,477
+[SPEAKER_09]: well as training.
+
+514
+00:42:17,557 --> 00:42:21,646
+[SPEAKER_09]: Let Crystal answer that.
+
+515
+00:42:21,867 --> 00:42:23,491
+[SPEAKER_02]: Just to pick up a couple of points that have come up.
+
+516
+00:42:23,531 --> 00:42:28,943
+[SPEAKER_02]: On public service investment, just to be clear about that, the NHS is receiving more money than it has ever received in history.
+
+517
+00:42:29,204 --> 00:42:32,732
+[SPEAKER_02]: Not per page.
+
+518
+00:42:32,712 --> 00:42:40,401
+[SPEAKER_02]: In terms of the economy, we had the highest growth in the G7 Q1 this year.
+
+519
+00:42:41,002 --> 00:42:45,647
+[SPEAKER_02]: Let me address the question about migration.
+
+520
+00:42:46,007 --> 00:42:52,875
+[SPEAKER_02]: We have about 6 or 7 million, maybe even 8 million, UK citizens of working age who are not active in the workforce.
+
+521
+00:42:53,115 --> 00:42:56,239
+[SPEAKER_02]: Now some of those have caring responsibilities or there are good reasons why
+
+522
+00:42:56,219 --> 00:43:02,469
+[SPEAKER_02]: they're not working, but for others of them, there are reasons why they could get into the workforce.
+
+523
+00:43:02,489 --> 00:43:12,685
+[SPEAKER_02]: So priority number one is to encourage those UK citizens here already to get into the workforce and Mel Stride, the Welfare Secretary, has set out some plans to get that done.
+
+524
+00:43:12,705 --> 00:43:13,666
+[SPEAKER_02]: So that is priority number one.
+
+525
+00:43:13,987 --> 00:43:18,514
+[SPEAKER_02]: Now, of course, where there are skill gaps, like particularly for high skilled jobs,
+
+526
+00:43:18,494 --> 00:43:26,490
+[SPEAKER_02]: scientific researchers, IT professionals, people working in financial services, doctors in the NHS, nurses as well.
+
+527
+00:43:26,971 --> 00:43:34,225
+[SPEAKER_02]: Of course those are people we would like to welcome here, but it needs to be in the areas where there are genuine
+
+528
+00:43:34,205 --> 00:43:41,353
+[SPEAKER_02]: finished Chris Richard, in areas where there are genuine skill shortages and people with high levels of skills who will add value to our economy.
+
+529
+00:43:41,534 --> 00:43:43,456
+[SPEAKER_02]: So that is the strategy that's being pursued.
+
+530
+00:43:43,476 --> 00:43:59,655
+[SPEAKER_02]: Now the levels of net migration we've recently seen have been frankly too high and that's why specific measures have already been taken, not in the future, they've already been taken that will get those numbers down by 300,000 and we've seen that drop in visa applications already.
+
+531
+00:43:59,635 --> 00:44:01,761
+[SPEAKER_02]: So we're going to get hang on we're going to get the right balance.
+
+532
+00:44:02,102 --> 00:44:04,127
+[SPEAKER_02]: We don't want mass low-skilled immigration.
+
+533
+00:44:04,167 --> 00:44:05,511
+[SPEAKER_02]: It's not good for the economy.
+
+534
+00:44:05,531 --> 00:44:09,260
+[SPEAKER_06]: We do want high-skilled migration that will add value to the economy.
+
+535
+00:44:09,281 --> 00:44:12,529
+[SPEAKER_06]: You've just allowed mass immigration that means that everybody is getting poorer.
+
+536
+00:44:12,589 --> 00:44:13,211
+[SPEAKER_06]: That's the reality.
+
+537
+00:44:13,251 --> 00:44:14,775
+[SPEAKER_06]: What we need to do is to make work happen.
+
+538
+00:44:14,755 --> 00:44:17,339
+[SPEAKER_06]: We need to make work pay for British citizens.
+
+539
+00:44:17,640 --> 00:44:24,091
+[SPEAKER_06]: The way to do that is to lift the starting point at which we pay any income tax to £20,000 a year from £12,500.
+
+540
+00:44:24,151 --> 00:44:26,394
+[SPEAKER_06]: That's a massive motivator.
+
+541
+00:44:26,414 --> 00:44:32,264
+[SPEAKER_06]: That frees up 7 million people of the lowest paid back into work paying zero income tax.
+
+542
+00:44:32,545 --> 00:44:40,037
+[SPEAKER_06]: The role of government is to look after British citizens, in particular to motivate our young people into work as opposed to being trapped.
+
+543
+00:44:40,017 --> 00:44:43,703
+[SPEAKER_07]: I want to go a bit further into the economic argument around what we need.
+
+544
+00:44:44,023 --> 00:44:46,808
+[SPEAKER_07]: Piers Baker, you're the owner of three local businesses.
+
+545
+00:44:47,469 --> 00:44:47,930
+[SPEAKER_07]: Where are you?
+
+546
+00:44:48,490 --> 00:44:50,173
+[SPEAKER_07]: You rely on staff from abroad, don't you?
+
+547
+00:44:50,614 --> 00:44:51,155
+[SPEAKER_18]: We do, yeah.
+
+548
+00:44:51,355 --> 00:44:56,523
+[SPEAKER_07]: So what do you make of this conversation going on about reducing the number of people coming to this country?
+
+549
+00:44:56,884 --> 00:44:57,725
+[SPEAKER_18]: We need more people.
+
+550
+00:44:57,745 --> 00:45:03,915
+[SPEAKER_18]: Despite best efforts of trying to attract people into hospitality and our supply chains, there are not enough.
+
+551
+00:45:04,722 --> 00:45:06,185
+[SPEAKER_18]: We want apprentices.
+
+552
+00:45:06,245 --> 00:45:08,870
+[SPEAKER_18]: They can't get to work because of the transportation links.
+
+553
+00:45:09,672 --> 00:45:14,461
+[SPEAKER_18]: So we do try really, really hard to get people into hospitality, but there aren't enough.
+
+554
+00:45:14,722 --> 00:45:15,703
+[SPEAKER_18]: We need immigration.
+
+555
+00:45:15,984 --> 00:45:17,467
+[SPEAKER_18]: It is a net benefit to us.
+
+556
+00:45:18,208 --> 00:45:21,094
+[SPEAKER_07]: OK, and Kate Wilson from the NHS, where are you?
+
+557
+00:45:21,310 --> 00:45:33,033
+[SPEAKER_21]: I'm really proud to work for the NHS and I see every day in all the teams I work with how much it's struggling due to a lack of staffing and being able to appoint adequately trained staff.
+
+558
+00:45:33,274 --> 00:45:36,400
+[SPEAKER_21]: How would you make it easier to recruit from abroad?
+
+559
+00:45:36,380 --> 00:45:53,074
+[SPEAKER_08]: Can I just answer firstly on social care, if I can, because it reminds me of a conversation I had recently with someone who was telling me, a social care worker, telling me how difficult it is, both in terms of pay, but also the way in which standards in that sector are very squeezed.
+
+560
+00:45:53,094 --> 00:46:00,440
+[SPEAKER_08]: She was telling me, for example, she was allowed a couple of minutes in her programme for the day to carry out a journey that was clearly a lot longer than that.
+
+561
+00:46:00,881 --> 00:46:05,745
+[SPEAKER_08]: And I think, of course, overseas works have made an extraordinary contribution to our care sector.
+
+562
+00:46:05,725 --> 00:46:11,233
+[SPEAKER_08]: But what we need to do is firstly have fair pay agreements in our social care sector.
+
+563
+00:46:11,253 --> 00:46:13,597
+[SPEAKER_08]: People are paid what they deserve.
+
+564
+00:46:13,617 --> 00:46:18,324
+[SPEAKER_08]: But also that we have national standards as well.
+
+565
+00:46:18,384 --> 00:46:27,337
+[SPEAKER_08]: Because frankly our social carers, those who are employed, those who frankly are unpaid carers at home, they are real unsung heroes in our society.
+
+566
+00:46:27,357 --> 00:46:35,209
+[SPEAKER_08]: It is giving them status, giving that profession the status it deserves so we can attract more people from the workforce here into it too.
+
+567
+00:46:35,189 --> 00:46:37,271
+[SPEAKER_20]: That's not going to radically change things.
+
+568
+00:46:37,311 --> 00:46:40,195
+[SPEAKER_20]: I have to drop in the word that's not been mentioned, which is Brexit.
+
+569
+00:46:40,435 --> 00:46:41,416
+[SPEAKER_20]: Now, Brexit...
+
+570
+00:46:41,436 --> 00:46:44,760
+[SPEAKER_20]: Since Brexit happened, that's when you've seen the contraction of the labour market.
+
+571
+00:46:44,800 --> 00:46:55,071
+[SPEAKER_20]: That's when you've seen... For example, the UK took virtually every dentist out of Estonia previously, and hundreds of thousands of other people came across from Europe to work in our public services, and that stopped.
+
+572
+00:46:55,451 --> 00:47:03,340
+[SPEAKER_20]: And the other effect of Brexit, of course, is because of what's happened in terms of the loss, £69 billion last year to the UK economy,
+
+573
+00:47:03,320 --> 00:47:06,104
+[SPEAKER_20]: because that's happened, there's less money for public services.
+
+574
+00:47:06,164 --> 00:47:15,739
+[SPEAKER_20]: So what's rightly been said is, it's not just the people, you need to have the transport links, you need to have the investment in the health service and the care service, and people can talk about how much more is going into it.
+
+575
+00:47:15,819 --> 00:47:16,460
+[SPEAKER_20]: It's not enough.
+
+576
+00:47:16,941 --> 00:47:19,605
+[SPEAKER_20]: The population is growing, the needs of the population are growing.
+
+577
+00:47:19,826 --> 00:47:21,328
+[SPEAKER_20]: We have to grow the NHS.
+
+578
+00:47:21,308 --> 00:47:34,384
+[SPEAKER_20]: And the one way to do that, the biggest, most effective way to do it, certainly for Scotland, because we voted against Brexit, we never wanted it, we want to reverse it, and that's the biggest single thing you could do to reverse some of the problems that some people are talking about, especially in the NHS.
+
+579
+00:47:34,404 --> 00:47:40,312
+[SPEAKER_06]: You've just admitted, if the population's growing by 2.5 million people in the last three years alone, you haven't got a labour shortage.
+
+580
+00:47:40,552 --> 00:47:43,176
+[SPEAKER_06]: You've got to make work pay, you've got to train your own people.
+
+581
+00:47:43,216 --> 00:47:43,977
+[SPEAKER_06]: We haven't got a people shortage.
+
+582
+00:47:43,997 --> 00:47:44,697
+[SPEAKER_06]: There's no labour shortage.
+
+583
+00:47:44,717 --> 00:47:46,059
+[SPEAKER_06]: Does anyone else agree there's no labour shortage?
+
+584
+00:47:46,079 --> 00:47:48,702
+[SPEAKER_06]: We haven't got a people shortage, but too many people, work doesn't pay.
+
+585
+00:47:48,743 --> 00:47:50,725
+[SPEAKER_07]: Are you not listening to what the audience is telling you?
+
+586
+00:47:50,705 --> 00:47:53,892
+[SPEAKER_07]: There's a difference between a people shortage and a labour shortage.
+
+587
+00:47:54,092 --> 00:48:04,153
+[SPEAKER_06]: Because under the Tories, they've frozen the threshold at which you start paying income tax and therefore for too many people, particularly in industries like hospitality and social care, work doesn't pay.
+
+588
+00:48:04,233 --> 00:48:04,915
+[SPEAKER_06]: That's the reality.
+
+589
+00:48:05,175 --> 00:48:10,907
+[SPEAKER_06]: That's why if you lift the threshold to £20,000, automatically that's an extra net £1,500.
+
+590
+00:48:10,887 --> 00:48:11,788
+[SPEAKER_06]: purpose.
+
+591
+00:48:11,808 --> 00:48:14,753
+[SPEAKER_09]: What about the threshold for allowing people in to work?
+
+592
+00:48:14,953 --> 00:48:22,664
+[SPEAKER_09]: How does ever increasing that threshold help hospitality businesses, for example, who need to bring people in, who aren't going to be on that kind of salary but are needed?
+
+593
+00:48:22,824 --> 00:48:29,494
+[SPEAKER_09]: I've got restaurants in my constituency who are unable to find people to work because it was Brexit.
+
+594
+00:48:29,915 --> 00:48:31,858
+[SPEAKER_09]: Hospitality depended on so many people...
+
+595
+00:48:31,918 --> 00:48:34,662
+[SPEAKER_06]: The population is 2.5 million bigger than it was three years ago.
+
+596
+00:48:34,682 --> 00:48:35,944
+[SPEAKER_06]: It's got nothing to do with Brexit.
+
+597
+00:48:36,204 --> 00:48:36,945
+[SPEAKER_06]: It's because taxes
+
+598
+00:48:36,925 --> 00:48:53,095
+[SPEAKER_16]: The problem both in hospitality and in the NHS is a skills shortage and so it comes back to what I said before, Liberal Democrats would get rid of the arbitrary salary threshold and work with every single industry to work out what skills we actually need and do that alongside
+
+599
+00:48:53,075 --> 00:48:57,140
+[SPEAKER_16]: a skilled strategy to make sure that we're training our domestic workforce at the same time.
+
+600
+00:48:57,240 --> 00:49:04,690
+[SPEAKER_16]: Specifically, I think your question about the NHS, I'm the health spokesperson for my party and I'm very passionate about our NHS and our social care systems.
+
+601
+00:49:05,291 --> 00:49:10,978
+[SPEAKER_16]: We need to look at recruitment, but we need to look at retention as well, and we're talking about having a 10-year retention programme.
+
+602
+00:49:11,579 --> 00:49:22,052
+[SPEAKER_16]: Part of that needs to be retaining people that we have here in our domestic workforce, but we do need to retain people who have come from abroad and need to make sure that our recruitment from abroad is ethical recruitment as well.
+
+603
+00:49:22,032 --> 00:49:26,878
+[SPEAKER_16]: And one of the reasons why people are leaving our NHS is because of burnout, because of the workload.
+
+604
+00:49:27,239 --> 00:49:36,991
+[SPEAKER_16]: And so we need to improve not only the working conditions in the NHS by the NHS being a more flexible employer, but we can reduce the pressure on the NHS by fixing social care.
+
+605
+00:49:37,011 --> 00:49:41,016
+[SPEAKER_16]: OK. Liberal Democrats have a comprehensive plan for doing that and we will keep banging the drum until it's fixed.
+
+606
+00:49:41,096 --> 00:49:42,618
+[SPEAKER_07]: I'm going to move us on.
+
+607
+00:49:43,019 --> 00:49:44,821
+[SPEAKER_07]: I'm going to move us on because we've spent quite a lot of time on that.
+
+608
+00:49:45,422 --> 00:49:46,843
+[SPEAKER_07]: I want to hear from a refugee now.
+
+609
+00:49:48,105 --> 00:49:49,727
+[SPEAKER_07]: Gwali Pasole.
+
+610
+00:49:50,467 --> 00:49:54,383
+[SPEAKER_07]: Now, you came here from Afghanistan as a 12-year-old.
+
+611
+00:49:54,404 --> 00:49:55,110
+[SPEAKER_07]: What's your question?
+
+612
+00:49:55,698 --> 00:49:56,399
+[SPEAKER_19]: Thank you, good evening.
+
+613
+00:49:56,419 --> 00:50:01,123
+[SPEAKER_19]: My question is, Christian, how could we have a sensible and productive debate on these issues of migration?
+
+614
+00:50:01,563 --> 00:50:12,913
+[SPEAKER_19]: As a citizen now and as a taxpayer, I'd like to see a fair deal and a fair system and policies on the public behalf, but also a compassionate and humane approach towards refugees and asylum seekers.
+
+615
+00:50:12,953 --> 00:50:17,897
+[SPEAKER_19]: Unfortunately, as we heard, they've been scapegoated and dehumanized and criminalized for coming seeking protection.
+
+616
+00:50:17,937 --> 00:50:21,961
+[SPEAKER_19]: I feel like, as a British citizen now, I'm going to be voting for the first time, which I'm really looking forward to.
+
+617
+00:50:22,361 --> 00:50:24,743
+[SPEAKER_19]: And I hope everyone votes and gets involved.
+
+618
+00:50:24,723 --> 00:50:27,306
+[SPEAKER_19]: We should be proud of providing sanctuary to people like me.
+
+619
+00:50:27,327 --> 00:50:33,575
+[SPEAKER_07]: OK, so we talked about legal migration.
+
+620
+00:50:33,595 --> 00:50:37,660
+[SPEAKER_07]: Let's now talk about asylum seekers and refugees, like our questioner, Keith Brown.
+
+621
+00:50:38,121 --> 00:50:47,314
+[SPEAKER_20]: Yeah, I was just mentioning my own experience in terms of asylum seekers, and I'm very proud that in Scotland we've done more than our fair share in terms of both Ukrainian asylum seekers and Syrian refugees as well.
+
+622
+00:50:47,774 --> 00:50:53,582
+[SPEAKER_20]: But I'm very interested in your own experience in Afghanistan, because I think what the UK did in Afghanistan was utterly appalling.
+
+623
+00:50:53,562 --> 00:51:05,433
+[SPEAKER_20]: The people they left behind that had acted as intelligence support and various other forms of support, and I say this as an ex-service person myself, was utterly atrocious, betraying those people that should have had safe flight back out of Afghanistan.
+
+624
+00:51:05,793 --> 00:51:08,195
+[SPEAKER_20]: Very dangerous, I'm to say, given the roles that they played.
+
+625
+00:51:08,556 --> 00:51:12,980
+[SPEAKER_20]: And I absolutely agree with your point, that if we demonise them non-stop, that's why these problems come.
+
+626
+00:51:13,300 --> 00:51:14,981
+[SPEAKER_20]: And why are they wanting to demonise them?
+
+627
+00:51:15,082 --> 00:51:19,586
+[SPEAKER_20]: Because there's other stuff they should be doing, the big parties are not doing, so they go after scapegoats.
+
+628
+00:51:19,886 --> 00:51:22,168
+[SPEAKER_20]: And it's easy to go after refugees, and it's wrong.
+
+629
+00:51:23,330 --> 00:51:24,812
+[SPEAKER_20]: for the Greens.
+
+630
+00:51:24,832 --> 00:51:33,644
+[SPEAKER_15]: Firstly, congratulations on your citizenship, and I'm really glad that you were able to successfully seek refuge through this unnecessarily hostile asylum system.
+
+631
+00:51:33,664 --> 00:51:34,325
+[SPEAKER_19]: It took me 15 years.
+
+632
+00:51:34,986 --> 00:51:36,909
+[SPEAKER_15]: Yeah, well, it took you 15 years, exactly.
+
+633
+00:51:36,949 --> 00:51:38,210
+[SPEAKER_15]: That makes the point, doesn't it?
+
+634
+00:51:38,671 --> 00:51:46,722
+[SPEAKER_15]: At the Green Party, we take a totally different approach to refugees, because this is ultimately about what kind of society we want to live in.
+
+635
+00:51:46,782 --> 00:51:50,367
+[SPEAKER_15]: And I'm clear that the majority of Brits want us to live
+
+636
+00:51:50,347 --> 00:51:52,552
+[SPEAKER_15]: in a welcoming and civilised society.
+
+637
+00:51:52,632 --> 00:51:55,658
+[SPEAKER_15]: So we think the UK government needs to do three things.
+
+638
+00:51:55,839 --> 00:52:08,305
+[SPEAKER_15]: Firstly, to create safe and legal routes for those fleeing danger, persecution and war so that the smugglers with their small boats taking advantage of people in a desperate situation
+
+639
+00:52:08,285 --> 00:52:10,509
+[SPEAKER_15]: lose their business model.
+
+640
+00:52:10,549 --> 00:52:11,772
+[SPEAKER_15]: That's the first thing.
+
+641
+00:52:11,912 --> 00:52:24,657
+[SPEAKER_15]: Second, we need to speed up the asylum system so that timely and fair decisions are made and we're not unnecessarily keeping people in detention and preventing them from integrating into their new communities.
+
+642
+00:52:24,637 --> 00:52:30,506
+[SPEAKER_15]: And third, we want to allow asylum seekers to work to support themselves while they're waiting for their decision.
+
+643
+00:52:31,027 --> 00:52:37,938
+[SPEAKER_15]: I visited a refugee centre in my home city of Bristol recently, and I met a woman who'd been practising as a nurse in her home country.
+
+644
+00:52:38,659 --> 00:52:42,124
+[SPEAKER_15]: She would need to do a little bit more training in order to start practising here.
+
+645
+00:52:42,505 --> 00:52:44,027
+[SPEAKER_15]: She wasn't able to get started on that.
+
+646
+00:52:44,068 --> 00:52:45,209
+[SPEAKER_15]: She wasn't able to work.
+
+647
+00:52:45,249 --> 00:52:47,573
+[SPEAKER_15]: She'd been waiting in this country for 10
+
+648
+00:52:47,553 --> 00:52:47,994
+[SPEAKER_15]: years.
+
+649
+00:52:48,074 --> 00:52:56,368
+[SPEAKER_15]: She wanted to work in the NHS, contribute to our country, to our public services and to our tax system and our stupid asylum system stopped her.
+
+650
+00:52:56,468 --> 00:52:58,912
+[SPEAKER_15]: We are a civilised country and we should act like it.
+
+651
+00:52:58,932 --> 00:53:11,333
+[SPEAKER_07]: Chris Philp, when you hear a man from Afghanistan asking for a little compassion in this debate, are you a little ashamed of where this has all got to?
+
+652
+00:53:11,819 --> 00:53:13,021
+[SPEAKER_02]: No, frankly, I'm not.
+
+653
+00:53:13,061 --> 00:53:17,609
+[SPEAKER_02]: And firstly, congratulations for achieving citizenship and for voting in your first election here.
+
+654
+00:53:17,669 --> 00:53:18,991
+[SPEAKER_02]: Obviously, you're taking it seriously.
+
+655
+00:53:19,432 --> 00:53:26,063
+[SPEAKER_02]: And well done for reaching that milestone and participating in this fantastic democracy of ours.
+
+656
+00:53:26,444 --> 00:53:28,467
+[SPEAKER_02]: Look, there was a question earlier about safe and legal routes.
+
+657
+00:53:28,487 --> 00:53:29,389
+[SPEAKER_02]: And I think
+
+658
+00:53:29,369 --> 00:53:30,611
+[SPEAKER_02]: You were asking about this as well.
+
+659
+00:53:31,152 --> 00:53:37,543
+[SPEAKER_02]: Where there are crises, this country, the United Kingdom, is generous-hearted and open.
+
+660
+00:53:37,844 --> 00:53:44,475
+[SPEAKER_02]: So when there was the crisis in Syria, when Assad was murdering his own people, we set up the UK resettlement scheme.
+
+661
+00:53:44,455 --> 00:53:53,670
+[SPEAKER_02]: We directly and legally and safely resettled 25,000 people from Syria and from refugee camps on Syria's borders into the UK.
+
+662
+00:53:53,690 --> 00:53:57,857
+[SPEAKER_02]: That was the largest legal resettlement scheme in relation to Syria.
+
+663
+00:53:58,458 --> 00:53:59,700
+[SPEAKER_02]: I've mentioned Ukraine already.
+
+664
+00:54:00,020 --> 00:54:03,125
+[SPEAKER_02]: 200,000 Ukrainians have been welcomed here to the UK.
+
+665
+00:54:03,506 --> 00:54:09,215
+[SPEAKER_02]: A similar number of people from Hong Kong fleeing oppression by the communist regime in Afghanistan.
+
+666
+00:54:09,235 --> 00:54:10,277
+[SPEAKER_02]: Of course, your own
+
+667
+00:54:10,257 --> 00:54:28,553
+[SPEAKER_02]: the Taliban.
+
+668
+00:54:29,663 --> 00:54:32,988
+[SPEAKER_19]: in Pakistan, the same number of people are actually waiting to come.
+
+669
+00:54:33,008 --> 00:54:41,761
+[SPEAKER_02]: That's right, and we're urging, the Home Office is urgently working to bring those people safely into the United Kingdom, and that work is happening as we speak.
+
+670
+00:54:42,002 --> 00:54:49,793
+[SPEAKER_02]: So where there is a real need, then this country rightly welcomes people, but it does have to be done in a safe and legal way.
+
+671
+00:54:49,813 --> 00:54:53,278
+[SPEAKER_02]: We're probably going to come on to small boats later, but that is not the way to organise asylum.
+
+672
+00:54:53,299 --> 00:54:57,645
+[SPEAKER_02]: We should do it safely and legally, like those examples I've just given, and welcome again.
+
+673
+00:54:57,625 --> 00:55:00,471
+[SPEAKER_07]: the tone of this debate if you get into government?
+
+674
+00:55:00,892 --> 00:55:02,415
+[SPEAKER_07]: Or is it going to carry on along the way?
+
+675
+00:55:02,455 --> 00:55:03,858
+[SPEAKER_08]: I sincerely hope so.
+
+676
+00:55:03,898 --> 00:55:13,879
+[SPEAKER_08]: And can I just say in relation to this question, and congratulations on your citizenship, some of the proudest moments I've had as a member of Parliament since 2015
+
+677
+00:55:13,859 --> 00:55:30,608
+[SPEAKER_08]: In Glenavon, Pontypool, Cumbrian, the places that I've been privileged to represent is welcoming people from Syria, welcoming people from Afghanistan and welcoming people from Ukraine and hugely proud as well of the welcome that they've had from local people in my home valley.
+
+678
+00:55:30,628 --> 00:55:31,830
+[SPEAKER_08]: It's been remarkable to see.
+
+679
+00:55:32,210 --> 00:55:36,137
+[SPEAKER_08]: But we do need to reform those resettlement routes.
+
+680
+00:55:36,117 --> 00:55:41,408
+[SPEAKER_08]: You just mentioned your own journey of 15 years, which is clearly an unacceptable period for you to have waited.
+
+681
+00:55:41,448 --> 00:55:54,193
+[SPEAKER_08]: But also, just to take Afghanistan just for a moment, we have a particular duty to those people who risked themselves to serve and help
+
+682
+00:55:54,173 --> 00:55:57,157
+[SPEAKER_08]: are armed forces when they were in Afghanistan.
+
+683
+00:55:57,217 --> 00:55:59,800
+[SPEAKER_08]: We owe those people a moral duty.
+
+684
+00:56:00,160 --> 00:56:15,939
+[SPEAKER_08]: And frankly, it's disgraceful that nearly three years on now, since we left Afghanistan, you still have thousands of people who helped us, who would be at massive risk of their safety as a consequence in Afghanistan, now stuck in neighbouring countries like in Pakistan.
+
+685
+00:56:16,219 --> 00:56:19,663
+[SPEAKER_08]: We need that process speeded up because we owe those people a moral duty.
+
+686
+00:56:19,683 --> 00:56:21,666
+[SPEAKER_07]: People often talk about the ones who helped British troops.
+
+687
+00:56:21,686 --> 00:56:22,847
+[SPEAKER_07]: What about the rest of them?
+
+688
+00:56:23,333 --> 00:56:32,406
+[SPEAKER_08]: I think that we have a very particular duty to groups of people.
+
+689
+00:56:32,766 --> 00:56:39,776
+[SPEAKER_08]: I think that particular group of people, we call it the ARAP scheme, the interpreters who helped us, others who provided support to our troops.
+
+690
+00:56:40,377 --> 00:56:43,461
+[SPEAKER_08]: And not the girls who can't go to school anymore.
+
+691
+00:56:43,481 --> 00:56:44,262
+[SPEAKER_08]: Absolutely, and that
+
+692
+00:56:44,242 --> 00:56:46,205
+[SPEAKER_08]: position is appalling as well.
+
+693
+00:56:46,225 --> 00:56:56,542
+[SPEAKER_08]: You also the judges as well that you could talk about but it is about I think that particular moral duty where people have put themselves at risk for us that we should repay that duty.
+
+694
+00:56:56,922 --> 00:57:06,097
+[SPEAKER_07]: Right one of the big issues here of course is the existing system and what to do with it so let's get a question on that from Lorcan Furlong.
+
+695
+00:57:06,498 --> 00:57:07,279
+[SPEAKER_07]: Lorcan where are you?
+
+696
+00:57:08,879 --> 00:57:15,511
+[SPEAKER_13]: It is clear that our current asylum backlog is far too large and a key issue seems to be processing.
+
+697
+00:57:16,072 --> 00:57:24,006
+[SPEAKER_13]: What is your plan to improve processing so people can start working and contribute to society or if it becomes that their asylum claims are denied?
+
+698
+00:57:24,487 --> 00:57:25,268
+[SPEAKER_06]: Richard Tice.
+
+699
+00:57:25,788 --> 00:57:26,529
+[SPEAKER_06]: Yeah, you're quite right.
+
+700
+00:57:26,549 --> 00:57:28,371
+[SPEAKER_06]: I mean, it's complete and utter chaos.
+
+701
+00:57:28,391 --> 00:57:38,581
+[SPEAKER_06]: 15 years ago, people were assessed within a fortnight, had a right to appeal within about a week or two, and then a final decision was made, either to be accepted or to be rejected.
+
+702
+00:57:38,621 --> 00:57:41,324
+[SPEAKER_06]: And then the number being accepted was about 20%.
+
+703
+00:57:41,664 --> 00:57:43,146
+[SPEAKER_06]: The number now is about 75%.
+
+704
+00:57:43,626 --> 00:57:46,549
+[SPEAKER_06]: And going back to the previous point, you know, congratulations, sir.
+
+705
+00:57:46,850 --> 00:57:51,855
+[SPEAKER_06]: But actually, of course, we want a fair, compassionate system which works promptly and efficiently.
+
+706
+00:57:51,875 --> 00:57:53,837
+[SPEAKER_06]: We've got an incompetent Home Office,
+
+707
+00:57:53,817 --> 00:58:00,588
+[SPEAKER_06]: which means that the backlog has increased, and therefore the cost to all of us as taxpayers has soared through the roof.
+
+708
+00:58:00,969 --> 00:58:08,342
+[SPEAKER_06]: The right way to have a fair system is to assess people promptly, rapidly, so that everybody gets a fair deal and knows where they stand.
+
+709
+00:58:08,522 --> 00:58:14,953
+[SPEAKER_06]: And that just seems to be completely beyond the wit of the Home Office, despite minister after minister after minister.
+
+710
+00:58:15,213 --> 00:58:16,315
+[SPEAKER_06]: It's just unacceptable.
+
+711
+00:58:17,257 --> 00:58:19,239
+[SPEAKER_02]: Well, look, the system is being sped up.
+
+712
+00:58:19,279 --> 00:58:21,381
+[SPEAKER_02]: The productivity has gone up about three times.
+
+713
+00:58:21,421 --> 00:58:24,965
+[SPEAKER_02]: About 112,000 asylum decisions were made last year.
+
+714
+00:58:25,325 --> 00:58:31,151
+[SPEAKER_02]: The so-called legacy backlog, those are the older cases before certain legal changes, is down by 95%.
+
+715
+00:58:31,271 --> 00:58:34,214
+[SPEAKER_02]: It's gone from 92,000 down to 5,000.
+
+716
+00:58:34,474 --> 00:58:42,302
+[SPEAKER_02]: Now, there are some changes we're making through a thing called the Illegal Migration Act, which essentially returns to a system more like the one that Richard was describing.
+
+717
+00:58:42,282 --> 00:58:45,847
+[SPEAKER_02]: where decisions are made quickly and you can't make these sort of repeated claims.
+
+718
+00:58:46,407 --> 00:58:53,376
+[SPEAKER_02]: Those have arisen over time as essentially case law has expanded the grounds on which people can claim asylum again and again.
+
+719
+00:58:53,416 --> 00:58:59,885
+[SPEAKER_02]: The Illegal Migration Act, which I think Labour voted against, is designed to make that process a lot more streamlined.
+
+720
+00:59:00,165 --> 00:59:03,970
+[SPEAKER_02]: So it's speeding up already and the commencement of that act
+
+721
+00:59:03,950 --> 00:59:07,654
+[SPEAKER_02]: will make the process a lot faster and a lot more final.
+
+722
+00:59:07,835 --> 00:59:17,246
+[SPEAKER_16]: The backlog issue is a complete mess entirely of the Conservatives making.
+
+723
+00:59:17,646 --> 00:59:26,076
+[SPEAKER_16]: So because of the legislation that they've introduced, there are now 118,000 people who can't claim asylum in this country.
+
+724
+00:59:26,056 --> 00:59:29,961
+[SPEAKER_16]: neither can they be deported to Rwanda to have their claims processed there.
+
+725
+00:59:30,001 --> 00:59:38,190
+[SPEAKER_16]: So there's 118,000 people stuck in no-man's land without any ability to do anything at all, and taxpayers are having to pay for that.
+
+726
+00:59:38,411 --> 00:59:52,047
+[SPEAKER_16]: So the first thing that we would do is scrap the Rwanda scheme, which has been incredibly expensive, unworkable, completely immoral, that has cost £291 million already, without a single person being sent to Rwanda who wasn't paid to go.
+
+727
+00:59:52,027 --> 01:00:03,842
+[SPEAKER_16]: And by scrapping that scheme, that money alone that's been spent already could have been used to pay for 6,000 Home Office caseworkers to process those claims, get the claims down.
+
+728
+01:00:03,862 --> 01:00:19,722
+[SPEAKER_16]: So what Liberal Democrats will do is scrap the Rwanda scheme, invest in Home Office processors, get the claims down to processors within three months for each person, and if anybody's claim can't be dealt with within three months, they then have the right to work, which means that taxpayers aren't subsidising people to work and pay tax.
+
+729
+01:00:19,702 --> 01:00:25,386
+[SPEAKER_06]: Under the Liberal Democrat scheme, if the application is rejected, what will happen to that person?
+
+730
+01:00:26,270 --> 01:00:27,013
+[SPEAKER_06]: Will they be returned?
+
+731
+01:00:27,033 --> 01:00:27,957
+[SPEAKER_06]: Will they be deported?
+
+732
+01:00:28,223 --> 01:00:35,314
+[SPEAKER_16]: This has always been the case that if somebody makes an application to this country and their application is refused, then of course they get returned to their country of origin.
+
+733
+01:00:35,354 --> 01:00:36,336
+[SPEAKER_16]: That has always been the case.
+
+734
+01:00:36,356 --> 01:00:39,521
+[SPEAKER_16]: But the problem we have at the moment is we have this no man's land situation.
+
+735
+01:00:39,841 --> 01:00:42,465
+[SPEAKER_16]: As you described, the backlog of 118,000 people.
+
+736
+01:00:42,846 --> 01:00:47,213
+[SPEAKER_16]: Instead of paying for the Rwanda scheme, which hasn't worked, we could invest that money in getting those claims down.
+
+737
+01:00:47,373 --> 01:00:48,254
+[SPEAKER_07]: Where's Saira Javid?
+
+738
+01:00:48,615 --> 01:00:50,518
+[SPEAKER_07]: Saira, you've got a question on this as well.
+
+739
+01:00:50,718 --> 01:00:53,903
+[SPEAKER_14]: I do have a question, and I'll probably say this going slightly off script.
+
+740
+01:00:54,003 --> 01:00:56,347
+[SPEAKER_14]: I can probably dismantle all of your immigration policies.
+
+741
+01:00:57,008 --> 01:00:57,830
+[SPEAKER_14]: Please do reach out.
+
+742
+01:00:58,691 --> 01:01:02,277
+[SPEAKER_14]: So I'm an immigration solicitor, and I work for the Joint Council for the Welfare of Immigrants.
+
+743
+01:01:02,918 --> 01:01:06,123
+[SPEAKER_14]: My clients are in limbo and stuck in the system for years.
+
+744
+01:01:06,644 --> 01:01:07,446
+[SPEAKER_14]: They can't work.
+
+745
+01:01:07,866 --> 01:01:09,890
+[SPEAKER_14]: And some of you do say you'll give them the right to work.
+
+746
+01:01:10,471 --> 01:01:13,215
+[SPEAKER_14]: But really, you haven't before.
+
+747
+01:01:13,381 --> 01:01:26,238
+[SPEAKER_14]: and they are stuck in crap housing, bad hotels, they are put in army barracks that are not fit for purpose, and they are also put onto barges.
+
+748
+01:01:26,418 --> 01:01:29,282
+[SPEAKER_14]: These are traumatized people and we demonize them.
+
+749
+01:01:30,543 --> 01:01:37,853
+[SPEAKER_14]: How will this panel really bring back humanity into our system, give safety to the people who are seeking
+
+750
+01:01:38,288 --> 01:01:39,810
+[SPEAKER_14]: you know, safety in our country.
+
+751
+01:01:40,230 --> 01:01:43,294
+[SPEAKER_14]: And we do say we are leaders of human rights.
+
+752
+01:01:43,634 --> 01:01:44,616
+[SPEAKER_06]: Where are they?
+
+753
+01:01:44,636 --> 01:01:45,657
+[SPEAKER_06]: The answer is incredibly simple.
+
+754
+01:01:45,677 --> 01:01:47,259
+[SPEAKER_14]: And speed isn't one of them, I'll tell you right now.
+
+755
+01:01:47,499 --> 01:01:48,761
+[SPEAKER_06]: Speed is absolutely one of them.
+
+756
+01:01:48,781 --> 01:01:49,021
+[SPEAKER_06]: It is not.
+
+757
+01:01:49,041 --> 01:01:55,249
+[SPEAKER_06]: That is the kind and compassionate thing to do, is to deal with the applications promptly and appropriately.
+
+758
+01:01:55,569 --> 01:01:57,311
+[SPEAKER_06]: It worked 15 to 20 years ago.
+
+759
+01:01:57,631 --> 01:02:00,215
+[SPEAKER_06]: It wasn't a crisis then, so that's what we should return to.
+
+760
+01:02:00,235 --> 01:02:01,836
+[SPEAKER_07]: I want to hear the two main parties on this point.
+
+761
+01:02:01,857 --> 01:02:03,098
+[SPEAKER_07]: Nick Thomas-Symonds.
+
+762
+01:02:03,078 --> 01:02:06,764
+[SPEAKER_08]: Well, listen, we would scrap the Rwanda scheme, which is completely unworkable.
+
+763
+01:02:06,784 --> 01:02:14,437
+[SPEAKER_08]: They've poured hundreds of millions of pounds down the drain to essentially send two volunteers and a couple of Tory Home Secretaries there so far.
+
+764
+01:02:14,918 --> 01:02:16,741
+[SPEAKER_08]: And we need to redirect.
+
+765
+01:02:16,761 --> 01:02:19,326
+[SPEAKER_08]: They've already allocated £75 million.
+
+766
+01:02:19,346 --> 01:02:20,969
+[SPEAKER_08]: We need to redirect that money.
+
+767
+01:02:21,369 --> 01:02:25,356
+[SPEAKER_08]: We need to create a proper border security command.
+
+768
+01:02:25,336 --> 01:02:26,237
+[SPEAKER_08]: There already is one.
+
+769
+01:02:26,537 --> 01:02:27,338
+[SPEAKER_08]: No, there is not.
+
+770
+01:02:27,358 --> 01:02:30,862
+[SPEAKER_08]: There's a small boat operations command that's part of Border Force.
+
+771
+01:02:31,182 --> 01:02:42,174
+[SPEAKER_08]: What our Border Security Command would do is bring together Border Force, it would bring together Immigration Enforcement, it would bring together Crown Prosecution Service, International, and crucially, our security services.
+
+772
+01:02:42,675 --> 01:02:48,081
+[SPEAKER_08]: Because what we need to do, Keir Starmer was the chief prosecutor, he busted the terror gangs.
+
+773
+01:02:48,221 --> 01:02:54,668
+[SPEAKER_08]: I don't believe for a moment you can't bust the criminal smuggler gangs as well and their evil trade, and that is precisely what's happening.
+
+774
+01:02:54,648 --> 01:03:04,670
+[SPEAKER_07]: And what would you do about the 40,000 people who have come into this country on small boats since the 2023 Act was passed and are stuck in limbo and can't do anything?
+
+775
+01:03:04,690 --> 01:03:05,993
+[SPEAKER_07]: What would you do with them?
+
+776
+01:03:06,033 --> 01:03:11,686
+[SPEAKER_08]: Hang on, they are not stuck in limbo because they are already in our system, they are already in our accommodation.
+
+777
+01:03:12,067 --> 01:03:14,091
+[SPEAKER_08]: And the government talks about the 101%.
+
+778
+01:03:14,071 --> 01:03:17,015
+[SPEAKER_08]: Well, that's exactly what is going to have to happen.
+
+779
+01:03:17,035 --> 01:03:32,956
+[SPEAKER_08]: And what will happen then is those who are found to have no right to be here, we will get a proper enforcement and returns agreement in the Home Office, if we are privileged enough to govern, that will actually then deport people who are not entitled to be here.
+
+780
+01:03:32,976 --> 01:03:36,180
+[SPEAKER_08]: That's the flights that will be taken off under a Labour government, not wasting money on the Rwandan people.
+
+781
+01:03:36,160 --> 01:03:37,342
+[SPEAKER_06]: will you actually stop the boat?
+
+782
+01:03:37,402 --> 01:03:39,866
+[SPEAKER_06]: About 800 people have arrived today.
+
+783
+01:03:39,906 --> 01:03:48,802
+[SPEAKER_02]: So the way to deal with this is to make sure that there are safe and legal routes set up where necessary and I've mentioned some of the examples before like the Afghan scheme and the Syrian scheme.
+
+784
+01:03:49,062 --> 01:03:54,051
+[SPEAKER_02]: What we can't have is people illegally entering the country by small boat
+
+785
+01:03:54,031 --> 01:03:59,258
+[SPEAKER_02]: From a safe place, France is a safe country, nobody has to leave France to flee danger.
+
+786
+01:03:59,499 --> 01:04:04,185
+[SPEAKER_02]: The people coming across on small boats are overwhelmingly young, single men.
+
+787
+01:04:04,546 --> 01:04:07,470
+[SPEAKER_02]: We should be prioritising people who are in genuine need.
+
+788
+01:04:07,710 --> 01:04:12,577
+[SPEAKER_02]: The people that came from Syria, for example, very often they were women and children and people who needed support.
+
+789
+01:04:12,597 --> 01:04:15,421
+[SPEAKER_02]: So we cannot have this small boat traffic continuing.
+
+790
+01:04:15,641 --> 01:04:17,985
+[SPEAKER_02]: And that is why the Rwanda scheme is so important.
+
+791
+01:04:18,005 --> 01:04:19,026
+[SPEAKER_02]: It acts as a deterrent.
+
+792
+01:04:19,006 --> 01:04:20,789
+[SPEAKER_02]: It's clearly not a deterrent, Chris.
+
+793
+01:04:20,830 --> 01:04:22,012
+[SPEAKER_02]: 800 people have come today, Chris.
+
+794
+01:04:22,272 --> 01:04:23,054
+[SPEAKER_02]: Today, 800.
+
+795
+01:04:23,154 --> 01:04:24,397
+[SPEAKER_02]: It's not a deterrent.
+
+796
+01:04:24,557 --> 01:04:28,925
+[SPEAKER_02]: Richard, in case you haven't noticed, the Rwanda scheme has actually not started yet, and indeed it won't start.
+
+797
+01:04:28,945 --> 01:04:30,929
+[SPEAKER_02]: So how do you know it's a deterrent?
+
+798
+01:04:30,949 --> 01:04:32,753
+[SPEAKER_02]: You're right it won't start because you're not going to be in government.
+
+799
+01:04:32,773 --> 01:04:34,336
+[SPEAKER_02]: Unless the Conservatives win the general election.
+
+800
+01:04:34,356 --> 01:04:35,378
+[SPEAKER_02]: How do you know it's a deterrent?
+
+801
+01:04:35,543 --> 01:04:38,266
+[SPEAKER_02]: Well, it's a very good question, so there's a couple of...
+
+802
+01:04:38,286 --> 01:04:39,528
+[SPEAKER_02]: The Home Office hasn't... Well, I'll give you the answer.
+
+803
+01:04:39,548 --> 01:04:40,129
+[SPEAKER_02]: I'll give you the answer.
+
+804
+01:04:40,169 --> 01:04:42,812
+[SPEAKER_02]: So, the Australians tried something similar about ten years ago.
+
+805
+01:04:42,852 --> 01:04:44,354
+[SPEAKER_02]: They called it Operation Sovereign Borders.
+
+806
+01:04:44,694 --> 01:04:47,818
+[SPEAKER_02]: They completely stopped what they called their illegal maritime arrivals.
+
+807
+01:04:47,838 --> 01:04:50,461
+[SPEAKER_02]: That's because they had a pick-up policy, they had a push-back policy.
+
+808
+01:04:50,581 --> 01:04:52,744
+[SPEAKER_02]: Using removals to, in that case, Nauru.
+
+809
+01:04:52,944 --> 01:04:57,990
+[SPEAKER_02]: But secondly, we set up a returns agreement with Albania about a year and a half ago, and that saw...
+
+810
+01:04:57,970 --> 01:05:04,322
+[SPEAKER_02]: A 94% reduction in Albanians crossing the English Channel because they knew if they came across there'd be a return.
+
+811
+01:05:04,343 --> 01:05:10,394
+[SPEAKER_02]: So there are two very clear case studies showing you how a return scheme or removal scheme acts as a deterrent.
+
+812
+01:05:10,414 --> 01:05:18,831
+[SPEAKER_02]: It'll end these dangerous and illegal and unnecessary crossings, giving us capacity to focus our attention on those people who are genuinely in need.
+
+813
+01:05:18,811 --> 01:05:24,819
+[SPEAKER_20]: I'm happy to bet with anybody that the Rwanda scheme will not happen at all, and not just because the Tories are not going to be in government in any event.
+
+814
+01:05:24,899 --> 01:05:26,241
+[SPEAKER_20]: It's a nonsense, it's a gimmick.
+
+815
+01:05:26,742 --> 01:05:29,085
+[SPEAKER_20]: It panders to the worst kind of instincts of people.
+
+816
+01:05:29,125 --> 01:05:30,146
+[SPEAKER_20]: It's not going to happen at all.
+
+817
+01:05:30,166 --> 01:05:42,343
+[SPEAKER_20]: So to go back to the lady's question, working with immigrants, it is going to have to be about resources being put into the Home Office, and also into the housing and the other facilities available for people, whilst we have this huge backlog of refugees because they've not dealt with it.
+
+818
+01:05:42,643 --> 01:05:47,670
+[SPEAKER_20]: But the one thing I would say, the most important thing in this election is to bear in mind, the money's not going to be there.
+
+819
+01:05:47,650 --> 01:05:51,596
+[SPEAKER_20]: both the parties, Labour and Tory, £18 billion short.
+
+820
+01:05:51,856 --> 01:05:53,078
+[SPEAKER_20]: That's what the IFS says.
+
+821
+01:05:53,378 --> 01:05:55,241
+[SPEAKER_20]: They're not going to have the money to do these things.
+
+822
+01:05:55,542 --> 01:06:04,755
+[SPEAKER_20]: That's the biggest problem we've got, and it won't deal with the long-standing problems of refugees, it won't deal with policing, it won't deal with crime, because the money is not there, either from Labour or the Conservative Party.
+
+823
+01:06:04,976 --> 01:06:05,957
+[SPEAKER_15]: I'll be brief, Krishnan.
+
+824
+01:06:06,678 --> 01:06:08,761
+[SPEAKER_15]: Sarma, thank you so much for your work.
+
+825
+01:06:08,821 --> 01:06:14,670
+[SPEAKER_15]: I've been a fan and signed up on the mailing list of the JCWI since before I was a politician.
+
+826
+01:06:14,650 --> 01:06:26,596
+[SPEAKER_15]: briefly we would create safe and legal routes as I said we would scrap the Rwanda scheme which at 1.8 million pounds per asylum seeker is an incredibly expensive way to be cruel.
+
+827
+01:06:26,656 --> 01:06:32,068
+[SPEAKER_15]: We would allow asylum seekers to work in the meantime while they're waiting for their decision so they can support themselves
+
+828
+01:06:32,048 --> 01:06:42,504
+[SPEAKER_15]: We would restore legal aid, which is the issue that's brought up to me time and time again by those working in the legal profession and as volunteers to support those seeking asylum.
+
+829
+01:06:42,824 --> 01:06:44,547
+[SPEAKER_15]: We would end indefinite detention.
+
+830
+01:06:44,987 --> 01:06:46,690
+[SPEAKER_15]: Asylum seekers are not criminals.
+
+831
+01:06:47,010 --> 01:06:50,175
+[SPEAKER_15]: And finally, we would take expert advice from people like yourself.
+
+832
+01:06:53,513 --> 01:06:59,922
+[SPEAKER_09]: The answer is in your question, of course, and it's about stopping the demonisation.
+
+833
+01:06:59,962 --> 01:07:10,678
+[SPEAKER_09]: Of course, the Conservatives have made a right hash of processing asylum applications, and people caught up in that backlog are the people who are then demonised.
+
+834
+01:07:10,658 --> 01:07:20,959
+[SPEAKER_09]: We have to remember that the UK has international obligations under the 1951 Refugees Act to play its part as a global player.
+
+835
+01:07:21,239 --> 01:07:21,861
+[SPEAKER_09]: And you know what?
+
+836
+01:07:22,402 --> 01:07:32,582
+[SPEAKER_09]: The UK's standing on the international stage has been damaged so much by the actions of this Conservative government in undermining those obligations.
+
+837
+01:07:32,562 --> 01:07:34,205
+[SPEAKER_09]: We have to change the language.
+
+838
+01:07:34,225 --> 01:07:38,972
+[SPEAKER_09]: My daughter worked for a youth organization welcoming Afghan refugees to Wales.
+
+839
+01:07:39,272 --> 01:07:40,815
+[SPEAKER_09]: It enriched her life so much.
+
+840
+01:07:41,255 --> 01:07:47,064
+[SPEAKER_09]: I'm so proud of her seeing those refugees settle in our communities, learning English, learning Welsh.
+
+841
+01:07:47,084 --> 01:07:51,371
+[SPEAKER_09]: That's the nature of sanctuary principles that are important to us.
+
+842
+01:07:51,972 --> 01:07:57,540
+[SPEAKER_09]: And they're just our international obligations that we should be proud of stepping up to the mark to deliver on.
+
+843
+01:08:01,604 --> 01:08:03,006
+[SPEAKER_07]: Richard Tice, you've been trying to get in.
+
+844
+01:08:03,747 --> 01:08:13,740
+[SPEAKER_06]: Yeah, look, the reality is, under the Green Party scheme, that that will act as a magnet for more people to come here, dangerously, across the English Channel, because if you give people the right to work, then that will increase it.
+
+845
+01:08:14,101 --> 01:08:18,627
+[SPEAKER_06]: What we've got to do, actually, is we've got to pick people up out of the boats and take them back to France.
+
+846
+01:08:18,647 --> 01:08:19,688
+[SPEAKER_06]: That will stop the deaths.
+
+847
+01:08:20,029 --> 01:08:21,271
+[SPEAKER_06]: That's the compassionate thing to do.
+
+848
+01:08:21,611 --> 01:08:22,933
+[SPEAKER_06]: That will stop the illegal trade.
+
+849
+01:08:23,213 --> 01:08:23,794
+[SPEAKER_06]: We know it works.
+
+850
+01:08:23,834 --> 01:08:24,154
+[SPEAKER_07]: You can't.
+
+851
+01:08:24,175 --> 01:08:24,815
+[SPEAKER_07]: You can't do that.
+
+852
+01:08:24,835 --> 01:08:25,296
+[SPEAKER_06]: We can do that.
+
+853
+01:08:25,316 --> 01:08:28,340
+[SPEAKER_06]: The Belgian authorities have been doing it off their own shores.
+
+854
+01:08:28,560 --> 01:08:29,502
+[SPEAKER_06]: They've been taking people back.
+
+855
+01:08:29,522 --> 01:08:30,463
+[SPEAKER_07]: Well, you just dropped them off
+
+856
+01:08:30,443 --> 01:08:31,044
+[SPEAKER_07]: on the beach.
+
+857
+01:08:31,164 --> 01:08:33,146
+[SPEAKER_06]: France has legal international obligations.
+
+858
+01:08:33,507 --> 01:08:35,349
+[SPEAKER_06]: It's because of Brexit that we can't do that.
+
+859
+01:08:35,369 --> 01:08:41,677
+[SPEAKER_06]: Under the 1982 UN Convention of Law at Sea, France has international obligations in order to pick people up and take them back.
+
+860
+01:08:41,697 --> 01:08:43,119
+[SPEAKER_06]: They're failing in those obligations.
+
+861
+01:08:43,419 --> 01:08:44,781
+[SPEAKER_06]: We're entitled to do that.
+
+862
+01:08:44,801 --> 01:08:45,942
+[SPEAKER_06]: That's the kind of thing to do.
+
+863
+01:08:46,203 --> 01:08:47,364
+[SPEAKER_06]: It will stop people dying.
+
+864
+01:08:47,464 --> 01:08:48,906
+[SPEAKER_06]: Forced returns are illegal, of course.
+
+865
+01:08:49,026 --> 01:08:50,468
+[SPEAKER_06]: Just answer that.
+
+866
+01:08:50,528 --> 01:08:51,169
+[SPEAKER_06]: It's a variant of
+
+867
+01:08:51,149 --> 01:08:52,853
+[SPEAKER_06]: Why don't you do that?
+
+868
+01:08:52,873 --> 01:08:53,815
+[SPEAKER_08]: Is it legal?
+
+869
+01:08:53,835 --> 01:09:00,270
+[SPEAKER_08]: In order to deal with the problem, nobody wants to see people risking their lives in these small boats in the English Channel.
+
+870
+01:09:00,290 --> 01:09:02,876
+[SPEAKER_08]: I've been down to Dover, I've been across to France.
+
+871
+01:09:02,896 --> 01:09:05,241
+[SPEAKER_08]: Just deal with that point about returning people to France.
+
+872
+01:09:05,261 --> 01:09:09,090
+[SPEAKER_08]: Firstly, what we need to do is to work internationally.
+
+873
+01:09:09,070 --> 01:09:15,376
+[SPEAKER_08]: The idea that you just do, as Richard is saying, is complete fantasy, to be frank.
+
+874
+01:09:15,396 --> 01:09:19,340
+[SPEAKER_08]: The way that the French authorities would react would be to damage our cooperation, not enhance it.
+
+875
+01:09:19,360 --> 01:09:34,976
+[SPEAKER_08]: But secondly, let me just say about the European Convention on Human Rights, I am proud of Britain, proud of our contribution to the world, proud of the contribution that cross-party Clement Attlee, Winston Churchill made to that European Convention on Human Rights.
+
+876
+01:09:35,296 --> 01:09:39,060
+[SPEAKER_08]: To walk away from it and to become an international pariah
+
+877
+01:09:39,040 --> 01:09:44,857
+[SPEAKER_08]: would frankly make us a country with far less influence on the world stage and I think we're much better than that.
+
+878
+01:09:45,118 --> 01:09:51,497
+[SPEAKER_07]: Nonsense.
+
+879
+01:09:51,562 --> 01:09:52,503
+[SPEAKER_07]: Yes.
+
+880
+01:09:53,505 --> 01:09:54,246
+[SPEAKER_12]: What's your perspective?
+
+881
+01:09:54,806 --> 01:09:57,250
+[SPEAKER_12]: Well, mine is actually a question.
+
+882
+01:09:57,871 --> 01:10:01,375
+[SPEAKER_12]: I'm talking about non-essential immigration here.
+
+883
+01:10:01,836 --> 01:10:06,422
+[SPEAKER_12]: It's causing, obviously putting a lot of pressure on the national health and police services.
+
+884
+01:10:07,223 --> 01:10:15,995
+[SPEAKER_12]: As a lone person, I'm starting to feel increasingly vulnerable and I'm seriously considering moving outside of the UK.
+
+885
+01:10:17,537 --> 01:10:19,460
+[SPEAKER_12]: How are you going to encourage me to stay?
+
+886
+01:10:19,941 --> 01:10:21,062
+[SPEAKER_12]: Because I really want to.
+
+887
+01:10:22,342 --> 01:10:27,955
+[SPEAKER_07]: OK, well, I'm not going to circle back into legal immigration, but Chris Philp, just answer that.
+
+888
+01:10:28,076 --> 01:10:29,178
+[SPEAKER_07]: How are you going to persuade her to stay?
+
+889
+01:10:29,880 --> 01:10:32,125
+[SPEAKER_02]: Well, Kamalina... Do you want to persuade her to stay?
+
+890
+01:10:32,165 --> 01:10:32,607
+[SPEAKER_07]: Yeah, of course.
+
+891
+01:10:33,388 --> 01:10:35,193
+[SPEAKER_02]: Of course, Kamalina, yes, we do want you to stay.
+
+892
+01:10:35,213 --> 01:10:35,694
+[SPEAKER_02]: Of course we do.
+
+893
+01:10:36,416 --> 01:10:39,102
+[SPEAKER_02]: We want to make sure that our immigration system
+
+894
+01:10:39,082 --> 01:10:45,511
+[SPEAKER_02]: is reasonable in terms of numbers, which means, as we discussed previously, much, much lower numbers than we have at the moment.
+
+895
+01:10:45,531 --> 01:10:53,101
+[SPEAKER_02]: We want to make sure it's targeted at people with high skills that we need to come and work here so that it helps our economy to grow.
+
+896
+01:10:53,502 --> 01:10:54,844
+[SPEAKER_02]: And where there are people...
+
+897
+01:10:54,864 --> 01:11:00,051
+[SPEAKER_02]: I think it was... Was it Piers, I think, who was struggling to recruit in...
+
+898
+01:11:00,071 --> 01:11:01,373
+[SPEAKER_02]: I think it was the hospitality sector.
+
+899
+01:11:01,653 --> 01:11:06,540
+[SPEAKER_02]: We want to focus first on trying to get people who are living here already
+
+900
+01:11:06,520 --> 01:11:10,469
+[SPEAKER_02]: maybe on benefits or maybe just not working at all into those jobs.
+
+901
+01:11:10,489 --> 01:11:18,046
+[SPEAKER_02]: I think that's the sort of coherent strategy that I hope will encourage you to stay in this fantastic country, in this fantastic county of Essex.
+
+902
+01:11:19,049 --> 01:11:22,757
+[SPEAKER_07]: Nick, if someone is so concerned by immigration that they're thinking of leaving the country,
+
+903
+01:11:22,737 --> 01:11:24,079
+[SPEAKER_07]: do you definitely want them to stay?
+
+904
+01:11:24,680 --> 01:11:42,349
+[SPEAKER_08]: I'm just hugely concerned to hear that but I think what we need in terms of our immigration debate and indeed our immigration system is we just need a sense of fairness and we actually need to enforce the rules and I think it's those two things that gives the public confidence.
+
+905
+01:11:42,329 --> 01:11:45,893
+[SPEAKER_08]: It's why, then, we have a very welcoming environment.
+
+906
+01:11:45,913 --> 01:11:54,322
+[SPEAKER_08]: And, frankly, it's the absolute chaos that we've seen in our immigration system that I think has led, in a sense, Christian, to where you started late when you were...
+
+907
+01:11:54,342 --> 01:12:00,589
+[SPEAKER_06]: But we've actually heard from the poll that the public don't have confidence in either of the main two parties' plans for lawful immigration.
+
+908
+01:12:00,669 --> 01:12:04,253
+[SPEAKER_06]: That's the reality because they've broken promise after promise after promise.
+
+909
+01:12:04,273 --> 01:12:11,121
+[SPEAKER_09]: And one further point, if I can make, and I wish you very well whatever decision you make, but your question goes to prove that people move.
+
+910
+01:12:11,101 --> 01:12:19,371
+[SPEAKER_07]: Okay, I'm going to move us on to a broader topic now, which is about the bigger global picture when it comes to migration.
+
+911
+01:12:19,391 --> 01:12:21,294
+[SPEAKER_07]: Let's take a question from Hamza Eagle.
+
+912
+01:12:21,674 --> 01:12:22,035
+[SPEAKER_07]: Hamza.
+
+913
+01:12:22,475 --> 01:12:30,966
+[SPEAKER_17]: Yes, clearly the migration debate is telling us that we're very interconnected as a global entity.
+
+914
+01:12:30,946 --> 01:12:36,111
+[SPEAKER_17]: My question is how do our policies impact migration?
+
+915
+01:12:36,391 --> 01:12:40,235
+[SPEAKER_17]: Our foreign policy, our trade policies, how do they impact migration?
+
+916
+01:12:40,595 --> 01:12:49,844
+[SPEAKER_17]: For example, we saw in places like Libya where slave markets emerged and where people are being ferried from by these gangs that we keep referring to.
+
+917
+01:12:50,184 --> 01:12:59,873
+[SPEAKER_17]: So how does our foreign policy, for example, again, places like Rwanda and the DRC, how do we ensure that our foreign policy does not add to migration
+
+918
+01:12:59,853 --> 01:13:01,977
+[SPEAKER_17]: from a negative perspective.
+
+919
+01:13:01,997 --> 01:13:02,538
+[SPEAKER_17]: Daisy Cooper.
+
+920
+01:13:03,761 --> 01:13:21,557
+[SPEAKER_16]: So one of the reasons why I'm a liberal, why I'm a liberal Democrat is because I'm an internationalist and I think that we have a proud history as a country of playing a leading role on the world stage and I do think that under the Conservatives that record has been pretty trashed in many ways actually and the fact is we do live in an interconnected world and
+
+921
+01:13:21,537 --> 01:13:32,315
+[SPEAKER_16]: And I believe that the way that we deal with these big global problems, whether it's the climate emergency, whether it's migration, whether it's international terrorism, whatever it might be, we have to do that by working with our friends and allies.
+
+922
+01:13:32,736 --> 01:13:40,288
+[SPEAKER_16]: And we do that by being active on the world stage, by playing a leading role in international organisations, by having a seat at the table.
+
+923
+01:13:40,268 --> 01:13:43,273
+[SPEAKER_16]: But it also means that we have to project our values.
+
+924
+01:13:43,694 --> 01:13:50,284
+[SPEAKER_16]: Liberal Democrats want to make sure that our commitment to human rights is front and centre of any trade deal that we do with any country around the world.
+
+925
+01:13:50,685 --> 01:13:53,670
+[SPEAKER_16]: Any arms sales that we do has to be governed by their human rights records.
+
+926
+01:13:53,890 --> 01:13:58,257
+[SPEAKER_16]: We have to put our own values of democracy and human rights first and foremost and then work with our allies.
+
+927
+01:13:58,277 --> 01:13:58,718
+[SPEAKER_07]: Thank you.
+
+928
+01:13:58,738 --> 01:14:00,341
+[SPEAKER_07]: You've got about a minute each or so.
+
+929
+01:14:00,601 --> 01:14:02,344
+[SPEAKER_07]: Plaid Cymru, you're up.
+
+930
+01:14:02,324 --> 01:14:05,169
+[SPEAKER_09]: It's a very, very important question.
+
+931
+01:14:05,209 --> 01:14:06,271
+[SPEAKER_09]: I'm an internationalist too.
+
+932
+01:14:06,312 --> 01:14:11,020
+[SPEAKER_09]: I chair the Welsh Parliament's branch of the Commonwealth Parliamentary Association, working with parliamentarians across the world.
+
+933
+01:14:11,241 --> 01:14:20,558
+[SPEAKER_09]: I think the important thing for me is that leaders at a UK level should recognise that there is an impact to decisions made in terms of foreign policy.
+
+934
+01:14:20,999 --> 01:14:25,648
+[SPEAKER_09]: And I would also make this point, Krishnan, that historically there's a reason why many people
+
+935
+01:14:25,628 --> 01:14:34,904
+[SPEAKER_09]: are choosing to come to the UK because of the English language connection and the fact that those years of empire created those connections.
+
+936
+01:14:35,465 --> 01:14:42,558
+[SPEAKER_09]: So those decisions made in terms of foreign policy many years ago are having an impact today.
+
+937
+01:14:43,860 --> 01:14:44,481
+[SPEAKER_09]: Carla.
+
+938
+01:14:45,338 --> 01:14:51,535
+[SPEAKER_15]: Well, I think that's a very good question, Hamza, and it's one that the UK government should be considering carefully.
+
+939
+01:14:51,595 --> 01:15:00,900
+[SPEAKER_15]: It's the reason why the Green Party would increase the government's international aid budget and take a more proactive role in working towards
+
+940
+01:15:00,880 --> 01:15:21,420
+[SPEAKER_15]: towards more peace especially in the Middle East at the moment and that's something the Green Party has been consistent on and also on tackling climate change because we know that with increasing climate change we are going to see increasing levels of conflict for example over water scarcity and it's going to cause increasing levels of migration and so yes
+
+941
+01:15:21,400 --> 01:15:27,667
+[SPEAKER_15]: UK policy on everything from climate to aid has a huge impact on migration.
+
+942
+01:15:28,067 --> 01:15:44,185
+[SPEAKER_15]: And if we are worried about numbers, and I have to say that I welcome migration, as you've heard from many of my other answers, but if we are worried about numbers, then the way to tackle that isn't to bring up the drawbridge, it's to reach out and to collaborate and to work internationally for the good of everybody.
+
+943
+01:15:44,505 --> 01:15:48,910
+[SPEAKER_07]: Let me just add in a question from Jane Richardson here, which is pertinent as well, Jane.
+
+944
+01:15:51,944 --> 01:16:01,594
+[SPEAKER_00]: Carly, you've already sort of touched on my question, but I wanted to ask the panel if they agree that the climate crisis will be the main driver of immigration in the future.
+
+945
+01:16:01,994 --> 01:16:03,356
+[SPEAKER_09]: Rhun ap Iorwerth.
+
+946
+01:16:03,376 --> 01:16:03,876
+[SPEAKER_09]: Absolutely.
+
+947
+01:16:03,896 --> 01:16:08,401
+[SPEAKER_09]: I mean, we're already seeing the impacts of climate change.
+
+948
+01:16:08,421 --> 01:16:19,993
+[SPEAKER_09]: It was disturbing, if I may say, hearing a spokesman on behalf of the Reform Party speaking on television in Wales last night with all the classic climate change-denying tropes being...
+
+949
+01:16:19,973 --> 01:16:21,677
+[SPEAKER_06]: You're denying climate change.
+
+950
+01:16:21,697 --> 01:16:22,519
+[SPEAKER_06]: Your spokesman was.
+
+951
+01:16:22,679 --> 01:16:24,383
+[SPEAKER_06]: It's how you adapt to it.
+
+952
+01:16:24,463 --> 01:16:25,325
+[SPEAKER_06]: Your spokesman was.
+
+953
+01:16:25,345 --> 01:16:27,850
+[SPEAKER_06]: It's about how you adapt to climate change.
+
+954
+01:16:28,111 --> 01:16:30,817
+[SPEAKER_06]: And the point is that net zero is the one answer.
+
+955
+01:16:30,897 --> 01:16:32,921
+[SPEAKER_09]: No, no, no, he was denying climate change.
+
+956
+01:16:32,941 --> 01:16:35,447
+[SPEAKER_09]: He was saying that scientists don't believe in climate change.
+
+957
+01:16:35,467 --> 01:16:36,970
+[SPEAKER_09]: OK, let's tie this off for now.
+
+958
+01:16:36,950 --> 01:16:41,355
+[SPEAKER_09]: But this, this is going to be at the heart of the movement of people...
+
+959
+01:16:41,375 --> 01:16:45,981
+[SPEAKER_06]: Which is why you've got to create economic growth in developing nations.
+
+960
+01:16:46,081 --> 01:16:47,002
+[SPEAKER_06]: That's the key thing.
+
+961
+01:16:47,323 --> 01:16:48,484
+[SPEAKER_06]: It's all about...
+
+962
+01:16:48,504 --> 01:16:50,206
+[SPEAKER_06]: Creating economic growth in itself doesn't tackle climate change.
+
+963
+01:16:50,226 --> 01:16:56,894
+[SPEAKER_06]: International trade is about creating economic growth, particularly in developing nations, to reduce that pressure on migration.
+
+964
+01:16:56,914 --> 01:16:58,536
+[SPEAKER_06]: But that doesn't tackle climate change.
+
+965
+01:16:58,516 --> 01:17:08,919
+[SPEAKER_06]: It absolutely does because what you've got economic growth and so that you can develop growth and systems within those developing nations in areas where there is greater climate change.
+
+966
+01:17:08,939 --> 01:17:15,212
+[SPEAKER_06]: You cannot expect mass immigration and migration to continue unparalleled.
+
+967
+01:17:15,232 --> 01:17:16,896
+[SPEAKER_20]: Try and take photos of these questions if you like.
+
+968
+01:17:16,876 --> 01:17:21,543
+[SPEAKER_20]: Hamza shows an admirable concern for the wider global issues which are going on.
+
+969
+01:17:21,603 --> 01:17:31,658
+[SPEAKER_20]: If you look at Mexico today, for example, or previously in Venezuela, or coming out of Africa, and it's the same thing that underlies the concern about climate change, which is inequality of resources and poverty throughout the world.
+
+970
+01:17:31,678 --> 01:17:32,519
+[SPEAKER_20]: That's what's driving it.
+
+971
+01:17:32,900 --> 01:17:36,665
+[SPEAKER_20]: And if you want to have an influence on that, you have to have some moral authority behind you.
+
+972
+01:17:36,986 --> 01:17:38,428
+[SPEAKER_20]: And the UK doesn't.
+
+973
+01:17:38,408 --> 01:17:42,974
+[SPEAKER_20]: During the Brexit time, they struck deals which he did not believe they would even want to fulfil.
+
+974
+01:17:43,195 --> 01:17:43,996
+[SPEAKER_20]: He said that afterwards.
+
+975
+01:17:44,016 --> 01:17:47,761
+[SPEAKER_20]: Boris Johnson said he struck a deal and had no intention of fulfilling it.
+
+976
+01:17:47,781 --> 01:17:53,189
+[SPEAKER_20]: So the level of trust, the level of regard for the UK is diminished hugely and that's detrimental.
+
+977
+01:17:53,489 --> 01:17:57,835
+[SPEAKER_20]: And of course, the other side of it is real money going into foreign aid and support.
+
+978
+01:17:57,815 --> 01:18:04,744
+[SPEAKER_20]: rather than spend £3 billion a year on nuclear weapons with the new Trident, why not spend it on trying to reduce inequality around the world?
+
+979
+01:18:05,085 --> 01:18:10,992
+[SPEAKER_20]: And in Scotland, the only chance you've got to come out of the Brexit fix in which you've found yourself is to vote SNP.
+
+980
+01:18:11,013 --> 01:18:11,934
+[SPEAKER_20]: Chris Philp.
+
+981
+01:18:11,954 --> 01:18:13,516
+[SPEAKER_02]: Yes, so, Hamza, thank you for the question.
+
+982
+01:18:13,676 --> 01:18:20,225
+[SPEAKER_02]: And your question seemed premised on a concern that perhaps we'd see mass migration movements in response to some of these challenges.
+
+983
+01:18:20,545 --> 01:18:22,708
+[SPEAKER_02]: Now, I don't think mass migration would be
+
+984
+01:18:22,688 --> 01:18:30,255
+[SPEAKER_02]: particularly good either for the country where people were leaving or indeed potentially Western countries to which people might be going.
+
+985
+01:18:30,275 --> 01:18:33,017
+[SPEAKER_02]: So we should try and find ways of avoiding that happening.
+
+986
+01:18:33,037 --> 01:18:34,539
+[SPEAKER_02]: And there are two components I think to that.
+
+987
+01:18:34,799 --> 01:18:39,002
+[SPEAKER_02]: The first of those is peace and the second is prosperity.
+
+988
+01:18:39,303 --> 01:18:42,766
+[SPEAKER_02]: Now in relation to peace, we've seen, you mentioned Libya as an example.
+
+989
+01:18:43,066 --> 01:18:46,809
+[SPEAKER_02]: Now we've seen Russia actively stoking up conflict in Libya.
+
+990
+01:18:46,829 --> 01:18:50,873
+[SPEAKER_02]: We've seen Russia intervening in Syria in the past as well.
+
+991
+01:18:50,853 --> 01:18:53,977
+[SPEAKER_02]: We've seen China intervening in a number of African countries.
+
+992
+01:18:53,997 --> 01:19:07,256
+[SPEAKER_02]: I think we need to be very mindful of the inflammatory effect that particularly Russia and China have, and as the West seek to contain that and prevent it causing instability in countries like Libya that you referenced.
+
+993
+01:19:07,276 --> 01:19:10,640
+[SPEAKER_02]: Now, the second component besides peace is prosperity.
+
+994
+01:19:11,101 --> 01:19:16,388
+[SPEAKER_02]: And I think one of the best ways that we in the West, including the United Kingdom, can promote prosperity
+
+995
+01:19:16,368 --> 01:19:17,089
+[SPEAKER_02]: is through trade.
+
+996
+01:19:17,390 --> 01:19:21,597
+[SPEAKER_02]: People can become more prosperous by building businesses and by exporting and importing.
+
+997
+01:19:21,917 --> 01:19:25,183
+[SPEAKER_02]: Now, you know, the UK has recently jumped up the export league table.
+
+998
+01:19:25,203 --> 01:19:27,526
+[SPEAKER_02]: We're now, I think, fourth in the world for exports.
+
+999
+01:19:27,787 --> 01:19:35,119
+[SPEAKER_02]: But I'd like to see us, you know, using our free trade freedoms we now have to trade more with other countries, particularly in the developing
+
+1000
+01:19:35,099 --> 01:19:35,920
+[SPEAKER_08]: Nick Thomas-Simmons.
+
+1001
+01:19:36,040 --> 01:19:42,746
+[SPEAKER_08]: The climate crisis and the deep war, I think, will continue to be drivers around the world of people being unable to stay in their homes.
+
+1002
+01:19:42,946 --> 01:19:45,368
+[SPEAKER_08]: Their home's going to be extremely unsafe.
+
+1003
+01:19:45,828 --> 01:19:56,718
+[SPEAKER_08]: First of all, in foreign policy, which the other question was directed at, we need to set an example ourselves, first of all, that we are a country that abides by international law.
+
+1004
+01:19:56,758 --> 01:20:03,604
+[SPEAKER_08]: To have conservative cabinet ministers, no less, talking about breaking international law in a limited and specific way in the House of Commerce
+
+1005
+01:20:03,584 --> 01:20:05,627
+[SPEAKER_08]: Commons did us a great deal of damage.
+
+1006
+01:20:05,687 --> 01:20:13,478
+[SPEAKER_08]: I used to be shadowing international trade and I travelled the world and people were just astonished that Britain, famous for its rule of law, could have a cabinet minister doing that.
+
+1007
+01:20:13,538 --> 01:20:28,680
+[SPEAKER_08]: And secondly, on our international aid budget, it also is very, very important that we use it where there is war, where people are driven from their homes, so we can help people in their region so they can actually return to their home as quickly as they can.
+
+1008
+01:20:28,660 --> 01:20:30,222
+[SPEAKER_07]: Right, thank you very much indeed.
+
+1009
+01:20:30,262 --> 01:20:32,023
+[SPEAKER_07]: We're going to have to leave it there.
+
+1010
+01:20:32,364 --> 01:20:34,866
+[SPEAKER_07]: Thank you all very much indeed for addressing those questions.
+
+1011
+01:20:34,946 --> 01:20:40,432
+[SPEAKER_07]: Thank you to our audience for engaging with a very wide-ranging debate.
+
+1012
+01:20:40,692 --> 01:20:45,237
+[SPEAKER_07]: And we managed to have a whole election debate without having an argument about tax.
+
+1013
+01:20:45,257 --> 01:20:47,219
+[SPEAKER_07]: That's all we have time for this evening.
+
+1014
+01:20:47,279 --> 01:20:48,801
+[SPEAKER_07]: We are back at seven tomorrow night.
+
+1015
+01:20:49,281 --> 01:20:55,187
+[SPEAKER_07]: From everyone here in Colchester, our panel and our audience, that's Channel 4 News.
+
+1016
+01:20:55,968 --> 01:20:56,929
+[SPEAKER_07]: Have a very good evening.
+

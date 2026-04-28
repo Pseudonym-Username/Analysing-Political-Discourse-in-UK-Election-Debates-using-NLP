@@ -1,0 +1,974 @@
+id,reasoning,supercategories,claim_labels
+0,"<|end_header_id|>
+  The excerpt discusses the relationship between stop-and-search and knife crime, with the speaker arguing that reducing stop-and-search leads to an increase in knife crime.
+
+JSON Response:",[1200],"[1200, 1206, 1211]"
+1,"<|end_header_id|>
+  The excerpt discusses the link between poverty and underperformance in the classroom, and the proposed solutions to address this issue, including tax proposals and the ""pupil premium"" to provide extra money to schools.","[100, 600]","[100, 107, 600, 602]"
+2,"<|end_header_id|>
+  The excerpt appears to be a rhetorical statement with no explicit policy discussion. It seems to be a statement about the speaker's opponent's refusal to acknowledge a fact, rather than a discussion of policy.",[],[]
+3,"<|end_header_id|>
+  The excerpt discusses tax policy, specifically addressing tax loopholes and tax relief on pension contributions, with a focus on fairness and reducing income tax for low-income earners.",[100],"[100, 105, 107]"
+4,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information. It appears to be a statement about the timing of a decision, rather than a discussion of policy options or issues.",[],[]
+5,"<|end_header_id|>
+  The excerpt discusses the issue of housing and mass migration, with the speaker highlighting the need to build new homes to cope with the influx of migrants. The speaker also mentions the impact of mass migration on the country's wealth, specifically the decline in GDP per capita.
+
+JSON Response:","[100, 1400]","[100, 200, 230, 1400, 1401]"
+6,"<|end_header_id|>
+  The excerpt discusses the importance of having strong big business in the country and the potential consequences of leaving the European Union.","[100, 1900]","[100, 108, 1900, 1910]"
+7,"<|end_header_id|>
+  The excerpt discusses the allocation of funds to the NHS, specifically mentioning the increase in the percentage of the national budget allocated to the NHS, and the need to spend the money more effectively.
+
+JSON Response:",[100],"[100, 105]"
+8,"<|end_header_id|>
+  The excerpt discusses the government's approach to helping people off benefits and into work, with a focus on the philosophical issue of dependency on the state versus providing incentives for self-help. The speaker argues that their party's tax switch plan would encourage people to work and reduce dependency on benefits.
+
+JSON Response:","[100, 1300]","[100, 105, 1300, 1302]"
+9,"<|end_header_id|>
+  The excerpt discusses the current state of the NHS and the need for a resolution to the strikes, emphasizing the impact on patients and NHS staff. The speaker proposes a more collaborative approach to negotiation, focusing on finding a solution to the dispute.",[300],"[300, 301, 331]"
+10,"<|end_header_id|>
+  The excerpt discusses the issue of migration in Scotland, highlighting the need for more migrants due to a declining working-age population. The speaker emphasizes the benefits of migration for various sectors, including businesses, healthcare, and social care. The tone is critical of the ""race to the right"" in Westminster and calls for a more progressive approach from both the Tories and the Labour Party.
+
+JSON Response:","[500, 1300]","[500, 529, 1300, 1303]"
+11,"<|end_header_id|>
+  The excerpt mentions the SNP and Tory, which are political parties, and an anti-austerity motion, which is related to economic policy. However, the excerpt does not provide specific details about the motion or the parties' policies, so it is not possible to assign a specific code from the provided codebook.",[100],[100]
+12,"<|end_header_id|>
+  The excerpt is a statement of a political stance on Brexit, but it does not provide any specific details about the policy aspects of Brexit, such as taxation, trade, or economic implications. It is a general statement of support for Brexit without any concrete policy proposals.",[],[]
+13,"<|end_header_id|>
+  The excerpt discusses the government's response to a recent attack, the state of the justice system, and the impact of tax policies on public services. The speaker criticizes the government's handling of the justice system, highlighting issues with crime, prisons, and the police. They also mention the National Health Service and schools, indicating concerns about public services. The speaker contrasts the government's policies with Labour's proposed approach, emphasizing the need to rebuild the country for the many, not the few.
+
+JSON Response:","[100, 1200, 1300]","[100, 103, 1200, 1205, 1300, 1302]"
+14,"<|end_header_id|>
+  The excerpt primarily discusses the Prime Minister's apology and the speaker's intention to address the concerns of veterans, with a focus on transparency and representation.",[1600],"[1600, 1609]"
+15,"<|end_header_id|>
+  The excerpt mentions ""fairness"" and ""immigration rules"" which are related to taxation and civil rights. Specifically, it talks about a ""minimum income rule"" which is related to taxation, and ""immigration detention"" which is related to civil rights.","[100, 200]","[100, 107, 200, 201]"
+16,"<|end_header_id|>
+  The excerpt discusses the speaker's stance on Brexit, specifically their vote for remain, the UK's decision to leave the EU, and the current state of the Brexit deal. The speaker mentions the need to improve the deal, particularly in terms of defence and security, but emphasizes that the UK will not be rejoining the single market, customs union, or freedom of movement.
+
+JSON Response:","[1900, 1600]","[1600, 1603, 1900, 1910]"
+17,"<|end_header_id|>
+  The excerpt is a direct question about balancing the national budget, which falls under the supercategory of Macroeconomics (100) and the subcategory of National Budget, Debt, public spending (105).
+
+JSON Response:",[100],"[100, 105]"
+18,"<|end_header_id|>
+  The excerpt discusses the speaker's stance on a policy, specifically regarding the European Court of Human Rights (ECHR) and national security. The speaker emphasizes their commitment to national security and compliance with international obligations, while also highlighting their disagreement with the ECHR's potential interference in domestic matters.",[1900],"[1900, 1926]"
+19,"<|end_header_id|>
+  The excerpt mentions refugees, which is a subcategory of the supercategory ""International Affairs"" (1900). However, the text does not provide any specific details about refugees, so we cannot infer any subcategories. The mention of refugees is a rhetorical question, and no specific policy topics are discussed.",[1900],[1900]
+20,"<|end_header_id|>
+  The excerpt is a brief statement that does not contain any explicit policy topics. It appears to be a statement of praise for the Greens' performance in Parliament, but it does not provide any specific information about policy issues.",[],[]
+21,"<|end_header_id|>
+  The excerpt mentions the ""Bedroom Tax"", which is a policy related to housing and welfare. The mention of voting for it nine times implies a discussion about the policy's implementation and its impact.
+
+JSON Response:","[1400, 1300]","[1300, 1302, 1400, 1401]"
+22,"<|end_header_id|>
+  The excerpt mentions the need to provide more council housing and social housing, which relates to the subcategory 1401 (Housing and Community Development) and its supercategory 1400 (Planning and Housing Issues). Additionally, the mention of ""local councils"" and ""local people"" implies a focus on community-level decision-making and local needs, which is related to the subcategory 1401.
+
+JSON Response:",[1400],"[1400, 1401]"
+23,"<|end_header_id|>
+  The excerpt mentions several key policy topics, including NHS privatisation, living wage, and social care. These topics are explicitly linked to the Labour party's policies, indicating a clear discussion of policy proposals.","[100, 1300]","[100, 108, 1300, 1303]"
+24,"<|end_header_id|>
+  The excerpt discusses the issue of labour shortage, but the speaker argues that the problem is not a shortage of people, but rather a lack of jobs that pay well, and the need to train the existing population.
+
+JSON Response:",[500],"[500, 502, 503]"
+25,"<|end_header_id|>
+  The excerpt discusses several policy topics, including housing, energy, and taxation. The party, Plaid Cymru, proposes building new affordable houses, creating a Welsh energy company to reduce energy costs, and implementing policies to make owning and running a household more affordable.
+
+JSON Response:","[100, 1400, 700]","[100, 105, 700, 701, 1400, 1401]"
+26,"<|end_header_id|>
+  The excerpt discusses the economic proposals of the speaker's opponent, Nick, and the potential risks associated with them. The speaker emphasizes the importance of getting the economy moving and creating jobs, rather than implementing tax cuts that could potentially shrink the economy.
+
+JSON Response:",[100],"[100, 103, 105]"
+27,"<|end_header_id|>
+  The excerpt discusses the issue of trust in politicians and the failure to deliver on promises, specifically referencing the Labour Party manifestos and the Conservative government's promise to carry out the will of the people regarding the referendum.",[2000],"[2000, 2012]"
+28,"<|end_header_id|>
+  The excerpt discusses the potential for bipartisan agreement on certain issues, such as the National Health Service and climate change, but also highlights disagreements on the approach to addressing climate change, specifically the impact on employment and wealth distribution.","[100, 700]","[100, 108, 700, 705]"
+29,"<|end_header_id|>
+  The excerpt discusses the response to terrorism and extremism, specifically mentioning the importance of addressing extremism within the Muslim community, investing in security and intelligence services, and maintaining civil liberties.",[1600],"[1600, 1627]"
+30,"<|end_header_id|>
+  The excerpt discusses the topic of Scottish independence, the benefits of a proportional system, and the abolition of the House of Lords. The speaker mentions the disenfranchisement of the north of England, but this is not a primary policy topic in the excerpt. The main focus is on Scotland's independence and the proposed proportional system.","[100, 200]","[100, 101, 200, 201]"
+31,"<|end_header_id|>
+  The excerpt discusses the government's plan to reduce the deficit and balance the books, with a focus on fair taxes, tax avoidance, and protecting key areas like education and health. The speaker rejects David Cameron's plan to double the spending cuts, citing its potential impact on the NHS.",[100],"[100, 105, 107]"
+32,"<|end_header_id|>
+  The excerpt is a simple affirmative response with no explicit policy topic or issue mentioned.",[],[]
+33,"<|end_header_id|>
+  The excerpt primarily discusses the Liberal Democrat's strategy to maximize their number of MPs in the upcoming election, focusing on beating Conservative and SNP MPs. The speaker emphasizes the importance of concentrating on winning local champions and Liberal Democrats across the country, rather than focusing on post-election outcomes.",[100],"[100, 105]"
+34,"<|end_header_id|>
+  The excerpt discusses the issue of public transportation, specifically the need for reliable, affordable, and safe public transport. It implies that the lack of alternative transportation methods in the cities in question hindered the development of public transport. The mention of ""public transport"" and ""alternative methods of transportation"" suggests a discussion related to transportation infrastructure and policy.
+
+JSON Response:",[1000],"[1000, 1005]"
+35,"<|end_header_id|>
+  The excerpt discusses the importance of balance and fairness in the context of economic policy, specifically in relation to public spending cuts and taxation. The speaker argues that their plan is both balanced and fair, while criticizing the opposing plans as either too extreme or unfair.",[100],"[100, 105, 107]"
+36,"<|end_header_id|>
+  The excerpt mentions ""inflation"" which is a key term in the codebook under the supercategory 100 (Macroeconomics) and subcategory 101 (Inflation, prices, and interest rates).
+
+JSON Response:",[100],"[100, 101]"
+37,"<|end_header_id|>
+  The excerpt is a starting point for a policy discussion, but it lacks specific details about the policy topic. It's a general statement that sets the tone for a potential policy announcement, but it doesn't provide enough information to assign any specific codes from the provided codebook.",[],[]
+38,"<|end_header_id|>
+  The excerpt discusses the impact of immigration on the National Health Service and the economy, and criticizes the approach of setting ""false low targets"" for immigration. The speaker argues that immigration can bring benefits, such as hard-working and caring individuals, but also acknowledges that there are pressures caused by immigration. The focus is on the kind of country the UK should be and the need to address these pressures through infrastructure development.
+
+JSON Response:","[100, 1300]","[100, 103, 1300, 1302]"
+39,"<|end_header_id|>
+  The excerpt does not explicitly mention any policy topics. It is a rhetorical statement advising against making promises that cannot be kept, with the speaker referencing their own past actions.",[],[]
+40,"<|end_header_id|>
+  The excerpt mentions the loss of life and innocent civilians in Iraq, which implies a discussion about the consequences of a policy or action, but it does not provide specific details about the policy itself. It also mentions the British government's responsibility, which could be related to various policy areas, but the text is too vague to pinpoint a specific policy topic.","[100, 200]",[100]
+41,"<|end_header_id|>
+  The excerpt discusses the speaker's personal experiences with the NHS, specifically their own knee injury and their mother's illness, to argue that the NHS is the best place to be in life-threatening situations. The speaker emphasizes the NHS's expertise and facilities in acute care, and notes that private hospitals often refer patients to the NHS in such cases.",[300],"[300, 301, 325]"
+42,"<|end_header_id|>
+  The excerpt does not explicitly mention any policy topics. It is a statement about the party's recent difficulties and the speaker's intention to lead the party.",[],[]
+43,"<|end_header_id|>
+  The excerpt discusses the NHS and the need for increased funding, with a specific proposal to raise income tax by one penny to raise £30 billion. The discussion is centered around the personal experiences of the speaker and a constituent, highlighting the importance of the NHS and the need for increased funding.",[100],"[100, 105]"
+44,"<|end_header_id|>
+  The excerpt does not contain any explicit policy topics. It appears to be a statement about the accuracy of previous reporting, but does not provide any information about specific policies or issues.",[],[]
+45,"<|end_header_id|>
+  The excerpt mentions the concept of a ""democratic mandate,"" which implies a discussion about the legitimacy and authority of a government or leader. However, it does not provide explicit details about the specific policies or issues related to this concept.",[2000],[2000]
+46,"<|end_header_id|>
+  The excerpt discusses the Prime Minister's accountability and responsibility for addressing waiting lists, but does not explicitly mention any policy topics.",[],[]
+47,"<|end_header_id|>
+  The excerpt suggests a criticism of the government or a politician, but it does not provide specific details about the issue or the policy area. It appears to be a rhetorical statement rather than a policy discussion.",[],[]
+48,"<|end_header_id|>
+  The excerpt mentions the EU, Eastern European nations, and a plan to bring down the debt ratio and deficit ratio, which suggests a discussion about international cooperation and economic management. However, the primary focus is on the speaker's stance on Scotland's independence and their party's commitment to European values.",[1900],"[1900, 1909]"
+49,"<|end_header_id|>
+  The excerpt mentions the abolition of tuition fees in Scotland and the impact on the rate of application from Scots, but does not provide explicit details on the financial implications. However, it implies a discussion on the financial consequences of the policy change.",[600],"[600, 601]"
+50,"<|end_header_id|>
+  The excerpt contains a reference to a pejorative term used to describe a political party, but it does not provide any specific policy details or discussions.",[],[]
+51,"<|end_header_id|>
+  The excerpt mentions the Attorney General's advice and the United Nations resolutions, but does not explicitly discuss taxation, civil rights, or any other policy topics. However, it does imply a discussion of international cooperation, as it mentions the United Nations resolutions.",[1900],"[1900, 1920]"
+52,"<|end_header_id|>
+  The excerpt discusses the concept of leadership in politics, specifically highlighting the importance of being honest and having the courage of one's convictions. The speaker criticizes Keir Starmer for not being transparent about his plans to raise taxes, which they believe will erode trust in politics.",[2000],"[2000, 2012]"
+53,"<|end_header_id|>
+  The excerpt mentions a debate and a motion, but it does not provide any specific information about the topic of the debate or the motion. It appears to be a procedural complaint about the timing of the debate.",[],[]
+54,"<|end_header_id|>
+  The excerpt mentions the House of Lords, which is a part of the UK's government operations, and the importance of voting and getting involved in the democratic process, which is related to political parties and elections.",[2000],"[2000, 2012]"
+55,"<|end_header_id|>
+  The excerpt discusses a proposal to increase taxes on individuals with wealth of 10 million or more, specifically mentioning a 1% tax on assets over 10 million. This implies a discussion on taxation and its potential impact on the economy.
+
+JSON Response:",[100],"[100, 107]"
+56,"<|end_header_id|>
+  The excerpt discusses the relationship between the UK and the US, specifically the UK's stance on the US presidential election and the importance of respecting the elected US president. However, there is no explicit mention of policy topics such as taxation, civil rights, or social welfare.
+
+JSON Response:",[100],[100]
+57,"<|end_header_id|>
+  The excerpt is a statement about the nature of the government in question, but it does not provide any specific information about policy topics.",[],[]
+58,"<|end_header_id|>
+  The excerpt does not contain any explicit policy topics. It appears to be a rhetorical statement, and no codes from the provided codebook apply.",[],[]
+59,"<|end_header_id|>
+  The excerpt discusses Gordon Brown's inability to manage the budget deficit, which affects various areas such as health, education, and police spending. The speaker criticizes Gordon Brown's handling of the budget deficit, which is a key aspect of macroeconomic policy (100). The mention of specific areas like health, education, and police spending implies that the speaker is discussing the impact of the budget deficit on these areas, which are part of the broader category of social welfare (1300). However, the primary focus is on the budget deficit and its consequences, which falls under macroeconomic policy (100).
+
+JSON Response:","[100, 1300]","[100, 105, 1300, 1302]"
+60,"<|end_header_id|>
+  The excerpt discusses the government's plans for the security services, specifically mentioning the investment in the police and security services, and references a specific incident of a far-right terrorist attack. The mention of a terrorist attack implies a discussion of terrorism, which falls under the category of defence.",[1600],"[1600, 1603, 1608]"
+61,"<|end_header_id|>
+  The excerpt appears to be a rhetorical statement with no explicit policy discussion. It seems to be a dismissive response to a claim about the NHS, but it does not provide any concrete information about the NHS or any policy related to it.",[],[]
+62,"<|end_header_id|>
+  The excerpt primarily discusses education policy, specifically the Labour Party's approach to funding and improving schools. The speaker emphasizes the need for a fair funding formula and increasing the number of good or outstanding schools.
+
+JSON Response:",[600],"[600, 601, 603]"
+63,"<|end_header_id|>
+  The excerpt discusses the Scottish National Party's (SNP) achievements in building affordable homes and introducing the Scottish Child Payment, a policy aimed at lifting children out of poverty. The question posed to the Labour Party is whether they will support this policy.","[100, 1300]","[100, 105, 1300, 1303]"
+64,"<|end_header_id|>
+  The excerpt primarily discusses the leadership and policy priorities of the speaker, focusing on addressing the country's economic and healthcare issues, rather than the EU exit. The speaker emphasizes the need to tackle the problems of falling wages, the NHS crisis, and the impact on young people, indicating a focus on domestic policy.
+
+JSON Response:","[100, 300]","[100, 105, 300, 301]"
+65,"<|end_header_id|>
+  The excerpt mentions several policy topics, including Trident, taxation, and public sector pensions. The speaker argues that these issues are fundamental and require attention, but neither party is addressing them.
+
+JSON Response:","[100, 100]","[100, 105, 107]"
+66,"<|end_header_id|>
+  The excerpt discusses the issue of trust in politics, specifically in the context of the Brexit failure, but does not provide explicit details on any policy topics.",[],[]
+67,"<|end_header_id|>
+  The excerpt discusses the economic struggles of middle-class families and the need to address the issue of high tuition fees. The speaker proposes a policy change to lower the burden of tuition fees from £9,000 to £6,000 to help middle-class families.",[100],"[100, 105]"
+68,"<|end_header_id|>
+  The excerpt mentions the performance of the Prime Minister, specifically the unemployment rate, but does not provide explicit details about taxation, public spending, or civil rights. It also does not mention any specific policies or mechanisms.",[100],"[100, 103]"
+69,"<|end_header_id|>
+  The excerpt discusses the issue of illegal immigration, specifically the small boat traffic, and proposes the Rwanda scheme as a deterrent. The speaker mentions two case studies, Operation Sovereign Borders in Australia and a returns agreement with Albania, to demonstrate the effectiveness of removal schemes in reducing illegal crossings.",[200],"[200, 230]"
+70,"<|end_header_id|>
+  The excerpt discusses the issue of immigration and its impact on Scotland's population and economy. The speaker argues that EU nationals should not lose their rights and that it's essential to attract talent from non-EU countries to ensure Scotland's population growth. The tone of the debate around immigration is criticized as hostile and shameful.","[500, 100]","[100, 105, 500, 529]"
+71,"<|end_header_id|>
+  The excerpt mentions the importance of recognizing the biodiversity crisis in oceans, specifically in Cardigan Bay, and proposes banning fossil fuel licences for exploration. It also mentions the UK signing the UN Global Ocean Treaty to create ocean sanctuaries.",[700],"[700, 701]"
+72,"<|end_header_id|>
+  The excerpt discusses the importance of cooperation between parties and the Prime Minister's approach to economic management, particularly in the context of the global financial crisis. The Prime Minister highlights their efforts to support the economy during difficult times and criticizes the opposition's proposed actions, which they believe would put thousands of jobs at risk.",[100],"[100, 105]"
+73,"<|end_header_id|>
+  The excerpt primarily discusses the issue of social care for the elderly and the need to create new jobs in this sector, which is related to social welfare and employment.","[1300, 500]","[500, 502, 1300, 1303]"
+74,"<|end_header_id|>
+  The excerpt mentions a specific policy related to the welfare bill, which is the cap on the welfare bill. This is directly related to the subcategory 1302 (Poverty and Assistance for Low-Income Families) and its parent supercategory 1300 (Social Welfare).
+
+JSON Response:",[1300],"[1300, 1302]"
+75,"<|end_header_id|>
+  The excerpt discusses the potential tax rate under a Conservative government, comparing it to the tax rate under a Labour government. It also touches on the balance between public services and a low-tax economy.",[100],"[100, 107]"
+76,"<|end_header_id|>
+  The excerpt primarily discusses the campaign plans and the leadership of the party, with a focus on Nigel's involvement and the party's success in the 2019 national election.",[100],"[100, 105]"
+77,"<|end_header_id|>
+  The excerpt discusses the need for a ""clean break"" from the previous 13 years of government, emphasizing the importance of new leadership and a focus on keeping the country safe, secure, and strong. It also highlights the value of prioritizing the family and supporting those who ""do the right thing."" The language used suggests a focus on national security, leadership, and social values.
+
+JSON Response:","[1600, 1300]","[1300, 1303, 1600, 1603]"
+78,"<|end_header_id|>
+  The excerpt discusses the policy of abolishing stamp duty and implementing Help to Buy, which are related to housing and taxation. The mention of Keir Starmer and the Labour Party implies a comparison of policies between the two parties, which is related to government operations.","[100, 1400]","[100, 107, 1400, 1410]"
+79,"<|end_header_id|>
+  The excerpt is a name, and there is no explicit policy discussion or reference to any policy topic.",[],[]
+80,"<|end_header_id|>
+  The excerpt discusses the government's approach to addressing the public finances, specifically the issue of waste and taxation. The speaker argues that the government's focus on cutting waste is insufficient and that a more significant solution is needed to address the ""black hole"" in the public finances. The speaker proposes a 10% tax on bank profits as a way to fill the black hole.
+
+JSON Response:",[100],"[100, 105, 107]"
+81,"<|end_header_id|>
+  The excerpt primarily discusses the importance of separating politics from public services and allowing professionals to make decisions based on expertise, rather than political ideology. The speaker emphasizes the need for results and effectiveness in public services, citing examples of successful initiatives in policing, healthcare, and education.
+
+JSON Response:",[100],"[100, 104]"
+82,"<|end_header_id|>
+  The excerpt mentions a specific taxation mechanism (wealth tax) and its implementation in other countries, which implies a discussion on taxation policy. Additionally, the mention of investment and economic growth suggests a connection to macroeconomic policies.",[100],"[100, 107]"
+83,"<|end_header_id|>
+  The excerpt discusses the Manchester attack, the importance of protecting citizens' rights, and the need for a sufficient number of police officers. It also touches on the topic of national security, including terrorist threats, cyber attacks, and the consequences of ungoverned spaces.","[1200, 1900]","[1200, 1209, 1211, 1900]"
+84,"<|end_header_id|>
+  The excerpt discusses the asylum process, mass immigration, and the need for more homes due to the high number of arrivals. The speaker criticizes the Conservative Party for allowing mass immigration despite their election promises.","[100, 200]","[100, 105, 200, 230]"
+85,"<|end_header_id|>
+  The excerpt mentions the cost-of-living election and the impact of taxation on the individual's ability to keep their money, which is a key aspect of macroeconomics (100). It also touches on the topic of immigration, but the primary focus is on taxation and the cost of living.",[100],"[100, 105, 107]"
+86,"<|end_header_id|>
+  The excerpt discusses the issue of immigration and the perceived lack of a deterrent to prevent people from entering the country. The speaker mentions that tens of thousands of people are here without being processed, implying that the current system is not effective in deterring immigration.
+
+JSON Response:",[200],"[200, 230]"
+87,"<|end_header_id|>
+  The excerpt discusses the state of public services, specifically housing, roads, and healthcare (GPs), and attributes the problems to the Conservative government's budget cuts and failure to meet their promises.","[100, 1300, 300]","[100, 105, 300, 301, 1300, 1302]"
+88,"<|end_header_id|>
+  The excerpt primarily discusses the Prime Minister's leadership and stance on climate change, with a mention of Donald Trump's position on the same issue. The codes 100 and 700 are identified as relevant supercategories, with 705 being a subcategory related to climate change. The final codes are 100, 700, and 705.","[100, 700]","[100, 700, 705]"
+89,"<|end_header_id|>
+  The excerpt primarily discusses the topic of healthcare policy, specifically the privatization of the National Health Service (NHS). The speaker emphasizes the importance of preserving the NHS and preventing its privatization, which is a key aspect of healthcare policy.
+
+JSON Response:",[300],"[100, 108, 300]"
+90,"<|end_header_id|>
+  The excerpt discusses the public sector pay restraint, specifically mentioning the 1% increase and the exception for certain groups like nurses in the NHS.
+
+JSON Response:",[100],"[100, 105]"
+91,"<|end_header_id|>
+  The excerpt primarily discusses the importance of the relationship with the US, specifically in the context of NATO, and the need for a British prime minister to sustain this relationship and maintain global security.","[100, 1600]","[100, 103, 1600, 1603]"
+92,"<|end_header_id|>
+  The excerpt is a rhetorical statement, making a point about the unpredictability of election outcomes, rather than discussing any specific policy topic.",[],[]
+93,"<|end_header_id|>
+  The excerpt discusses the UK's defence spending and its impact on social needs, as well as the country's role in the world and its commitment to human rights and conflict resolution. The speaker argues that the UK should prioritize diplomacy over defence spending and pursue a policy of promoting justice and human rights.",[1600],"[1600, 1610, 1900]"
+94,"<|end_header_id|>
+  The excerpt mentions a picket line, which is related to a strike, and the speaker invites the opponent to join them, implying a discussion about labour relations and employee benefits. However, the text does not explicitly mention a specific taxation mechanism, public spending, or civil rights.",[500],"[500, 504]"
+95,"<|end_header_id|>
+  The excerpt discusses the decision-making process of the speaker, emphasizing that their decisions are based on the interests of the country, rather than external pressures. The speaker highlights several instances of military action taken by the UK, including Kosovo, Afghanistan, Iraq, and Sierra Leone, and expresses pride in the British Armed Forces' accomplishments.
+
+JSON Response:",[1600],"[1600, 1608, 1610]"
+96,"<|end_header_id|>
+  The excerpt discusses the current state of the country's economy and the need for continued work to achieve a strong economy, pay down debts, and leave a good country for future generations. The speaker emphasizes the progress made so far and the importance of choosing the right team to continue the building process.
+
+JSON Response:",[100],"[100, 105]"
+97,"<|end_header_id|>
+  The excerpt primarily discusses the speaker's focus on promoting Liberal Democrat policies, specifically mentioning tuition fees, which is a key aspect of education policy.",[600],"[600, 601]"
+98,"<|end_header_id|>
+  The excerpt primarily discusses the topic of university fees and access to education, with the speaker advocating for the abolition of university tuition fees to promote equal access to education for all, regardless of background.
+
+JSON Response:",[600],"[600, 601]"
+99,"<|end_header_id|>
+  The excerpt primarily discusses the speaker's stance on the UK's membership in the European Union (EU) and their priorities as a potential Prime Minister. The speaker emphasizes the importance of staying in the EU for economic and strategic reasons, citing the benefits of EU membership, such as access to jobs and trade. They also mention a hypothetical scenario where a transfer of powers from the UK to the EU might lead to an in-out referendum, but emphasize that this is unlikely.","[100, 1900]","[100, 101, 1900, 1910]"
+100,"<|end_header_id|>
+  The excerpt is a response to a question about taxation, but it does not provide any specific details about taxation mechanisms, public spending, or civil rights. It is a general statement that does not provide enough information to assign any codes from the provided codebook.",[],[]
+101,"<|end_header_id|>
+  The excerpt does not explicitly mention any policy topics. It appears to be a statement about the speaker's personal decision-making process and their motivations for calling an election.",[],[]
+102,"<|end_header_id|>
+  The excerpt mentions a specific tax policy targeting pensioners, which is a key aspect of the economy (100). The mention of ""tax rises"" implies a change in taxation policy (107). Additionally, the mention of pensioners and the triple lock plus suggests a concern for social welfare (1300). However, the primary focus is on the economic policy of taxation.",[100],"[100, 107]"
+103,"<|end_header_id|>
+  The excerpt mentions a war zone and the importance of bringing wars to an end with a negotiated settlement, but it does not explicitly mention any specific policy topics or mechanisms. It is a general statement about the desirability of peace.",[],[]
+104,"<|end_header_id|>
+  The excerpt mentions several policy topics, including ending austerity, investing in communities, ending tuition fees, and improving healthcare for older people. These topics are related to macroeconomic and social welfare policies.","[100, 1300]","[100, 105, 1300, 1303]"
+105,"<|end_header_id|>
+  The excerpt is a simple affirmative response with no explicit policy topic or issue mentioned.",[],[]
+106,"<|end_header_id|>
+  The excerpt discusses the impact of the Tories' policy on income tax threshold, specifically how it affects people in industries like hospitality and social care, and proposes a policy change to lift the threshold to £20,000.
+
+JSON Response:",[100],"[100, 105]"
+107,"<|end_header_id|>
+  The excerpt discusses the increase in the number of nurses and the investment in the NHS, including the hiring of more GPs and the construction of new hospitals. The mention of ""putting in now the biggest ever cash boost into the NHS"" and ""upgrading 20 and as a result of the decisions that we've taken... 40 new hospitals will have been built"" indicates a focus on healthcare infrastructure and funding.",[300],"[300, 301, 325]"
+108,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information, so no codes can be assigned.",[],[]
+109,"<|end_header_id|>
+  The excerpt discusses the NHS and its budget, specifically mentioning the increase in caseload due to the COVID pandemic and the need to keep the NHS budget strong. It also mentions the Labour party's history of cutting the NHS budget and the need to increase the number of healthcare professionals, including nurses.","[100, 300]","[100, 105, 300, 301, 325]"
+110,"<|end_header_id|>
+  The excerpt discusses the political approach of the speaker and their party, specifically highlighting their constructive opposition and their stance on the withdrawal of British troops from an occupying force. The mention of the United Nations mandate and the phase withdrawal of troops suggests a discussion on international relations and foreign policy.",[1900],"[1900, 1920]"
+111,"<|end_header_id|>
+  The excerpt discusses the impact of migration on the economy and the NHS, and the speaker advocates for voting for parties that want to cut migration. The mention of the NHS implies a discussion of public services, which is a subcategory of macroeconomics. The speaker also mentions the need to promote migration, which is a subcategory of labour and employment.","[100, 500]","[100, 105, 500, 529]"
+112,"<|end_header_id|>
+  The excerpt mentions a specific amount (£23,000) and a policy action (quadrupling it), which suggests a discussion about public spending. However, the text does not explicitly mention taxation or a specific taxation mechanism, so 105 is the most suitable code. 
+
+JSON Response:",[100],"[100, 105]"
+113,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information. It appears to be a rhetorical statement.",[],[]
+114,"<|end_header_id|>
+  The excerpt is a rhetorical question and does not contain any explicit policy-related information. It appears to be a filler statement.",[],[]
+115,"<|end_header_id|>
+  The excerpt mentions the desire to shift power from Westminster to the Scottish people, implying a desire for greater autonomy or self-governance. This is related to the supercategory 100 (Macroeconomics) and subcategory 105 (National Budget, Debt, public spending), as it involves the distribution of power and decision-making authority.",[100],"[100, 105]"
+116,"<|end_header_id|>
+  The excerpt discusses the policy proposals of the speaker, focusing on education and vocational training, as well as housing. The speaker commits to scrapping tuition fees, reinstating student grants, and improving vocational training, including the creation of more vocational schools and on-the-job training. Additionally, they propose a house-building program to provide 250,000 affordable homes annually.","[600, 1400]","[600, 601, 603, 1400, 1401]"
+117,"<|end_header_id|>
+  The excerpt is a brief, non-committal statement that does not contain any explicit policy-related content.",[],[]
+118,"<|end_header_id|>
+  The excerpt discusses the Pope's visit to Britain and the speaker's views on the Catholic Church's doctrine on homosexuality. The speaker expresses disagreement with the doctrine but supports the Pope's visit, highlighting the distinction between accepting the visit and endorsing the church's teachings.
+
+JSON Response:",[200],"[200, 201]"
+119,"<|end_header_id|>
+  The excerpt mentions the NHS, but it does not provide any specific details about its policies or operations. It is a statement about Nigel's beliefs regarding the NHS, but it does not contain any explicit policy discussions.",[],[]
+120,"<|end_header_id|>
+  The excerpt discusses the importance of treating retired people with dignity and security in their old age, and the government's commitment to protecting pensioner benefits. The speaker emphasizes the need for a comprehensive approach to addressing the needs of older people, rather than relying on a single representative in the cabinet. The discussion centers around the government's policy on pension uprating, specifically the triple lock, which ensures that pensioners are protected from difficult decisions.","[1300, 100]","[100, 105, 1300, 1303]"
+121,"<|end_header_id|>
+  The excerpt primarily discusses the topic of the British withdrawal from Iraq, with a focus on the UN mandate and the phased withdrawal of British troops. The mention of the Attorney General's findings and the Prime Minister's response adds a layer of discussion on accountability and the impact on the families of British service personnel and Iraqi citizens.","[1900, 1600]","[1600, 1608, 1900, 1920]"
+122,"<|end_header_id|>
+  The excerpt discusses the issues of racism, discrimination, and misogyny within the police force, highlighting the need for improvement in the relationship between the police and the public.",[200],"[200, 201]"
+123,"<|end_header_id|>
+  The excerpt discusses the country's deficit and the proposed tax cut by Nick, which is a key aspect of the macroeconomic policy. The speaker emphasizes the need to address the deficit and criticizes Nick's promise of a £17 billion tax cut as unrealistic.
+
+JSON Response:",[100],"[100, 105, 107]"
+124,"<|end_header_id|>
+  The excerpt discusses the UK's stance on Brexit negotiations, emphasizing the importance of securing a good deal and being prepared to stand up for Britain's interests.","[100, 1900]","[100, 105, 1900, 1910]"
+125,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information, so no codes can be assigned.",[],[]
+126,"<|end_header_id|>
+  The excerpt is a brief, neutral statement with no explicit policy discussion or reference to any policy topic.",[],[]
+127,"<|end_header_id|>
+  The excerpt mentions the public finances and the priority of raising a specific amount, implying a discussion about taxation and public spending.",[100],"[100, 105]"
+128,"<|end_header_id|>
+  The excerpt mentions a specific taxation mechanism (frequent flyers paying more) and targets a specific group (those who take many flights), which implies a taxation policy. It also implies a focus on a particular group, which could be related to social welfare or economic policies.",[100],"[100, 107]"
+129,"<|end_header_id|>
+  The excerpt mentions the number of people applying for asylum, which is related to immigration and civil rights. However, it does not provide specific details about the asylum process, taxation, or other policy areas.",[200],"[200, 230]"
+130,"<|end_header_id|>
+  The excerpt discusses the HS2 project, highlighting the party's stance on cancelling it and diverting funds to local sustainable transport. The mention of ""HS2"" and ""high speed rail"" implies a discussion on transportation, specifically mass and public transportation and safety (1001). The mention of ""local sustainable transport"" and ""people are crying out for"" suggests a focus on the needs of the community, which is related to social welfare (1300). The mention of ""opportunity cost"" and ""investing in such a big project"" implies a discussion on national budget and debt (105).
+
+JSON Response:","[100, 1300]","[100, 1000, 1001, 1300, 1302]"
+131,"<|end_header_id|>
+  The excerpt primarily discusses the UK's aid efforts in Syria, focusing on the importance of providing assistance to refugees in the region rather than resettling them in the UK. The mention of vulnerable groups, such as the elderly and disabled, is made in the context of the aid efforts, not as a separate policy topic.",[1900],"[1900, 1901]"
+132,"<|end_header_id|>
+  The excerpt discusses the Labour party's stance on public spending and its potential impact on child poverty, referencing a specific policy (two-child benefit cap) and a broader issue (cuts to public services). The mention of Gordon Brown's quote highlights the importance of addressing child poverty, which is a key aspect of social welfare.
+
+JSON Response:","[100, 1300]","[100, 105, 1300, 1302]"
+133,"<|end_header_id|>
+  The excerpt discusses the WASPI issue, which is a complex problem related to the pension age for women. The speaker acknowledges the difficulty of the issue and expresses sympathy for the WASPI women. However, they also state that it is expensive to come up with a solution and cannot promise to satisfy all the demands of the WASPI women.
+
+JSON Response:",[1300],"[1300, 1303]"
+134,"<|end_header_id|>
+  The excerpt mentions a desire to prevent the destruction of millions of people, but it does not explicitly discuss any policy topics. However, it can be inferred that the speaker is referring to nuclear weapons, which is related to the supercategory 800 (Energy) and subcategory 801 (Nuclear Energy and Nuclear Regulatory Issues).
+
+JSON Response:",[800],"[800, 801]"
+135,"<|end_header_id|>
+  The excerpt discusses the speaker's stance on Scottish independence, referencing the impact of Brexit on the situation. The speaker acknowledges that they would still support independence but suggests that the current circumstances, influenced by Brexit, have altered the situation.
+
+JSON Response:","[1900, 2000]","[1900, 1910, 2000, 2001]"
+136,"<|end_header_id|>
+  The excerpt discusses the importance of the single European market and the free movement of people, with a focus on its impact on jobs and the economy. The speaker criticizes the Labour Party for adopting similar arguments to UKIP on immigration, and emphasizes the benefits of remaining within the single European market.","[100, 500]","[100, 105, 500, 508]"
+137,"<|end_header_id|>
+  The excerpt discusses the Conservative party's policies on taxation and immigration, and the Liberal Democrats' proposed solutions to address the skills gaps in the care and other sectors. The text mentions the need to give care workers a higher minimum wage, invest in care workers, and invite people from other countries to fill the skills gaps.","[100, 500]","[100, 105, 500, 503, 529]"
+138,"<|end_header_id|>
+  The excerpt discusses the government's proposal to increase corporation tax to 26%, which is compared to its previous rate in 2010. The speaker argues that this increase is necessary to address pressing issues such as the crisis in social care, the NHS, and funding for schools. The mention of food banks and people sleeping around the station suggests that the speaker is highlighting the struggles of the working class and the need for the government to address these issues.
+
+JSON Response:",[100],"[100, 107]"
+139,"<|end_header_id|>
+  The excerpt does not contain any explicit policy topics. It appears to be a statement about the speaker's personal qualities and approach to politics, rather than a discussion of specific policy issues.",[],[]
+140,"<|end_header_id|>
+  The excerpt primarily discusses the economic and social impacts of the government's climate change policies, specifically the concept of ""net zero"" and its effects on various industries and the economy.
+
+JSON Response:","[100, 1300]","[100, 108, 1300, 1302]"
+141,"<|end_header_id|>
+  The excerpt is a brief, non-committal statement with no explicit policy topic or issue mentioned.",[],[]
+142,"<|end_header_id|>
+  The excerpt is a brief, apologetic statement with no explicit reference to any policy topic.",[],[]
+143,"<|end_header_id|>
+  The excerpt is a rhetorical statement with no explicit policy topic mentioned. It appears to be a criticism of the speaker's opponent, but it does not provide any information about policy.",[],[]
+144,"<|end_header_id|>
+  The excerpt mentions ""sanctions and incentives"" which implies a policy mechanism, but it does not specify a particular taxation mechanism (107) or public spending (105). It also does not mention any specific international cooperation (1900) or civil rights (200) issues. However, it does imply a policy approach that could be related to macroeconomic policy (100).
+
+JSON Response:",[100],[100]
+145,"<|end_header_id|>
+  The excerpt discusses the need for investment in Grimsby, specifically addressing issues such as potholes and childcare. The speaker emphasizes the importance of taking bold action and preparing for the first day in government to implement changes.
+
+JSON Response:","[100, 1300]","[100, 105, 1300, 1303]"
+146,"<|end_header_id|>
+  The excerpt discusses the importance of international cooperation, specifically in the context of European and American collaboration on issues like Russia and ISIS. The speaker emphasizes the need for collective action to address global problems, citing the example of the 2003 Iraq war. The mention of a ""European army"" is dismissed, but the focus is on the benefits of cooperation with Europe and the United States.
+
+JSON Response:",[1900],"[1900, 1920]"
+147,"<|end_header_id|>
+  The excerpt discusses the opposition to anti-terrorist legislation, specifically highlighting Theresa May's and David Davis's votes against it in 2005. The speaker emphasizes the importance of judicial oversight in anti-terrorism measures.","[1200, 1600]","[1200, 1202, 1600, 1627]"
+148,"<|end_header_id|>
+  The excerpt is a vague statement that does not provide any specific information about policy topics. It appears to be a general statement about the importance of considering local circumstances, but it does not provide any concrete details or references to specific policy areas.
+
+JSON Response:",[],[]
+149,"<|end_header_id|>
+  The excerpt discusses the government's stance on counter-terrorism and law enforcement, specifically mentioning stop and search and tougher sentencing. The Labour party is opposed to these measures, indicating a disagreement on policy.","[1200, 1600]","[1200, 1205, 1209, 1600, 1627]"
+150,"<|end_header_id|>
+  The excerpt discusses the current economic situation in the country, mentioning flat growth and a high tax burden. The speaker proposes a growth strategy with an industrial and skills strategy to improve the economy, which will enable the country to pay for public services. The speaker explicitly mentions taxation as a means to address the economic situation, but emphasizes that it is not a viable solution.
+
+JSON Response:",[100],"[100, 105]"
+151,"<|end_header_id|>
+  The excerpt discusses the topic of policing and law enforcement, specifically the issue of arming police officers and the powers of the Home Secretary to issue temporary exclusion orders. The speaker mentions the need for resources to ensure police capabilities, and questions the effectiveness of the current powers in place.
+
+JSON Response:",[1200],"[1200, 1209]"
+152,"<|end_header_id|>
+  The excerpt does not contain any explicit policy topics. It appears to be a rhetorical statement regarding the handling of a hypothetical situation.",[],[]
+153,"<|end_header_id|>
+  The excerpt discusses the speaker's support for the UK's stance on Ukraine, specifically praising Boris Johnson's strong position on the issue and expressing unity with other prime ministers, Rishi Sunak and Liz Truss, in supporting Ukraine. The speaker emphasizes the importance of a united front against Russia's aggression and Putin's attempts to create division.",[1900],"[1900, 1910]"
+154,"<|end_header_id|>
+  The excerpt is a brief, affirmative response, but it does not contain any explicit policy topics or themes that can be coded according to the provided codebook.",[],[]
+155,"<|end_header_id|>
+  The excerpt discusses the UK's leadership in offshore wind energy, its cost-effectiveness, and the creation of a British industry, which is a key aspect of the government's energy policy. The speaker highlights the Liberal Democrats' role in supporting the offshore wind industry, which has led to its growth and benefits, such as reduced energy bills.
+
+JSON Response:",[800],"[800, 806]"
+156,"<|end_header_id|>
+  The excerpt appears to be a rhetorical question, with the speaker (Angela) challenging the other speaker (Rishi) to present their plan, but it does not contain any explicit policy topics.",[],[]
+157,"<|end_header_id|>
+  The excerpt discusses the government's plan to increase tax revenue by hiring more tax inspectors and improving HMRC technology, which is a specific taxation mechanism (107). The discussion also touches on the need to address the NHS crisis, which is related to social welfare (1300). The mention of the NHS and its issues implies a broader discussion on healthcare, but the primary focus is on taxation and the government's plan to address it.","[100, 1300]","[100, 107, 1300, 1302]"
+158,"<|end_header_id|>
+  The excerpt primarily discusses the implications of the Brexit deal on the United Kingdom, particularly in relation to the Scottish referendum and the potential for further referendums. The speaker emphasizes the need to respect the result of the Brexit referendum and avoid divisive debates.","[100, 1900]","[100, 105, 1900, 1910]"
+159,"<|end_header_id|>
+  The excerpt discusses the need to resolve issues with the NHS, specifically the waiting list, and presents a plan to bring down the waiting list by increasing the number of appointments. The mention of the previous Labour government's record on NHS satisfaction and waiting lists suggests a comparison of healthcare policies between the current government and the previous one.
+
+JSON Response:",[300],"[300, 301, 331]"
+160,"<|end_header_id|>
+  The excerpt is a single-word response with no explicit policy topic or issue mentioned.",[],[]
+161,"<|end_header_id|>
+  The excerpt discusses the government's focus on employment and the impact of their policies on the number of workless households and the overall employment rate. The speaker emphasizes the importance of making work pay and providing investment to support people in getting jobs.
+
+JSON Response:","[100, 1300]","[100, 103, 1300, 1302]"
+162,"<|end_header_id|>
+  The excerpt discusses the recent London Bridge incident, expressing sympathy for the victims and their families, and highlighting the bravery of the public. The speaker also touches on the importance of supporting security services and maintaining access to intelligence, which is linked to the topic of the UK's decision to leave the European Union. Additionally, the speaker criticizes the SNP government in Scotland for not increasing police numbers, implying that this has contributed to the UK's security issues.
+
+JSON Response:","[1200, 1900]","[1200, 1202, 1209, 1900]"
+163,"<|end_header_id|>
+  The excerpt discusses the government's approach to policing and counter-terrorism, specifically highlighting the allocation of budgets, the need for police to address changing types of crime, and the importance of granting police the necessary powers to combat terrorism.","[100, 1200]","[100, 105, 1200, 1209]"
+164,"<|end_header_id|>
+  The excerpt mentions negotiation, which is a key aspect of taxation policy (code 107) and international cooperation (code 1900). However, the primary policy topic in this excerpt is taxation policy, as it is directly related to the negotiation process.
+
+JSON Response:","[100, 1900]","[100, 107, 1900]"
+165,"<|end_header_id|>
+  The excerpt mentions asylum seekers and refugees, which is related to immigration and civil rights.",[200],"[200, 230]"
+166,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information. It appears to be a rhetorical statement.",[],[]
+167,"<|end_header_id|>
+  The excerpt is a statement of disagreement, but it does not contain any explicit policy-related content. It is a rhetorical statement and does not provide any information about policy topics.",[],[]
+168,"<|end_header_id|>
+  The excerpt discusses the Labour Party's stance on NATO, with the speaker emphasizing the party's commitment to the alliance and its importance for national security. The mention of Jeremy Corbyn, a prominent Labour Party leader, suggests a discussion about the party's leadership and its stance on NATO.
+
+JSON Response:",[1900],"[1900, 1930]"
+169,"<|end_header_id|>
+  The excerpt discusses the use of nuclear weapons and the need for disarmament, but does not specify any particular country or region. It emphasizes the importance of a multilateral approach to disarmament.
+
+JSON Response:",[1600],"[1600, 1610]"
+170,"<|end_header_id|>
+  The excerpt mentions the concept of ""no deal"" and ""bad deal"" in the context of negotiations, which implies a discussion about the terms of an agreement. The mention of ""walking out"" suggests a reference to the potential consequences of not agreeing to a deal. The code 105 (National Budget, Debt, public spending) is not applicable as there is no explicit talk about reducing or increasing public spending. The code 107 (Taxation, Tax policy, and Tax Reform) is also not applicable as there is no mention of taxation mechanisms. The code 201 (Ethnic Minority and Racial Group Discrimination) is not applicable as there is no reference to racism. The code 1900 (International Cooperation) is applicable as the excerpt mentions negotiations, which implies international relations.
+
+JSON Response:","[100, 1900]","[100, 105, 107, 1900]"
+171,"<|end_header_id|>
+  The excerpt discusses the issue of immigration and its impact on the country's population, economy, and infrastructure. The speaker argues that reducing immigration and implementing a points-based system would be beneficial for the economy and social cohesion.
+
+JSON Response:","[100, 500, 1300]","[100, 103, 500, 508, 1300, 1302]"
+172,"<|end_header_id|>
+  The excerpt discusses the issue of dealing with debts and deficit, specifically the options of borrowing too much money or cutting too much. The speaker emphasizes the importance of making necessary cuts, but criticizes the Conservative's plan for making further cuts than needed.",[100],"[100, 105]"
+173,"<|end_header_id|>
+  The excerpt mentions mental health services in schools, which falls under the category of education, specifically the education of underprivileged students. However, the primary policy topic discussed is the provision of mental health services, which is a subcategory of health.
+
+JSON Response:",[600],"[600, 603]"
+174,"<|end_header_id|>
+  The excerpt discusses the government's stance on pensioners and their pension uprating, contrasting it with the previous Labour government's commitment.
+
+JSON Response:","[100, 1300]","[100, 105, 1300, 1303]"
+175,"<|end_header_id|>
+  The excerpt mentions shared ownership as an alternative to traditional renting, where individuals pay part rent and eventually gain ownership. Housing associations in the speaker's area operate this model, suggesting it as a viable option worth exploring.
+
+JSON Response:",[1400],"[1400, 1401]"
+176,"<|end_header_id|>
+  The excerpt primarily discusses the support for small business owners, specifically mentioning the reduction of business rates as a measure to help them. The mention of the economy and exporting is secondary to the main topic of supporting small businesses.","[100, 500]","[100, 105, 500, 502]"
+177,"<|end_header_id|>
+  The excerpt is a political speech that focuses on the choice between the Conservative party's approach to Brexit and the Labour party's approach. The speaker emphasizes the need to move forward with Brexit and focus on other pressing issues like the NHS, schools, and police, rather than getting stuck in debates about Brexit.
+
+JSON Response:","[100, 1900]","[100, 105, 1900, 1910]"
+178,"<|end_header_id|>
+  The excerpt discusses the issue of pensioners and the Prime Minister's ability to keep promises, specifically referencing Liz Truss's handling of pensioners. The mention of Liz Truss and the Prime Minister implies a discussion about government leadership and policy decisions.",[1300],"[1300, 1303]"
+179,"<|end_header_id|>
+  The excerpt discusses the UK's trade relationship with Europe, specifically the need for an agreement on trade access and the interdependence of manufacturing industries across the channel.","[1800, 1900]","[1800, 1803, 1900, 1910]"
+180,"<|end_header_id|>
+  The excerpt discusses the legal case for the invasion of Iraq, specifically citing the breach of United Nations resolutions and the presence of WMDs. The mention of UN resolution 1441 suggests a discussion of international cooperation and foreign policy.",[1900],"[1900, 1926]"
+181,"<|end_header_id|>
+  The excerpt discusses the government's failure to eliminate the deficit, which is a key aspect of macroeconomic policy (100). The speaker questions the government's ability to cut the deficit, which is a specific aspect of national budget and debt management (105). The mention of the £90 billion deficit implies a discussion of public spending and debt (105). The speaker also implies a criticism of the government's handling of the economy, which may be related to taxation (107), but it is not explicitly mentioned.",[100],"[100, 105]"
+182,"<|end_header_id|>
+  The excerpt discusses the topic of climate change and decarbonization, mentioning efforts to reduce plastic use, increase energy efficiency, and drive less. The government's policies, such as legislating for net zero by 2050, are also highlighted.",[700],"[700, 705]"
+183,"<|end_header_id|>
+  The excerpt discusses the issue of rising rents and the need to address it by building more houses and regulating deposits. The speaker mentions the need to stop landlords from driving up rents and to ensure good conditions in rented housing. The mention of deposits and the impact of the housing shortage on landlords suggests that the discussion is centered around housing policy.","[100, 1400]","[100, 105, 1400, 1401]"
+184,"<|end_header_id|>
+  The excerpt primarily discusses the importance of protecting women's spaces and addressing issues related to gender identity and self-identification. The speaker highlights the need to balance the protection of women's spaces with the rights of individuals who identify differently.",[200],"[200, 201]"
+185,"<|end_header_id|>
+  The excerpt discusses taxation and public spending, specifically mentioning a tax cut and a proposal to stop a national insurance rise. The speaker also mentions a potential tax relief on income tax.",[100],"[100, 105, 107]"
+186,"<|end_header_id|>
+  The excerpt explicitly mentions the intention to reduce taxes, which falls under the category of taxation policy.",[100],"[100, 107]"
+187,"<|end_header_id|>
+  The excerpt discusses the importance of teaching respect, tolerance, and embedding these values in young people to prevent hate crimes and despicable language. It also mentions the need to address the lack of community police and youth services, which have been decimated in the last seven years. The speaker emphasizes the importance of addressing these issues before they escalate into atrocities.
+
+JSON Response:",[200],"[200, 207]"
+188,"<|end_header_id|>
+  The excerpt discusses the issue of trust in politics and the Liberal Democrats' approach to addressing it, specifically through devolving power to local communities and implementing proportional representation.",[2000],"[2000, 2012]"
+189,"<|end_header_id|>
+  The excerpt mentions the Brexit Party and the Tories, but does not explicitly discuss any policy topics. It appears to be a rhetorical statement.",[],[]
+190,"<|end_header_id|>
+  The excerpt primarily discusses the speaker's motivations for entering politics and their concerns about the current state of the country, particularly in relation to Brexit and the potential consequences for the future of the UK. The speaker emphasizes the importance of standing up to those who take people for granted and protecting the country's future.","[100, 1300]","[100, 103, 1300, 1302]"
+191,"<|end_header_id|>
+  The excerpt discusses the challenges faced by the NHS in Scotland and Wales, and the speaker argues that a proper funding plan is needed to address these issues. The mention of specific challenges in Wales and Scotland, and the reference to the NHS, indicates that the discussion is centered around health care. The mention of a ""proper funding plan"" suggests that the discussion is also related to the budget and finance of the NHS.
+
+JSON Response:","[300, 100]","[100, 105, 300, 331]"
+192,"<|end_header_id|>
+  The excerpt mentions the National Health Service (NHS), which is a part of the broader health sector, and the policy of a four-day week, which is related to working hours and potentially labor laws. However, the primary policy topic in this excerpt is the NHS, which falls under the broader category of health.
+
+JSON Response:",[300],"[300, 301]"
+193,"<|end_header_id|>
+  The excerpt discusses the limitations of Scotland's power to set tax rules, specifically regarding tax avoidance, and the potential consequences of introducing a tax without the ability to set rules to prevent tax avoidance. The speaker suggests that if the tax is introduced across the UK, it would be more effective in raising revenue for Scotland.",[100],"[100, 107]"
+194,"<|end_header_id|>
+  The excerpt discusses the government's plan to address the deficit and balance the books. The speaker mentions the need to cut the deficit every year, reverse the tax cut for millionaires, and protect key areas like health and education. The plan also aims to improve living standards, which would lead to higher tax revenues and help clear the deficit.",[100],"[100, 105, 107]"
+195,"<|end_header_id|>
+  The excerpt discusses the potential consequences of introducing a tax policy in Scotland, specifically the risk of losing revenue due to individuals shifting their incomes. The speaker emphasizes the need for full powers over tax in Scotland and suggests that introducing the tax in Scotland alone could lead to a decline in revenue.
+
+JSON Response:",[100],"[100, 107]"
+196,"<|end_header_id|>
+  The excerpt primarily discusses the government's performance in various areas, particularly education, and proposes alternative policies to improve education. The speaker emphasizes the importance of teaching children to read and write using the synthetic phonics method, setting by ability, and providing choices for special needs education.
+
+JSON Response:","[100, 600]","[100, 103, 600, 602, 603]"
+197,"<|end_header_id|>
+  The excerpt is a denial of a statement, but it does not contain any explicit policy-related content. It is a rhetorical statement and does not provide any information about policy topics.",[],[]
+198,"<|end_header_id|>
+  The excerpt mentions the speaker's experience as a businessman and their willingness to walk away from negotiations, but it does not explicitly mention any policy topics.",[],[]
+199,"<|end_header_id|>
+  The excerpt discusses the reliability of Boris Johnson's statements regarding the NHS, specifically the number of hospitals and nurses. It also mentions the lack of explicit statements from the British government regarding the NHS being off-limits in trade negotiations, drawing a comparison with the US on climate change.","[100, 300]","[100, 103, 300, 325]"
+200,"<|end_header_id|>
+  The excerpt mentions a specific international organization (UN) and a country (Peru), indicating a discussion related to international affairs.",[1900],"[1900, 1926]"
+201,"<|end_header_id|>
+  The excerpt does not provide explicit information about any policy topics. It is a statement about the speaker's lack of knowledge about the number of potential applicants.",[],[]
+202,"<|end_header_id|>
+  The excerpt is a statement about the direction of travel, but it does not provide any specific information about policy topics. It appears to be a rhetorical statement rather than a policy discussion.",[],[]
+203,"<|end_header_id|>
+  The excerpt discusses various policy topics, including the economy, taxation, and immigration. The speaker emphasizes their achievements in getting the economy in a strong position, reducing energy bills, and cutting taxes. They also mention a potential retirement tax for pensioners if they are not re-elected and a plan to create a ""triple lock plus"" to avoid this tax. Additionally, they mention reversing changes to get to net zero in a ""sensible way"" and the consequences of a Starmer government, including allowing ""illegal migrants"" to stay in the country.","[100, 100, 200]","[100, 101, 103, 107, 200, 201]"
+204,"<|end_header_id|>
+  The excerpt discusses taxation and its impact on different income groups, with the speaker highlighting the difference between their party's policies and those of the Conservatives.",[100],"[100, 107]"
+205,"<|end_header_id|>
+  The excerpt does not contain any explicit policy topics. It appears to be a rhetorical statement.",[],[]
+206,"<|end_header_id|>
+  The excerpt mentions working with other countries, which implies international cooperation, but does not specify a particular country or region. Therefore, it is most closely related to the supercategory 1900 (International Affairs) and subcategory 1926 (International Organizations other than Finance).
+
+JSON Response:",[1900],"[1900, 1926]"
+207,"<|end_header_id|>
+  The excerpt does not explicitly mention any policy topics. It appears to be a rhetorical statement with no clear policy implications.",[],[]
+208,"<|end_header_id|>
+  The excerpt does not contain any explicit policy topics. It appears to be a statement about the timeline of implementing a policy, but it does not provide any details about the policy itself.",[],[]
+209,"<|end_header_id|>
+  The excerpt primarily discusses the economic policies of the Labour Party and the consequences of their actions, contrasting them with the current government's progress and the potential risks of electing the Labour Party. The discussion centers around taxation and the economy, with the speaker emphasizing the importance of maintaining the current government's policies to avoid increased taxes.",[100],"[100, 105, 107]"
+210,"<|end_header_id|>
+  The excerpt is a rhetorical question, and it does not contain any explicit policy topics. It appears to be a challenge or a call to action, rather than a statement of policy.",[],[]
+211,"<|end_header_id|>
+  The excerpt discusses the time it takes to negotiate a new trade agreement, specifically referencing the example of Canada, which took seven years. This implies a discussion about the process of negotiating trade agreements, which falls under the category of 1800: Foreign Trade, and more specifically, 1803: Export Promotion and Regulation, Export Credit Agencies. However, the primary focus is on the time it takes to negotiate, which is a characteristic of 105: National Budget, Debt, public spending, but in this context, it's more related to the timeframe of trade negotiations. The mention of Canada's seven-year negotiation period also implies a discussion about international cooperation, which falls under 1900: International Affairs.
+
+JSON Response:","[100, 1900]","[100, 105, 1800, 1803, 1900]"
+212,"<|end_header_id|>
+  The excerpt discusses the government's approach to policing, focusing on the need to adapt to changing crime patterns and ensure that the police have the necessary resources and powers to address emerging challenges, particularly in counter-terrorism.
+
+JSON Response:",[1200],"[1200, 1202, 1209, 1211]"
+213,"<|end_header_id|>
+  The excerpt discusses the role of the judge in making decisions, specifically in relation to the politician's role. The speaker emphasizes that the decision should be made by the judge, not the politician, indicating a discussion about the separation of powers and the judiciary's independence.
+
+JSON Response:",[200],[200]
+214,"<|end_header_id|>
+  The excerpt is a brief, numerical response and does not contain any explicit policy-related information.",[],[]
+215,"<|end_header_id|>
+  The excerpt discusses the issue of homelessness and the impact of the Tories' policies on families, particularly in relation to Section 21 and the need to make work pay. The mention of food banks and the personal anecdote about the speaker's childhood suggest a focus on social welfare and poverty.","[1300, 500]","[500, 508, 1300, 1302]"
+216,"<|end_header_id|>
+  The excerpt primarily discusses the issues of class sizes, SATs, and teacher workload, which are all related to the education sector. The mention of Tony Blair's commitment to class sizes and the current state of the education system suggests that the discussion is centered around the education policy.
+
+JSON Response:",[600],"[600, 602]"
+217,"<|end_header_id|>
+  The excerpt discusses the Scottish Government's initiative to support emerging companies and fuel their growth through the tech scaler programme, highlighting the importance of innovation and public investment in driving economic opportunities and strengthening the manufacturing base of Scotland.",[100],"[100, 108]"
+218,"<|end_header_id|>
+  The excerpt discusses the issue of compensating WASPI women, specifically mentioning the SNP's previous work on the matter and the need to find a solution that prioritizes justice for these women. The mention of ""compensating WASPI women"" and the discussion of the SNP's options for addressing the issue suggests that the primary policy topic is related to social welfare, specifically the subcategory of assistance to the elderly.
+
+JSON Response:",[1300],"[1300, 1303]"
+219,"<|end_header_id|>
+  The excerpt is primarily about the NHS and its relation to trade negotiations, with a secondary mention of Brexit policy and the Labour party's stance.","[100, 300]","[100, 105, 300, 321]"
+220,"<|end_header_id|>
+  The excerpt does not contain any explicit policy topics. It appears to be a response to a question, with the speaker providing a factual answer and encouraging the audience to visit a website for more information.",[],[]
+221,"<|end_header_id|>
+  The excerpt discusses the current government's performance, the impact of recent events (Covid and the war in Ukraine), and the speaker's vision for the future, including economic stability, tax cuts, and reducing migration.","[100, 1300]","[100, 105, 1300, 1303]"
+222,"<|end_header_id|>
+  The excerpt discusses the potential influence of the SNP in a hung Parliament, the speaker's opposition to Boris Johnson and Tory policies, and the SNP's progressive policies, including an end to austerity, universal credit, NHS protection, and fairer pensions.","[100, 200]","[100, 105, 200, 201]"
+223,"<|end_header_id|>
+  The excerpt discusses three main policy topics: environmental conservation (specifically, reforestation and carbon capture), green technology, and waste management (recycling). The speaker emphasizes the importance of addressing these issues to mitigate climate change and protect the environment.
+
+JSON Response:","[100, 700]","[100, 105, 700, 701, 703]"
+224,"<|end_header_id|>
+  The excerpt discusses a proposal to increase funding for dentistry in the NHS, specifically mentioning the need to address the issue of access to dental care in certain regions, such as East Anglia. The mention of taxing the top 1% is related to the discussion of taxation, but the primary focus is on the healthcare aspect.","[100, 300]","[100, 105, 300, 301]"
+225,"<|end_header_id|>
+  The excerpt discusses the policy of recruiting more GPs, specifically mentioning the need to train and retain more GPs, and the issue of GPs leaving the country due to better pay and valuation in other countries.",[300],"[300, 325, 331]"
+226,"<|end_header_id|>
+  The excerpt mentions the issue of emigration of workers from the health and social care sector due to low pay, which is related to labour and employment. It also touches on the broader issue of workforce strategy, which can be linked to macroeconomic policies.","[100, 500]","[100, 103, 500, 508]"
+227,"<|end_header_id|>
+  The excerpt discusses the benefits of the proposed Brexit deal, highlighting its potential to provide certainty and confidence for British businesses, facilitate a new free trade partnership, and bring an end to the Brexit process.","[100, 1900]","[100, 105, 1900, 1901]"
+228,"<|end_header_id|>
+  The excerpt is a call to action, urging voters to support the Green party for a fair economy, public NHS, and a stable climate. The speaker emphasizes the importance of voting for change and mentions the impact of Caroline Lucas, a Green MP, in Parliament.","[100, 300]","[100, 105, 300, 301]"
+229,"<|end_header_id|>
+  The excerpt mentions Britain's role in international organizations and its leadership in various global issues, indicating a discussion on international cooperation and global security.",[1900],"[1900, 1926]"
+230,"<|end_header_id|>
+  The excerpt mentions the ability to introduce rules for people coming from within the European Union after leaving the EU, which implies a discussion on immigration and the ability to regulate it post-Brexit.
+
+JSON Response:",[200],"[200, 230]"
+231,"<|end_header_id|>
+  The excerpt mentions a specific amount (£100) in the context of a policy or proposal, but it does not provide enough information to determine the category or subcategory of the policy. The mention of ""£100 a year"" could be related to various policy areas, such as taxation, public spending, or social welfare. However, without further context, it is not possible to accurately assign a code.",[],[]
+232,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information. It appears to be a rhetorical statement, and no codes from the provided codebook apply.",[],[]
+233,"<|end_header_id|>
+  The excerpt discusses immigration policy, specifically the introduction of foreign national ID cards, biometric visas, and a points system for immigration. The speaker also mentions the importance of controlling immigration and the potential consequences of a policy that would allow amnesty for immigrants.","[1900, 500]","[500, 502, 1900, 1901]"
+234,"<|end_header_id|>
+  The excerpt discusses the policies of the current government, specifically the Labour government, and their stance on certain benefits for pensioners, such as free eye tests, free prescription charges, and the winter fuel allowance. The speaker criticizes the opposing party for not including these benefits in their manifesto and for cutting the winter fuel allowance.","[100, 1300]","[100, 107, 1300, 1303]"
+235,"<|end_header_id|>
+  The excerpt primarily focuses on the speaker's personal motivations and values as a father, emphasizing the importance of creating a safe and supportive environment for their daughters. The discussion revolves around the need for a secure and healthy upbringing, access to quality healthcare, and equal opportunities for women. The mention of specific policies, such as free childcare and HRT, serves to illustrate these values rather than being the primary focus.","[300, 500]","[300, 301, 500, 508]"
+236,"<|end_header_id|>
+  The excerpt mentions the concept of consultation, which implies a dialogue with a group, in this case, likely the doctors. However, it does not specify the group's identity or the context of the consultation. The mention of ""what they think"" suggests a discussion on their opinions or ideas, but it does not provide enough information to infer a specific policy topic.
+
+JSON Response:",[],[]
+237,"<|end_header_id|>
+  The excerpt discusses the topic of immigration, specifically the fluctuations in immigration figures and the measures taken to address abuse in the system. The speaker mentions the upcoming departure from the EU and the introduction of new rules for people coming from within the EU.
+
+JSON Response:",[1900],"[200, 230, 1900]"
+238,"<|end_header_id|>
+  The excerpt is a brief and rhetorical statement, lacking explicit policy topics. It appears to be a call to action or a question, but it does not provide any specific information about policy issues.",[],[]
+239,"<|end_header_id|>
+  The excerpt discusses the performance of the current government in relation to the NHS, mentioning the increase in nurses, doctors, and treated patients, and contrasting it with the previous Labour government's handling of the economy and the NHS. The current government's decision to invest in the NHS is highlighted as a key factor in its success.
+
+JSON Response:","[100, 300]","[100, 103, 105, 300, 301]"
+240,"<|end_header_id|>
+  The excerpt is a brief, affirmative response, but it does not contain any explicit policy topics or themes that can be coded according to the provided codebook.",[],[]
+241,"<|end_header_id|>
+  The excerpt primarily discusses the state of the National Health Service (NHS) and the performance of the current government, particularly the Conservative party, in managing the NHS. The speaker emphasizes the need to rescue the NHS and highlights the Labour government's achievements in reducing waiting times from 18 months to 18 weeks. The speaker criticizes the current government for failing to maintain this progress and breaking the trust of the British people.
+
+JSON Response:","[100, 300]","[100, 105, 300, 301]"
+242,"<|end_header_id|>
+  The excerpt discusses the issue of knife crime and the need for a different approach to address it, focusing on community policing, expert youth services, and the use of stop and search based on intelligence rather than profiling.",[1200],"[1200, 1209, 1211]"
+243,"<|end_header_id|>
+  The excerpt discusses the government's plan to detain and remove people who have entered the country illegally, with a specific mention of flights to Rwanda. The key points are the establishment of a deterrent, the removal of people who have entered illegally, and the use of Rwanda as a destination for removal.
+
+JSON Response:",[200],"[200, 230]"
+244,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information. It appears to be a rhetorical statement.",[],[]
+245,"<|end_header_id|>
+  The excerpt mentions specific policy initiatives (training apprentices, building houses, reducing unemployment) and a condition for their implementation (not going back to debt, welfare, spending, and taxes). The mention of taxes is a key point, as it directly relates to the 105 and 107 codes.",[100],"[100, 105, 107]"
+246,"<|end_header_id|>
+  The excerpt mentions a specific taxation mechanism (levy) and a discussion about a transition, which implies a change in taxation policy. The mention of oil and gas companies suggests a focus on energy, but the primary topic is taxation.
+
+JSON Response:",[100],"[100, 107]"
+247,"<|end_header_id|>
+  The excerpt mentions a specific percentage of households, but does not provide any information about policy topics, taxation, civil rights, or other relevant categories.",[],[]
+248,"<|end_header_id|>
+  The excerpt is a rhetorical statement with no explicit policy topic mentioned. It appears to be a disagreement with an unnamed position or policy, but no specific policy issue is discussed.",[],[]
+249,"<|end_header_id|>
+  The excerpt discusses the potential impact of a local income tax on pensioners, specifically mentioning that six million pensioners will be taken out of local taxation altogether. This suggests a discussion about taxation (107) and its effects on a specific group (pensioners), which can be linked to social welfare (1300).
+
+JSON Response:","[100, 1300]","[100, 107, 1300, 1302]"
+250,"<|end_header_id|>
+  The excerpt does not contain any explicit policy topics. It appears to be a general statement about the party's actions in different situations.",[],[]
+251,"<|end_header_id|>
+  The excerpt discusses the policy proposals of the speaker, specifically focusing on free personal care and a higher minimum wage for care workers. The speaker also mentions reversing tax cuts given to big banks as a source of funding for these proposals.","[100, 1300]","[100, 105, 1300, 1303]"
+252,"<|end_header_id|>
+  The excerpt discusses the housing point, specifically the issue of young people being unable to afford a deposit to buy a house. The proposed solution is a rent-to-own scheme, which would allow individuals to build up ownership in their home while renting.","[100, 1400]","[100, 105, 1400, 1410]"
+253,"<|end_header_id|>
+  The excerpt discusses the limitations of the current resources and the promise to implement a policy when resources allow, indicating a discussion about public spending and taxation.",[100],"[100, 105]"
+254,"<|end_header_id|>
+  The excerpt discusses the issue of funding for Wales in relation to Scotland, specifically mentioning the need for parity in funding to end austerity and deliver an additional £1.2 billion into the Welsh economy. The mention of ""austerity"" and ""cuts to the Welsh budget"" suggests a discussion about public spending, which falls under the category of Macroeconomics. The mention of ""parity with Scotland"" implies a comparison of funding between the two countries, which is related to taxation and budgeting. The mention of ""austerity"" and ""cuts"" also implies a discussion about taxation and public spending.",[100],"[100, 105]"
+255,"<|end_header_id|>
+  The excerpt discusses the government's plan to uprate the pension in line with earnings, rather than prices, and the measures they will take to fund this promise, including increasing the retirement age. The speaker also mentions the importance of giving dignity and security in old age to those who have worked hard and saved.","[100, 1300]","[100, 105, 1300, 1303]"
+256,"<|end_header_id|>
+  The excerpt discusses the lack of bold ideas and honesty in funding changes, which relates to macroeconomic policies (100) and taxation (107). It also touches on the idea of a brighter future, which could be related to social welfare (1300) or education (600), but the context suggests it's more about the overall promise of a better future for the country, which is a broader topic.",[100],"[100, 107]"
+257,"<|end_header_id|>
+  The excerpt discusses the economic implications of leaving the European Union and the need for a party to provide a clear plan for funding their policies, specifically mentioning the need to raise income tax to fund the NHS.",[100],"[100, 105]"
+258,"<|end_header_id|>
+  The excerpt discusses the NHS and the potential impact of Brexit on the availability of healthcare professionals from the EU. The speaker argues that leaving the EU would lead to a shortage of nurses and doctors, and that charging them a tax would exacerbate the problem.",[300],"[300, 325, 331]"
+259,"<|end_header_id|>
+  The excerpt discusses the UK's relationship with the European Union, with the speaker advocating for a more assertive and independent approach while still being a part of the EU. The speaker emphasizes the importance of maintaining the pound as the UK's currency, cutting bureaucracy, and standing up for British interests in Europe.
+
+JSON Response:",[1900],"[1900, 1910]"
+260,"<|end_header_id|>
+  The excerpt is a reassuring statement, but it does not contain any explicit policy-related content. It appears to be a personal or social interaction rather than a policy discussion.",[],[]
+261,"<|end_header_id|>
+  The excerpt mentions the Liberal Democrats' stance on striking a balance between creating a strong economy and doing so fairly, but does not provide explicit details on specific policy topics.",[100],[100]
+262,"<|end_header_id|>
+  The excerpt discusses the Welsh NHS, specifically the need to address problems in the healthcare system, including staff pressure, mental health, and the integration of social care. The Plaid Cymru party proposes training more doctors and nurses, investing in mental health support, and integrating social care into the NHS.",[300],"[300, 301, 325, 331]"
+263,"<|end_header_id|>
+  The excerpt primarily discusses the topic of leadership and the ability to negotiate with the EU, with a focus on the strength of the team and the leader's ability to deliver results. The speaker emphasizes the importance of having a strong team and a leader who can negotiate effectively with the EU, citing Theresa May's experience as Home Secretary as an example.","[100, 1900]","[100, 105, 1900, 1901]"
+264,"<|end_header_id|>
+  The excerpt discusses the housing policy, specifically the issue of moving people to new locations, the planning system, and the government's initiatives to help young people onto the housing ladder through Help to Buy and stamp duty reduction.
+
+JSON Response:","[100, 1400]","[100, 108, 1400, 1410]"
+265,"<|end_header_id|>
+  The excerpt discusses the idea of a confirmatory referendum as a means to test the shift in public opinion, and the need to involve the people in resolving the impasse due to politicians' failure.
+
+JSON Response:",[100],"[100, 101]"
+266,"<|end_header_id|>
+  The excerpt discusses the government's proposals for supporting families, particularly in terms of financial assistance for maternity, elderly care, and education. The speaker highlights the benefits of these proposals, emphasizing the increased support for families with children, elderly parents, and students.
+
+JSON Response:","[100, 600]","[100, 105, 600, 604]"
+267,"<|end_header_id|>
+  The excerpt discusses the urgent social needs payments and the proposed two-year limit on payments for personal and medical care in old people's homes. The primary policy topics in this excerpt are related to social welfare and healthcare.
+
+JSON Response:","[1300, 300]","[300, 334, 1300, 1304]"
+268,"<|end_header_id|>
+  The excerpt discusses the Labour party's approach to immigration, specifically addressing concerns about migrant labour and its impact on wages. The speaker emphasizes the need to address the exploitation of migrant labour and ensure fairness in the treatment of workers.","[200, 500]","[200, 230, 500, 505]"
+269,"<|end_header_id|>
+  The excerpt primarily discusses the economic recovery and the potential impact of a policy decision on unemployment and the economy.",[100],"[100, 103]"
+270,"<|end_header_id|>
+  The excerpt discusses the Catholic Church's handling of past abuses and the need for openness and repentance. The speaker's wife is Catholic, and he acknowledges the anguish felt by the Catholic community. He welcomes the Pope's visit but emphasizes the need for the Church to address past wrongs and provide a process for healing.",[200],"[200, 201]"
+271,"<|end_header_id|>
+  The excerpt discusses the EU's handling of referendums in other countries, specifically the instances where the EU's suggestions were rejected by the people, and the EU's response to those rejections. The speaker is arguing that the EU's approach is undemocratic and that the UK should respect the people's choice.",[1900],"[1900, 1910]"
+272,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information. It appears to be a rhetorical or filler statement.",[],[]
+273,"<|end_header_id|>
+  The excerpt is a call to action, urging the audience to move forward, but it does not contain any specific policy topics or issues. It is a general statement without any explicit reference to any of the provided codebook categories.",[],[]
+274,"<|end_header_id|>
+  The excerpt discusses the benefits of international cooperation in the context of the European Union, citing the need to address global challenges such as climate change, human trafficking, and crime. The speaker argues that the UK is stronger when working together with other countries, and uses this as a reason to advocate for the UK's continued membership in the EU.",[1900],[1900]
+275,"<|end_header_id|>
+  The excerpt discusses the UK's relationship with the European Union, specifically the protection of European nationals living in the UK, maintaining environmental conditions, workers' rights, and negotiating tariff-free trade access to the European market.","[1900, 100]","[100, 107, 1900, 1910]"
+276,"<|end_header_id|>
+  The excerpt discusses a tax cut and a new version of Help to Buy, which allows individuals to buy a home with a 5% deposit. The tax cut is described as a reduction in the amount that needs to be saved for a deposit, and the Help to Buy scheme is presented as a way to help young people afford a home by providing a loan to cover the deposit.","[100, 1400]","[100, 107, 1400, 1410]"
+277,"<|end_header_id|>
+  The excerpt primarily discusses the speaker's concerns about Donald Trump's policies, particularly regarding children in detention centers, and the potential for a new relationship with the US after Trump's presidency. The speaker also mentions the UK's relationship with NATO and the potential for a ""peace project"" with the funds allocated for Trident renewal.","[1900, 1600]","[1600, 1610, 1900, 1920]"
+278,"<|end_header_id|>
+  The excerpt discusses the Chancellor's request to the Shadow Chancellor to rule out raising taxes, and a recording from the Deputy Chancellor of the Labour Party that suggests their plans will cost hundreds of billions of pounds.",[100],"[100, 107]"
+279,"<|end_header_id|>
+  The excerpt primarily discusses the Israeli-Palestinian conflict, with a focus on Israel's actions and the need for careful judgment in defending itself. The mention of Hamas suggests a discussion on the Palestinian side, but the main emphasis is on Israel's actions and the need for effective defense.
+
+JSON Response:",[1900],"[1900, 1920]"
+280,"<|end_header_id|>
+  The excerpt discusses the issue of immigration and the effectiveness of the Rwanda plan as a deterrent. The speaker emphasizes that the numbers of illegal migrants have decreased due to the plan, and quotes migrants as expressing fear of the Rwanda plan, indicating that it is a successful deterrent.",[200],"[200, 230]"
+281,"<|end_header_id|>
+  The excerpt primarily discusses the speaker's stance on reducing net migration, criticizing the Labour Party for not prioritizing it and implying that the current government is ineffective in addressing the issue.",[500],"[500, 529]"
+282,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related content. It appears to be a rhetorical expression, and no codes from the provided codebook apply.",[],[]
+283,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information. It appears to be a rhetorical expression.",[],[]
+284,"<|end_header_id|>
+  The excerpt mentions climate change and the Paris Agreement, which are related to environmental issues. It also mentions the economy, which is related to macroeconomics.","[700, 100]","[100, 105, 700, 705]"
+285,"<|end_header_id|>
+  The excerpt discusses the need for a defence review to address the lack of helicopters for the front line, specifically referencing the situation in Afghanistan. The speaker criticizes the previous government for cutting the helicopter program in 2004, which led to a shortage of helicopters.
+
+JSON Response:",[1600],"[1600, 1610]"
+286,"<|end_header_id|>
+  The excerpt discusses the issue of university tuition fees and student debt, and the Green Party's proposal to abolish fees and pay off student loan company debts. The speaker also mentions the need for changes in housing and jobs to build a life on, and proposes a minimum wage of £10 an hour by 2020.","[100, 600]","[100, 105, 600, 601]"
+287,"<|end_header_id|>
+  The excerpt mentions the Conservative Party's record on promoting women and addressing Islamophobia, but the primary policy topics discussed are related to civil rights and gender equality.",[200],"[200, 201, 202]"
+288,"<|end_header_id|>
+  The excerpt discusses the politician Nigel Farage's use of a breaking point poster with pictures of Syrian refugees, which is compared to Nazi propaganda. This is an example of rhetoric around migration, and the speaker is calling for condemnation of Farage's actions.",[200],"[200, 201]"
+289,"<|end_header_id|>
+  The excerpt is a rhetorical question aimed at the Prime Minister, questioning their plan to resolve the strike. The speaker is emphasizing the need for a concrete plan rather than just a promise to resolve the issue.",[],[]
+290,"<|end_header_id|>
+  The excerpt is a rhetorical statement with no explicit policy discussion. It appears to be a response to a question or a statement made by Jeremy Corbyn, but it does not contain any policy-related information.",[],[]
+291,"<|end_header_id|>
+  The excerpt primarily discusses the Brexit deal and the Liberal Democrats' policy of revoking Brexit, with a focus on the potential consequences of such a policy.","[100, 1900]","[100, 105, 1900, 1910]"
+292,"<|end_header_id|>
+  The excerpt discusses terrorism and extremism, specifically referencing instances of right-wing extremism and white supremacist violence. The speaker highlights the importance of addressing various forms of extremism, including those perpetrated by non-Muslim individuals.
+
+JSON Response:","[1200, 1600]","[1200, 1202, 1600, 1627]"
+293,"<|end_header_id|>
+  The excerpt discusses the UK's national security and foreign policy, specifically in the context of military operations and international relations. The speaker emphasizes the importance of considering the national interest, learning from past mistakes, and ensuring proper planning and equipment before engaging in military actions. The mention of Afghanistan and the need for a political strategy to achieve stability in the country suggests a focus on international relations and security.","[1600, 1900]","[1600, 1610, 1900, 1920]"
+294,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information, so no codes can be assigned.",[],[]
+295,"<|end_header_id|>
+  The excerpt primarily discusses the justification and affordability of a £100 billion expenditure on a nuclear war system, specifically Trident, in relation to the UK's current priorities and the changing global context.","[100, 1600]","[100, 105, 1600, 1610]"
+296,"<|end_header_id|>
+  The excerpt mentions ""illegal migration"", which implies a discussion about immigration and border control, which falls under the supercategory of 200 (Civil Rights) and the subcategory of 230 (Immigration). However, since the text specifically mentions ""illegal migration"", it is more accurate to use the subcategory 230, which is a subset of 200.
+
+JSON Response:",[200],"[200, 230]"
+297,"<|end_header_id|>
+  The excerpt is a simple statement with no explicit policy-related content. It does not provide any information about policy topics, taxation, civil rights, or any other relevant categories.",[],[]
+298,"<|end_header_id|>
+  The excerpt mentions the concept of a ""bad deal"" and the speaker's reluctance to sign up to it, but it does not provide specific details about the deal's content or the mechanisms involved (taxation, public spending, etc.). It also does not explicitly mention any civil rights or social welfare issues. However, it does imply a discussion about the UK's relationship with the EU, which falls under the broader category of international affairs.
+
+JSON Response:",[1900],"[1900, 1910]"
+299,"<|end_header_id|>
+  The excerpt is a polite expression of gratitude, but it does not contain any explicit policy-related content.",[],[]
+300,"<|end_header_id|>
+  The excerpt discusses the Prime Minister's stance on sentencing for violent criminals, specifically focusing on the idea that those who commit heinous crimes should serve their full sentences. This is a key policy topic in the debate, and it falls under the broader category of law and crime.
+
+JSON Response:",[1200],"[1200, 1205]"
+301,"<|end_header_id|>
+  The excerpt discusses the potential outcomes of the Brexit negotiations, specifically the trade arrangement and its implications for the country's economy and investment. The speaker emphasizes the importance of knowing the trade relationship, investment, and market for goods made in the country.
+
+JSON Response:","[100, 1900]","[100, 107, 1900, 1910]"
+302,"<|end_header_id|>
+  The excerpt mentions cutting taxes and the relationship between economic growth and tax burden, which is related to macroeconomic concepts.",[100],"[100, 107]"
+303,"<|end_header_id|>
+  The excerpt mentions the issue of people using food banks, which is related to social welfare and employment. However, the speaker's solution focuses on providing a good job, which is related to employment and labour. There is no explicit mention of taxation, civil rights, or other policy areas.","[1300, 500]","[500, 502, 1300, 1302]"
+304,"<|end_header_id|>
+  The excerpt mentions immigration, which falls under the category of ""Immigration"" (230) which is a subcategory of ""Civil Rights"" (200).",[200],"[200, 230]"
+305,"<|end_header_id|>
+  The excerpt primarily discusses the topic of reforming the House of Commons and the House of Lords, with a specific mention of a referendum for this purpose. There is no explicit mention of taxation, civil rights, or other policy areas.",[100],"[100, 108]"
+306,"<|end_header_id|>
+  The excerpt mentions the importance of economic stability as the foundation for future progress, implying a focus on macroeconomic issues. However, it does not explicitly discuss taxation, public spending, or any specific economic policies. It also does not mention any social or civil rights issues.
+
+JSON Response:",[100],[100]
+307,"s, while cutting the deficit. It also mentions the potential risks to education, health, and crime if the investment is reduced.",[600],"[600, 602]"
+308,"<|end_header_id|>
+  The excerpt discusses the quality of the National Health Service (NHS) in the UK, with the speaker acknowledging that some individuals may have had a bad experience, but overall, they believe the service is good.
+
+JSON Response:",[300],"[300, 331]"
+309,"<|end_header_id|>
+  The excerpt discusses the importance of local food systems and the role of farmers in addressing climate change. It highlights the benefits of grassland and the need to reduce imports of food. The text does not explicitly mention taxation, public spending, or civil rights, but it does discuss the importance of local food systems and the role of farmers in addressing climate change.","[100, 700]","[100, 104, 700, 709]"
+310,"<|end_header_id|>
+  The excerpt primarily focuses on the victims of Jeffrey Epstein's actions, emphasizing the need to address their treatment and the accountability of those responsible. The discussion of Prince Andrew is secondary, and the main concern is the victims' welfare and the rule of law.
+
+JSON Response:",[1200],"[1200, 1207]"
+311,"<|end_header_id|>
+  The excerpt mentions the speaker's stance on prioritizing national security over compliance with a foreign court, specifically the European Court, and the potential implications for border security.",[1900],"[1900, 1926]"
+312,"<|end_header_id|>
+  The excerpt discusses the government's plan to help pensioners, specifically the triple lock on the basic state pension and the decision to stop the winter fuel allowance for pensioners with incomes above £43,000. The speaker also touches on the drivers of the welfare bill, implying that the government is trying to address the root causes of the issue.
+
+JSON Response:","[100, 1300]","[100, 105, 1300, 1303]"
+313,"<|end_header_id|>
+  The excerpt discusses the concept of a welfare system with responsibility, emphasizing the importance of employment and addressing the underlying factors driving the welfare bill, such as a low-pay economy and lack of affordable housing.","[100, 1300]","[100, 105, 1300, 1302]"
+314,"<|end_header_id|>
+  The excerpt primarily discusses the importance of cooperation and effective governance in the face of disagreement among political parties. The speaker emphasizes the need for a government that prioritizes the people's interests and avoids short-term political point-scoring. The mention of a tax that could harm the economy and jobs is a secondary point, but it is not the primary focus of the excerpt.",[100],"[100, 107]"
+315,"<|end_header_id|>
+  The excerpt discusses the importance of education and housing opportunities for young people, contrasting the speaker's vision with the Prime Minister's proposed national service. The speaker emphasizes the need for further education opportunities, including university and technical skills, and promises to build houses to make homeownership more accessible. The Prime Minister's proposal for national service is rejected as a way to deter young people from pursuing higher education.
+
+JSON Response:","[600, 1400]","[600, 601, 1400, 1401]"
+316,"<|end_header_id|>
+  The excerpt discusses the importance of fairness in addressing the nation's financial difficulties, specifically the need to balance the books and fill the public finance black hole. The speaker proposes a tax switch to benefit low-income individuals and close loopholes at the top, emphasizing the need for fairness in the tax system.
+
+JSON Response:",[100],"[100, 105, 107]"
+317,"<|end_header_id|>
+  The excerpt discusses the topic of immigration, specifically the net migration into the UK, and the speaker expresses a desire to reduce it.",[200],"[200, 230]"
+318,"<|end_header_id|>
+  The excerpt discusses the issue of waiting lists in the NHS and the need to address them. The speaker emphasizes the importance of treating NHS staff with respect and acknowledges the hard work they do, particularly during the COVID pandemic. The speaker also mentions the need to take pressure off the waiting list and proposes working evenings and weekends to reduce the lists, while also ensuring that staff are paid properly.
+
+JSON Response:",[300],"[300, 325, 331]"
+319,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information, making it purely rhetorical and filler. Therefore, no codes can be assigned.",[],[]
+320,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information. It appears to be a rhetorical statement.",[],[]
+321,"<|end_header_id|>
+  The excerpt discusses the implications of leaving the European Union, specifically the end of free movement and the need for permanent rights of residence for EU nationals in the UK, as well as reciprocal rights for British nationals in EU countries. It also highlights the contributions of immigrants to the UK's economy and public services.",[1900],"[1900, 1910]"
+322,"<|end_header_id|>
+  The excerpt discusses various policy initiatives related to employment, social welfare, and pension reform. The speaker mentions linking pensions to earnings, introducing a winter allowance for pensioner households, and creating a new regime for pensioners, particularly women. They also highlight the importance of making work a condition for young people and those who have been long-term unemployed. Additionally, the speaker emphasizes the need to go further in addressing employment and social welfare issues.
+
+JSON Response:","[100, 1300]","[100, 105, 1300, 1302, 1303]"
+323,"<|end_header_id|>
+  The excerpt mentions the economic impact of the Tories' rule and the need for a credible programme to grow the economy, which implies discussion of macroeconomic policies. It also mentions eradicating poverty, which is related to social welfare.","[100, 1300]","[100, 103, 1300, 1302]"
+324,"<|end_header_id|>
+  The excerpt appears to be a rhetorical exchange between two individuals, Jeremy and Faisal, with Jeremy responding to a question. The conversation revolves around a specific figure or approach, but the details are unclear. The discussion does not explicitly mention any policy topics.",[],[]
+325,"<|end_header_id|>
+  The excerpt primarily discusses the Labour party's plan to tax healthcare professionals' pensions, which is a taxation mechanism (107) and affects the NHS, a healthcare system (300). The mention of healthcare professionals leaving the NHS implies a concern for the NHS's workforce, which is related to social welfare (1300). However, the primary focus is on taxation (107) and its impact on the NHS (300).","[100, 300, 1300]","[100, 107, 300, 301]"
+326,"<|end_header_id|>
+  The excerpt mentions investing in the country's defence, specifically up to 2.5% of GDP, which relates to macroeconomic policy (100) and taxation/tax policy (107), as it implies an increase in public spending. It also touches on national security and defence, which falls under the supercategory of defence (1600).","[100, 1600]","[100, 105, 1600, 1610]"
+327,"<|end_header_id|>
+  The excerpt discusses the issue of underfunding public services, specifically the NHS, and the role of migrant workers in addressing the staffing shortages. The speaker criticizes politicians for scapegoating migrants and instead suggests that the root cause of the problem lies in decades of underfunding by political parties. The Green Party is presented as the only party that is honest about the need to make bold decisions about funding public services.","[300, 500]","[300, 331, 500, 504]"
+328,"<|end_header_id|>
+  The excerpt mentions the impact of cuts to public services, specifically on youth work, implying a discussion about public spending and its effects on a particular sector.
+
+JSON Response:",[100],"[100, 105]"
+329,"<|end_header_id|>
+  The excerpt provided does not contain any explicit policy-related information. It appears to be a transition or a pause in the conversation.",[],[]
+330,"<|end_header_id|>
+  The excerpt discusses the issue of access to dentistry in certain areas, highlighting the problem of a lack of dentists in those regions. The speaker expresses frustration with the current state of affairs and promises to address the issue upon taking office.
+
+JSON Response:","[100, 300]","[100, 105, 300, 325]"
+331,"<|end_header_id|>
+  The excerpt discusses the issue of increasing rents and the inability of people to afford them, attributing it to the lack of housing supply. The speaker mentions the number of houses being built and the impact of immigration on the housing stock.
+
+JSON Response:","[100, 1400]","[100, 105, 1400, 1401]"
+332,"<|end_header_id|>
+  The excerpt discusses the flexibility of employment contracts, specifically the option for employees to have multiple contracts with different employers. The speaker highlights a case study of McDonald's employees who preferred the flexibility of zero-hours contracts over permanent contracts.",[500],"[500, 504]"
+333,"<|end_header_id|>
+  The excerpt primarily discusses the speaker's stance on the European Union, specifically their position as a Remainer and their commitment to standing up for a people's vote. There is no explicit mention of taxation, civil rights, or other policy areas.",[100],[100]
+334,"<|end_header_id|>
+  The excerpt explicitly mentions the need for increased migration to grow the economy, which aligns with the subcategory 529 (Youth Employment and Child Labour) under the supercategory 500 (Labour and Employment). However, the primary focus is on the economic aspect, which is more closely related to the supercategory 100 (Macroeconomics) and the subcategory 105 (National Budget, Debt, public spending). The mention of migration is directly linked to the economy, making 105 the more relevant code.
+
+JSON Response:",[100],"[100, 105]"
+335,"<|end_header_id|>
+  The excerpt discusses the backlog of claims and the removal of asylum seekers, indicating a focus on immigration and asylum policies.
+
+JSON Response:",[200],"[200, 230]"
+336,"<|end_header_id|>
+  The excerpt discusses the topic of balancing the national budget and the impact of proposed cuts on public services and tax credits. The speaker emphasizes the importance of protecting tax credits and child benefit, which are key components of the national budget.",[100],"[100, 105]"
+337,"<|end_header_id|>
+  The excerpt does not contain any explicit policy-related information. It appears to be a rhetorical statement setting up a critique of the Prime Minister's record, but it does not provide any specific details about policy topics.",[],[]
+338,"<|end_header_id|>
+  The excerpt mentions the importance of punishment for offenders, indicating a discussion on penal policy, specifically focusing on punishment. This suggests a connection to the subcategory 1205 (Prison System) and its supercategory 1200 (Law, Crime, and Family Issues).
+
+JSON Response:",[1200],"[1200, 1205]"
+339,"<|end_header_id|>
+  The excerpt discusses the challenges of protecting the NHS, particularly in terms of funding and resource allocation, and highlights the inefficiencies and mismanagement of the current government. The speaker emphasizes the need to prioritize the NHS and allocate resources effectively to ensure its continued functioning.
+
+JSON Response:","[100, 300]","[100, 105, 300, 301, 325]"
+340,"<|end_header_id|>
+  The excerpt discusses the government's handling of the economy and its impact on the people, specifically mentioning the need for increased investment in the police and the consequences of austerity measures. It also touches on the topic of environmental activism and the government's response to it.","[100, 1200]","[100, 104, 1200, 1202]"
+341,"<|end_header_id|>
+  The excerpt discusses the issue of high migration levels and the Prime Minister's failure to keep his promise to stop the boats. The discussion revolves around the Prime Minister's accountability and the record-high numbers of people crossing the Channel.","[200, 100]","[100, 105, 200, 230]"
+342,"<|end_header_id|>
+  The excerpt mentions the allocation of funds to social care and the NHS, which falls under the category of macroeconomics (100) and social welfare (1300). The mention of a strong economy is also related to macroeconomics (100). However, the primary focus is on the allocation of funds, which is related to taxation (107) and national budget (105).","[100, 1300]","[100, 105, 107, 1300]"
+343,"<|end_header_id|>
+  The excerpt discusses policy proposals related to private rented housing, specifically addressing insecurity and rent caps, as well as banning letting agents' fees.","[100, 1400]","[100, 105, 1400, 1401]"
+351,"<|end_header_id|>
+  The excerpt discusses the energy policy of the country, specifically the need to reduce dependence on oil and increase the use of nuclear and renewable energy sources. The speaker mentions a target of 15% renewables by 2020 and highlights the country's leadership in offshore wind power. The speaker criticizes the other parties for being against nuclear power and not having a renewables target.
+
+JSON Response:",[800],"[800, 801, 806]"
+361,"<|end_header_id|>
+  The excerpt discusses the importance of defense spending, specifically mentioning the need to increase defense spending to 2% of GDP, restore military manpower to 2010 levels, and maintain Trident. The speaker also highlights the importance of supporting ex-servicemen and women.",[1600],"[1600, 1608, 1610]"
+388,"<|end_header_id|>
+  The excerpt discusses the need to address various aspects of society to tackle a specific issue, which is implied to be climate change. The speaker mentions the importance of looking at different sectors such as homes, industry, energy, agriculture, and land use. They specifically highlight the need to increase tree planting, rewild the landscape, and change land use from pasture to forestry to absorb carbon.
+
+JSON Response:","[100, 700]","[100, 108, 700, 703, 705]"
+394,"<|end_header_id|>
+  The excerpt discusses the importance of maintaining the UK's independent nuclear deterrent, citing uncertainty in global affairs as a reason to preserve this capability.",[1600],"[1600, 1610]"
+404,"<|end_header_id|>
+  The excerpt mentions the government's actions on law enforcement and public services, specifically the reduction of police force, privatisation of the probation service, and the removal of PCSOs.
+
+JSON Response:","[1200, 1400]","[1200, 1209, 1400, 1401]"
+416,"<|end_header_id|>
+  The excerpt discusses the benefits of freedom of movement within the European Union, highlighting its advantages for the UK's business, tourism industry, and health service. The speaker emphasizes the importance of addressing these issues in the interest of the country, rather than using them for short-term political gain.
+
+JSON Response:","[100, 1900]","[100, 107, 1900, 1910]"
+429,"<|end_header_id|>
+  The excerpt is primarily about the NHS and its relation to trade discussions, with the speaker asserting that the NHS will not be on the table in any trade negotiation.","[100, 1900]","[100, 108, 1900, 1910]"
+432,"<|end_header_id|>
+  The excerpt discusses the issue of health and the role of the private sector in the National Health Service (NHS). The speaker criticizes both Labour and the Conservatives for using health as a political football, and argues that the problems in the NHS are exacerbated by cuts to social services and privatisation. The speaker also mentions that the Labour Party introduced PFI schemes and foundation hospitals, which are forms of privatisation.","[100, 1300]","[100, 108, 1300, 1302]"
+447,"<|end_header_id|>
+  The excerpt discusses the need for politicians to work together to address the issue of the national debt and the ""black hole"" in the public finances. The speaker suggests that a meeting between the Chancellor, vice-chancellors of the parties, the governor of the Bank of England, and the head of the Financial Services Authority would be beneficial to provide a clear and honest assessment of the situation.",[100],"[100, 104, 105]"
+455,"<|end_header_id|>
+  The excerpt discusses the Green Party's stance on representing vulnerable groups, such as the disabled, unemployed, and people in poverty, and criticizes the previous government's policies, including the work capability assessment and privatization.","[100, 1300]","[100, 105, 1300, 1302]"
+484,"<|end_header_id|>
+  The excerpt discusses the need for a review of individual prisoners before release, involving the parole board and probation service, to ensure public safety and security. It also mentions the importance of rehabilitation programs for prisoners.
+
+JSON Response:","[1200, 1300]","[1200, 1205, 1300, 1303]"
+624,"<|end_header_id|>
+  The excerpt primarily discusses the UK's exit from the EU, specifically the need for a timely departure, regaining control over fishing waters, and border control. The mention of Theresa May's speech and the desire to leave the single market are also relevant to the discussion.","[1800, 1900]","[1800, 1806, 1900, 1910]"
+628,"<|end_header_id|>
+  The excerpt discusses the issue of drug-related deaths in Scotland, specifically mentioning the need to address the rising number of deaths due to drug use. The speaker highlights the efforts being made to invest in drug treatment services and establish a task force to explore innovative solutions. The mention of a ""safe consumption room"" in Glasgow is also noted, which is a specific policy proposal aimed at reducing harm related to drug use.",[300],"[300, 331]"
+671,"<|end_header_id|>
+  The excerpt discusses issues of poverty, differential spending, and racism in Britain, particularly affecting young black people. The speaker suggests implementing blind applications for jobs to address discrimination.
+
+JSON Response:","[100, 200]","[100, 103, 200, 201]"
+737,"<|end_header_id|>
+  The excerpt primarily discusses climate change and the government's efforts to address it, including banning single-use plastics and phasing out coal. The speaker also mentions the importance of individual actions, such as recycling, in contributing to a cleaner environment.",[700],"[700, 705]"
+748,"<|end_header_id|>
+  The excerpt discusses the expansion of airports and the need to invest in the rail network to reduce the number of short-haul flights. It also mentions the importance of making train fares cheaper to make trains a viable option for everyone.","[100, 700]","[100, 700, 701, 1000, 1005]"
+998,"<|end_header_id|>
+  The excerpt discusses the Liberal Democrats' stance on defence, specifically mentioning the maintenance of the nuclear deterrent, reversing cuts to troops, increasing defence spending, and prioritizing decent homes for veterans and armed forces.",[1600],"[1600, 1603, 1610]"
+1222,"<|end_header_id|>
+  The excerpt discusses the relationship between drug addiction and crime, specifically burglary and car crime. The speaker emphasizes the need to address the root cause of the issue by providing effective treatment and rehabilitation programs for drug addicts.
+
+JSON Response:","[100, 1200, 300]","[100, 103, 300, 344, 1200, 1203]"
+1361,"<|end_header_id|>
+  The excerpt discusses various policy topics, including economic fairness, healthcare, and environmental issues. The speaker emphasizes the need for a fair economy, criticizes the current state of the NHS, and highlights the importance of addressing climate change. The mention of ""public money going into private profits"" in the NHS context suggests a discussion about taxation and public spending. The mention of ""immigrants"" and ""people on benefits"" implies a discussion about civil rights and discrimination.","[100, 200]","[100, 105, 200, 201]"
+1420,"<|end_header_id|>
+  The excerpt discusses crime rates and policing, mentioning specific statistics and policies related to police numbers and crime hotspots.",[1200],"[1200, 1202, 1209]"
+1426,"<|end_header_id|>
+  The excerpt discusses the issue of youth unemployment and the government's approach to providing opportunities for young people. The speaker emphasizes the importance of creating jobs and providing apprenticeships or university places for young people, rather than relying on benefits.
+
+JSON Response:","[500, 1300]","[500, 506, 1300, 1303]"
+1756,"<|end_header_id|>
+  The excerpt discusses the Catholic Church's handling of abuse cases and the importance of interfaith cooperation. The speaker welcomes the Pope's visit to Britain, citing the need to recognize the Catholic Church's place in society and to break down barriers between faiths. The discussion revolves around the church's responsibility to address past abuse and promote unity among different faiths.",[200],"[200, 201]"
+2601,"<|end_header_id|>
+  The excerpt discusses the benefits of the current Brexit deal and the challenges of negotiating a new deal, with a focus on the Labour Party's ability to secure a new deal. The speaker highlights various policy changes that can be implemented with the current deal, such as improving animal welfare, cutting VAT on tampons, and creating free ports. The speaker also questions the Labour Party's ability to negotiate a new deal, given the party's stance on Brexit.","[1900, 400]","[400, 406, 1900, 1910]"
+3070,"<|end_header_id|>
+  The excerpt mentions tariffs on cars, which is a specific taxation mechanism, thus implying a discussion on taxation policy.",[100],"[100, 107]"
+3356,"<|end_header_id|>
+  The excerpt discusses the importance of restoring hope in politics, citing examples of broken promises and lack of integrity in previous governments. The speaker emphasizes the need to return politics to service, focusing on the ordinary hopes of working people, such as getting on in life, for their families, and for their communities.
+
+JSON Response:","[100, 200]","[100, 103, 200, 201]"

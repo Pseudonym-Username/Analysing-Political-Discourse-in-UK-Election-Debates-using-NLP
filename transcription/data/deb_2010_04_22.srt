@@ -1,0 +1,4536 @@
+1
+00:00:05,009 --> 00:00:14,762
+[SPEAKER_02]: Good evening from the Arnolfini in Bristol and welcome to the Sky News leaders debate.
+
+2
+00:00:15,222 --> 00:00:19,888
+[SPEAKER_02]: Round two of the first ever televised prime ministerial debates in the UK.
+
+3
+00:00:20,489 --> 00:00:24,975
+[SPEAKER_02]: Well, the three men who want to run the country after May 6th are here and raring to go.
+
+4
+00:00:25,355 --> 00:00:28,840
+[SPEAKER_02]: So please welcome David Cameron, Nick Clegg and Gordon Brown.
+
+5
+00:00:38,573 --> 00:00:42,598
+[SPEAKER_02]: The agreed theme for the first half of this debate is international affairs.
+
+6
+00:00:42,839 --> 00:00:46,884
+[SPEAKER_02]: Each leader will make a short opening statement before taking questions from the audience.
+
+7
+00:00:47,405 --> 00:00:50,409
+[SPEAKER_02]: In the second half tonight, we'll move on to general issues.
+
+8
+00:00:50,909 --> 00:00:57,678
+[SPEAKER_02]: Now, lots have been drawn to decide who goes first, and we begin with the current Prime Minister and leader of the Labour Party, Gordon Brown.
+
+9
+00:00:57,698 --> 00:00:58,820
+[SPEAKER_02]: Mr Brown.
+
+10
+00:00:58,840 --> 00:01:03,366
+[SPEAKER_10]: This may have the feel of a TV popularity contest, but in truth,
+
+11
+00:01:03,667 --> 00:01:09,116
+[SPEAKER_10]: This is an election about Britain's future, a fight for your future and for your jobs.
+
+12
+00:01:10,018 --> 00:01:12,903
+[SPEAKER_10]: If it's all about style and PR, count me out.
+
+13
+00:01:13,704 --> 00:01:21,017
+[SPEAKER_10]: If it's about the big decisions, if it's about judgement, it's about delivering a better future for this country, I'm your man.
+
+14
+00:01:21,838 --> 00:01:25,725
+[SPEAKER_10]: Ahead are huge challenges, delivering the economic recovery in jobs,
+
+15
+00:01:26,296 --> 00:01:38,263
+[SPEAKER_10]: bringing our brave troops safely home from Afghanistan, keeping our streets free of terrorism, building alliances in Europe against nuclear weapons, against climate change, against poverty, and to deal with our banks.
+
+16
+00:01:39,273 --> 00:01:47,310
+[SPEAKER_10]: Now not everyone has the answers, but I say get the big decisions wrong and Britain's security and jobs are at risk.
+
+17
+00:01:47,330 --> 00:01:52,020
+[SPEAKER_10]: Get the big decisions right and we can have a prosperous, fairer, greener and better Britain.
+
+18
+00:01:52,601 --> 00:01:58,834
+[SPEAKER_10]: Like me or not, I can deliver that plan and the way to do it is with a majority Labour government.
+
+19
+00:01:59,337 --> 00:02:00,038
+[SPEAKER_02]: Thank you, Mr Brown.
+
+20
+00:02:00,098 --> 00:02:02,480
+[SPEAKER_02]: Next, the leader of the Conservative Party, David Cameron.
+
+21
+00:02:02,500 --> 00:02:02,901
+[SPEAKER_04]: Thank you.
+
+22
+00:02:03,662 --> 00:02:07,125
+[SPEAKER_04]: It's clear from last week's debate that the country wants change.
+
+23
+00:02:07,546 --> 00:02:12,992
+[SPEAKER_04]: But the question is, what sort of change and whose best place to lead that change?
+
+24
+00:02:13,012 --> 00:02:18,177
+[SPEAKER_04]: If you vote Conservative, you will get a new team running the country from May the 7th.
+
+25
+00:02:18,457 --> 00:02:20,560
+[SPEAKER_04]: And you won't be stuck with what you've got now.
+
+26
+00:02:21,280 --> 00:02:23,643
+[SPEAKER_04]: But real change comes from your values.
+
+27
+00:02:23,863 --> 00:02:26,526
+[SPEAKER_04]: And there, there are big differences between us.
+
+28
+00:02:26,506 --> 00:02:29,271
+[SPEAKER_04]: I believe that we need to do more to help families.
+
+29
+00:02:29,371 --> 00:02:32,156
+[SPEAKER_04]: They are the absolute bedrock of a strong society.
+
+30
+00:02:32,617 --> 00:02:34,139
+[SPEAKER_04]: I want government to be accountable.
+
+31
+00:02:34,420 --> 00:02:42,133
+[SPEAKER_04]: I want less waste, less bureaucracy, stopping the jobs tax, but making sure we have good public services that you get good value for money for.
+
+32
+00:02:42,835 --> 00:02:50,488
+[SPEAKER_04]: As we're going to discuss tonight, I want us to keep our defences strong, I want to keep our borders secure and our country safe.
+
+33
+00:02:50,468 --> 00:02:51,511
+[SPEAKER_04]: but real change.
+
+34
+00:02:52,112 --> 00:02:57,546
+[SPEAKER_04]: Real change comes not just from politicians, but from when we all recognise that we have responsibilities.
+
+35
+00:02:57,827 --> 00:03:03,200
+[SPEAKER_04]: We're all in this together, and that's how we'll build the big and strong society I believe we need in our country.
+
+36
+00:03:03,220 --> 00:03:04,123
+[SPEAKER_02]: Thank you, Mr Cameron.
+
+37
+00:03:04,263 --> 00:03:07,110
+[SPEAKER_02]: And finally in this round, Nick Clegg, the leader of the Liberal Democrats.
+
+38
+00:03:07,090 --> 00:03:11,398
+[SPEAKER_03]: I am so proud of the values that have made our country so great.
+
+39
+00:03:11,919 --> 00:03:14,885
+[SPEAKER_03]: Democracy, human rights, the rule of law.
+
+40
+00:03:15,486 --> 00:03:21,659
+[SPEAKER_03]: But the sad truth is that in recent years our governments under the old parties have let those values down.
+
+41
+00:03:22,240 --> 00:03:25,406
+[SPEAKER_03]: We shouldn't have sent soldiers into battle without the right equipment.
+
+42
+00:03:25,727 --> 00:03:29,554
+[SPEAKER_03]: We shouldn't be facing allegations of complicity in torture.
+
+43
+00:03:29,534 --> 00:03:32,017
+[SPEAKER_03]: We shouldn't have invaded Iraq.
+
+44
+00:03:32,558 --> 00:03:34,140
+[SPEAKER_03]: So I want us to lead in the world.
+
+45
+00:03:34,521 --> 00:03:37,745
+[SPEAKER_03]: I want us to lead in Europe, not complain from the sidelines.
+
+46
+00:03:38,066 --> 00:03:41,791
+[SPEAKER_03]: I want us to lead in creating a world free of nuclear weapons.
+
+47
+00:03:42,311 --> 00:03:46,677
+[SPEAKER_03]: And I want us to lead on the biggest challenge of all, climate change.
+
+48
+00:03:47,298 --> 00:03:50,262
+[SPEAKER_03]: Now my family knows what British values really mean.
+
+49
+00:03:50,302 --> 00:03:54,428
+[SPEAKER_03]: My mother was freed by British troops from a prisoner of war camp.
+
+50
+00:03:54,408 --> 00:04:03,378
+[SPEAKER_03]: And I think if we do things differently, we can be proud once again of the role we can play as a force for good in the world.
+
+51
+00:04:04,559 --> 00:04:05,220
+[SPEAKER_02]: Thank you, Mr Clegg.
+
+52
+00:04:05,240 --> 00:04:07,082
+[SPEAKER_02]: Now, those are tonight's opening statement.
+
+53
+00:04:07,142 --> 00:04:09,204
+[SPEAKER_02]: Now it's time for the questions from the audience.
+
+54
+00:04:09,625 --> 00:04:13,769
+[SPEAKER_02]: The audience here is made up mainly of local voters from the South West.
+
+55
+00:04:13,789 --> 00:04:16,692
+[SPEAKER_02]: Some with allegiances, others yet to be persuaded.
+
+56
+00:04:17,093 --> 00:04:22,018
+[SPEAKER_02]: And there'll also be some questions in person from Sky News viewers who emailed us.
+
+57
+00:04:21,998 --> 00:04:28,205
+[SPEAKER_02]: Each leader has an uninterrupted minute to answer each question, followed by a second minute to deal with what their rivals have said.
+
+58
+00:04:28,546 --> 00:04:32,651
+[SPEAKER_02]: Then it's free debate time with no guaranteed time at the microphone.
+
+59
+00:04:32,951 --> 00:04:37,517
+[SPEAKER_02]: Now, our first question comes from Christopher Nelms, who's from Salford near Bristol.
+
+60
+00:04:37,737 --> 00:04:38,237
+[SPEAKER_02]: Mr Nelms.
+
+61
+00:04:38,838 --> 00:04:39,799
+[SPEAKER_12]: Hello, I'm Chris Nelms.
+
+62
+00:04:39,819 --> 00:04:40,760
+[SPEAKER_12]: I work in a building trade.
+
+63
+00:04:42,282 --> 00:04:44,425
+[SPEAKER_12]: I can't see any advantage of us being in Europe.
+
+64
+00:04:45,446 --> 00:04:48,850
+[SPEAKER_12]: I think there's far too much interference politically and legally.
+
+65
+00:04:48,830 --> 00:04:52,076
+[SPEAKER_12]: and I just wonder what you intend to do to stop it.
+
+66
+00:04:52,577 --> 00:04:53,999
+[SPEAKER_02]: How are we going to tackle Europe, David Cameron?
+
+67
+00:04:54,180 --> 00:05:04,358
+[SPEAKER_04]: Very directly, Christopher, I think we should be in Europe because we're a trading nation, we're part of Europe, we want to cooperate and work with our allies in Europe to get things done.
+
+68
+00:05:04,338 --> 00:05:09,807
+[SPEAKER_04]: But I do agree with you that we have let too many powers go from Westminster to Brussels.
+
+69
+00:05:10,127 --> 00:05:13,212
+[SPEAKER_04]: We've passed too much power over, and we should take some of those powers back.
+
+70
+00:05:13,652 --> 00:05:17,158
+[SPEAKER_04]: I want us to be in Europe, but not run by Europe.
+
+71
+00:05:17,178 --> 00:05:21,064
+[SPEAKER_04]: And you'll hear big differences between me and the other two parties.
+
+72
+00:05:21,044 --> 00:05:25,172
+[SPEAKER_04]: I don't want us to join the Euro, I want us to keep the pound as our currency.
+
+73
+00:05:25,513 --> 00:05:30,643
+[SPEAKER_04]: I don't want us to give up the British rebate, I want to make sure that we get value for money for what we put into Europe.
+
+74
+00:05:30,663 --> 00:05:36,133
+[SPEAKER_04]: I want to cut some of the bureaucracy, some of the rules, some of the regulations that I think drive business so mad.
+
+75
+00:05:36,534 --> 00:05:39,199
+[SPEAKER_04]: That's the agenda you'd get from a Conservative government in Europe.
+
+76
+00:05:39,480 --> 00:05:43,187
+[SPEAKER_04]: And to those who say somehow this would be isolation, I say nonsense.
+
+77
+00:05:43,167 --> 00:05:46,797
+[SPEAKER_04]: President Sarkozy of France, he stands up for France in Europe.
+
+78
+00:05:46,817 --> 00:05:49,745
+[SPEAKER_04]: Angela Merkel of Germany, she stands up for Germany in Europe.
+
+79
+00:05:49,765 --> 00:05:52,032
+[SPEAKER_04]: I would do exactly the same for Britain in Europe.
+
+80
+00:05:52,653 --> 00:05:52,954
+[SPEAKER_04]: Thank you.
+
+81
+00:05:52,974 --> 00:05:53,616
+[SPEAKER_04]: Nick Clegg.
+
+82
+00:05:54,912 --> 00:06:00,699
+[SPEAKER_03]: I actually worked for the man who was sent by Margaret Thatcher, would you believe it, to bat for Britain in Brussels.
+
+83
+00:06:00,839 --> 00:06:06,286
+[SPEAKER_03]: And what I learnt when I was there was this, the European Union is not perfect, of course not.
+
+84
+00:06:06,386 --> 00:06:10,652
+[SPEAKER_03]: I mean, this is a club that took 15 years to define chocolate in a chocolate directive.
+
+85
+00:06:10,692 --> 00:06:15,257
+[SPEAKER_03]: Anything that takes 15 years to define chocolate is not a model of democratic efficiency.
+
+86
+00:06:15,798 --> 00:06:19,823
+[SPEAKER_03]: But what I also learnt was this, that there are a whole lot of things, whether we like it or not,
+
+87
+00:06:19,803 --> 00:06:24,568
+[SPEAKER_03]: whatever your views on Europe and the European Union, which we simply can't do on our own.
+
+88
+00:06:25,029 --> 00:06:31,376
+[SPEAKER_03]: We can't deal with international crime, which touches and affects every single community in this country on our own.
+
+89
+00:06:31,656 --> 00:06:33,818
+[SPEAKER_03]: We can't deal with climate change on our own.
+
+90
+00:06:33,858 --> 00:06:36,301
+[SPEAKER_03]: The weather doesn't stop at the cliffs of Dover.
+
+91
+00:06:36,321 --> 00:06:43,549
+[SPEAKER_03]: We can't regulate these wretched banks that got us into so much trouble in the first place, which now sprawl across countries.
+
+92
+00:06:43,529 --> 00:06:45,956
+[SPEAKER_03]: I don't think the European Union is perfect.
+
+93
+00:06:46,197 --> 00:06:47,080
+[SPEAKER_03]: I want it reformed.
+
+94
+00:06:47,180 --> 00:06:49,146
+[SPEAKER_03]: That's why I want to lead in the European Union.
+
+95
+00:06:49,407 --> 00:06:53,218
+[SPEAKER_03]: But we're stronger together and we are weaker apart.
+
+96
+00:06:53,485 --> 00:06:59,252
+[SPEAKER_10]: You know, there's three million reasons why we need to be part of the European Union, and they're called jobs.
+
+97
+00:06:59,933 --> 00:07:02,556
+[SPEAKER_10]: Three million jobs depend on our membership of the European Union.
+
+98
+00:07:03,076 --> 00:07:05,299
+[SPEAKER_10]: Half our trade is with the European Union.
+
+99
+00:07:05,319 --> 00:07:14,710
+[SPEAKER_10]: 750,000 businesses, I'm sorry it's not your business raising the question about the building trade, but 750,000 businesses trade with Europe.
+
+100
+00:07:15,231 --> 00:07:23,020
+[SPEAKER_10]: And the idea that we should again be isolated and on the margins and not in the mainstream of Europe would be a terrible, terrible mistake.
+
+101
+00:07:23,000 --> 00:07:26,524
+[SPEAKER_10]: Now, I worked with the European leaders through the global financial crisis.
+
+102
+00:07:27,165 --> 00:07:32,571
+[SPEAKER_10]: I had to persuade them that we had to restructure our banks and they had to restructure their banks.
+
+103
+00:07:33,052 --> 00:07:36,195
+[SPEAKER_10]: I had to persuade them that they had to work with America in the G20.
+
+104
+00:07:36,556 --> 00:07:40,000
+[SPEAKER_10]: But when Europe and America works together, we are so much stronger.
+
+105
+00:07:40,440 --> 00:07:43,104
+[SPEAKER_10]: Stronger to deal with climate change, which is one of my priorities.
+
+106
+00:07:43,564 --> 00:07:44,906
+[SPEAKER_10]: Stronger to deal with the economy.
+
+107
+00:07:44,926 --> 00:07:46,468
+[SPEAKER_10]: Stronger to deal with international crime.
+
+108
+00:07:46,828 --> 00:07:48,049
+[SPEAKER_10]: Stronger to deal with terrorism.
+
+109
+00:07:48,370 --> 00:07:51,133
+[SPEAKER_10]: Let us never again be an empty chair in Europe.
+
+110
+00:07:51,113 --> 00:07:54,077
+[SPEAKER_10]: My fear is that David's policy would put us in that position.
+
+111
+00:07:54,398 --> 00:07:54,698
+[SPEAKER_10]: Thank you.
+
+112
+00:07:54,718 --> 00:07:55,639
+[SPEAKER_10]: David Cameron.
+
+113
+00:07:55,659 --> 00:08:01,428
+[SPEAKER_04]: I understand why people like Christopher are very frustrated about the European Union and some of the things that have happened.
+
+114
+00:08:01,768 --> 00:08:10,460
+[SPEAKER_04]: And I think one of the reasons that people are so angry is that politicians at Westminster have given away powers to Brussels without asking us, the people, first.
+
+115
+00:08:10,480 --> 00:08:12,463
+[SPEAKER_04]: And I think people felt particularly cheated
+
+116
+00:08:12,443 --> 00:08:23,694
+[SPEAKER_04]: when the European Constitution came forward, and we were told we were going to get a referendum, and Gordon Brown and Labour stopped that from happening, and Nick Clegg and the Liberal Democrats didn't vote with us to get that referendum.
+
+117
+00:08:23,714 --> 00:08:24,535
+[SPEAKER_04]: We should have had one.
+
+118
+00:08:24,855 --> 00:08:26,176
+[SPEAKER_04]: People feel cheated by that.
+
+119
+00:08:26,537 --> 00:08:42,332
+[SPEAKER_04]: And as a result, one of the things I would do, if I was your Prime Minister, is straight away pass a law through Parliament that says if ever there's a future occasion when laws are being proposed to pass power from Westminster to Brussels, there would be a guarantee of a referendum held in our country.
+
+120
+00:08:42,312 --> 00:08:46,146
+[SPEAKER_04]: You send us to Parliament to make decisions, to make laws, to discuss the issues.
+
+121
+00:08:46,226 --> 00:08:49,458
+[SPEAKER_04]: Yes, you don't send us there to give away powers that belong to you.
+
+122
+00:08:49,478 --> 00:08:53,031
+[SPEAKER_04]: There should be a referendum guarantee if ever this happens again.
+
+123
+00:08:53,804 --> 00:08:54,465
+[SPEAKER_02]: Thank you.
+
+124
+00:08:54,545 --> 00:08:55,947
+[SPEAKER_03]: David Cameron talks about a guarantee.
+
+125
+00:08:56,007 --> 00:09:02,275
+[SPEAKER_03]: It was the Conservative Party that gave a cast-iron guarantee to have a referendum on the Lisbon Treaty, which it promptly dropped.
+
+126
+00:09:02,715 --> 00:09:10,185
+[SPEAKER_03]: Look, we do need to have a referendum, I think, the next time there's a big transfer of powers to the European Union, but it needs to be on the fundamental issue.
+
+127
+00:09:10,625 --> 00:09:12,508
+[SPEAKER_03]: Do we stay in or do we go out?
+
+128
+00:09:12,548 --> 00:09:15,532
+[SPEAKER_03]: You have a right to make that choice in a referendum.
+
+129
+00:09:15,552 --> 00:09:20,177
+[SPEAKER_03]: I would argue we should stay in, not because it's perfect, but because I think it's in our interests to do so.
+
+130
+00:09:20,478 --> 00:09:23,001
+[SPEAKER_03]: Let me give you, Christopher, a very concrete example.
+
+131
+00:09:22,981 --> 00:09:29,110
+[SPEAKER_03]: There was some time ago an operation by European Union police authorities which broke open a paedophile ring.
+
+132
+00:09:29,130 --> 00:09:36,800
+[SPEAKER_03]: They arrested 100 sex offenders, many of them in this country, and they released over 20 young women from unimaginable abuse and servitude.
+
+133
+00:09:36,820 --> 00:09:38,242
+[SPEAKER_03]: It was something called Operation Koala.
+
+134
+00:09:38,262 --> 00:09:39,364
+[SPEAKER_03]: You can Google it and look it up.
+
+135
+00:09:39,804 --> 00:09:40,225
+[SPEAKER_03]: Guess what?
+
+136
+00:09:40,966 --> 00:09:46,714
+[SPEAKER_03]: Conservative MEPs, UK Independence Party MEPs, voted against the measures which made that possible.
+
+137
+00:09:46,994 --> 00:09:49,778
+[SPEAKER_03]: That is putting dogma above the safety of our children.
+
+138
+00:09:50,039 --> 00:09:52,482
+[SPEAKER_03]: We are safer together, we're weaker apart.
+
+139
+00:09:53,069 --> 00:09:53,470
+[SPEAKER_10]: Gordon Brown.
+
+140
+00:09:53,490 --> 00:09:58,537
+[SPEAKER_10]: Well, you know, imagine a European Council meeting if David Cameron was in charge two months from now.
+
+141
+00:09:59,258 --> 00:10:03,685
+[SPEAKER_10]: And he'd have to go along, as he said, and say that he wanted to repatriate the social chapter.
+
+142
+00:10:03,705 --> 00:10:05,267
+[SPEAKER_10]: That's what gives us paid holidays.
+
+143
+00:10:05,788 --> 00:10:10,015
+[SPEAKER_10]: And he'd have to break up the European Union meeting and say, look, 26 of you are against this.
+
+144
+00:10:10,295 --> 00:10:11,998
+[SPEAKER_10]: I'm the only one who's standing for this.
+
+145
+00:10:12,418 --> 00:10:13,179
+[SPEAKER_10]: And what would happen?
+
+146
+00:10:13,600 --> 00:10:15,243
+[SPEAKER_10]: We're trying to get an economic recovery.
+
+147
+00:10:15,523 --> 00:10:20,190
+[SPEAKER_10]: That depends on Germany, France, and other countries growing as well, taking our exports.
+
+148
+00:10:20,170 --> 00:10:23,795
+[SPEAKER_10]: We're having to get an agreement on climate change because of what happened at Copenhagen.
+
+149
+00:10:24,196 --> 00:10:31,286
+[SPEAKER_10]: Again, that would be postponed because we'd be having a big argument, as we did in the past with the Conservative government, about repatriating powers to Britain.
+
+150
+00:10:31,727 --> 00:10:35,052
+[SPEAKER_10]: We've got other problems we've got to deal with, and these include security and terrorism.
+
+151
+00:10:35,312 --> 00:10:36,353
+[SPEAKER_10]: These are the issues.
+
+152
+00:10:36,534 --> 00:10:37,936
+[SPEAKER_10]: Let's look to the future.
+
+153
+00:10:38,316 --> 00:10:44,305
+[SPEAKER_10]: Let's not have a Britain-only solution, and let's not go back to the days when we were fighting with the rest of Europe in the past.
+
+154
+00:10:44,960 --> 00:10:46,302
+[SPEAKER_02]: Gentlemen, it's over to you now for a free debate.
+
+155
+00:10:46,322 --> 00:10:57,619
+[SPEAKER_04]: What I would say is what you're hearing from the other two is frankly don't trust the people, don't ask them when you pass powers from Westminster to Brussels, just give in to everything that comes out of Brussels and don't stand up for your country.
+
+156
+00:10:57,879 --> 00:10:59,982
+[SPEAKER_04]: That to me is the same old politics.
+
+157
+00:11:00,243 --> 00:11:03,127
+[SPEAKER_04]: Let me just ask this important point.
+
+158
+00:11:03,147 --> 00:11:08,154
+[SPEAKER_04]: This idea that somehow an in-out referendum is what the public wants, I don't think is right.
+
+159
+00:11:08,254 --> 00:11:08,975
+[SPEAKER_04]: It's a con.
+
+160
+00:11:09,176 --> 00:11:14,123
+[SPEAKER_04]: What people want when a new treaty comes along, when a constitution comes along, is to have that choice to vote.
+
+161
+00:11:14,103 --> 00:11:15,966
+[SPEAKER_03]: Let's be clear.
+
+162
+00:11:15,986 --> 00:11:26,843
+[SPEAKER_03]: What would have been a con would be to have a referendum on one individual treaty which even if we'd had the referendum and then we'd rejected the treaty would have allowed Christopher the European Union to carry on exactly as before.
+
+163
+00:11:27,163 --> 00:11:28,285
+[SPEAKER_03]: Let's have the fundamental debate.
+
+164
+00:11:28,686 --> 00:11:31,470
+[SPEAKER_03]: I worked in my previous life before going into politics
+
+165
+00:11:31,450 --> 00:11:39,922
+[SPEAKER_03]: for a while as a negotiator on behalf of all of us, on behalf of Britain and the European Union, negotiating trade deals with the Chinese government, the Russian government and others.
+
+166
+00:11:40,282 --> 00:11:50,256
+[SPEAKER_03]: And what I noticed there was that the Chinese and the Russians, they only listened to what we were saying because I was representing the largest single market in the world of 475 million consumers.
+
+167
+00:11:50,556 --> 00:11:53,560
+[SPEAKER_03]: Of course there are daft rules, of course it does daft things.
+
+168
+00:11:53,540 --> 00:12:04,295
+[SPEAKER_03]: But it seems to me that we punch above our weight when we stand together in Europe, in a world, frankly, where you've got a lot of superpowers bumping up against each other, and where, to coin a phrase, size does matter.
+
+169
+00:12:05,517 --> 00:12:08,421
+[SPEAKER_10]: You see, David wants a referendum if there's any future change.
+
+170
+00:12:09,202 --> 00:12:11,746
+[SPEAKER_10]: Nick wants a referendum now on the European Union.
+
+171
+00:12:12,127 --> 00:12:17,014
+[SPEAKER_10]: I think what people want is us to solve the employment problem, the economic problem, and get on with the job.
+
+172
+00:12:17,514 --> 00:12:19,637
+[SPEAKER_10]: And I need to work with these other countries in Europe.
+
+173
+00:12:19,657 --> 00:12:21,420
+[SPEAKER_10]: President Sarkozy, Chancellor Merkel,
+
+174
+00:12:21,400 --> 00:12:30,095
+[SPEAKER_10]: David's walked away from the European People's Party, which is an alliance of the centre progressive parties in Europe, and gone in with a group of right-wing extremists.
+
+175
+00:12:30,115 --> 00:12:33,981
+[SPEAKER_10]: I want to work with the sensible people in Europe to get jobs for our British economy.
+
+176
+00:12:34,001 --> 00:12:37,928
+[SPEAKER_10]: If we don't trade with Europe, we'd lose jobs, we'd lose businesses, we'd lose growth.
+
+177
+00:12:37,948 --> 00:12:45,400
+[SPEAKER_10]: Let's make sure our priority is trading with Europe, sorting out the problems of the European Union, yes, but let's make sure we get a recovery that's stronger than ever.
+
+178
+00:12:45,380 --> 00:12:47,903
+[SPEAKER_04]: But you can hear there is a difference, there's a real difference between us.
+
+179
+00:12:48,004 --> 00:13:04,526
+[SPEAKER_04]: And the reason about this European party is I just think it's the hypocrisy that people are fed up with of British politicians standing here in Bristol saying I'm going to stand up for us in Europe and we shouldn't give away all these powers and we should fight for British interests and then over they go to Brussels and they do exactly the opposite.
+
+180
+00:13:04,827 --> 00:13:07,911
+[SPEAKER_04]: I want to make sure that we say the same thing when we're in Bristol.
+
+181
+00:13:07,891 --> 00:13:16,364
+[SPEAKER_04]: about wanting to be in Europe but not run by Europe, wanting to have a single market that's good for our country, wanting to trade with Europe, but not go over to Brussels and say something different.
+
+182
+00:13:16,384 --> 00:13:18,547
+[SPEAKER_04]: It's that that saves our politics.
+
+183
+00:13:18,668 --> 00:13:26,119
+[SPEAKER_03]: How on earth does it help anyone in Bristol or anyone else in the country for that matter, David Cameron, to join together in the European Union with a bunch of nutters
+
+184
+00:13:26,099 --> 00:13:29,887
+[SPEAKER_03]: anti-Semites, people who deny climate change exists, homophobes.
+
+185
+00:13:29,907 --> 00:13:31,010
+[SPEAKER_03]: That doesn't help Britain.
+
+186
+00:13:31,250 --> 00:13:43,618
+[SPEAKER_03]: Of course we need to change the European Union, but you change clubs of which you are a member by getting stuck in, not standing on the sidelines and complaining about things.
+
+187
+00:13:43,598 --> 00:13:49,846
+[SPEAKER_10]: These two guys remind me of my two young boys squabbling at bath time.
+
+188
+00:13:50,387 --> 00:13:57,155
+[SPEAKER_10]: They are squabbling about whether to have referendums on the European Union.
+
+189
+00:13:57,415 --> 00:14:00,639
+[SPEAKER_10]: What we need is jobs and growth and economic recovery.
+
+190
+00:14:00,900 --> 00:14:02,442
+[SPEAKER_10]: We work with our partners to get that.
+
+191
+00:14:02,962 --> 00:14:08,870
+[SPEAKER_10]: The sooner Nick realised we had to work with America and Europe to get economic growth in the future, the better.
+
+192
+00:14:09,410 --> 00:14:11,513
+[SPEAKER_10]: I am afraid David is anti-European.
+
+193
+00:14:11,493 --> 00:14:14,996
+[SPEAKER_10]: Nick is anti-American and both of them are out of touch with reality.
+
+194
+00:14:16,317 --> 00:14:21,142
+[SPEAKER_04]: It's a question of wanting to get things in Europe for your country and standing up for your country.
+
+195
+00:14:21,162 --> 00:14:30,371
+[SPEAKER_04]: And one of the things the Liberal Democrats would want to do is actually take away Britain's seat on the United Nations Security Council and replace it with a European one.
+
+196
+00:14:30,391 --> 00:14:33,974
+[SPEAKER_04]: And that's one of the things that actually gives us the ability to punch above our weight in the world.
+
+197
+00:14:34,334 --> 00:14:36,156
+[SPEAKER_04]: It gives us influence in the world.
+
+198
+00:14:36,176 --> 00:14:39,559
+[SPEAKER_02]: I'm going to have a final quick word from, first of all, Gordon Brown, then Nick Clegg.
+
+199
+00:14:39,539 --> 00:14:43,045
+[SPEAKER_10]: Well, there is no chance of Britain giving up its seat on the United Nations Security Council.
+
+200
+00:14:43,105 --> 00:14:43,846
+[SPEAKER_10]: We are stronger.
+
+201
+00:14:43,886 --> 00:14:48,133
+[SPEAKER_10]: We've just been chairman of the G20 as a result of the efforts we made in the economy.
+
+202
+00:14:48,213 --> 00:14:52,840
+[SPEAKER_10]: We're leading the negotiations on climate change and we're leading on nuclear weapons.
+
+203
+00:14:52,860 --> 00:14:54,102
+[SPEAKER_03]: We will continue to lead with Labour.
+
+204
+00:14:54,122 --> 00:14:58,809
+[SPEAKER_03]: Don't let people create scare stories to frighten you into thinking that we can't change Europe.
+
+205
+00:14:58,829 --> 00:15:00,091
+[SPEAKER_03]: Of course we can change Europe.
+
+206
+00:15:00,112 --> 00:15:03,837
+[SPEAKER_03]: I, unlike David Cameron and Gordon Brown, have been in there, have saw changes.
+
+207
+00:15:04,018 --> 00:15:05,159
+[SPEAKER_03]: We can do it if we leave.
+
+208
+00:15:05,180 --> 00:15:06,181
+[SPEAKER_02]: We're going to have to move on now.
+
+209
+00:15:06,201 --> 00:15:07,403
+[SPEAKER_03]: Don't complain on the sidelines.
+
+210
+00:15:09,475 --> 00:15:14,020
+[SPEAKER_02]: Now, question B comes from Stuart Wolvin from Horfield in Bristol.
+
+211
+00:15:14,040 --> 00:15:14,881
+[SPEAKER_02]: Stuart.
+
+212
+00:15:14,901 --> 00:15:15,641
+[SPEAKER_09]: Thank you.
+
+213
+00:15:15,862 --> 00:15:27,293
+[SPEAKER_09]: Given our involvement in Afghanistan, if there is another multinational operation to remove al-Qaeda or another terrorist group from a failed state, would the UK participate?
+
+214
+00:15:29,536 --> 00:15:35,321
+[SPEAKER_02]: So, will the UK take part in future multinational operations against terrorists abroad?
+
+215
+00:15:36,042 --> 00:15:36,883
+[SPEAKER_02]: Nick Clegg.
+
+216
+00:15:37,235 --> 00:15:47,912
+[SPEAKER_03]: Well, clearly, the principle of the reason why we went into Afghanistan, why I supported our mission in Afghanistan, unlike the illegal invasion in Iraq, is to keep us safe.
+
+217
+00:15:48,273 --> 00:15:50,797
+[SPEAKER_03]: It's not to sort of parachute democracy into Afghanistan.
+
+218
+00:15:50,817 --> 00:15:58,069
+[SPEAKER_03]: It's because we believe that if you allow Afghanistan to be a haven of extremism and terrorism, there will be more terrorist attacks here in Britain.
+
+219
+00:15:58,490 --> 00:16:01,214
+[SPEAKER_03]: So from that principle, if we need to do that again, we should.
+
+220
+00:16:01,635 --> 00:16:03,698
+[SPEAKER_03]: The problem, of course, is that
+
+221
+00:16:03,678 --> 00:16:16,023
+[SPEAKER_03]: We've done it in a manner where I don't think we've pursued the right strategy, we haven't given the right equipment to our troops, we haven't had proper international coordination on the ground in Afghanistan, we haven't worked properly with other countries in the region to do so.
+
+222
+00:16:16,544 --> 00:16:24,100
+[SPEAKER_03]: I think if you put soldiers into harm's way, you either do the job properly or you don't do it at all.
+
+223
+00:16:24,080 --> 00:16:25,242
+[SPEAKER_03]: ever take that decision again.
+
+224
+00:16:25,683 --> 00:16:35,379
+[SPEAKER_03]: Let's make sure we've got the right equipment, the right strategy, so that they can come back, having done the job we've asked them to do, with their heads held high, knowing they've done the job well.
+
+225
+00:16:36,060 --> 00:16:36,420
+[SPEAKER_10]: Thank you.
+
+226
+00:16:36,581 --> 00:16:37,142
+[SPEAKER_10]: Gordon Brown.
+
+227
+00:16:37,262 --> 00:16:38,704
+[SPEAKER_10]: I want to answer the question directly.
+
+228
+00:16:39,285 --> 00:16:43,472
+[SPEAKER_10]: Let's be honest, and Nick didn't say this, we've already got Al-Qaeda in Somalia.
+
+229
+00:16:43,452 --> 00:16:46,057
+[SPEAKER_10]: We've already got problems with al-Qaeda in Yemen.
+
+230
+00:16:46,418 --> 00:16:52,369
+[SPEAKER_10]: We are having to take action with our multilateral partners to deal with these problems and will continue to have to do so.
+
+231
+00:16:52,910 --> 00:16:56,717
+[SPEAKER_10]: So why are we in Afghanistan and why have we got to be vigilant all the time?
+
+232
+00:16:57,178 --> 00:17:04,853
+[SPEAKER_10]: The reason is there is a chain of terror that links these al-Qaeda groups in different parts of the world to action that could happen in the United Kingdom.
+
+233
+00:17:04,833 --> 00:17:14,427
+[SPEAKER_10]: And, you know, every week I get a report, sometimes every day, of terrorist plots, most of which arise in the Afghanistan-Pakistan area, and we have got to deal with.
+
+234
+00:17:14,687 --> 00:17:19,434
+[SPEAKER_10]: So to keep the streets safe in Britain, we have to take on al-Qaeda wherever it is.
+
+235
+00:17:19,994 --> 00:17:24,681
+[SPEAKER_10]: I also have to say about Afghanistan that this is a mission that can work.
+
+236
+00:17:24,661 --> 00:17:28,788
+[SPEAKER_10]: And the reason is we are training up the Afghan soldiers and the Afghan police.
+
+237
+00:17:29,169 --> 00:17:38,404
+[SPEAKER_10]: So whenever we're in a mission abroad, we've got to make sure that we have a means by which in that country we can build up their own security staff so that we can bring our troops home.
+
+238
+00:17:38,625 --> 00:17:41,269
+[SPEAKER_10]: That is my mission and that is my aim.
+
+239
+00:17:41,249 --> 00:17:43,192
+[SPEAKER_04]: Stuart asks would we participate.
+
+240
+00:17:43,573 --> 00:17:49,202
+[SPEAKER_04]: As I was your Prime Minister I would want to think very carefully what's in the national interest.
+
+241
+00:17:49,302 --> 00:17:51,967
+[SPEAKER_04]: What will make us safer here in the United Kingdom?
+
+242
+00:17:51,987 --> 00:17:57,596
+[SPEAKER_04]: And I think we need to end the division between sort of foreign policy and security policy and Home Office policy.
+
+243
+00:17:57,616 --> 00:18:01,182
+[SPEAKER_04]: Bring it all together and think about our national security.
+
+244
+00:18:01,162 --> 00:18:07,513
+[SPEAKER_04]: But I would also say this, if you look at future operations like that, we have to learn from the mistakes of the past.
+
+245
+00:18:07,774 --> 00:18:09,637
+[SPEAKER_04]: We've got to make sure that we plan properly.
+
+246
+00:18:09,878 --> 00:18:15,648
+[SPEAKER_04]: We've got to make sure we never send our troops into battle again without the proper equipment, without the proper helicopters.
+
+247
+00:18:15,968 --> 00:18:18,613
+[SPEAKER_04]: We have to think through not just what we're doing militarily,
+
+248
+00:18:18,593 --> 00:18:20,496
+[SPEAKER_04]: but actually is the aid there?
+
+249
+00:18:20,777 --> 00:18:22,079
+[SPEAKER_04]: Are we helping these people?
+
+250
+00:18:22,340 --> 00:18:28,250
+[SPEAKER_04]: Do we have a political strategy for how we're going to get out of that country once we've tried to make it safe with our allies?
+
+251
+00:18:28,551 --> 00:18:32,598
+[SPEAKER_04]: I think in the case of Afghanistan, far too many of those questions weren't answered.
+
+252
+00:18:32,878 --> 00:18:41,614
+[SPEAKER_04]: And even now, while I support what we're doing and I want it to work, I still worry we're not doing enough to get the political situation right in Afghanistan.
+
+253
+00:18:41,594 --> 00:18:49,023
+[SPEAKER_03]: I think everybody's agreed that if we were to do this again, which is Stuart's question, we need to make sure that we've got the right equipment, the right resources.
+
+254
+00:18:49,063 --> 00:18:55,511
+[SPEAKER_03]: And that's why I think it is essential that after the next election, whoever wins, there is a full defence review.
+
+255
+00:18:55,591 --> 00:19:03,340
+[SPEAKER_03]: So we have a real good look at where we're spending money, whether we're spending that wisely and whether we are providing the troops on the front line with the resources they need.
+
+256
+00:19:03,500 --> 00:19:06,744
+[SPEAKER_03]: I personally think that we're not spending money on some of the right things.
+
+257
+00:19:06,824 --> 00:19:11,550
+[SPEAKER_03]: I wouldn't carry on spending money on the Eurofighter Typhoon, the third tranche of that
+
+258
+00:19:11,530 --> 00:19:14,114
+[SPEAKER_03]: you're a fighter project, consuming billions of pounds.
+
+259
+00:19:14,214 --> 00:19:27,472
+[SPEAKER_03]: I don't think it's right to do what both David Cameron and Gordon Brown want, which is now to commit before we even need to make a decision, to spend up to 100 billion pounds renewing, exactly in the same old way, the Cold War trident nuclear missile system.
+
+260
+00:19:27,492 --> 00:19:38,567
+[SPEAKER_03]: If you take decisions like that, then maybe we can equip our troops so they don't get so terribly overstretched as they were in fighting two wars on two fronts in Iraq and in Afghanistan.
+
+261
+00:19:38,918 --> 00:19:39,599
+[SPEAKER_10]: Gordon Brown.
+
+262
+00:19:40,039 --> 00:19:45,066
+[SPEAKER_10]: My first thoughts will always be for our troops, for our dedicated forces, for our professional forces.
+
+263
+00:19:45,826 --> 00:19:51,513
+[SPEAKER_10]: And every day I meet people who have got people serving in Afghanistan or have served in other parts of the world.
+
+264
+00:19:51,954 --> 00:19:54,036
+[SPEAKER_10]: And we've got to do everything we can to support them.
+
+265
+00:19:54,157 --> 00:19:58,402
+[SPEAKER_10]: Yes, there will be a defence review in the next parliament so we can do our best by our forces.
+
+266
+00:19:58,802 --> 00:20:01,045
+[SPEAKER_10]: But, Luke, what happened on Christmas Eve?
+
+267
+00:20:01,025 --> 00:20:08,395
+[SPEAKER_10]: It was a bomber who would have been in Detroit and bombing that plane, came from Somalia.
+
+268
+00:20:09,176 --> 00:20:12,060
+[SPEAKER_10]: That was really where he was given his orders from.
+
+269
+00:20:12,401 --> 00:20:17,087
+[SPEAKER_10]: So we have got to deal with al-Qaeda in Somalia and Yemen, as well as in Pakistan.
+
+270
+00:20:17,408 --> 00:20:25,058
+[SPEAKER_10]: And we've got to be clear that we cannot allow terrorists to have territory in the world that then they use as a base for attacking the United Kingdom.
+
+271
+00:20:25,038 --> 00:20:33,966
+[SPEAKER_10]: I will do everything in my power to protect people, but we rely on the most brilliant, the most dedicated, the great forces that I want to pay tribute to this evening.
+
+272
+00:20:34,646 --> 00:20:38,529
+[SPEAKER_04]: Well, I completely agree with Gordon Brown about the bravery of our forces.
+
+273
+00:20:38,569 --> 00:20:40,711
+[SPEAKER_04]: I mean, I've been to Afghanistan four times.
+
+274
+00:20:40,931 --> 00:20:44,354
+[SPEAKER_04]: Every time, you are just blown away by the professionalism of these people.
+
+275
+00:20:44,394 --> 00:20:48,858
+[SPEAKER_04]: I actually, to prepare for this debate, I went for a run this morning with someone who just got back from Afghanistan.
+
+276
+00:20:48,878 --> 00:20:54,623
+[SPEAKER_04]: I have to say, I couldn't really keep up, but he was someone who'd served for six months and had done an incredible job there.
+
+277
+00:20:54,603 --> 00:21:03,681
+[SPEAKER_04]: But just going back to this point about how we get these things right, one of the things that strikes you when you go to Afghanistan is that actually we're not getting the political situation right.
+
+278
+00:21:03,942 --> 00:21:07,068
+[SPEAKER_04]: The south of the country is where the Taliban grew, where they came from.
+
+279
+00:21:07,629 --> 00:21:09,573
+[SPEAKER_04]: That is the Pashtun part of the country.
+
+280
+00:21:09,833 --> 00:21:14,603
+[SPEAKER_04]: And yet when you see the Afghan National Army, it is dominated by people from other parts of the country.
+
+281
+00:21:14,583 --> 00:21:16,627
+[SPEAKER_04]: And there is a really big political issue there.
+
+282
+00:21:16,647 --> 00:21:21,817
+[SPEAKER_04]: We've got to make sure the whole country in Afghanistan feels it's part of the Afghan government.
+
+283
+00:21:22,178 --> 00:21:25,885
+[SPEAKER_04]: And that's absolutely key for making sure we can bring our soldiers back home.
+
+284
+00:21:25,946 --> 00:21:30,094
+[SPEAKER_04]: Not just training the Afghan army and police, as Gordon has said, vital though that is.
+
+285
+00:21:30,354 --> 00:21:34,262
+[SPEAKER_04]: We need a political settlement as well to help make sure we can come home.
+
+286
+00:21:34,495 --> 00:21:50,004
+[SPEAKER_03]: I think Stuart's point, which is really pinpointing, is that even if you decide, even if we as a country decide to undertake a mission like that again, there's no point deciding that you want to do it unless you also know how and unless we can provide the necessary resources.
+
+287
+00:21:50,044 --> 00:21:57,077
+[SPEAKER_03]: I remember when I was in Helmand visiting the troops, I talked to some mechanics who look after the vehicles and they were telling me that
+
+288
+00:21:57,057 --> 00:22:02,466
+[SPEAKER_03]: a convoy, they've been on a convoy just previously, which normally just takes one day to get from one place to the other.
+
+289
+00:22:02,706 --> 00:22:10,018
+[SPEAKER_03]: It took them a week, because every time any of the vehicles broke down in the sands there, they didn't have the necessary parts, they had to take parts from other vehicles.
+
+290
+00:22:10,318 --> 00:22:22,137
+[SPEAKER_03]: So if we ever do this again, we cannot, cannot, cannot allow eight years to elapse, which is what's happened, until proper equipment is finally being provided to our very, very courageous servicemen and servicewomen.
+
+291
+00:22:22,117 --> 00:22:27,465
+[SPEAKER_10]: Look, we've had to change our tactics all the time because of what the Taliban has been doing.
+
+292
+00:22:27,885 --> 00:22:32,592
+[SPEAKER_10]: Originally they wanted to win a face-to-face war with us, fighting person-to-person.
+
+293
+00:22:33,093 --> 00:22:35,837
+[SPEAKER_10]: Now they use explosive devices.
+
+294
+00:22:36,278 --> 00:22:40,564
+[SPEAKER_10]: And these explosive devices are designed to scare as well as to maim our own troops.
+
+295
+00:22:40,544 --> 00:22:52,643
+[SPEAKER_10]: We have had to change our tactics and therefore bring in the explosive experts, bring in the metal detectors, bring in the drones to survey the land, make sure we have the proper intelligence, go into Pakistan and deal with the making of bombs as well.
+
+296
+00:22:52,804 --> 00:22:54,166
+[SPEAKER_10]: All these things have had to happen.
+
+297
+00:22:54,506 --> 00:22:58,833
+[SPEAKER_10]: And we've had to change our tactics again because we want to train up the Afghan police and army.
+
+298
+00:22:59,134 --> 00:23:01,297
+[SPEAKER_10]: So we are partnering with the Afghan police.
+
+299
+00:23:01,317 --> 00:23:04,983
+[SPEAKER_10]: Now, I'd like to say to our troops, come back into the barracks and you'll be safe.
+
+300
+00:23:05,043 --> 00:23:06,045
+[SPEAKER_10]: But I can't say that.
+
+301
+00:23:06,025 --> 00:23:15,583
+[SPEAKER_10]: because our strategy in Afghanistan depends on contact with the local people, persuading them that they are safe with us and safe in an Afghanistan free of the Taliban.
+
+302
+00:23:15,803 --> 00:23:21,233
+[SPEAKER_10]: So we've had to change, yes, but it's in response to the tactics of our opponents.
+
+303
+00:23:21,213 --> 00:23:24,618
+[SPEAKER_04]: about Trident and about our independent nuclear deterrent.
+
+304
+00:23:24,958 --> 00:23:33,090
+[SPEAKER_04]: I think it would be completely wrong to try and trade off equipping our forces properly today, which must be done, with securing our future for the future.
+
+305
+00:23:33,410 --> 00:23:38,337
+[SPEAKER_04]: And I think it's one of the biggest decisions any Prime Minister would have to take, and we've got to get this right.
+
+306
+00:23:38,658 --> 00:23:49,954
+[SPEAKER_04]: And I profoundly believe that we are safer having an independent nuclear deterrent in an unsafe and uncertain world, a proper replacement to Trident, because we simply don't know what the world will look like in 40 years' time.
+
+307
+00:23:49,934 --> 00:24:00,100
+[SPEAKER_04]: And I think it's a real risk, as the Liberal Democrats say, first to be opposed to an independent nuclear deterrent, now to say they do want one, but it's not the same as Trident, but they can't tell us what it is.
+
+308
+00:24:00,441 --> 00:24:02,005
+[SPEAKER_04]: You can't take risks with this.
+
+309
+00:24:02,326 --> 00:24:04,973
+[SPEAKER_03]: It's really important to get it right.
+
+310
+00:24:04,953 --> 00:24:26,423
+[SPEAKER_03]: then believe the several generals who wrote just this week in the newspaper saying precisely what I've been saying all along, why take a decision now to commit that amount of money on replacing an old Cold War nuclear missile system when that system has still got several years to run, when those military people themselves say that there are cheaper and better alternatives, and of course most importantly when the world is changing.
+
+311
+00:24:26,463 --> 00:24:30,589
+[SPEAKER_03]: President Obama said last week, I think quite rightly, that now the greatest threat to us is not the
+
+312
+00:24:30,569 --> 00:24:34,477
+[SPEAKER_03]: Cold War threats of old, it's terrorists getting hold of dirty bombs.
+
+313
+00:24:34,778 --> 00:24:36,842
+[SPEAKER_03]: Trident isn't going to help you with that.
+
+314
+00:24:37,142 --> 00:24:45,760
+[SPEAKER_03]: So let's move with the times, take decisions when we need to take them, and at least have this review, which I talked about after the election, where we then consider everything that is possible.
+
+315
+00:24:45,740 --> 00:24:47,322
+[SPEAKER_10]: I have to deal with these decisions every day.
+
+316
+00:24:47,362 --> 00:24:49,045
+[SPEAKER_10]: And I say to you, Nick, get real.
+
+317
+00:24:49,646 --> 00:24:50,127
+[SPEAKER_10]: Get real.
+
+318
+00:24:50,347 --> 00:24:55,495
+[SPEAKER_10]: Because Iran, you're saying, might be able to have a nuclear weapon, and you wouldn't take action against them.
+
+319
+00:24:55,835 --> 00:24:59,701
+[SPEAKER_10]: But you're saying that we've got to give up our Trident submarines and our nuclear weapon now.
+
+320
+00:25:00,182 --> 00:25:07,613
+[SPEAKER_10]: Get real about the danger that we face if we have North Korea, Iran, and other countries with nuclear weapons, and we give up our own.
+
+321
+00:25:07,593 --> 00:25:20,350
+[SPEAKER_03]: What is dangerous is to commit to spend a whole lot of money that we might not have on a system which almost certainly won't help when the world is changing, when we're facing new threats, when now more and more military experts are saying that there are different alternatives.
+
+322
+00:25:20,611 --> 00:25:25,898
+[SPEAKER_03]: You want to hold a review and you want to exclude the one big issue which should be right at the heart of that review.
+
+323
+00:25:25,918 --> 00:25:29,803
+[SPEAKER_04]: I thought I'd never utter these words, but I agree with Gordon.
+
+324
+00:25:29,783 --> 00:25:32,506
+[SPEAKER_04]: You cannot put off this decision.
+
+325
+00:25:32,566 --> 00:25:35,490
+[SPEAKER_04]: General Mike Jackson said today, we can't go on putting off this decision.
+
+326
+00:25:36,010 --> 00:25:37,272
+[SPEAKER_04]: You have to make it early.
+
+327
+00:25:37,292 --> 00:25:39,455
+[SPEAKER_04]: You have to keep your country safe and secure.
+
+328
+00:25:39,475 --> 00:25:44,761
+[SPEAKER_04]: You cannot rustle up a nuclear deterrent at the last minute, as the Liberal Democrats seem to think you can.
+
+329
+00:25:44,781 --> 00:25:52,230
+[SPEAKER_02]: On that note of unexpected harmony, we're going to move on now to the next question, which comes from Nicola Tanner from Hallfield in Bristol.
+
+330
+00:25:53,358 --> 00:26:06,895
+[SPEAKER_00]: Given that climate change is one of the biggest global threats that we face, what have you personally done in the last six months to use more environmentally friendly and sustainable forms of transport such as bikes and trains rather than cars and planes?
+
+331
+00:26:07,432 --> 00:26:10,075
+[SPEAKER_02]: So what are you doing personally to tackle climate change?
+
+332
+00:26:10,455 --> 00:26:11,577
+[SPEAKER_10]: I've been on trains all the time.
+
+333
+00:26:11,597 --> 00:26:15,782
+[SPEAKER_10]: I don't think I've been on any more than one plane during this election campaign.
+
+334
+00:26:15,822 --> 00:26:17,003
+[SPEAKER_10]: I've been going round by train.
+
+335
+00:26:17,704 --> 00:26:26,374
+[SPEAKER_10]: And I think actually our high-speed rail network will allow people to get off the roads and also to get off domestic air flights, and I think that's incredibly important.
+
+336
+00:26:26,394 --> 00:26:31,920
+[SPEAKER_10]: I would say the other thing I've done, and I'm very pleased that we've managed to do this in our home in North Queensferry,
+
+337
+00:26:31,900 --> 00:26:39,190
+[SPEAKER_10]: is that we thought living on a hill with a huge amount of wind, not very good weather in Scotland, as you know, that a wind turbine would be the answer.
+
+338
+00:26:39,690 --> 00:26:44,477
+[SPEAKER_10]: In fact, we found that far better, even in this area where there's not much sun, is a solar panel.
+
+339
+00:26:44,497 --> 00:26:53,569
+[SPEAKER_10]: And I would recommend people, if they can, to use this form of energy because it allows us to heat our water in a way that is far more environmentally friendly.
+
+340
+00:26:53,749 --> 00:26:56,052
+[SPEAKER_10]: We've got the first climate change act in the world.
+
+341
+00:26:56,032 --> 00:26:59,559
+[SPEAKER_10]: We're due to reduce emissions substantially by 2020 and 2030.
+
+342
+00:26:59,700 --> 00:27:05,852
+[SPEAKER_10]: There is a lot more to be done both individually and as a community, but we've also got to get a world agreement.
+
+343
+00:27:05,953 --> 00:27:12,226
+[SPEAKER_10]: We've got to work, David, with Europe to do so and work with the rest of the world, and that's the way to get environmental emissions down.
+
+344
+00:27:12,246 --> 00:27:12,927
+[SPEAKER_10]: Thank you, David Cameron.
+
+345
+00:27:12,907 --> 00:27:28,080
+[SPEAKER_04]: Well, when I said to my party we had to get real about the environment and we had to be a party that was a blue-green party, not just a blue party, I did actually once get a letter from someone who didn't really agree with this and said, Mr Cameron, if you're so concerned about carbon emissions, why don't you just stop breathing?
+
+346
+00:27:28,060 --> 00:27:31,085
+[SPEAKER_04]: And that was a moment that I realized I still had some persuasion to do.
+
+347
+00:27:31,125 --> 00:27:42,263
+[SPEAKER_04]: In terms of my own life, the biggest thing we've done is actually to have proper insulation in our house and actually really can cut your energy bill and make life cheaper as well as greener.
+
+348
+00:27:42,503 --> 00:27:47,571
+[SPEAKER_04]: But I would say in the last six months, the biggest change or the last year, the biggest change
+
+349
+00:27:47,551 --> 00:27:52,682
+[SPEAKER_04]: that I've been able to make is actually coming out very strongly against the third runway at Heathrow.
+
+350
+00:27:52,782 --> 00:27:54,585
+[SPEAKER_04]: I think it is wrong to do that.
+
+351
+00:27:54,866 --> 00:27:57,151
+[SPEAKER_04]: I think we should be going for high-speed rail instead.
+
+352
+00:27:57,411 --> 00:27:59,736
+[SPEAKER_04]: We should be having a high-speed rail hub at Heathrow.
+
+353
+00:28:00,037 --> 00:28:05,929
+[SPEAKER_04]: And trying to make sure that all those flights that people take where you could take a train, it's possible to do that.
+
+354
+00:28:05,969 --> 00:28:07,973
+[SPEAKER_04]: I think it would be a really big step forward.
+
+355
+00:28:07,953 --> 00:28:17,493
+[SPEAKER_03]: Nicola, I suspect I'm like many people, I of course try to change my behaviour when I travel up to my constituency in Sheffield and back again every week.
+
+356
+00:28:17,834 --> 00:28:23,185
+[SPEAKER_03]: I almost always do that by train unless there's so much clobber for the kids that I simply can't carry it on the train.
+
+357
+00:28:23,947 --> 00:28:24,949
+[SPEAKER_03]: But I don't do enough.
+
+358
+00:28:24,929 --> 00:28:26,392
+[SPEAKER_03]: I'm acutely aware I don't do enough.
+
+359
+00:28:26,412 --> 00:28:30,119
+[SPEAKER_03]: I think unlike many, many people, I wish I could and would do more.
+
+360
+00:28:30,159 --> 00:28:44,145
+[SPEAKER_03]: I think part of the problem, because you referred specifically, Nicola, to aeroplanes, and you're quite right that flights, at least when they're able to fly and there isn't too much volcanic ash around, do create a growing proportion of the total of CO2 emissions.
+
+361
+00:28:44,165 --> 00:28:44,946
+[SPEAKER_03]: So we need to tackle it.
+
+362
+00:28:44,987 --> 00:28:48,473
+[SPEAKER_03]: And I think what is irrational is at the moment you have a tax system
+
+363
+00:28:48,453 --> 00:28:50,895
+[SPEAKER_03]: which taxes passengers in aeroplanes.
+
+364
+00:28:50,915 --> 00:28:57,942
+[SPEAKER_03]: And that means that planes with freight in them, for instance, aren't taxed to represent, you know, to reflect the pollution they've caused.
+
+365
+00:28:57,962 --> 00:29:02,146
+[SPEAKER_03]: You've got lots of planes that are half empty or barely got any passengers at all.
+
+366
+00:29:02,166 --> 00:29:08,933
+[SPEAKER_03]: I think if you change that to a per-plane tax, you'd make a dramatic difference in cutting down on unnecessary aviation pollution.
+
+367
+00:29:09,253 --> 00:29:09,494
+[SPEAKER_03]: Thank you.
+
+368
+00:29:09,514 --> 00:29:09,894
+[SPEAKER_03]: Gordon Brown.
+
+369
+00:29:10,114 --> 00:29:14,038
+[SPEAKER_10]: If we're going to make a real difference, we've got to change the energy balance in our country.
+
+370
+00:29:14,018 --> 00:29:19,407
+[SPEAKER_10]: And we've got to remove this fixation about using oil, our addiction to oil, our dependence on oil.
+
+371
+00:29:19,888 --> 00:29:27,701
+[SPEAKER_10]: And that's why our energy plan talks about how we can move with nuclear and renewables and oil and gas.
+
+372
+00:29:27,721 --> 00:29:29,624
+[SPEAKER_10]: We want 15% renewables by 2020.
+
+373
+00:29:30,045 --> 00:29:35,875
+[SPEAKER_10]: We're the world's leading offshore wind power at the moment and we want to do more in every area for renewables.
+
+374
+00:29:35,855 --> 00:29:47,671
+[SPEAKER_10]: So the questions I have to ask the two other parties is this, why are you so against nuclear power because it is the means by which we can balance off our energy supply without having the dependence on oil?
+
+375
+00:29:48,032 --> 00:29:52,037
+[SPEAKER_10]: And David, why don't you have a renewables target as we do so that we can use wind power?
+
+376
+00:29:52,057 --> 00:29:55,442
+[SPEAKER_10]: Why are you so against the onshore wind power that people are trying to develop?
+
+377
+00:29:55,762 --> 00:30:00,148
+[SPEAKER_10]: You seem to support it in principle but in every constituency where it happens, you seem to be against it.
+
+378
+00:30:00,408 --> 00:30:03,853
+[SPEAKER_10]: Let's get real also about getting this energy balance right.
+
+379
+00:30:04,627 --> 00:30:21,876
+[SPEAKER_04]: Well of course we need an energy balance and we need nuclear, we need renewables, we need a full range and it's a great opportunity actually for our country to do these things but I think one of the biggest opportunities we've got is actually with our own homes and we have a proposal called the Green Deal where we want to say to everyone in this country
+
+380
+00:30:21,856 --> 00:30:27,284
+[SPEAKER_04]: that you could spend up to £6,500 on your home to insulate it and better protect it.
+
+381
+00:30:27,664 --> 00:30:29,787
+[SPEAKER_04]: And then you can see your energy bills come down.
+
+382
+00:30:29,948 --> 00:30:38,259
+[SPEAKER_04]: And we will have companies, and Marks and Spencers and others have expressed an interest, to come and carry out that work and to pay for it and to share with you the reduction in the bills.
+
+383
+00:30:38,660 --> 00:30:42,085
+[SPEAKER_04]: I think that would show people that going green actually can save you money.
+
+384
+00:30:42,465 --> 00:30:44,208
+[SPEAKER_04]: It can actually get Britain working again.
+
+385
+00:30:44,328 --> 00:30:45,550
+[SPEAKER_04]: It can cut carbon emissions.
+
+386
+00:30:45,810 --> 00:30:46,892
+[SPEAKER_04]: It can cut fuel poverty.
+
+387
+00:30:47,152 --> 00:30:51,238
+[SPEAKER_04]: For all those reasons, I'd want it to be a really big part of the first Queen's speech.
+
+388
+00:30:51,218 --> 00:30:52,821
+[SPEAKER_04]: if I'm elected as your Prime Minister.
+
+389
+00:30:52,841 --> 00:30:54,984
+[SPEAKER_10]: The only problem, David, is we're doing it already.
+
+390
+00:30:55,024 --> 00:30:57,729
+[SPEAKER_03]: We're offering people these incentives.
+
+391
+00:30:57,989 --> 00:30:58,470
+[SPEAKER_03]: Hold your horses.
+
+392
+00:31:01,355 --> 00:31:02,677
+[SPEAKER_03]: Gordon Brown asked me about nuclear power.
+
+393
+00:31:03,078 --> 00:31:05,502
+[SPEAKER_03]: I don't have a sort of theological opposition to nuclear power.
+
+394
+00:31:05,522 --> 00:31:07,405
+[SPEAKER_03]: I just think it's extraordinarily expensive.
+
+395
+00:31:07,385 --> 00:31:09,047
+[SPEAKER_03]: very, very expensive indeed.
+
+396
+00:31:09,067 --> 00:31:18,401
+[SPEAKER_03]: There are some calculations that it would lead to average energy bills actually increasing in this country rather than decreasing, and it takes a long, long, long time to build these new nuclear plants.
+
+397
+00:31:18,901 --> 00:31:27,554
+[SPEAKER_03]: All the experts agree that it would take well into the next decade to create new nuclear energy, which would be too late to deal with the energy problems we have now.
+
+398
+00:31:27,794 --> 00:31:36,987
+[SPEAKER_03]: For a fraction of the money that I think both David Cameron and Gordon Brown want to spend on subsidizing the nuclear industry, we could develop a mass insulation programs of our homes
+
+399
+00:31:36,967 --> 00:31:38,409
+[SPEAKER_03]: of our schools and our hospitals.
+
+400
+00:31:38,669 --> 00:31:45,799
+[SPEAKER_03]: Remember, 27% of all carbon dioxide emissions in this country go straight out of your window through the roof of your house.
+
+401
+00:31:46,159 --> 00:31:58,435
+[SPEAKER_03]: If we only use energy more efficiently and also, of course, invested some of the money which would be wasted on big nuclear projects, on wind energy and other renewable energies, I think that is the way towards a sustainable future.
+
+402
+00:31:58,415 --> 00:32:05,493
+[SPEAKER_10]: You can't have a balanced energy policy in the modern world as almost every country is now finding in the advanced world without using nuclear power.
+
+403
+00:32:05,954 --> 00:32:13,453
+[SPEAKER_10]: And I do say that the schemes that we've introduced, I met some young guys yesterday and girls who've been working on an energy project in Wales.
+
+404
+00:32:13,433 --> 00:32:20,682
+[SPEAKER_10]: They've been taken on as a result of our Future Jobs Fund, and they're in the business of helping insulation and giving people advice about the use of energy.
+
+405
+00:32:20,962 --> 00:32:24,306
+[SPEAKER_10]: So we're trying to do this at the moment, and we will do more in future years.
+
+406
+00:32:24,667 --> 00:32:26,329
+[SPEAKER_10]: Yes, we've got to insulate our houses.
+
+407
+00:32:26,709 --> 00:32:28,972
+[SPEAKER_10]: Yes, we've got to have carbon-free homes where possible.
+
+408
+00:32:29,292 --> 00:32:30,754
+[SPEAKER_10]: Yes, we've got to have the electric car.
+
+409
+00:32:30,774 --> 00:32:33,197
+[SPEAKER_10]: We're investing in that, the hybrid car.
+
+410
+00:32:33,217 --> 00:32:34,939
+[SPEAKER_10]: And yes, we've got to develop offshore wind power.
+
+411
+00:32:35,160 --> 00:32:37,062
+[SPEAKER_10]: But the energy balance has got to be fair.
+
+412
+00:32:37,042 --> 00:32:47,912
+[SPEAKER_10]: and any party that is now excluding nuclear power, which is already a substantial part of our country, is not really thinking about the needs of a future where we cannot be dependent on these high oil prices forever.
+
+413
+00:32:48,382 --> 00:33:01,193
+[SPEAKER_04]: Well actually the situation is worse than Gordon Brown describes because actually according to the government's own figures we are potentially heading for power cuts in 2017 and actually nuclear power stations won't really come on stream by then.
+
+414
+00:33:01,533 --> 00:33:08,620
+[SPEAKER_04]: So we actually have a greater emergency and we do need to look at the level of gas storage we have in this country which is much lower than France or Germany.
+
+415
+00:33:08,640 --> 00:33:12,002
+[SPEAKER_04]: They have up to 100 days and we have a little over two weeks.
+
+416
+00:33:12,383 --> 00:33:18,388
+[SPEAKER_04]: And we also need to make sure that we get the renewables and maybe even extra gas capacity on stream faster
+
+417
+00:33:18,368 --> 00:33:20,131
+[SPEAKER_04]: otherwise we can see the lights go out.
+
+418
+00:33:20,151 --> 00:33:27,445
+[SPEAKER_04]: That's because we've had, over the last 13 years, so many different strategies and so little action.
+
+419
+00:33:27,545 --> 00:33:33,015
+[SPEAKER_03]: One thing that hasn't been mentioned at all, which is absolutely crucial of course to dealing with a global problem, is acting globally.
+
+420
+00:33:33,035 --> 00:33:36,141
+[SPEAKER_03]: I remember seeing the television pictures of Gordon Brown sitting...
+
+421
+00:33:36,121 --> 00:33:43,429
+[SPEAKER_03]: to say slightly sort of on the sidelines in the summit in Copenhagen, while America and China basically cut everybody else out.
+
+422
+00:33:43,449 --> 00:33:47,914
+[SPEAKER_03]: And I think if you're going to lead on this, of course you have to lead at home, but you also have to lead in Europe.
+
+423
+00:33:47,934 --> 00:33:53,781
+[SPEAKER_03]: There's no point clubbing together, as David Cameron has done, with people who even deny the existence of climate change in Europe.
+
+424
+00:33:53,801 --> 00:34:01,309
+[SPEAKER_03]: You've got to create strengthened numbers in Europe so that we can really lead in the world, because this is a global problem which requires a global response.
+
+425
+00:34:01,329 --> 00:34:01,950
+[SPEAKER_10]: But Nick, you're right.
+
+426
+00:34:01,970 --> 00:34:05,554
+[SPEAKER_10]: There is no British-only solution, and David's got to face up to that.
+
+427
+00:34:05,534 --> 00:34:12,127
+[SPEAKER_10]: But you've also got to face up to the fact that the cooperation that we have achieved, a hundred countries have now signed carbon emission reduction plans.
+
+428
+00:34:12,507 --> 00:34:14,912
+[SPEAKER_10]: We're trying to persuade China and America to do so.
+
+429
+00:34:15,193 --> 00:34:16,776
+[SPEAKER_10]: We need America on our side.
+
+430
+00:34:16,816 --> 00:34:18,819
+[SPEAKER_10]: Your anti-Americanism will not help us.
+
+431
+00:34:19,120 --> 00:34:22,767
+[SPEAKER_10]: We need to work with all the different continents to get a climate change agreement.
+
+432
+00:34:22,747 --> 00:34:24,352
+[SPEAKER_04]: Just one point on the European issue.
+
+433
+00:34:24,372 --> 00:34:26,117
+[SPEAKER_04]: There's a bit of a con going on here as well.
+
+434
+00:34:26,177 --> 00:34:29,988
+[SPEAKER_04]: The Lisbon Treaty has just about seven words on climate change.
+
+435
+00:34:30,248 --> 00:34:34,019
+[SPEAKER_04]: You don't need another treaty for politicians to get together in different countries.
+
+436
+00:34:34,039 --> 00:34:35,142
+[SPEAKER_04]: You need political will.
+
+437
+00:34:35,463 --> 00:34:36,306
+[SPEAKER_04]: You need action.
+
+438
+00:34:36,526 --> 00:34:37,870
+[SPEAKER_04]: That's what is required.
+
+439
+00:34:37,850 --> 00:34:43,959
+[SPEAKER_04]: Instead, what we keep getting from the other two parties is more institutions, more regulation, more new agreements.
+
+440
+00:34:43,979 --> 00:34:45,221
+[SPEAKER_04]: That's not what's required.
+
+441
+00:34:45,261 --> 00:34:47,945
+[SPEAKER_04]: It's action at the European level, and that requires political will.
+
+442
+00:34:47,965 --> 00:34:53,293
+[SPEAKER_03]: Of course you don't need a new treaty, but you do need to at least work with people in Europe who believe that climate change exists.
+
+443
+00:34:53,313 --> 00:34:54,475
+[SPEAKER_03]: That would be a helpful start.
+
+444
+00:34:54,455 --> 00:35:01,266
+[SPEAKER_03]: On the point that Gordon Brown keeps saying of anti-Americanism, I have a very simple attitude towards our relationship with America.
+
+445
+00:35:01,286 --> 00:35:04,511
+[SPEAKER_03]: It's an immensely, immensely important special relationship.
+
+446
+00:35:04,732 --> 00:35:06,795
+[SPEAKER_03]: But it shouldn't be a one-way street.
+
+447
+00:35:06,815 --> 00:35:11,022
+[SPEAKER_03]: We shouldn't always automatically do what our American friends tell us to do.
+
+448
+00:35:11,242 --> 00:35:17,813
+[SPEAKER_03]: We've got to make sure that we act on the world stage in our interest, not simply at the beck and call of anybody else.
+
+449
+00:35:17,793 --> 00:35:26,012
+[SPEAKER_10]: and I persuaded the Americans to be part of a G20 that dealt with the banking crisis, and I'm still pushing the Americans to take action on climate change as well.
+
+450
+00:35:26,593 --> 00:35:31,244
+[SPEAKER_10]: But David, I mean, your anti-Europeanism becomes more and more obvious as this debate goes on.
+
+451
+00:35:31,625 --> 00:35:34,732
+[SPEAKER_10]: It's the big society at home, but it's the little Britain abroad.
+
+452
+00:35:35,053 --> 00:35:36,797
+[SPEAKER_10]: I think you've got to rethink your policies.
+
+453
+00:35:36,777 --> 00:35:43,208
+[SPEAKER_04]: I just think they're just trying to frighten you, the other two parties, because they don't want actually a Britain that stands up for itself in Europe.
+
+454
+00:35:43,228 --> 00:35:45,451
+[SPEAKER_04]: They keep going on about these alliances.
+
+455
+00:35:45,912 --> 00:35:55,768
+[SPEAKER_04]: One of our main allies is the party of the Polish president, who tragically died in that accident, who both the politicians standing next to me praised as a great patriot and a great statesman.
+
+456
+00:35:55,788 --> 00:35:57,792
+[SPEAKER_04]: So I think we can hear no more of that.
+
+457
+00:35:58,032 --> 00:36:03,561
+[SPEAKER_04]: The fact is you can cooperate and work with your European partners without signing a new treaty, without
+
+458
+00:36:03,541 --> 00:36:05,085
+[SPEAKER_04]: giving away so many new powers.
+
+459
+00:36:05,105 --> 00:36:08,272
+[SPEAKER_02]: That is going to be the last word on Europe for now, though I suspect it will come up later on.
+
+460
+00:36:08,934 --> 00:36:10,417
+[SPEAKER_02]: Let's move on now.
+
+461
+00:36:11,059 --> 00:36:14,547
+[SPEAKER_02]: And a question from Michael Jeans, who's from central Bristol.
+
+462
+00:36:14,662 --> 00:36:15,203
+[SPEAKER_08]: Good evening.
+
+463
+00:36:15,243 --> 00:36:22,794
+[SPEAKER_08]: The Pope has accepted an invitation to make an official state visit to Britain in September at the cost of millions of pounds to taxpayers.
+
+464
+00:36:23,555 --> 00:36:33,649
+[SPEAKER_08]: If you win the election, will you disassociate your party from the Pope's protection over many years of Catholic priests who were ultimately tried and convicted of child abuse?
+
+465
+00:36:33,629 --> 00:36:45,850
+[SPEAKER_08]: And from his fierce opposition to all contraception, embryonic stem cell research, treatment for childless couples, gay equality and the routine use of condoms when HIV is at an all-time high.
+
+466
+00:36:47,146 --> 00:36:47,747
+[SPEAKER_02]: Thank you, Michael.
+
+467
+00:36:47,767 --> 00:36:51,113
+[SPEAKER_02]: So do you back the Pope's visit, David Cameron?
+
+468
+00:36:51,133 --> 00:37:01,091
+[SPEAKER_04]: Well, I do think it's welcome that the Pope is coming to Britain, and I would, if I was your Prime Minister, I would want to support that visit and make sure I could do everything in my power to make it a success.
+
+469
+00:37:01,171 --> 00:37:08,985
+[SPEAKER_04]: There are millions of people in our country who will welcome that, who share the Pope's Catholic faith, and I think we should try and make a success of it.
+
+470
+00:37:08,965 --> 00:37:11,370
+[SPEAKER_04]: But do I agree with everything the Pope says?
+
+471
+00:37:11,390 --> 00:37:26,080
+[SPEAKER_04]: No, I don't agree with him about contraception, I don't agree with him about homosexuality, and I think the Catholic Church has got some very, very serious work to do to unearth and come to terms with some of the appalling things that have happened, and they need to do that.
+
+472
+00:37:26,060 --> 00:37:28,704
+[SPEAKER_04]: But I do think we should respect people of faith.
+
+473
+00:37:28,745 --> 00:37:31,149
+[SPEAKER_04]: I think faith is important in our country.
+
+474
+00:37:31,329 --> 00:37:43,249
+[SPEAKER_04]: I think faith-based organizations, whether they are Christian or Jewish or Muslim or Hindu, do amazing things in our country, whether it's working in our prisons or providing good schools or actually helping some of the most vulnerable people in our country.
+
+475
+00:37:43,269 --> 00:37:45,693
+[SPEAKER_04]: So a country where faith is welcome, yes.
+
+476
+00:37:46,174 --> 00:37:48,017
+[SPEAKER_04]: A good visit from the Pope, yes.
+
+477
+00:37:48,097 --> 00:37:49,860
+[SPEAKER_04]: But does that mean we have to agree with everything he says?
+
+478
+00:37:50,261 --> 00:37:51,203
+[SPEAKER_04]: No.
+
+479
+00:37:51,223 --> 00:37:51,443
+[SPEAKER_04]: Nick Clegg.
+
+480
+00:37:53,043 --> 00:38:07,778
+[SPEAKER_03]: My wife, I'm not a man of faith, but my wife is, Miriam is Catholic, my children are being brought up in her faith, so I have a little bit of an insight into the immense feelings of anguish in the Catholic community here and elsewhere.
+
+481
+00:38:08,348 --> 00:38:20,947
+[SPEAKER_03]: And I think many Catholics themselves feel really, you know, extremely, extremely torn apart by what's happened, and I think they do want to see the Catholic Church express greater openness and repentance.
+
+482
+00:38:20,967 --> 00:38:25,775
+[SPEAKER_03]: You can't keep a lid on sin, and of course you need to move with the times.
+
+483
+00:38:25,835 --> 00:38:30,542
+[SPEAKER_03]: I do welcome the Pope's visit, but I hope by the time he does visit there is a
+
+484
+00:38:30,522 --> 00:38:43,068
+[SPEAKER_03]: a greater recognition that there has been terrible, terrible suffering, there have been abusive relationships which have left immeasurable scars on individual people's lives and we need a process of openness and then healing.
+
+485
+00:38:43,108 --> 00:38:49,662
+[SPEAKER_03]: You can't undo the tragedies of the past but you can be open about them so people can start to move on.
+
+486
+00:38:50,131 --> 00:38:50,892
+[SPEAKER_10]: Go on, Brian.
+
+487
+00:38:50,912 --> 00:38:57,903
+[SPEAKER_10]: I've met some of the people who have rightly complained about the abuse that they were subject to when young, and it never leaves them.
+
+488
+00:38:58,323 --> 00:39:00,186
+[SPEAKER_10]: It's something that is with them always.
+
+489
+00:39:00,647 --> 00:39:12,625
+[SPEAKER_10]: And no matter what you can try to do to help, there is always this problem that they have to face up to every day, that they were abused, cruelly abused, by people in whom they placed their faith and trust.
+
+490
+00:39:12,645 --> 00:39:19,395
+[SPEAKER_10]: So the church has got to deal with these problems, and it's got to make sure that there is an open and clean confession about what has happened,
+
+491
+00:39:19,375 --> 00:39:22,879
+[SPEAKER_10]: and that we help those people who have been put into difficulty by this abuse.
+
+492
+00:39:23,540 --> 00:39:28,445
+[SPEAKER_10]: But you know, I welcome the Pope's visit to Britain and I want him to come to Britain for two reasons.
+
+493
+00:39:28,986 --> 00:39:38,276
+[SPEAKER_10]: One is the Catholic Church is a great part of our society and we should recognise it as such and I hope every British citizen wants to see this visit by the Pope take place.
+
+494
+00:39:38,316 --> 00:39:42,421
+[SPEAKER_10]: And secondly, we must break down the barriers of religion that exist in our world.
+
+495
+00:39:42,782 --> 00:39:47,627
+[SPEAKER_10]: The faiths must come together and recognise that they have common values and common interests
+
+496
+00:39:47,607 --> 00:39:50,230
+[SPEAKER_10]: They all believe that we should be good neighbours to each other.
+
+497
+00:39:50,270 --> 00:39:58,120
+[SPEAKER_10]: I'm from the Presbyterian religion, but I support the visit, but I not only support it, I want religious faith to work more closely together.
+
+498
+00:39:58,401 --> 00:40:08,994
+[SPEAKER_02]: Before we bring in David Cameron, I would remind you that Michael Jeans is also concerned about the attitude of the Catholic Church to science and also to gender matters.
+
+499
+00:40:09,014 --> 00:40:09,615
+[SPEAKER_02]: David Cameron.
+
+500
+00:40:09,595 --> 00:40:21,619
+[SPEAKER_04]: Well, again, I would say to Michael that, again, I would be agreeing with you and against the Pope in terms of, for instance, the need to make advances in science.
+
+501
+00:40:21,700 --> 00:40:23,002
+[SPEAKER_04]: I don't think we should.
+
+502
+00:40:23,022 --> 00:40:30,237
+[SPEAKER_04]: Obviously, you need proper protections and proper rules, and we debated them at great length in the House of Commons, but I do want to see that go ahead.
+
+503
+00:40:30,217 --> 00:40:32,079
+[SPEAKER_04]: also on the issue of abortion.
+
+504
+00:40:32,179 --> 00:40:38,026
+[SPEAKER_04]: So there are lots of areas I don't agree but I don't think that means you should stop someone visiting our country or condemn them.
+
+505
+00:40:38,427 --> 00:40:51,282
+[SPEAKER_04]: We must try and build an open and tolerant country where we respect people for their different faiths, we bring faiths closer together with each other and we're prepared to have an open and frank discussion about these things.
+
+506
+00:40:51,322 --> 00:40:56,528
+[SPEAKER_04]: I think that's the only way to go and it's nice to hear that pretty much actually we all agree about that.
+
+507
+00:40:57,571 --> 00:40:58,132
+[SPEAKER_03]: Mr. Clegg.
+
+508
+00:40:58,693 --> 00:41:01,159
+[SPEAKER_03]: I think on this matter we do.
+
+509
+00:41:01,179 --> 00:41:11,641
+[SPEAKER_03]: I don't agree, I've made it publicly clear in the past, that I don't agree with the formal doctrine on homosexuality of the Catholic Church, for instance.
+
+510
+00:41:11,861 --> 00:41:13,244
+[SPEAKER_03]: I don't agree with it at all.
+
+511
+00:41:14,166 --> 00:41:16,812
+[SPEAKER_03]: It doesn't mean I don't, you know, I think there should be some
+
+512
+00:41:16,792 --> 00:41:20,159
+[SPEAKER_03]: you know, uprising against the Pope's visit, quite the reverse.
+
+513
+00:41:20,240 --> 00:41:21,723
+[SPEAKER_03]: I would like to see the Pope here.
+
+514
+00:41:21,803 --> 00:41:25,250
+[SPEAKER_03]: I think the Catholic community in Britain wants to welcome him.
+
+515
+00:41:25,691 --> 00:41:35,172
+[SPEAKER_03]: But, you know, as I think we've all acknowledged, that doesn't mean one has to subscribe to every letter and every cross-T and every dotted I of the theology and doctrine of that church.
+
+516
+00:41:35,742 --> 00:41:41,512
+[SPEAKER_10]: You know on all these big issues I think we're proving ourselves to be a tolerant and understanding nation.
+
+517
+00:41:42,334 --> 00:41:51,571
+[SPEAKER_10]: We introduced civil partnerships and therefore we changed the laws on homosexuality and said to people if you're gay or straight you have a place in British society.
+
+518
+00:41:51,991 --> 00:41:57,902
+[SPEAKER_10]: And I think for many people that was a great liberation and I'm pleased that it has happened in Britain in these last few years.
+
+519
+00:41:57,882 --> 00:42:12,701
+[SPEAKER_10]: On human embryology, I've disagreed with the Catholic Church, because I believe if you can treat a disease by using embryos that are enabling us to make sure that people can be free of some of the conditions that afflict their lives, we should do so under the right rules.
+
+520
+00:42:13,021 --> 00:42:16,245
+[SPEAKER_10]: And I'm sorry that in principle there is a disagreement with the Church on that.
+
+521
+00:42:16,846 --> 00:42:18,608
+[SPEAKER_10]: On the question of contraception,
+
+522
+00:42:18,588 --> 00:42:27,319
+[SPEAKER_10]: I think we know that in Africa, we know around the world that it's important to give women access and choice so that they can make their own decisions.
+
+523
+00:42:27,620 --> 00:42:30,143
+[SPEAKER_10]: And I regret the fact that the Catholic Church does not do that.
+
+524
+00:42:30,443 --> 00:42:39,735
+[SPEAKER_10]: But the Pope should come to Britain, we should have these debates, and we should welcome all religions because bringing religions together is the key to making sure that we have a more peaceful world.
+
+525
+00:42:39,715 --> 00:42:40,276
+[SPEAKER_02]: OK, thank you.
+
+526
+00:42:40,296 --> 00:42:44,784
+[SPEAKER_02]: Given the degree of agreement, we're going to move on now and take some more questions.
+
+527
+00:42:45,666 --> 00:42:52,558
+[SPEAKER_02]: That brings to an end the international affairs part of this debate, although we may well come back to it in subsequent questions.
+
+528
+00:42:53,159 --> 00:42:56,104
+[SPEAKER_02]: And in a moment, we're going to move on to the open section.
+
+529
+00:42:56,084 --> 00:43:01,310
+[SPEAKER_02]: But before we do that, just a reminder that you can see the Sky News Scotland debate this Sunday.
+
+530
+00:43:01,691 --> 00:43:09,219
+[SPEAKER_02]: It will feature senior politicians from three parties represented here, plus the First Minister of Scotland, the SNP's Alex Salmond.
+
+531
+00:43:09,560 --> 00:43:12,704
+[SPEAKER_02]: So please join me live from Edinburgh at my next gig.
+
+532
+00:43:12,764 --> 00:43:14,906
+[SPEAKER_02]: That's this Sunday at 10.30.
+
+533
+00:43:15,487 --> 00:43:18,791
+[SPEAKER_02]: Let's move on now to the next question.
+
+534
+00:43:18,891 --> 00:43:23,256
+[SPEAKER_02]: This question comes from Mary Slattery from Montpellier here in Bristol.
+
+535
+00:43:23,877 --> 00:43:29,384
+[SPEAKER_06]: Given the scandals of the last year, it is hard to find a person in my neighbourhood who believes in the power of their vote.
+
+536
+00:43:29,987 --> 00:43:32,841
+[SPEAKER_06]: How do you plan to restore faith in this political system?
+
+537
+00:43:34,205 --> 00:43:40,617
+[SPEAKER_02]: Nick Clegg, given the powers, given the scandals in the past year, how do you plan to restore faith in politics?
+
+538
+00:43:40,657 --> 00:43:45,947
+[SPEAKER_03]: Firstly, Mary, you need to be given the power to sack any politician who's proved to be corrupt.
+
+539
+00:43:46,588 --> 00:43:50,194
+[SPEAKER_03]: It's something I advocated in the past, it's something I put forward in Westminster.
+
+540
+00:43:50,214 --> 00:43:53,400
+[SPEAKER_03]: Both David Cameron and Gordon Brown's parties didn't support that.
+
+541
+00:43:53,420 --> 00:43:57,107
+[SPEAKER_03]: They now, which is good, say that they do welcome that because you're the boss.
+
+542
+00:43:57,087 --> 00:43:57,828
+[SPEAKER_03]: You're the boss.
+
+543
+00:43:58,149 --> 00:44:02,017
+[SPEAKER_03]: The other thing we need to do is clean up all the murky business of party funding.
+
+544
+00:44:02,037 --> 00:44:04,402
+[SPEAKER_03]: We've all had problems with party funding.
+
+545
+00:44:04,462 --> 00:44:05,604
+[SPEAKER_03]: Again, there was a deal.
+
+546
+00:44:05,905 --> 00:44:06,867
+[SPEAKER_03]: There was a deal on the table.
+
+547
+00:44:06,947 --> 00:44:09,071
+[SPEAKER_03]: We supported it to clean up party funding.
+
+548
+00:44:09,211 --> 00:44:10,995
+[SPEAKER_03]: Yet again, the old party said no.
+
+549
+00:44:11,356 --> 00:44:13,801
+[SPEAKER_03]: Gordon Brown wanted to protect his trade union paymasters.
+
+550
+00:44:14,181 --> 00:44:18,049
+[SPEAKER_03]: David Cameron wanted to protect his paymaster in Belize.
+
+551
+00:44:18,029 --> 00:44:23,178
+[SPEAKER_03]: We all agree on the rhetoric, we all agree on the rhetoric of cleaning up politics, but we actually have to act.
+
+552
+00:44:23,418 --> 00:44:24,861
+[SPEAKER_03]: I'd say one final thing.
+
+553
+00:44:24,881 --> 00:44:42,130
+[SPEAKER_03]: One of the reasons why your friends and your neighbours are perhaps right in saying that they feel ignored is that because we have this very odd electoral system which allows Gordon Brown, the Prime Minister, to be in power when only 22% of people voted for his party last time, many people are being ignored and we need to change that as well.
+
+554
+00:44:42,110 --> 00:44:44,354
+[SPEAKER_10]: I think Mary's saying, can a vote make a difference?
+
+555
+00:44:44,575 --> 00:44:45,396
+[SPEAKER_10]: And I believe it can.
+
+556
+00:44:46,238 --> 00:44:52,771
+[SPEAKER_10]: Yes, we will give the right of recall, so if you don't like an MP for being corrupt and Parliament doesn't take any action, then you can remove them.
+
+557
+00:44:52,851 --> 00:44:59,764
+[SPEAKER_10]: Yes, we'll give you a right to put petitions to the House of Commons, so they have to be debated if you put them in sufficient number to do so.
+
+558
+00:44:59,744 --> 00:45:14,371
+[SPEAKER_10]: And yes we want a referendum on the future of the House of Commons and the House of Lords and you the people should have a vote on a new voting system for the House of Commons and ending the hereditary principle in the House of Lords and making it for the first time elected and accountable.
+
+559
+00:45:14,731 --> 00:45:18,478
+[SPEAKER_10]: But you know your vote matters as well because this is a big choice election.
+
+560
+00:45:18,458 --> 00:45:22,064
+[SPEAKER_10]: We've got to secure the recovery, and it's put at risk by Conservative policies.
+
+561
+00:45:22,385 --> 00:45:26,572
+[SPEAKER_10]: We've got to make sure we have decent public services, and that's put at risk by Conservative policies.
+
+562
+00:45:26,772 --> 00:45:32,262
+[SPEAKER_10]: We've got to build the jobs of the future, and that's put at risk, actually, by the policies of both these parties who are here this evening.
+
+563
+00:45:32,562 --> 00:45:33,604
+[SPEAKER_10]: So your vote matters.
+
+564
+00:45:34,005 --> 00:45:34,646
+[SPEAKER_10]: Please use it.
+
+565
+00:45:34,806 --> 00:45:41,277
+[SPEAKER_10]: It's the most important and decisive election for years, because our future depends on how you vote in the next few weeks.
+
+566
+00:45:41,257 --> 00:45:41,618
+[SPEAKER_02]: Thank you.
+
+567
+00:45:41,638 --> 00:45:42,459
+[SPEAKER_02]: David Cameron.
+
+568
+00:45:42,759 --> 00:45:47,406
+[SPEAKER_04]: I think the first thing people want to know is that they are going to be voting for a cleaned up Parliament.
+
+569
+00:45:47,867 --> 00:45:52,875
+[SPEAKER_04]: Everywhere I go in this country during the election, it is simmering and bubbling below the surface.
+
+570
+00:45:52,895 --> 00:45:55,819
+[SPEAKER_04]: There is just anger about the expenses fiasco.
+
+571
+00:45:56,120 --> 00:46:03,131
+[SPEAKER_04]: People say, I pay my taxes to have decent politics and yet the money has been spent on all these appalling things.
+
+572
+00:46:03,271 --> 00:46:04,092
+[SPEAKER_04]: They want to be
+
+573
+00:46:04,072 --> 00:46:07,140
+[SPEAKER_04]: absolutely sure this is never ever going to happen again.
+
+574
+00:46:07,541 --> 00:46:13,696
+[SPEAKER_04]: So strict limits on what can be spent, total transparency so you the voters can see every penny.
+
+575
+00:46:13,997 --> 00:46:16,463
+[SPEAKER_04]: That I think is the absolutely first thing that needs to be done.
+
+576
+00:46:17,045 --> 00:46:20,393
+[SPEAKER_04]: I would go on and say we also need to cut the cost of politics.
+
+577
+00:46:20,373 --> 00:46:25,300
+[SPEAKER_04]: Everyone else in this country has had to make economies and had to make their businesses work better.
+
+578
+00:46:25,320 --> 00:46:27,103
+[SPEAKER_04]: Why shouldn't politics be the same?
+
+579
+00:46:27,163 --> 00:46:28,004
+[SPEAKER_04]: So I would do that.
+
+580
+00:46:28,384 --> 00:46:31,990
+[SPEAKER_04]: Then some simple changes that I think would put people back in control.
+
+581
+00:46:32,310 --> 00:46:36,897
+[SPEAKER_04]: I want to see many more people involved in choosing the candidates for the parties, holding open primaries.
+
+582
+00:46:37,317 --> 00:46:44,207
+[SPEAKER_04]: I agree that we need to have a situation where you can sack your MP, but please don't let's give up the way you can sack your government and throw them out.
+
+583
+00:46:44,367 --> 00:46:46,330
+[SPEAKER_04]: Let's not have permanent hung parliaments.
+
+584
+00:46:46,310 --> 00:46:50,354
+[SPEAKER_02]: Mr Craig, you're on the front page of the Telegraph today.
+
+585
+00:46:51,896 --> 00:46:54,598
+[SPEAKER_03]: I am indeed, for a complete nonsense story, but let's put that aside.
+
+586
+00:46:54,638 --> 00:46:55,840
+[SPEAKER_03]: Complete rubbish.
+
+587
+00:46:56,821 --> 00:47:14,258
+[SPEAKER_03]: Mary, I think one of the most heartening things, back to your question about people sort of feeling disaffected, one of the most heartening things over the last week, and it's one of the great sort of effects of these leaders debates, these televised leaders debates, is that more and more young people appear to be rushing to register to vote.
+
+588
+00:47:14,238 --> 00:47:15,179
+[SPEAKER_03]: before it's too late.
+
+589
+00:47:15,199 --> 00:47:30,380
+[SPEAKER_03]: Now that is immensely exciting, because there are lots and lots of especially young people, I hope I'm not saying anything out of turn by saying you look fairly young, who might be in your position, who feel, who have felt for so long completely turned off by the old party politics.
+
+590
+00:47:30,601 --> 00:47:35,487
+[SPEAKER_03]: And they're now quite excited, they're beginning to hope, they're beginning to think that we can do something different this time.
+
+591
+00:47:35,668 --> 00:47:36,289
+[SPEAKER_03]: That's what I think.
+
+592
+00:47:36,349 --> 00:47:39,553
+[SPEAKER_03]: I think we can do something different this time, but get stuck in.
+
+593
+00:47:39,533 --> 00:47:41,896
+[SPEAKER_03]: If you didn't vote before, if you didn't register, register.
+
+594
+00:47:41,936 --> 00:47:42,777
+[SPEAKER_03]: It's your country.
+
+595
+00:47:43,017 --> 00:47:44,138
+[SPEAKER_03]: It's your future.
+
+596
+00:47:44,399 --> 00:47:46,141
+[SPEAKER_03]: Assert your right to vote.
+
+597
+00:47:46,181 --> 00:47:48,744
+[SPEAKER_03]: Assert your right to shape your own future.
+
+598
+00:47:48,944 --> 00:47:53,169
+[SPEAKER_03]: And I think then we could make this election one of the most exciting elections we've had in a very long time.
+
+599
+00:47:53,349 --> 00:47:54,150
+[SPEAKER_03]: Mr Brown.
+
+600
+00:47:54,170 --> 00:47:59,055
+[SPEAKER_10]: Mary, let me just say, I was ashamed by the behaviour of some of the MPs in the House of Commons.
+
+601
+00:47:59,676 --> 00:48:01,819
+[SPEAKER_10]: What they did was completely unacceptable.
+
+602
+00:48:02,299 --> 00:48:07,465
+[SPEAKER_10]: And no punishment is too great for them if they have to go before the courts and answer for their crimes.
+
+603
+00:48:07,445 --> 00:48:23,498
+[SPEAKER_10]: And I think we've got to be very clear, we want nobody standing at this election who is not transparent and open about what they're doing, and anybody who breaches the guidelines that we've now laid down, the Independent Standards Authority, should be thrown out of the House of Commons, and indeed out of the House of Lords if they're a member of that as well.
+
+604
+00:48:23,919 --> 00:48:31,705
+[SPEAKER_10]: But you know, when I was talking to young people only yesterday, and talking about politics, if you ask the question, politics don't make a difference, people will probably say yes.
+
+605
+00:48:32,186 --> 00:48:37,350
+[SPEAKER_10]: But if you then ask the question, ah, but my job may depend on decisions that are made by governments,
+
+606
+00:48:37,330 --> 00:48:39,353
+[SPEAKER_10]: then people say, ah, I might be interested.
+
+607
+00:48:39,654 --> 00:48:47,687
+[SPEAKER_10]: When people then say my health service may depend on how much resources government is prepared to invest in the health service, then people say, yes, politics may make a difference.
+
+608
+00:48:47,707 --> 00:48:52,294
+[SPEAKER_10]: And then when you ask about crime and it depends on how many policemen are on the street, then it makes a difference.
+
+609
+00:48:52,535 --> 00:48:58,003
+[SPEAKER_10]: And if you ask about schools and what the standard of your schools are and how you're investing for the future, that makes a difference.
+
+610
+00:48:58,023 --> 00:49:00,908
+[SPEAKER_10]: So I ask Mary to think politics can make a difference.
+
+611
+00:49:00,888 --> 00:49:07,299
+[SPEAKER_04]: Politics can make a difference, Mary, but I would say the politicians in this country have been treating the people as mugs for far too long.
+
+612
+00:49:07,339 --> 00:49:09,703
+[SPEAKER_04]: They've been sort of saying, look, we can do everything.
+
+613
+00:49:09,964 --> 00:49:11,827
+[SPEAKER_04]: Vote for us and we'll solve all your problems.
+
+614
+00:49:12,047 --> 00:49:17,877
+[SPEAKER_04]: Just let us pass a few more laws, spend a bit more money, pass some more regulations, and all the trouble will be fixed.
+
+615
+00:49:17,917 --> 00:49:19,079
+[SPEAKER_04]: And it's not really true.
+
+616
+00:49:19,140 --> 00:49:21,183
+[SPEAKER_04]: It's actually quite a big lie.
+
+617
+00:49:21,263 --> 00:49:23,487
+[SPEAKER_04]: The truth is, if you really want to change things,
+
+618
+00:49:23,467 --> 00:49:30,082
+[SPEAKER_04]: If you want safer streets, if you want better schools, yes the government's got its role, but we've all got our responsibilities too.
+
+619
+00:49:30,402 --> 00:49:32,026
+[SPEAKER_04]: We need to bring up our children properly.
+
+620
+00:49:32,066 --> 00:49:34,130
+[SPEAKER_04]: We've got to make sure we work with the school.
+
+621
+00:49:34,471 --> 00:49:36,135
+[SPEAKER_04]: We've got to make sure we help the police.
+
+622
+00:49:36,436 --> 00:49:38,159
+[SPEAKER_04]: We've got to make sure we have discipline in our schools.
+
+623
+00:49:38,500 --> 00:49:42,589
+[SPEAKER_04]: Real solutions to the problems of the country I think come when we all say,
+
+624
+00:49:42,569 --> 00:49:47,122
+[SPEAKER_04]: I've got responsibilities as well that go beyond paying my taxes and obeying the law.
+
+625
+00:49:47,382 --> 00:49:53,841
+[SPEAKER_04]: It's my society, it's my country, I'm going to elect some politicians but I want to join with them to change the country and make it a better place.
+
+626
+00:49:54,161 --> 00:49:58,333
+[SPEAKER_04]: I think that's a much more honest answer for how we really get the change we need in our country.
+
+627
+00:49:58,313 --> 00:50:05,250
+[SPEAKER_10]: But David, I take responsibility for my decisions and I ask people right throughout society to take responsibility.
+
+628
+00:50:05,731 --> 00:50:08,337
+[SPEAKER_10]: But you can't run the health service on a do-it-yourself principle.
+
+629
+00:50:08,819 --> 00:50:10,062
+[SPEAKER_10]: You've got to finance it properly.
+
+630
+00:50:10,342 --> 00:50:14,753
+[SPEAKER_10]: And I just ask you, why are you wanting to cut our school response rate?
+
+631
+00:50:14,733 --> 00:50:18,580
+[SPEAKER_03]: Can I just go back to Mary's question, which is about people feeling switched off from politics?
+
+632
+00:50:18,600 --> 00:50:21,645
+[SPEAKER_03]: Something which neither of the two old parties want to address is this.
+
+633
+00:50:22,066 --> 00:50:25,312
+[SPEAKER_03]: We have a culture of jobs for life in politics.
+
+634
+00:50:25,572 --> 00:50:34,007
+[SPEAKER_03]: You've got hundreds and hundreds of MPs from the Conservative Party and from the Labour Party, from the old parties, who basically know that all they need to do every four or five years
+
+635
+00:50:33,987 --> 00:50:39,295
+[SPEAKER_03]: is get the vote of 20-30% of people in their community and then ignore everybody else all the rest of the time.
+
+636
+00:50:39,555 --> 00:50:49,450
+[SPEAKER_03]: And of course you then start getting trouble with expenses because of course if you give people jobs for life, these safe seats for life, no questions asked, then of course they start cutting corners.
+
+637
+00:50:49,751 --> 00:50:56,080
+[SPEAKER_03]: That's what we need to change as well as all the other things to do with expenses, House of the Lords and all the other areas which need to be reformed.
+
+638
+00:50:56,060 --> 00:50:58,206
+[SPEAKER_10]: All parties have had to take action.
+
+639
+00:50:58,306 --> 00:51:01,094
+[SPEAKER_10]: We've got to clean up the politics for every single party.
+
+640
+00:51:01,435 --> 00:51:03,862
+[SPEAKER_10]: And anybody who commits an offence is out.
+
+641
+00:51:03,882 --> 00:51:04,604
+[SPEAKER_10]: They're suspended.
+
+642
+00:51:04,865 --> 00:51:05,025
+[SPEAKER_10]: Out.
+
+643
+00:51:05,246 --> 00:51:06,630
+[SPEAKER_10]: They shouldn't be in politics at all.
+
+644
+00:51:06,950 --> 00:51:09,016
+[SPEAKER_10]: Public service is about serving the public.
+
+645
+00:51:09,297 --> 00:51:11,082
+[SPEAKER_10]: It's not about serving yourself.
+
+646
+00:51:11,062 --> 00:51:17,314
+[SPEAKER_04]: to respond to something that Gordon Brown said, which is this issue of responsibility, saying he asked people to take responsibility.
+
+647
+00:51:17,635 --> 00:51:25,149
+[SPEAKER_04]: I think one of the problems in our country today is if you do the right thing, if you take responsibility, all too often actually you're punished rather than rewarded.
+
+648
+00:51:25,209 --> 00:51:29,678
+[SPEAKER_04]: If you work hard and save, actually you don't get the government behind you, you get
+
+649
+00:51:29,658 --> 00:51:32,103
+[SPEAKER_04]: You get punished if you do the right thing.
+
+650
+00:51:32,123 --> 00:51:43,005
+[SPEAKER_04]: Always in my constituency you're meeting couples who say, you know, we're trying to get everything together before we get married, before we have children, and they feel that people who don't do the right thing get pushed up the ladder ahead of them.
+
+651
+00:51:43,246 --> 00:51:48,156
+[SPEAKER_04]: And I think there's a sense of unfairness in our country today which goes to the heart of some of the issues we have in our politics.
+
+652
+00:51:48,136 --> 00:51:59,750
+[SPEAKER_10]: But, David, the biggest unfairness is that the biggest beneficiary from your manifesto is the 3,000 richest people in the country who would get £200,000 each from an inheritance tax cut.
+
+653
+00:52:00,050 --> 00:52:06,337
+[SPEAKER_10]: Now, if you want to be fair, you don't give people an inheritance tax and then cut child tax credits for middle-class families.
+
+654
+00:52:06,558 --> 00:52:07,939
+[SPEAKER_10]: You don't cut the child trust fund.
+
+655
+00:52:08,139 --> 00:52:09,641
+[SPEAKER_10]: You don't cut the school's budget.
+
+656
+00:52:09,661 --> 00:52:12,585
+[SPEAKER_10]: You don't have your do-it-yourself society, which means you cut the school's budget.
+
+657
+00:52:12,605 --> 00:52:13,486
+[SPEAKER_03]: The question is about trust.
+
+658
+00:52:13,646 --> 00:52:14,947
+[SPEAKER_03]: Paul Mary asked about politics.
+
+659
+00:52:14,967 --> 00:52:16,449
+[SPEAKER_03]: She's been told about tax credits.
+
+660
+00:52:16,529 --> 00:52:17,130
+[SPEAKER_03]: I mean, look.
+
+661
+00:52:17,110 --> 00:52:19,833
+[SPEAKER_03]: Well, David Cameron talked about responsibility.
+
+662
+00:52:20,033 --> 00:52:20,514
+[SPEAKER_03]: Absolutely.
+
+663
+00:52:20,594 --> 00:52:24,098
+[SPEAKER_03]: We need to make sure that people are responsible where they have made big mistakes.
+
+664
+00:52:24,378 --> 00:52:41,478
+[SPEAKER_03]: It is a fact that there are a number of MPs in both the old parties who flipped their home from one to the next, paying from your taxpayer-funded expenses to buy properties, do them up, sell them, buy them up, do them up, sell them, and then pocket the difference in personal profit, who still haven't been held to account.
+
+665
+00:52:41,678 --> 00:52:46,864
+[SPEAKER_03]: Now, you can't move on unless the people have done something seriously wrong on a big scale.
+
+666
+00:52:46,844 --> 00:52:49,607
+[SPEAKER_04]: The expenses scandal made people incredibly angry.
+
+667
+00:52:49,747 --> 00:52:52,590
+[SPEAKER_04]: People also got angry by politicians saying, I only obeyed the rules.
+
+668
+00:52:53,030 --> 00:52:58,215
+[SPEAKER_04]: I think they're now starting to get angry by some politicians saying, well, my party was much better than all the others.
+
+669
+00:52:58,436 --> 00:53:08,946
+[SPEAKER_04]: Frankly, Nick, we all had problems with this, whether it was moats or whether it was politicians claiming on phantom mortgages or whether it was kitchens and cake tins and the rest of it.
+
+670
+00:53:08,966 --> 00:53:11,809
+[SPEAKER_04]: Don't anyone try and put themselves on a pedestal over this issue.
+
+671
+00:53:12,069 --> 00:53:15,973
+[SPEAKER_04]: Let's actually sort it out and clean it up and recognise we were all in this mess.
+
+672
+00:53:15,953 --> 00:53:22,842
+[SPEAKER_10]: No one should be standing at this election if they are not transparent and tell you everything about what they are doing with their finances.
+
+673
+00:53:23,302 --> 00:53:26,987
+[SPEAKER_10]: They shouldn't be having second jobs either, and that's all too common in the House of Commons.
+
+674
+00:53:27,247 --> 00:53:30,451
+[SPEAKER_10]: They should be working full-time for their constituents' interests.
+
+675
+00:53:30,471 --> 00:53:41,505
+[SPEAKER_10]: And they shouldn't be in a position where they're not telling you that they will come and report to you every month on what they're doing, holding local surgeries, being held to account, and if they're not doing the right thing and are corrupt,
+
+676
+00:53:41,485 --> 00:53:43,107
+[SPEAKER_10]: you have the right to recall them.
+
+677
+00:53:43,207 --> 00:53:50,576
+[SPEAKER_10]: That's the most important thing that we can do now to clean up what has been a terrible scandal and something that I am ashamed of on behalf of all politicians.
+
+678
+00:53:50,656 --> 00:53:52,939
+[SPEAKER_03]: Of course, of course, no one is blemish free.
+
+679
+00:53:52,959 --> 00:53:54,041
+[SPEAKER_03]: Of course people aren't angels.
+
+680
+00:53:54,101 --> 00:54:04,834
+[SPEAKER_03]: But the point is this, if you're going to try and persuade people to invest trust again, which was Mary's question, into politicians, then it's just not good enough just to talk the talk and not walk the walk.
+
+681
+00:54:04,854 --> 00:54:05,535
+[SPEAKER_03]: You can't say you want
+
+682
+00:54:05,515 --> 00:54:16,135
+[SPEAKER_02]: to clean up funding and then block deals to do precisely that.
+
+683
+00:54:16,276 --> 00:54:22,748
+[SPEAKER_05]: Having brought up five children, worked most of my life,
+
+684
+00:54:23,285 --> 00:54:39,977
+[SPEAKER_05]: reach the age of 84, do all of you think that a state pension of £59 per week is a just reward?
+
+685
+00:54:39,957 --> 00:54:46,484
+[SPEAKER_10]: to make up the pension from what you've had as a result of your earnings being interrupted during the course of your life.
+
+686
+00:54:46,524 --> 00:54:47,325
+[SPEAKER_10]: Now, what are we doing now?
+
+687
+00:54:47,806 --> 00:54:53,272
+[SPEAKER_10]: We're going to link pensions to earnings in 2012, so every pension will be linked to earnings and not just prices.
+
+688
+00:54:53,772 --> 00:55:02,742
+[SPEAKER_10]: Secondly, women, and you are one of them, who have not had the full state pension, we are making it possible for all women in future to have that full state pension.
+
+689
+00:55:02,722 --> 00:55:06,647
+[SPEAKER_10]: And thirdly, of course, we've got to deal with the poverty that people face as pensioners.
+
+690
+00:55:06,967 --> 00:55:25,932
+[SPEAKER_10]: And that's why the pension credit, the winter fuel allowance, all these things have been introduced, the free concessionary travel as well, the free television licences over 75, all of these have been introduced over the last few years because the one thing that scandalises our society above all else is that we cannot give dignity and security to all pensioners in retirement.
+
+691
+00:55:25,952 --> 00:55:27,855
+[SPEAKER_10]: That's what I want to see and that's what I want to do.
+
+692
+00:55:28,175 --> 00:55:29,016
+[SPEAKER_10]: David Cameron.
+
+693
+00:55:29,384 --> 00:55:35,111
+[SPEAKER_04]: £59 is not enough and we have got to do better as a society at giving people what we all want.
+
+694
+00:55:35,291 --> 00:55:40,598
+[SPEAKER_04]: Those that have done the right thing through their lives we should be giving you dignity and security in old age.
+
+695
+00:55:41,059 --> 00:55:45,284
+[SPEAKER_04]: Now I agree we need to uprate the pension in line with earnings rather than prices.
+
+696
+00:55:45,724 --> 00:55:53,434
+[SPEAKER_04]: The reason I feel I can give you that answer with total confidence that we really will deliver this is that we've made a tough decision to go with it.
+
+697
+00:55:53,414 --> 00:55:59,206
+[SPEAKER_04]: which is to say that from 2016 we're going to ask, starting with men, to retire a year later.
+
+698
+00:55:59,467 --> 00:56:12,435
+[SPEAKER_04]: That means we can fund this pledge because we all know we have an enormous budget deficit, there isn't any money left in the kitty, and so if we're going to make promises like that, and it's a big promise, an important promise, we've got to say how we're going to pay for it.
+
+699
+00:56:12,415 --> 00:56:20,987
+[SPEAKER_04]: Now I want to make sure that when we see people going into old age, that if you've worked hard, if you've saved, if you've put money aside, you're not punished.
+
+700
+00:56:21,007 --> 00:56:28,637
+[SPEAKER_04]: And that's why we say as well, it's not right that you should have to pay for your residential care and someone who didn't do the right thing gets the whole thing paid for free.
+
+701
+00:56:28,817 --> 00:56:30,259
+[SPEAKER_04]: That's not fair and we're going to change that.
+
+702
+00:56:30,620 --> 00:56:31,120
+[SPEAKER_02]: Nick Clegg.
+
+703
+00:56:31,922 --> 00:56:34,265
+[SPEAKER_03]: Grace, the earnings link needs to be restored.
+
+704
+00:56:34,826 --> 00:56:36,668
+[SPEAKER_03]: It needs to be restored immediately.
+
+705
+00:56:36,648 --> 00:56:38,070
+[SPEAKER_03]: I think there's just no doubt about that.
+
+706
+00:56:38,090 --> 00:56:39,552
+[SPEAKER_03]: It shouldn't have been broken in the first place.
+
+707
+00:56:39,632 --> 00:56:40,874
+[SPEAKER_03]: You've lost out for many years.
+
+708
+00:56:41,275 --> 00:56:42,196
+[SPEAKER_03]: It needs to be restored.
+
+709
+00:56:42,456 --> 00:56:52,291
+[SPEAKER_03]: But something which I'm sure you're familiar with, which is that there are so many other costs which the elderly have to confront, which really do make it extremely difficult to make ends meet.
+
+710
+00:56:52,772 --> 00:56:53,593
+[SPEAKER_03]: Fuel costs.
+
+711
+00:56:53,613 --> 00:56:56,237
+[SPEAKER_03]: We just had a very cold winter, for example, is a very good example.
+
+712
+00:56:56,757 --> 00:57:03,347
+[SPEAKER_03]: I got a letter a few months ago from an elderly couple who said to me they now found it so difficult
+
+713
+00:57:03,327 --> 00:57:12,556
+[SPEAKER_03]: to heat their homes on cold winter days, that on those cold winter days they get into a bus in their town and travel around the bus just to stay warm.
+
+714
+00:57:12,576 --> 00:57:13,296
+[SPEAKER_03]: That is wrong.
+
+715
+00:57:13,697 --> 00:57:19,342
+[SPEAKER_03]: It is wrong that energy companies charge you more for the first bits of energy that you use in your home than the later bits.
+
+716
+00:57:19,362 --> 00:57:27,049
+[SPEAKER_03]: That means that someone who's heating a great big five-storey mansion is paying cheaper, paying less for their energy than someone who's just heating a one-bedroom flat.
+
+717
+00:57:27,350 --> 00:57:31,694
+[SPEAKER_03]: That needs to change too so we can give you the dignity that you deserve.
+
+718
+00:57:32,194 --> 00:57:32,895
+[SPEAKER_10]: Gordon Brown.
+
+719
+00:57:32,875 --> 00:57:42,989
+[SPEAKER_10]: Well, I think Grace's issue is that every woman should have a full state pension, and I think it's right that we say that that is what we're going to do as a result of our pension reforms.
+
+720
+00:57:43,329 --> 00:57:53,403
+[SPEAKER_10]: But it's also the case that everyone who works for an employer will now also have an occupational pension, and that is another change that we're making that is coming in in the Parliament to come.
+
+721
+00:57:53,904 --> 00:58:00,553
+[SPEAKER_10]: Now, when we look at the needs of pensioners, it's absolutely true to say we need help with urgent needs, social care in the home,
+
+722
+00:58:00,533 --> 00:58:06,048
+[SPEAKER_10]: And that's what we're introducing over the next few months, so that people don't have to go into opiate homes.
+
+723
+00:58:06,069 --> 00:58:12,226
+[SPEAKER_10]: They can get the home helps and the health visitors that are necessary for them, so that they can have comfort in their own homes.
+
+724
+00:58:12,607 --> 00:58:15,876
+[SPEAKER_10]: But I've got one or two problems with the two manifestos of the other parties.
+
+725
+00:58:15,856 --> 00:58:20,164
+[SPEAKER_10]: David doesn't seem to have mentioned free prescriptions for the elderly or free eye tests.
+
+726
+00:58:20,965 --> 00:58:26,976
+[SPEAKER_10]: And to be honest, Nick has got a problem in his manifesto because he seems to be cutting the budget of the winter fuel allowance this year.
+
+727
+00:58:27,296 --> 00:58:32,245
+[SPEAKER_10]: And I would like them to explain to the pensioners of this country what, in fact, they propose to do.
+
+728
+00:58:32,225 --> 00:58:33,427
+[SPEAKER_04]: David Cameron, your chance.
+
+729
+00:58:33,447 --> 00:58:42,159
+[SPEAKER_04]: I just think it is disgraceful to try and frighten people in an election campaign, as Gordon Brown has just done, and as the Labour Party are doing up and down this country.
+
+730
+00:58:42,180 --> 00:58:55,879
+[SPEAKER_04]: And I'd like to take this opportunity to say very clearly to any pensioner in the audience, anyone listening at home, that we will keep the free television licence, we'll keep the pension credit, we'll keep the winter fuel allowance, we'll keep the free bus pass.
+
+731
+00:58:55,899 --> 00:59:01,067
+[SPEAKER_04]: Those leaflets you've been getting from Labour, those letters you've been getting from Labour, are pure and simple
+
+732
+00:59:01,047 --> 00:59:01,528
+[SPEAKER_04]: lies.
+
+733
+00:59:01,669 --> 00:59:03,414
+[SPEAKER_04]: A politician shouldn't say lies very often.
+
+734
+00:59:03,434 --> 00:59:07,665
+[SPEAKER_04]: I say it because I've seen those leaflets and they make me really very very angry.
+
+735
+00:59:07,906 --> 00:59:10,213
+[SPEAKER_04]: You should not be frightening people in an election campaign.
+
+736
+00:59:10,293 --> 00:59:11,817
+[SPEAKER_04]: It's just not right.
+
+737
+00:59:13,062 --> 00:59:20,734
+[SPEAKER_03]: Well, firstly, before I respond to Gordon Brown's invitation, I'm glad you've been reading our manifesto with such care.
+
+738
+00:59:20,954 --> 00:59:22,056
+[SPEAKER_03]: Absolutely.
+
+739
+00:59:22,076 --> 00:59:25,020
+[SPEAKER_03]: There are 2.5 million pensioners who are in poverty.
+
+740
+00:59:25,040 --> 00:59:32,171
+[SPEAKER_03]: So after 13 years of all Labour's promises about giving a fair deal to pensioners, 2.5 million pensioners in poverty.
+
+741
+00:59:32,411 --> 00:59:34,294
+[SPEAKER_03]: That's how bad it is.
+
+742
+00:59:34,274 --> 00:59:40,165
+[SPEAKER_03]: I think we need to therefore make sure that we use what little money we've got, and money is tight at the moment, wisely.
+
+743
+00:59:40,206 --> 00:59:41,308
+[SPEAKER_03]: And what we're saying is this.
+
+744
+00:59:41,729 --> 00:59:45,115
+[SPEAKER_03]: The winter fuel payments, the eligibility, the age of eligibility is going to rise.
+
+745
+00:59:45,155 --> 00:59:49,604
+[SPEAKER_03]: This is a decision which Gordon Brown's government has already taken from 60 to 65 in the coming years.
+
+746
+00:59:49,965 --> 00:59:54,814
+[SPEAKER_03]: We're saying if you bring that forward, you could use the money to actually extend the winter fuel payments
+
+747
+00:59:54,794 --> 01:00:00,159
+[SPEAKER_03]: to people who are terminally ill and disabled who at the moment don't get access to the winter fuel payments.
+
+748
+01:00:00,179 --> 01:00:01,140
+[SPEAKER_03]: I think that is fair.
+
+749
+01:00:01,440 --> 01:00:04,904
+[SPEAKER_03]: And by the way, one final thing, we've talked about social care, we talked about this last week.
+
+750
+01:00:04,924 --> 01:00:10,369
+[SPEAKER_03]: I really cannot stress enough, I think that's one issue where we just have got to put people before politics for once.
+
+751
+01:00:10,649 --> 01:00:17,476
+[SPEAKER_03]: This is something which is such a big issue, we need to agree on a common approach because that's the only way we're going to provide good social care for everyone.
+
+752
+01:00:18,337 --> 01:00:19,598
+[SPEAKER_10]: I do seem to be right.
+
+753
+01:00:19,698 --> 01:00:21,660
+[SPEAKER_10]: David did not mention free eye tests.
+
+754
+01:00:21,680 --> 01:00:22,641
+[SPEAKER_04]: Well let me do it right now.
+
+755
+01:00:22,621 --> 01:00:23,983
+[SPEAKER_04]: keep them, right now.
+
+756
+01:00:24,043 --> 01:00:25,344
+[SPEAKER_04]: OK, well let me challenge you then.
+
+757
+01:00:25,645 --> 01:00:28,148
+[SPEAKER_04]: That's good because it's not in your manifesto.
+
+758
+01:00:28,288 --> 01:00:34,275
+[SPEAKER_04]: Will you withdraw the leaflets that are going out round the country saying that the Conservatives would take away things like the free bus pass?
+
+759
+01:00:34,295 --> 01:00:36,598
+[SPEAKER_10]: You know, you really should be ashamed of doing things like that.
+
+760
+01:00:36,638 --> 01:00:38,880
+[SPEAKER_10]: David, I have not authorised any leaflets like that.
+
+761
+01:00:38,960 --> 01:00:44,807
+[SPEAKER_10]: What I would ask you to say is why is it not in your manifesto that you're keeping free eye tests and free prescription charges?
+
+762
+01:00:45,128 --> 01:00:50,434
+[SPEAKER_10]: And to Nick I would say, if you're cutting the winter fuel allowance, that means that some people will suffer this year
+
+763
+01:00:50,414 --> 01:00:59,392
+[SPEAKER_10]: We've already said that all pensioners over 60, all households, will get £250 as the winter fuel allowance and £400 if you're over 80.
+
+764
+01:00:59,692 --> 01:01:02,678
+[SPEAKER_10]: Now that's an innovation we brought in during the period of the Labour government.
+
+765
+01:01:02,698 --> 01:01:09,672
+[SPEAKER_10]: I would not like to see it cut in one of the most difficult years for pensioners when we're just coming out of recession, but you seem to be cutting it.
+
+766
+01:01:09,652 --> 01:01:17,141
+[SPEAKER_03]: Well, I've explained before, I don't think there's much point to it again, because we are actually extending the winter fuel payment to people who are terminally ill and disabled who presently don't get it.
+
+767
+01:01:17,382 --> 01:01:20,666
+[SPEAKER_03]: We're doing that by bringing forward a decision that Gordon Brown's government has made.
+
+768
+01:01:20,686 --> 01:01:29,096
+[SPEAKER_03]: But can I just say again, before this completely collapses into a game of political ping-pong, there are big issues about how we look after the elderly, which are huge.
+
+769
+01:01:29,236 --> 01:01:31,139
+[SPEAKER_03]: They are financially huge, they're socially huge.
+
+770
+01:01:31,299 --> 01:01:34,403
+[SPEAKER_03]: It's one of the biggest issues we face on how we can provide social care.
+
+771
+01:01:34,823 --> 01:01:35,524
+[SPEAKER_03]: None of us...
+
+772
+01:01:35,504 --> 01:01:43,679
+[SPEAKER_03]: None of us have got, well none of us, well yes but it's also related to it because it's all about providing dignity to people in old age, which was Grace's question.
+
+773
+01:01:43,699 --> 01:01:56,061
+[SPEAKER_03]: And I don't think that we're going to serve the elderly today or those in the future very well if we hijack everything with cheap political point scoring when we could work together on a solution that works for many years into the future.
+
+774
+01:01:56,041 --> 01:02:08,555
+[SPEAKER_04]: Well, I do think it is about dignity and security in old age to be able to say to elderly people that you should be able to, if you've worked hard and saved hard, you should be able to pass your home on to your children rather than have to use it to pay for your care.
+
+775
+01:02:08,595 --> 01:02:17,785
+[SPEAKER_04]: And that's why we have this plan that if you put aside £8,000 when you become 65, then you'd have that guarantee that your home would be there for your children because you've done the right thing.
+
+776
+01:02:17,965 --> 01:02:19,467
+[SPEAKER_04]: Now, that doesn't solve the whole problem.
+
+777
+01:02:19,447 --> 01:02:28,863
+[SPEAKER_04]: But it does seem to me that's a very good start, ending the unfairness of all those thousands of people who've done the right thing, who've worked hard in their lives, who then get penalised and punished by the system.
+
+778
+01:02:28,883 --> 01:02:32,570
+[SPEAKER_10]: But the first stage to doing that is making sure that people can stay in their own homes.
+
+779
+01:02:32,630 --> 01:02:34,553
+[SPEAKER_10]: That's the urgent social needs payments.
+
+780
+01:02:34,533 --> 01:02:39,200
+[SPEAKER_10]: that should be available to all, so that they can stay in their own homes without worrying about finance.
+
+781
+01:02:39,340 --> 01:02:45,450
+[SPEAKER_10]: The next thing we've got to do is make sure if people have to go into old people's homes, then there is a limit on the costs they have to bear.
+
+782
+01:02:45,850 --> 01:02:50,758
+[SPEAKER_10]: Otherwise, they will lose their home and they have to choose between the care they need and the home that they own.
+
+783
+01:02:50,998 --> 01:02:59,511
+[SPEAKER_10]: So in the next Parliament, what we're proposing to do is put a two-year limit on payments, so that if you are, for example, suffering from Alzheimer's or other diseases,
+
+784
+01:02:59,491 --> 01:03:08,185
+[SPEAKER_10]: and you have to be in an old people's home for a longer period of time, can't be in your own home, we will suspend any payments after two years for personal and medical care.
+
+785
+01:03:08,485 --> 01:03:18,622
+[SPEAKER_03]: Well, related to that, and I think we are, you know, related to that of course is those people who look after loved ones who are elderly and need help with cleaning, washing, getting dressed, getting fed.
+
+786
+01:03:18,662 --> 01:03:28,037
+[SPEAKER_03]: And I do think, and I think in the past we've all agreed this is something we need to look at, is we need to provide more respite, more time off for people who care for their loved ones in that way.
+
+787
+01:03:28,318 --> 01:03:29,700
+[SPEAKER_03]: We have got a proposal
+
+788
+01:03:29,680 --> 01:03:47,200
+[SPEAKER_03]: which would take the money which the government is allocated to its rather flawed bill on social care and use it instead to say to those who provide a lot of care every week look here's money so you can take a week off and spend some time with yourself on holiday just getting a break because I think speaking to any carer as we know that makes a huge huge dramatic difference to their lives.
+
+789
+01:03:47,180 --> 01:03:51,644
+[SPEAKER_04]: The point about helping carers is I think we need to help them go on doing what they're doing.
+
+790
+01:03:51,684 --> 01:03:55,188
+[SPEAKER_04]: Talk to any carer and they will say the one thing I need is a break.
+
+791
+01:03:55,208 --> 01:04:05,117
+[SPEAKER_04]: And I don't think we do enough now to actually put the budget in their hands and say, you know, you decide how best to get that respite break, to get the extra help in your home.
+
+792
+01:04:05,517 --> 01:04:09,661
+[SPEAKER_04]: I remember trying to do this myself with the care for our son and it's incredibly complicated.
+
+793
+01:04:10,002 --> 01:04:14,566
+[SPEAKER_04]: This whole agenda should be about putting power and control in people's hands, letting them do more.
+
+794
+01:04:14,726 --> 01:04:16,748
+[SPEAKER_04]: Because if Britain's armies of carers gave up,
+
+795
+01:04:16,728 --> 01:04:21,739
+[SPEAKER_04]: That would cost our country £50 billion and actually would lead to heartbreak for so many people.
+
+796
+01:04:21,799 --> 01:04:24,465
+[SPEAKER_04]: They really are heroes and heroines and we need to do more to help them.
+
+797
+01:04:24,525 --> 01:04:32,222
+[SPEAKER_02]: We will move on to the next question and the next question comes from Frank Hemsworth from Whitney in Oxfordshire.
+
+798
+01:04:32,202 --> 01:04:48,422
+[SPEAKER_11]: Gentlemen, given the current financial difficulties facing the country, and now the possibility of a hung Parliament according to the polls, is it time to put aside political differences and form a government of the best talents from all the major parties?
+
+799
+01:04:48,402 --> 01:04:50,424
+[SPEAKER_02]: Is a coalition government the best way forward, David Cameron?
+
+800
+01:04:50,444 --> 01:04:53,388
+[SPEAKER_04]: Well, I think we should try and work together where we can.
+
+801
+01:04:53,828 --> 01:04:55,770
+[SPEAKER_04]: I've always thought that's important in politics.
+
+802
+01:04:56,051 --> 01:05:00,155
+[SPEAKER_04]: I helped Tony Blair get his education bill through Parliament because I thought it was a good bill.
+
+803
+01:05:00,636 --> 01:05:03,099
+[SPEAKER_04]: Even though a lot of Labour MPs weren't backing it, we did that.
+
+804
+01:05:03,359 --> 01:05:04,220
+[SPEAKER_04]: That helped it go through.
+
+805
+01:05:04,581 --> 01:05:13,190
+[SPEAKER_04]: On the issue of Trident that we've covered already tonight, we put the possibility of defeating Labour aside, backed them to do the right thing.
+
+806
+01:05:13,911 --> 01:05:15,473
+[SPEAKER_04]: And obviously, if there is a hung Parliament,
+
+807
+01:05:15,453 --> 01:05:19,578
+[SPEAKER_04]: We must be responsible, we must try and deliver the best government we can for this country.
+
+808
+01:05:19,939 --> 01:05:31,212
+[SPEAKER_04]: But actually, if you want my frank and honest answer, I don't think a hung parliament would be good for Britain because I think we do need quite decisive government to take some of the difficult decisions for the long term.
+
+809
+01:05:31,453 --> 01:05:37,360
+[SPEAKER_04]: Now we've set out some of the things that need to be done to get the debt and the deficit under control and I fear if we put them off,
+
+810
+01:05:37,340 --> 01:05:48,338
+[SPEAKER_04]: We could have a situation where we see interest rates rise, we see confidence taken out of our economy, and I think we need change to get on top of the deficit, start solving these problems so we get our economy moving.
+
+811
+01:05:48,699 --> 01:05:48,979
+[SPEAKER_03]: Thank you.
+
+812
+01:05:49,019 --> 01:05:49,420
+[SPEAKER_03]: Nick Clegg.
+
+813
+01:05:49,440 --> 01:06:00,979
+[SPEAKER_03]: Well, I think, Frank, you're right on the simple assertion you're making, that when the country's facing very big issues, we just talked about social care, but the one that you're highlighting is, of course, the black hole in the public finances.
+
+814
+01:06:01,139 --> 01:06:02,301
+[SPEAKER_03]: It is better
+
+815
+01:06:02,281 --> 01:06:07,029
+[SPEAKER_03]: I know it's an unfashionable thing to say, but it's better if politicians actually try and work together.
+
+816
+01:06:07,049 --> 01:06:24,458
+[SPEAKER_03]: That's why I proposed several weeks ago now that irrespective of the outcome of the next election, why don't we set up something which I call a Council for Financial Stability, and you'd gather in that Council for Financial Stability the Chancellor and the Shadow Chancellors, the Governor of the Bank of England, the Head of the Financial Services Authority, to do one simple thing.
+
+817
+01:06:24,438 --> 01:06:41,301
+[SPEAKER_03]: which is to come clean with you about how big this black hole is, because there's still dispute about exactly how bad it is, and then have an agreement on roughly how long it would take to fill it, so that everybody, in a sense, is being open with you, which hasn't really happened until now, about how bad this situation is and how together we're going to get out of it.
+
+818
+01:06:41,621 --> 01:06:44,785
+[SPEAKER_03]: So I do think there is potential for politicians to work with each other.
+
+819
+01:06:44,825 --> 01:06:50,513
+[SPEAKER_03]: Don't believe all these ludicrous scare stories about markets and political Armageddon if that is what happens.
+
+820
+01:06:50,493 --> 01:06:51,394
+[SPEAKER_10]: Thank you, Gordon Brown.
+
+821
+01:06:51,755 --> 01:07:01,329
+[SPEAKER_10]: You see, Nick, we already have what's called the Business Council for Britain, and that brings together all the leading businessmen and women in our country with government ministers to look at what we can do.
+
+822
+01:07:01,730 --> 01:07:10,382
+[SPEAKER_10]: We have the Tripartite Committee for Financial Stability, which brings together the Governor of the Bank of England and the Head of the Financial Services Authority and the Chancellor of the Exchequer.
+
+823
+01:07:10,402 --> 01:07:19,656
+[SPEAKER_10]: We already have these things, but the key thing is that we've got to have an agreed plan to reduce the deficit, protect our public services and get growth in the economy.
+
+824
+01:07:19,636 --> 01:07:24,964
+[SPEAKER_10]: and I'm afraid that we don't have agreement on what needs to be done even this year to sort the economy out.
+
+825
+01:07:25,445 --> 01:07:27,488
+[SPEAKER_10]: I want to see our economy grow this year.
+
+826
+01:07:27,828 --> 01:07:29,711
+[SPEAKER_10]: I want to see unemployment come down.
+
+827
+01:07:30,132 --> 01:07:38,324
+[SPEAKER_10]: I want to see businesses thrive and that means we've got to keep the government support in the economy for the time being, something the Conservatives don't want to do.
+
+828
+01:07:38,784 --> 01:07:42,650
+[SPEAKER_10]: But I also want to say we should never take the votes of people for granted.
+
+829
+01:07:42,971 --> 01:07:47,938
+[SPEAKER_10]: The public must decide and then it's up to the politicians to do what the public wants them to do.
+
+830
+01:07:47,918 --> 01:07:54,009
+[SPEAKER_10]: So it's for the voters to decide, you're the boss, it's your decisions that will count and you have the vote to make a difference.
+
+831
+01:07:54,189 --> 01:07:54,390
+[SPEAKER_02]: Thank you.
+
+832
+01:07:54,410 --> 01:08:05,189
+[SPEAKER_02]: I think before we go on to the rebuttal round I'd remind you this is a question not about cooperation, it's about coalition, it's about people looking at where the opinion polls are, what might happen after the election and obviously they want to know your views.
+
+833
+01:08:05,229 --> 01:08:05,910
+[SPEAKER_02]: David Cameron.
+
+834
+01:08:05,890 --> 01:08:10,194
+[SPEAKER_04]: Well, I said very, very frankly that, you know, if it's a hung Parliament, we'll do our best to make it work.
+
+835
+01:08:10,314 --> 01:08:24,728
+[SPEAKER_04]: If we win the election outright, I'd do everything I can to try and take the country with us on some of these difficult decisions, and also try and take other politicians with us, because there will be some hard times before we get out of this and actually get the deficit sorted.
+
+836
+01:08:25,088 --> 01:08:33,055
+[SPEAKER_04]: But there is a problem in that you do need to have agreement, and there's a fundamental disagreement between me and the other two parties about what we do this year.
+
+837
+01:08:33,196 --> 01:08:33,636
+[SPEAKER_04]: I think we
+
+838
+01:08:33,616 --> 01:08:42,084
+[SPEAKER_04]: badly need to roll up our sleeves and make some savings this year so we can stop the jobs tax, the national insurance tax rise that is coming down the road.
+
+839
+01:08:42,104 --> 01:08:48,611
+[SPEAKER_04]: Because I think when you've got an economy that's trying to recover, the worst thing you can do is put a tax on every single job in our country.
+
+840
+01:08:48,651 --> 01:08:53,456
+[SPEAKER_04]: And that's why over 1,100 business leaders have said, don't do this.
+
+841
+01:08:53,556 --> 01:08:58,160
+[SPEAKER_04]: They've said very clearly, the threat to our recovery is not cutting waste.
+
+842
+01:08:58,221 --> 01:08:59,742
+[SPEAKER_04]: The threat is the jobs tax.
+
+843
+01:08:59,722 --> 01:09:14,743
+[SPEAKER_03]: The others don't agree about that, but I badly think we really, really need to stop this tax that could kill our recovery and kill jobs.
+
+844
+01:09:14,723 --> 01:09:15,564
+[SPEAKER_03]: I don't think it is.
+
+845
+01:09:15,824 --> 01:09:18,889
+[SPEAKER_03]: In many other parts of the world, it would seem to be a completely standard.
+
+846
+01:09:18,929 --> 01:09:22,674
+[SPEAKER_03]: I mean, Gordon Brown has talked about various bodies, but none of them actually involving the different parties.
+
+847
+01:09:23,134 --> 01:09:31,726
+[SPEAKER_03]: David Cameron says he'll try and make a hung parliament work, but spends all his time in the newspapers this week making those ludicrous claims about total meltdown, as if the world will end.
+
+848
+01:09:31,986 --> 01:09:34,149
+[SPEAKER_03]: The world won't end, and it'll be your choice.
+
+849
+01:09:34,590 --> 01:09:41,980
+[SPEAKER_03]: If you decide that no one here deserves an outright majority, then, of course, we'll just need to be open about it and talk to each other.
+
+850
+01:09:41,960 --> 01:09:47,451
+[SPEAKER_03]: We'll talk to each other in order to provide the good government, the sound government, that you deserve.
+
+851
+01:09:47,531 --> 01:09:57,150
+[SPEAKER_03]: Because you deserve a government where we put your interests first and don't allow everything, constantly, to be hijacked by short-term political point scoring.
+
+852
+01:09:57,198 --> 01:10:05,070
+[SPEAKER_10]: Well I want the parties to work together and when I became Prime Minister I invited one or two liberals to do things like Shirley Williams to do things for the government.
+
+853
+01:10:05,630 --> 01:10:17,488
+[SPEAKER_10]: I invited people who are businessmen and women to come into the government and work with us for national economic benefit and I will continue to ask people to give their talents to public service and that is something that's really important to do.
+
+854
+01:10:17,969 --> 01:10:22,395
+[SPEAKER_10]: But there is this fundamental position about this year and I think we've got to resolve this.
+
+855
+01:10:22,375 --> 01:10:26,301
+[SPEAKER_10]: I've had to take the economy through the most difficult global financial crisis.
+
+856
+01:10:26,681 --> 01:10:33,591
+[SPEAKER_10]: We made the right decisions to take ownership of the banks and the right decisions to get the world together to deal with that recession.
+
+857
+01:10:34,091 --> 01:10:37,476
+[SPEAKER_10]: Every time we've said we have to support the economy through difficult times.
+
+858
+01:10:37,877 --> 01:10:44,826
+[SPEAKER_10]: Now, what David's saying is even when it's fragile, he wants for ideological reasons, I think, to take six billion pounds out of the economy.
+
+859
+01:10:45,167 --> 01:10:47,370
+[SPEAKER_10]: That puts thousands of jobs, teachers,
+
+860
+01:10:47,350 --> 01:10:50,815
+[SPEAKER_10]: It puts policemen, it puts thousands of jobs at risk immediately.
+
+861
+01:10:51,175 --> 01:10:53,879
+[SPEAKER_10]: And that's why they're talking about an emergency budget in June.
+
+862
+01:10:54,219 --> 01:10:56,142
+[SPEAKER_10]: David, you're a risk to the economy.
+
+863
+01:10:56,522 --> 01:10:59,446
+[SPEAKER_10]: Nick's a risk to our security with his nuclear weapons policy.
+
+864
+01:10:59,807 --> 01:11:00,948
+[SPEAKER_10]: You're a risk to the economy.
+
+865
+01:11:01,529 --> 01:11:05,815
+[SPEAKER_04]: Well, I just think it's another attempt to try and frighten people after 13 years of failure.
+
+866
+01:11:05,835 --> 01:11:09,460
+[SPEAKER_04]: 13 years in which we now have a budget deficit the same size as Greece.
+
+867
+01:11:09,440 --> 01:11:13,328
+[SPEAKER_04]: And don't take it from me, take it from the 1,100 business leaders.
+
+868
+01:11:13,348 --> 01:11:22,927
+[SPEAKER_04]: You know, people who run Sainsbury's, Mothercare, Next, Marks & Spencers, these great British businesses are going to help us out of recession saying cut the waste this year, stop the jobs tax next year.
+
+869
+01:11:22,947 --> 01:11:29,220
+[SPEAKER_04]: But to go back to Frank's question, I do have one specific proposal where I really think we should come together much more effectively.
+
+870
+01:11:29,200 --> 01:11:35,127
+[SPEAKER_04]: And that is, I want to see the National Security Council sitting as a war cabinet from day one if I become Prime Minister.
+
+871
+01:11:35,147 --> 01:11:38,531
+[SPEAKER_04]: Because day one, Afghanistan is the top priority, getting it right.
+
+872
+01:11:38,751 --> 01:11:50,684
+[SPEAKER_04]: And I would invite, as Prime Minister, the leaders of the other two main parties to come to that meeting several times a year to make sure that they were really seeing the advice we were getting from the security services, from the generals, from the chiefs of staff.
+
+873
+01:11:51,025 --> 01:11:55,630
+[SPEAKER_04]: I think in matters of peace and war, you've got to bring people together better than we do now.
+
+874
+01:11:55,610 --> 01:12:07,040
+[SPEAKER_03]: The only thing I would add to this discussion in response to Frank is that if politicians are going to talk to each other, then I think what we need to do is be up front about what our priorities are.
+
+875
+01:12:07,100 --> 01:12:11,664
+[SPEAKER_03]: We need to be up front about what we would seek in any discussion with other parties.
+
+876
+01:12:11,684 --> 01:12:14,167
+[SPEAKER_03]: I've been very up front, dealing obviously with the fiscal deficit.
+
+877
+01:12:14,187 --> 01:12:17,890
+[SPEAKER_03]: We've been much more open about how we would do that than the other two parties.
+
+878
+01:12:18,150 --> 01:12:22,494
+[SPEAKER_03]: But also tax reform, educational reform, political reform, those are our priorities.
+
+879
+01:12:22,534 --> 01:12:25,617
+[SPEAKER_03]: That's what we would fight for in whatever situation arises after the
+
+880
+01:12:25,597 --> 01:12:29,081
+[SPEAKER_10]: The priority at the moment is making sure that we have an economic recovery.
+
+881
+01:12:29,621 --> 01:12:31,884
+[SPEAKER_10]: Making sure that we don't have higher unemployment.
+
+882
+01:12:32,464 --> 01:12:34,647
+[SPEAKER_10]: Unemployment in America is a lot higher than Britain.
+
+883
+01:12:34,867 --> 01:12:36,469
+[SPEAKER_10]: Unemployment in Europe is a lot higher.
+
+884
+01:12:36,809 --> 01:12:38,131
+[SPEAKER_10]: I want to keep people in their jobs.
+
+885
+01:12:38,471 --> 01:12:45,118
+[SPEAKER_10]: But take 6,000 million pounds out of the economy and you lose lots of jobs and you put businesses at risk.
+
+886
+01:12:45,499 --> 01:12:51,385
+[SPEAKER_10]: And David hasn't thought through his policy and neither has Nick if he's going to argue against us because it's the right thing to do.
+
+887
+01:12:51,365 --> 01:13:04,346
+[SPEAKER_03]: No, Gordon Brown, what I'm saying is if you care so much about making sure that out of the rubble of this recession we create a new economy, why won't you, and indeed why won't David Cameron, take the radical steps needed to reform our banking system?
+
+888
+01:13:04,786 --> 01:13:11,076
+[SPEAKER_03]: Nothing has happened which will prevent a disaster in the banking system because of the greed in the banking system from occurring all over again.
+
+889
+01:13:11,317 --> 01:13:17,086
+[SPEAKER_03]: We're the only party saying split them up, make sure that they lend to viable British businesses here in Bristol and elsewhere.
+
+890
+01:13:17,366 --> 01:13:19,009
+[SPEAKER_03]: That's the way to get the recovery going.
+
+891
+01:13:18,989 --> 01:13:24,899
+[SPEAKER_04]: You can see one of the problems with hung parliament and coalition forming is there's quite a lot of bickering going on already.
+
+892
+01:13:24,919 --> 01:13:25,881
+[SPEAKER_04]: And there is a difference here.
+
+893
+01:13:25,901 --> 01:13:28,966
+[SPEAKER_04]: There really is a difference about what we believe, particularly on the jobs tax.
+
+894
+01:13:29,086 --> 01:13:31,009
+[SPEAKER_04]: I think trying to stop this is vital.
+
+895
+01:13:31,230 --> 01:13:37,600
+[SPEAKER_04]: What Nick and the Liberal Democrats are saying is, first of all, when we announced let's stop the jobs tax, they said it was nauseating.
+
+896
+01:13:37,921 --> 01:13:41,487
+[SPEAKER_04]: And in their manifesto, they've now said that actually it's their aspiration.
+
+897
+01:13:41,467 --> 01:13:45,471
+[SPEAKER_04]: It's the first time in politics I can remember someone coming up with a nauseating aspiration that they want to fulfil.
+
+898
+01:13:45,671 --> 01:13:46,992
+[SPEAKER_04]: But it is a difference between us.
+
+899
+01:13:47,032 --> 01:13:49,475
+[SPEAKER_04]: We want to stop this jobs tax to keep the economy going.
+
+900
+01:13:49,775 --> 01:13:52,498
+[SPEAKER_04]: The other two parties are not going to do it.
+
+901
+01:13:52,518 --> 01:13:53,799
+[SPEAKER_10]: Mr Brown, I see you haven't denied.
+
+902
+01:13:53,819 --> 01:13:57,903
+[SPEAKER_10]: You're taking £6,000 million out of the economy in an emergency budget if you're elected.
+
+903
+01:13:58,383 --> 01:14:00,525
+[SPEAKER_10]: I would be very, very worried indeed.
+
+904
+01:14:00,786 --> 01:14:03,028
+[SPEAKER_10]: It seems a return to the old Conservative party.
+
+905
+01:14:03,448 --> 01:14:08,453
+[SPEAKER_10]: Now, Nick, on this question of banks, you don't solve the problem by making all your banks smaller.
+
+906
+01:14:08,433 --> 01:14:11,038
+[SPEAKER_10]: Northern Rock was a small bank and it went completely under.
+
+907
+01:14:11,459 --> 01:14:13,864
+[SPEAKER_10]: What you've got to do is to have proper capital controls.
+
+908
+01:14:14,244 --> 01:14:17,050
+[SPEAKER_10]: What you've got to do is have a global financial supervision system.
+
+909
+01:14:17,451 --> 01:14:22,300
+[SPEAKER_10]: Alistair Darling, our Chancellor, is now in Washington negotiating a global financial tax.
+
+910
+01:14:22,420 --> 01:14:23,843
+[SPEAKER_10]: That is the right thing to do.
+
+911
+01:14:23,823 --> 01:14:38,393
+[SPEAKER_03]: The Governor of the Bank of England has quite clearly said that unless you split high-risk casino investment banking from low-risk high-street banking, the banks that you and I depend on, you're always going to get this risk that risks will be taken with your everyday savings.
+
+912
+01:14:38,453 --> 01:14:39,435
+[SPEAKER_03]: That's what you've got to stop.
+
+913
+01:14:39,415 --> 01:14:42,940
+[SPEAKER_03]: It's what they did, by the way, in the 1930s in the Depression in the United States.
+
+914
+01:14:43,040 --> 01:14:44,241
+[SPEAKER_03]: I think we need to do something similar.
+
+915
+01:14:44,522 --> 01:14:47,465
+[SPEAKER_03]: It's what President Obama is doing, something similar in the United States.
+
+916
+01:14:47,786 --> 01:14:52,612
+[SPEAKER_03]: And yet, neither of the old parties want to even contemplate the major reforms needed to our banks.
+
+917
+01:14:52,913 --> 01:15:00,202
+[SPEAKER_03]: I think we owe it to future generations to make sure that the implosion in our banking system never, ever, ever can happen again.
+
+918
+01:15:00,482 --> 01:15:03,246
+[SPEAKER_02]: I think we're going to have to leave this question there.
+
+919
+01:15:03,226 --> 01:15:09,294
+[SPEAKER_02]: going to move on now to a question from Bethlehem Lejessie who is from Bristol.
+
+920
+01:15:09,314 --> 01:15:10,035
+[SPEAKER_02]: Bethlehem Lejessie.
+
+921
+01:15:10,937 --> 01:15:14,101
+[SPEAKER_01]: I'm an immigrant and I've been in the UK for 13 years.
+
+922
+01:15:14,121 --> 01:15:18,707
+[SPEAKER_01]: I recognise that immigration is becoming a problem in the country.
+
+923
+01:15:19,348 --> 01:15:24,475
+[SPEAKER_01]: What new measures were you introduced in order to make the system more fair?
+
+924
+01:15:24,640 --> 01:15:26,584
+[SPEAKER_02]: How would you make immigration fairer?
+
+925
+01:15:27,565 --> 01:15:32,314
+[SPEAKER_03]: Firstly, you need to tighten the borders at Bethlehem so that we know who is coming in and who is going out.
+
+926
+01:15:33,376 --> 01:15:38,325
+[SPEAKER_03]: Previous Labour and Conservative governments removed the exit controls so we didn't know who had to leave.
+
+927
+01:15:38,866 --> 01:15:41,471
+[SPEAKER_03]: I would want to see those reinstalled immediately.
+
+928
+01:15:41,571 --> 01:15:42,853
+[SPEAKER_03]: I want to see a border police force.
+
+929
+01:15:42,914 --> 01:15:45,598
+[SPEAKER_03]: We have every right to police our borders.
+
+930
+01:15:45,619 --> 01:15:48,083
+[SPEAKER_03]: Secondly, I would make sure that we direct
+
+931
+01:15:48,063 --> 01:16:00,570
+[SPEAKER_03]: people who come to live and work in this country to those areas in the country where of course they have a job and they've got someone who can vouch for them, but also where there is space for them to live where there isn't unreasonable strain placed on public services.
+
+932
+01:16:00,691 --> 01:16:05,481
+[SPEAKER_03]: And thirdly, we've got to do something about the legacy of the problem created by the chaos
+
+933
+01:16:05,461 --> 01:16:08,567
+[SPEAKER_03]: which Labour and Conservative governments created in our immigration system.
+
+934
+01:16:08,847 --> 01:16:14,818
+[SPEAKER_03]: And that was lots of people coming here illegally, who are now still living, years and years and years, in the shadows of our economy.
+
+935
+01:16:14,838 --> 01:16:24,475
+[SPEAKER_03]: And I'd rather get them out of the hands of criminal gangs, so we can go after those criminal gangs, into the hands of the tax man, if they want to play by the rules, pay their taxes, speak English.
+
+936
+01:16:24,755 --> 01:16:29,123
+[SPEAKER_03]: That is a smart, fair, effective way of dealing with immigration.
+
+937
+01:16:29,103 --> 01:16:35,010
+[SPEAKER_10]: When we talked about it last week, Nick didn't tell us that he wants an amnesty for illegal immigrants.
+
+938
+01:16:35,531 --> 01:16:37,674
+[SPEAKER_10]: I think that would be a wrong policy for this reason.
+
+939
+01:16:38,074 --> 01:16:42,980
+[SPEAKER_10]: It would encourage people to come to this country thinking that at some point we would legalise their presence.
+
+940
+01:16:43,441 --> 01:16:49,569
+[SPEAKER_10]: I think that would be not a deterrent on people coming to our country illegally, it would mean that more and more people would come into our country.
+
+941
+01:16:49,869 --> 01:16:52,552
+[SPEAKER_10]: Now our policy is to control and manage immigration.
+
+942
+01:16:52,853 --> 01:16:54,415
+[SPEAKER_10]: We've got a point system to do so.
+
+943
+01:16:54,775 --> 01:16:57,979
+[SPEAKER_10]: No unskilled worker from outside Europe can now come into our country.
+
+944
+01:16:57,959 --> 01:17:05,931
+[SPEAKER_10]: If you've got a skill, then we will get a British person to do that job advertised in a job centre if the skill is available in Britain.
+
+945
+01:17:06,232 --> 01:17:09,376
+[SPEAKER_10]: We're gradually reducing the number of skills we need to come from abroad.
+
+946
+01:17:09,677 --> 01:17:15,586
+[SPEAKER_10]: So cooks and care assistants in future, they will not come from abroad, they are trained up in Britain.
+
+947
+01:17:15,946 --> 01:17:23,578
+[SPEAKER_10]: And gradually we'll go through the skills list and make sure that those people who get jobs in Britain are skilled in Britain to do the jobs here.
+
+948
+01:17:23,558 --> 01:17:24,059
+[SPEAKER_10]: Thank you.
+
+949
+01:17:24,720 --> 01:17:25,160
+[SPEAKER_04]: David Cameron.
+
+950
+01:17:25,180 --> 01:17:41,145
+[SPEAKER_04]: Well the first thing to say to Bethlehem is that we have benefited from immigration and people who come here legally and come and live here legally, we should be incredibly warm and welcoming and hospitable and build a strong and integrated country where actually we build a strong society together.
+
+951
+01:17:41,165 --> 01:17:44,149
+[SPEAKER_04]: I think that's really important to say that first up.
+
+952
+01:17:44,129 --> 01:17:50,999
+[SPEAKER_04]: I do believe though that immigration in recent years has just simply been too high and we do need to bring the level down.
+
+953
+01:17:51,019 --> 01:18:01,935
+[SPEAKER_04]: That's the first bit of fairness that needs to be sorted out and people do want this addressed and the other two parties are not actually really addressing this issue because we believe you do need to have a cap.
+
+954
+01:18:01,915 --> 01:18:05,218
+[SPEAKER_04]: on people coming from outside the European Union for economic reasons.
+
+955
+01:18:05,258 --> 01:18:06,840
+[SPEAKER_04]: That would help to bring it down.
+
+956
+01:18:07,440 --> 01:18:12,805
+[SPEAKER_04]: Added to that is new European countries, when they join the EU, we say there should be transitional controls.
+
+957
+01:18:12,846 --> 01:18:16,309
+[SPEAKER_04]: We were told there'd only be, I think, 13,000 people coming from Poland.
+
+958
+01:18:16,329 --> 01:18:18,291
+[SPEAKER_04]: In the end, there were hundreds of thousands.
+
+959
+01:18:18,471 --> 01:18:24,357
+[SPEAKER_04]: So that is absolutely vital, and we're the only ones saying, let's grip this, let's have a cap, let's bring it down radically.
+
+960
+01:18:24,377 --> 01:18:25,558
+[SPEAKER_04]: Then it won't be a political issue.
+
+961
+01:18:25,598 --> 01:18:28,481
+[SPEAKER_04]: It wasn't in the past, and I'd dearly love it not to be an issue again.
+
+962
+01:18:28,581 --> 01:18:29,982
+[SPEAKER_03]: I think I want one.
+
+963
+01:18:29,962 --> 01:18:31,824
+[SPEAKER_03]: I guess you want Bethlehem what everyone wants.
+
+964
+01:18:31,844 --> 01:18:34,228
+[SPEAKER_03]: This is just an immigration system which works.
+
+965
+01:18:34,808 --> 01:18:38,213
+[SPEAKER_03]: We've had an immigration system which has been absolutely shambolic.
+
+966
+01:18:38,233 --> 01:18:39,434
+[SPEAKER_03]: No idea who's coming in, who's going out.
+
+967
+01:18:39,755 --> 01:18:42,098
+[SPEAKER_03]: No idea, you know, who's been living here for many, many years.
+
+968
+01:18:42,138 --> 01:18:44,140
+[SPEAKER_03]: Now, you know, Gordon Brown talks about amnesty.
+
+969
+01:18:44,180 --> 01:18:47,785
+[SPEAKER_03]: The only person actually in British politics who's advocating a blanket amnesty.
+
+970
+01:18:47,865 --> 01:18:48,186
+[SPEAKER_03]: I'm not.
+
+971
+01:18:48,226 --> 01:18:51,330
+[SPEAKER_03]: It's Boris Johnson, the Conservative Mayor for London.
+
+972
+01:18:51,350 --> 01:18:56,256
+[SPEAKER_03]: What I'm saying is you can't live in denial of a problem which has been created
+
+973
+01:18:56,236 --> 01:18:58,399
+[SPEAKER_03]: by the chaos in the immigration system in the past.
+
+974
+01:18:58,419 --> 01:19:04,927
+[SPEAKER_03]: You can wish away, if either of you wish, that there are people who've been living here for a long time in the shadows of our economy.
+
+975
+01:19:05,267 --> 01:19:24,572
+[SPEAKER_03]: I want to go after the criminal gangs who are exploiting those people, and if there are those people who've lived here for 10 years, speak English, want to play by the rules, want to pay their taxes, why don't we say to them, okay, you come out of the shadows, pay your taxes, do some community service to make up for the fact that you came here illegally, and then we can free up resources to go after the criminal gangs.
+
+976
+01:19:24,552 --> 01:19:29,542
+[SPEAKER_03]: I think that is the right balance between fairness but also making sure that we have a system which works.
+
+977
+01:19:30,223 --> 01:19:37,357
+[SPEAKER_10]: I think in the last two years we've seen the introduction, since I became Prime Minister, of foreign national ID cards.
+
+978
+01:19:37,717 --> 01:19:41,785
+[SPEAKER_10]: So anybody who comes into the country now will have to have an identity card.
+
+979
+01:19:41,765 --> 01:19:47,736
+[SPEAKER_10]: We're also introducing, from the end of the year, a control so that everybody is counted in and everybody is counted out.
+
+980
+01:19:47,756 --> 01:19:48,918
+[SPEAKER_10]: It was got rid of in the past.
+
+981
+01:19:49,078 --> 01:19:50,241
+[SPEAKER_10]: It should not have been got rid of.
+
+982
+01:19:50,541 --> 01:19:51,884
+[SPEAKER_10]: We are bringing that back.
+
+983
+01:19:51,904 --> 01:19:58,756
+[SPEAKER_10]: Biometric visas mean that we can stop people at airports, even before they come into the country, if they've not got the right identification.
+
+984
+01:19:58,776 --> 01:19:59,958
+[SPEAKER_10]: So we're tightening up on that.
+
+985
+01:20:00,259 --> 01:20:03,064
+[SPEAKER_10]: But the big key to the future is the points system.
+
+986
+01:20:03,044 --> 01:20:08,896
+[SPEAKER_10]: If you don't have the points to come into this country and otherwise if you don't have a skill we need, don't come to the country.
+
+987
+01:20:09,257 --> 01:20:21,762
+[SPEAKER_10]: But I must say I am very worried about Nick's policy because it sends a message to people all around the world if you come to Britain there will be some sort of amnesty that will allow you to come here freely in the end without having to be thrown out of the country.
+
+988
+01:20:22,518 --> 01:20:23,159
+[SPEAKER_10]: Thank you, David Cameron.
+
+989
+01:20:23,179 --> 01:20:29,930
+[SPEAKER_04]: Well, the truth is, I mean, there is a big difference between the Conservative party that is gripping this problem and the other two parties that I think are just dancing around it.
+
+990
+01:20:29,970 --> 01:20:36,360
+[SPEAKER_04]: I mean, the government's had 13 years to control immigration, and yet we've had some of the highest levels of immigration in the last 50 years.
+
+991
+01:20:36,860 --> 01:20:39,985
+[SPEAKER_04]: And frankly, I think Nick's ideas would actually make the situation worse.
+
+992
+01:20:40,005 --> 01:20:41,387
+[SPEAKER_04]: There are two bad ideas.
+
+993
+01:20:41,728 --> 01:20:49,720
+[SPEAKER_04]: The idea of the amnesty, it's been shown all over Europe, that what that leads to is a big increase in false asylum claims and more immigration.
+
+994
+01:20:49,761 --> 01:20:50,702
+[SPEAKER_04]: That's a bad idea.
+
+995
+01:20:50,682 --> 01:20:59,000
+[SPEAKER_04]: And I think this idea of somehow having regional immigration saying it's okay to come and work in Bristol but you can't live in Birmingham or you can live in Bradford but you can't live in...
+
+996
+01:20:59,020 --> 01:21:02,307
+[SPEAKER_04]: I mean, it sounds like they're going to put up border controls along the M5.
+
+997
+01:21:02,407 --> 01:21:03,750
+[SPEAKER_04]: I mean, it really doesn't make sense.
+
+998
+01:21:03,810 --> 01:21:04,933
+[SPEAKER_04]: It hasn't been thought through.
+
+999
+01:21:05,073 --> 01:21:06,697
+[SPEAKER_04]: It would make a bad situation worse.
+
+1000
+01:21:07,017 --> 01:21:10,986
+[SPEAKER_04]: And we need real change, genuine change, that only the Conservatives are offering.
+
+1001
+01:21:10,966 --> 01:21:13,450
+[SPEAKER_03]: I just think, look, this is a really sensitive issue.
+
+1002
+01:21:13,550 --> 01:21:16,354
+[SPEAKER_03]: People feel quite rightly, really strongly about immigration.
+
+1003
+01:21:16,394 --> 01:21:24,186
+[SPEAKER_03]: People feel very unsettled that they have had no faith in an immigration system which would be run chaotically by both Conservative and Labour governments for a long time.
+
+1004
+01:21:24,586 --> 01:21:28,452
+[SPEAKER_03]: All I would say to both David Cameron and Gordon Brown is, yes, let's have our differences,
+
+1005
+01:21:28,432 --> 01:21:31,840
+[SPEAKER_03]: but please don't live in denial about what is going on.
+
+1006
+01:21:32,120 --> 01:21:39,717
+[SPEAKER_03]: Don't live in denial about the fact that because of the chaos in the system, we've got lots of people here who are working for criminal gangs rather than for Britain.
+
+1007
+01:21:39,737 --> 01:21:40,519
+[SPEAKER_03]: We've got to deal with that.
+
+1008
+01:21:40,539 --> 01:21:42,463
+[SPEAKER_03]: You can pretend that we can sort of wish it away.
+
+1009
+01:21:42,844 --> 01:21:43,626
+[SPEAKER_03]: It is a problem.
+
+1010
+01:21:43,927 --> 01:21:44,648
+[SPEAKER_03]: They are here.
+
+1011
+01:21:44,688 --> 01:21:45,951
+[SPEAKER_03]: Now, of course what I'm saying
+
+1012
+01:21:45,931 --> 01:21:48,475
+[SPEAKER_03]: is controversial and people try and score points.
+
+1013
+01:21:48,695 --> 01:21:52,761
+[SPEAKER_03]: It is at least an attempt to deal with an issue which we have to deal with.
+
+1014
+01:21:53,021 --> 01:21:57,868
+[SPEAKER_03]: I don't think we can have another 10 years, another 20 years, in the old way, just ignoring these things.
+
+1015
+01:21:57,888 --> 01:22:03,936
+[SPEAKER_03]: We can't come up with promises like caps, which don't work, and by the way...
+
+1016
+01:22:03,956 --> 01:22:07,301
+[SPEAKER_10]: I'm not really interested here in points scoring, I'm interested in doing the right thing.
+
+1017
+01:22:07,762 --> 01:22:14,571
+[SPEAKER_10]: If we send out a message to people in other parts of the world, you get an amnesty if you come to this country, then you've got a real problem.
+
+1018
+01:22:14,551 --> 01:22:20,022
+[SPEAKER_10]: Net inward migration is coming down as a result of the point system that we introduced.
+
+1019
+01:22:20,383 --> 01:22:23,870
+[SPEAKER_10]: It's come down three years ago, two years ago, and it's coming down this year.
+
+1020
+01:22:24,151 --> 01:22:25,994
+[SPEAKER_10]: We are taking the action that is necessary.
+
+1021
+01:22:26,375 --> 01:22:30,484
+[SPEAKER_10]: And from the end of this year, people will be counted in and counted out of the country.
+
+1022
+01:22:30,664 --> 01:22:35,614
+[SPEAKER_10]: And it would be more helpful if you would support identity cards for foreign nationals instead of opposing them.
+
+1023
+01:22:35,594 --> 01:22:42,910
+[SPEAKER_03]: I'm just asking for a simple, honest answer to a big question, which is that because of the chaos in the system in the past, we have lots of people who are here.
+
+1024
+01:22:43,271 --> 01:22:46,819
+[SPEAKER_03]: Now, if you just ignore it, they will carry on living in the shadows of our economy.
+
+1025
+01:22:47,020 --> 01:22:54,396
+[SPEAKER_03]: Now, you can either deny it, which you're doing, because you've got no plan to deal with it, neither do you, or you try and... No, you can't deport 900,000 people and you don't know where they live.
+
+1026
+01:22:54,376 --> 01:23:05,633
+[SPEAKER_04]: I mean all I'd say is that the more they argue amongst each other, the more it's absolutely clear to me the only way you'll get real change, real action, sensible action on this issue is from a Conservative government.
+
+1027
+01:23:05,934 --> 01:23:09,399
+[SPEAKER_04]: It is a sensitive issue and it needs to be dealt with sensitively, reasonably.
+
+1028
+01:23:09,419 --> 01:23:18,032
+[SPEAKER_04]: It's very important that we talk about this properly but I think the country wants and deserves firm immigration control instead of the sort of nonsense we're hearing over here.
+
+1029
+01:23:18,333 --> 01:23:19,875
+[SPEAKER_04]: And that would make a difference.
+
+1030
+01:23:19,955 --> 01:23:21,177
+[SPEAKER_04]: And what it would really achieve
+
+1031
+01:23:21,157 --> 01:23:29,509
+[SPEAKER_04]: is getting back to where we used to be, where we didn't have immigration questions at public meetings, we weren't asked about it on the street, when you knocked on a door, nobody raised it.
+
+1032
+01:23:29,729 --> 01:23:29,970
+[SPEAKER_04]: Why?
+
+1033
+01:23:30,210 --> 01:23:33,074
+[SPEAKER_04]: Because the British public was happy with the level of immigration.
+
+1034
+01:23:33,274 --> 01:23:38,021
+[SPEAKER_04]: We knew that was a level we could integrate and provide good health and housing and schools for people.
+
+1035
+01:23:38,302 --> 01:23:44,771
+[SPEAKER_04]: It's been out of control these last 13 years, that's Labour's fault, and from all I can hear, the Liberal Democrats would make it much, much worse.
+
+1036
+01:23:44,811 --> 01:23:46,253
+[SPEAKER_03]: No, no, David Cameron, what would the cut be?
+
+1037
+01:23:46,233 --> 01:23:47,354
+[SPEAKER_04]: Well, you'd set the cap.
+
+1038
+01:23:47,394 --> 01:23:47,915
+[SPEAKER_04]: What's the number?
+
+1039
+01:23:48,295 --> 01:23:49,476
+[SPEAKER_03]: Is it 10,000?
+
+1040
+01:23:49,516 --> 01:23:50,116
+[SPEAKER_03]: Is it 10 million?
+
+1041
+01:23:52,198 --> 01:23:53,019
+[SPEAKER_04]: Let me answer the question.
+
+1042
+01:23:53,540 --> 01:23:55,201
+[SPEAKER_04]: You're reminding me of Gordon last week.
+
+1043
+01:23:55,261 --> 01:23:58,144
+[SPEAKER_04]: It's like another replay.
+
+1044
+01:23:58,164 --> 01:24:09,514
+[SPEAKER_04]: The fact is, every year, you need to talk with the health authorities, the housing authorities, the education authorities, and business, and set a cap to achieve a very big reduction in overall immigration levels.
+
+1045
+01:24:09,814 --> 01:24:10,695
+[SPEAKER_04]: That can be done.
+
+1046
+01:24:11,035 --> 01:24:12,176
+[SPEAKER_04]: We've done it in our past.
+
+1047
+01:24:12,236 --> 01:24:13,357
+[SPEAKER_04]: We can do it again in our future.
+
+1048
+01:24:13,397 --> 01:24:16,240
+[SPEAKER_04]: What's required is political will from a party that's
+
+1049
+01:24:16,220 --> 01:24:17,902
+[SPEAKER_04]: prepared to make a difference.
+
+1050
+01:24:18,002 --> 01:24:18,863
+[SPEAKER_03]: Let me just get this straight.
+
+1051
+01:24:18,883 --> 01:24:19,744
+[SPEAKER_03]: I genuinely want to understand.
+
+1052
+01:24:19,984 --> 01:24:23,828
+[SPEAKER_03]: You're proposing a cap, but you don't know what the cap would be.
+
+1053
+01:24:23,948 --> 01:24:29,654
+[SPEAKER_03]: You're proposing to give people assurance that we're going to count people in and count people out, but you don't know how many people.
+
+1054
+01:24:29,974 --> 01:24:32,136
+[SPEAKER_03]: All I'm saying on the immigration debate, it's difficult.
+
+1055
+01:24:32,196 --> 01:24:33,337
+[SPEAKER_03]: None of us have got perfect answers.
+
+1056
+01:24:33,578 --> 01:24:45,990
+[SPEAKER_03]: But let's at least not pretend that you can put forward these ideas, which have got no substance, haven't been thought through, at least the kind of ideas I've been putting through, are trying to deal with a really, really difficult issue, which has been brushed under the carpet for too long.
+
+1057
+01:24:46,578 --> 01:24:52,324
+[SPEAKER_10]: Well, net inward migration is falling as a result of the measures we're taking, and the points system is the key to this.
+
+1058
+01:24:52,384 --> 01:24:54,266
+[SPEAKER_10]: It's done in Australia and in other countries.
+
+1059
+01:24:54,606 --> 01:24:59,111
+[SPEAKER_10]: You can't come in unless you've got a skill to offer if you're from outside the European Union.
+
+1060
+01:24:59,471 --> 01:25:06,599
+[SPEAKER_10]: And that has meant that there is no unskilled workers coming to this country, a reduction in skilled workers, a reduction in university students as well.
+
+1061
+01:25:06,619 --> 01:25:11,944
+[SPEAKER_10]: That is what we're actually doing now, and we're counting people in and out from the end of the year.
+
+1062
+01:25:12,245 --> 01:25:15,070
+[SPEAKER_04]: I don't want to bore people with the figures, but it is important.
+
+1063
+01:25:15,150 --> 01:25:22,865
+[SPEAKER_04]: Up until 1997, the highest number for net migration into the UK was about 77,000 in a year.
+
+1064
+01:25:23,225 --> 01:25:27,153
+[SPEAKER_04]: Since 1997, since Labour came to power, it's never been lower than 140,000.
+
+1065
+01:25:27,754 --> 01:25:29,457
+[SPEAKER_04]: Sometimes it's been 200,000.
+
+1066
+01:25:29,497 --> 01:25:32,082
+[SPEAKER_04]: That's equivalent to 2 million across a decade.
+
+1067
+01:25:32,162 --> 01:25:33,084
+[SPEAKER_04]: It's just too high.
+
+1068
+01:25:33,144 --> 01:25:34,446
+[SPEAKER_04]: It can be brought down.
+
+1069
+01:25:34,466 --> 01:25:35,468
+[SPEAKER_04]: We did it in the past.
+
+1070
+01:25:35,448 --> 01:25:36,189
+[SPEAKER_04]: We should do it again.
+
+1071
+01:25:36,209 --> 01:25:43,519
+[SPEAKER_10]: But what happens is there are a million people from Britain who are in the European Union and staying in homes and staying in countries of the European Union.
+
+1072
+01:25:43,880 --> 01:25:46,824
+[SPEAKER_10]: And there are a million people from the European Union who are in our country.
+
+1073
+01:25:47,144 --> 01:25:49,468
+[SPEAKER_10]: That is what being part of the European Union is about.
+
+1074
+01:25:49,768 --> 01:25:56,157
+[SPEAKER_10]: And there are many, many British citizens who want the chance to stay for a period of time in other countries in the European Union.
+
+1075
+01:25:56,137 --> 01:25:57,358
+[SPEAKER_02]: And we're going to have to leave it there.
+
+1076
+01:25:57,378 --> 01:26:01,043
+[SPEAKER_02]: I'm afraid that is the end of our audience questions.
+
+1077
+01:26:01,443 --> 01:26:07,671
+[SPEAKER_02]: It's now time for the leaders to make their big pitches for your votes and with their closing statements.
+
+1078
+01:26:07,691 --> 01:26:17,082
+[SPEAKER_02]: And a reminder that each leader has one and a half minutes for this and that lots were drawn for the order in which they're going to go and we start now with Gordon Brown.
+
+1079
+01:26:17,062 --> 01:26:18,124
+[SPEAKER_10]: Well, the buck stops here.
+
+1080
+01:26:18,504 --> 01:26:21,950
+[SPEAKER_10]: If you're in the job I'm in, you've got to take responsibility for the decisions.
+
+1081
+01:26:22,371 --> 01:26:34,952
+[SPEAKER_10]: And we've talked this evening about Afghanistan and the responsibility I take every day making sure that our forces can do the job in Afghanistan and can soon, as a result of the efforts we're making, bring our forces home.
+
+1082
+01:26:34,932 --> 01:26:47,465
+[SPEAKER_10]: And we've talked today also about security and how we need to be part of multilateral disarmament negotiations so that we, Britain, do not give up our weapons unless others are prepared to do so and reduce their weapons as well.
+
+1083
+01:26:47,925 --> 01:26:58,836
+[SPEAKER_10]: And we've talked also about the economy this evening, and I've heard a number of people ask questions about the deficit, ask questions about how the economy is going to fare as businesses in the future, whether in or out of Europe.
+
+1084
+01:26:59,237 --> 01:27:04,382
+[SPEAKER_10]: And the issue for me is, don't do anything that puts this economic recovery at risk.
+
+1085
+01:27:04,362 --> 01:27:13,030
+[SPEAKER_10]: We have fought so hard for so long over these last two years to make sure we get through what has been the worst global financial recession since the 1930s.
+
+1086
+01:27:13,891 --> 01:27:15,452
+[SPEAKER_10]: And we've had to take ownership of our banks.
+
+1087
+01:27:15,793 --> 01:27:21,218
+[SPEAKER_10]: We've had to call the world together in London to have a big summit so that we can make decisions that everybody will work together.
+
+1088
+01:27:21,518 --> 01:27:24,501
+[SPEAKER_10]: And we all decided we'd put resources into the economy.
+
+1089
+01:27:24,921 --> 01:27:31,247
+[SPEAKER_10]: Unfortunately, the Conservatives want to take these resources out far too early, and they put thousands of jobs at risk.
+
+1090
+01:27:31,227 --> 01:27:34,652
+[SPEAKER_10]: So I would say this evening, David, you're a risk to the economy.
+
+1091
+01:27:34,812 --> 01:27:39,298
+[SPEAKER_10]: Nick, you're a risk because of what you're saying on Iran and on nuclear weapons to our security.
+
+1092
+01:27:39,699 --> 01:27:40,760
+[SPEAKER_10]: Nick, you would leave us weak.
+
+1093
+01:27:41,121 --> 01:27:43,344
+[SPEAKER_10]: David, you would leave us isolated in Europe.
+
+1094
+01:27:43,845 --> 01:27:46,849
+[SPEAKER_10]: I think these are the problems that these parties have got to face up to.
+
+1095
+01:27:47,290 --> 01:27:50,614
+[SPEAKER_10]: We have a credible, long-term plan for the future of Britain.
+
+1096
+01:27:50,714 --> 01:27:51,576
+[SPEAKER_02]: Thank you, Mr Brown.
+
+1097
+01:27:51,656 --> 01:27:52,577
+[SPEAKER_02]: David Cameron.
+
+1098
+01:27:53,182 --> 01:27:56,086
+[SPEAKER_04]: I don't know about you, but I thought all of that sounded slightly desperate.
+
+1099
+01:27:56,126 --> 01:28:09,766
+[SPEAKER_04]: It sounded like an attempt to frighten people, instead of doing what I think we need to do in our country, which is to take and make a clean break from the last 13 years, to have new leadership to take the country forward, to solve the problems that we have.
+
+1100
+01:28:10,287 --> 01:28:21,383
+[SPEAKER_04]: And I think that the Conservatives are best placed to offer that, because if you vote Conservative, you know you can get fresh, new leadership from a new team on May the 7th, rather than being stuck with what we have now.
+
+1101
+01:28:21,363 --> 01:28:33,187
+[SPEAKER_04]: You've heard in the debate today some big differences set out between us about how we believe you've got to give more priority to keeping our country safe, keeping our borders secure, making sure we keep our defences strong.
+
+1102
+01:28:33,647 --> 01:28:42,966
+[SPEAKER_04]: But also you've heard a lot of differences on values, how the family comes first for me, how we need to do more to help those who actually do the right thing and want their government behind them.
+
+1103
+01:28:42,946 --> 01:28:47,773
+[SPEAKER_04]: We do face some difficult times in this country, but I still think we have incredible days ahead of us.
+
+1104
+01:28:48,073 --> 01:28:55,063
+[SPEAKER_04]: We're a great country in so many different ways, with the right leadership, with the right values, with a clean break from these 13 years of failure.
+
+1105
+01:28:55,343 --> 01:29:02,693
+[SPEAKER_04]: We can achieve anything if we all pull together and build the big society that we all know we need to make our country a better place to live in.
+
+1106
+01:29:02,673 --> 01:29:03,594
+[SPEAKER_02]: Thank you, David Cameron.
+
+1107
+01:29:03,614 --> 01:29:04,015
+[SPEAKER_02]: Nick Clegg.
+
+1108
+01:29:04,616 --> 01:29:11,745
+[SPEAKER_03]: What I have tried to do tonight is to show that if we do things differently, we can be a force for good in the world.
+
+1109
+01:29:12,086 --> 01:29:12,646
+[SPEAKER_03]: We can lead.
+
+1110
+01:29:13,087 --> 01:29:17,413
+[SPEAKER_03]: We can shape the world around us, not just complain about the world around us.
+
+1111
+01:29:17,753 --> 01:29:19,315
+[SPEAKER_03]: We have talked about a number of things this evening.
+
+1112
+01:29:19,335 --> 01:29:23,080
+[SPEAKER_03]: We talked about Europe, Afghanistan, climate change, the Pope.
+
+1113
+01:29:23,761 --> 01:29:25,484
+[SPEAKER_03]: We talked about things closer to home as well.
+
+1114
+01:29:25,564 --> 01:29:28,748
+[SPEAKER_03]: Immigration, MPs' expenses, pensions,
+
+1115
+01:29:28,728 --> 01:29:34,357
+[SPEAKER_03]: I believe on all those things, all those issues, we can act differently.
+
+1116
+01:29:34,938 --> 01:29:48,079
+[SPEAKER_03]: Now there's still some way to go before this election is decided, but I hope that whether you're going to vote in the next few days by post or you're going to make up your mind on the ballot box on May the 6th, you agree with me that something really exciting is beginning to happen.
+
+1117
+01:29:48,119 --> 01:29:53,487
+[SPEAKER_03]: People are beginning to believe, beginning to hope that we can do something different this time.
+
+1118
+01:29:53,467 --> 01:29:56,338
+[SPEAKER_03]: Of course there are people who will try to block change.
+
+1119
+01:29:56,358 --> 01:30:01,637
+[SPEAKER_03]: Of course there are people who are spreading fear to stop the change that you want.
+
+1120
+01:30:02,621 --> 01:30:03,966
+[SPEAKER_03]: I think they're wrong.
+
+1121
+01:30:04,334 --> 01:30:10,880
+[SPEAKER_03]: I think if we do things differently, if we stand up for the values that have made our country great, then we can be proud again.
+
+1122
+01:30:11,241 --> 01:30:18,187
+[SPEAKER_03]: Proud of greater fairness here at home and proud also of standing up for the things we believe in in the world.
+
+1123
+01:30:18,728 --> 01:30:23,413
+[SPEAKER_03]: We don't simply need to choose from the old choices of the past.
+
+1124
+01:30:23,433 --> 01:30:26,235
+[SPEAKER_03]: We don't need to repeat the mistakes of the past.
+
+1125
+01:30:26,756 --> 01:30:31,180
+[SPEAKER_03]: Don't let anyone tell you that this time it can't be different.
+
+1126
+01:30:31,200 --> 01:30:32,181
+[SPEAKER_03]: It can.
+
+1127
+01:30:33,072 --> 01:30:36,339
+[SPEAKER_02]: And that concludes this Sky News leaders' debate.
+
+1128
+01:30:36,479 --> 01:30:40,688
+[SPEAKER_02]: Full reaction and analysis continues, of course, now here, live on Sky News.
+
+1129
+01:30:41,009 --> 01:30:46,080
+[SPEAKER_02]: And the third and final debate in this general election series will take place next week in the Midlands.
+
+1130
+01:30:46,561 --> 01:30:50,068
+[SPEAKER_02]: After that, of course, it's up to you to cast your vote on May the 6th.
+
+1131
+01:30:50,048 --> 01:30:55,736
+[SPEAKER_02]: So many thanks to you for watching, thanks to our questioners, to our studio audience here, and to the people of Bristol.
+
+1132
+01:30:56,197 --> 01:31:01,765
+[SPEAKER_02]: And above all, many thanks to our three leaders, the first ever to agree to debate live on television.
+
+1133
+01:31:02,105 --> 01:31:19,971
+[SPEAKER_02]: Gordon Brown, David Cameron, and Nick Clegg, who I now invite to step forward and shake hands with each other.
+
+1134
+01:31:43,981 --> 01:31:44,998
+you
+

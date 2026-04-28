@@ -1,0 +1,31 @@
+/home2/pwfb75/joel_jupyterenv-3.9/lib/python3.9/site-packages/pyannote/audio/core/io.py:212: UserWarning: torchaudio._backend.list_audio_backends has been deprecated. This deprecation is part of a large refactoring effort to transition TorchAudio into a maintenance phase. The decoding and encoding capabilities of PyTorch for both audio and video are being consolidated into TorchCodec. Please see https://github.com/pytorch/audio/issues/3902 for more information. It will be removed from the 2.9 release. 
+  torchaudio.list_audio_backends()
+/home2/pwfb75/joel_jupyterenv-3.9/lib/python3.9/site-packages/speechbrain/utils/torch_audio_backend.py:57: UserWarning: torchaudio._backend.list_audio_backends has been deprecated. This deprecation is part of a large refactoring effort to transition TorchAudio into a maintenance phase. The decoding and encoding capabilities of PyTorch for both audio and video are being consolidated into TorchCodec. Please see https://github.com/pytorch/audio/issues/3902 for more information. It will be removed from the 2.9 release. 
+  available_backends = torchaudio.list_audio_backends()
+2026-01-22 15:47:03 - whisperx.asr - INFO - No language specified, language will be detected for each audio file (increases inference time)
+2026-01-22 15:47:03 - whisperx.vads.pyannote - INFO - Performing voice activity detection using Pyannote...
+Traceback (most recent call last):
+  File "/home2/pwfb75/joel_jupyterenv-3.9/bin/whisperx", line 7, in <module>
+    sys.exit(cli())
+  File "/home2/pwfb75/joel_jupyterenv-3.9/lib/python3.9/site-packages/whisperx/__main__.py", line 98, in cli
+    transcribe_task(args, parser)
+  File "/home2/pwfb75/joel_jupyterenv-3.9/lib/python3.9/site-packages/whisperx/transcribe.py", line 127, in transcribe_task
+    model = load_model(
+  File "/home2/pwfb75/joel_jupyterenv-3.9/lib/python3.9/site-packages/whisperx/asr.py", line 412, in load_model
+    vad_model = Pyannote(torch.device(device_vad), use_auth_token=None, **default_vad_options)
+  File "/home2/pwfb75/joel_jupyterenv-3.9/lib/python3.9/site-packages/whisperx/vads/pyannote.py", line 240, in __init__
+    self.vad_pipeline = load_vad_model(device, use_auth_token=use_auth_token, model_fp=model_fp)
+  File "/home2/pwfb75/joel_jupyterenv-3.9/lib/python3.9/site-packages/whisperx/vads/pyannote.py", line 43, in load_vad_model
+    vad_model = Model.from_pretrained(model_fp, use_auth_token=use_auth_token)
+  File "/home2/pwfb75/joel_jupyterenv-3.9/lib/python3.9/site-packages/pyannote/audio/core/model.py", line 671, in from_pretrained
+    loaded_checkpoint = pl_load(path_for_pl, map_location=map_location)
+  File "/home2/pwfb75/joel_jupyterenv-3.9/lib/python3.9/site-packages/lightning_fabric/utilities/cloud_io.py", line 73, in _load
+    return torch.load(
+  File "/home2/pwfb75/joel_jupyterenv-3.9/lib/python3.9/site-packages/torch/serialization.py", line 1529, in load
+    raise pickle.UnpicklingError(_get_wo_message(str(e))) from None
+_pickle.UnpicklingError: Weights only load failed. This file can still be loaded, to do so you have two options, [1mdo those steps only if you trust the source of the checkpoint[0m. 
+	(1) In PyTorch 2.6, we changed the default value of the `weights_only` argument in `torch.load` from `False` to `True`. Re-running `torch.load` with `weights_only` set to `False` will likely succeed, but it can result in arbitrary code execution. Do it only if you got the file from a trusted source.
+	(2) Alternatively, to load with `weights_only=True` please check the recommended steps in the following error message.
+	WeightsUnpickler error: Unsupported global: GLOBAL omegaconf.listconfig.ListConfig was not an allowed global by default. Please use `torch.serialization.add_safe_globals([omegaconf.listconfig.ListConfig])` or the `torch.serialization.safe_globals([omegaconf.listconfig.ListConfig])` context manager to allowlist this global if you trust this class/function.
+
+Check the documentation of torch.load to learn more about types accepted by default with weights_only https://pytorch.org/docs/stable/generated/torch.load.html.

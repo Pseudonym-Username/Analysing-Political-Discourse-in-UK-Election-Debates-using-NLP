@@ -1,0 +1,65 @@
+id,reasoning,supercategories,claim_labels
+0,"<|end_header_id|>
+  The excerpt discusses the relationship between stop-and-search and knife crime, with the speaker arguing that reducing stop-and-search will lead to an increase in knife crime.
+
+JSON Response:",[1200],"[1200, 1206, 1211]"
+1,"<|end_header_id|>
+  The excerpt discusses the link between poverty and underperformance in the classroom, and proposes solutions through tax proposals and a ""pupil premium"" to address this issue.
+
+JSON Response:","[100, 1300]","[100, 107, 1300, 1302]"
+2,"<|end_header_id|>
+  The excerpt appears to be a rhetorical statement with no specific policy topic mentioned. It seems to be a criticism of the speaker's opponent for not acknowledging a fact, but it does not provide any concrete policy information.
+
+JSON Response:",[],[]
+3,"<|end_header_id|>
+  The excerpt discusses tax policy, specifically targeting tax loopholes for the wealthy and proposing a change to pension contributions, which is related to taxation and social welfare.
+
+JSON Response:","[100, 1300]","[100, 107, 1300, 1303]"
+4,"<|end_header_id|>
+  The excerpt is a rhetorical statement with no specific policy topic mentioned. It's a general statement about the timing of a decision, without any reference to a particular policy area.
+
+JSON Response:",[],[]
+5,"<|end_header_id|>
+  The excerpt discusses the impact of mass migration on the UK's housing and economy. The speaker emphasizes the need to build new homes to cope with the influx of migrants, citing the fact that the UK needs to build one new home every two minutes to accommodate legal net migration. They also argue that mass migration is making the country poorer, despite the increase in GDP, and that GDP per capita has declined.
+
+JSON Response:","[100, 200, 1400]","[100, 105, 200, 230, 1401]"
+6,"<|end_header_id|>
+  The excerpt discusses the importance of strong big business in the country and the potential consequences of leaving the European Union.
+
+JSON Response:","[100, 1900]","[100, 108, 1900, 1910]"
+7,"<|end_header_id|>
+  The excerpt discusses the need to improve the efficiency of NHS spending, with the speaker highlighting the increased funding provided to the NHS in recent years but also emphasizing the need for better returns on that investment.
+
+JSON Response:",[100],"[100, 105]"
+8,"<|end_header_id|>
+  The excerpt discusses the philosophical approach to helping vulnerable or poor individuals, with the speaker arguing that providing incentives to help themselves is more effective than constant state dependency. The mention of a ""radical tax switch"" suggests a focus on taxation and welfare policy.
+
+JSON Response:","[100, 1300]","[100, 107, 1300, 1302]"
+9,"<|end_header_id|>
+  The excerpt discusses the current strikes in the NHS and the need for a resolution to the dispute. The speaker emphasizes the importance of resolving the issue in a ""grown-up"" manner, prioritizing the needs of patients and NHS staff. The focus is on the NHS and the impact of the strikes on patients and staff.
+
+JSON Response:",[300],"[300, 301]"
+10,"<|end_header_id|>
+  The excerpt discusses the issue of migration in Scotland, specifically the need for more migrants due to a declining working-age population. The speaker emphasizes the benefits of migration for various sectors such as businesses, healthcare, and social care. The tone is critical of the ""race to the right"" in Westminster and calls for a more progressive approach from both the Tories and the Labour Party.
+
+JSON Response:","[500, 1300]","[500, 1303]"
+11,"<|end_header_id|>
+  The excerpt mentions the SNP and Tory, indicating a discussion about political parties, but it does not specify any policy details. It also mentions an anti-austerity motion, which is a key aspect of the excerpt. However, the motion is attributed to Ed Miliband, a Labour Party leader, and the excerpt does not provide any details about the SNP's stance on the motion.
+
+JSON Response:",[],[]
+12,"<|end_header_id|>
+  The excerpt mentions Brexit, which is a key policy topic in the provided codebook. The code 1910 is used to represent any mention of Brexit, 'leaving the EU', or 'negotiating with Brussels'.
+
+JSON Response:",[1900],"[1900, 1910]"
+13,"<|end_header_id|>
+  The excerpt discusses the current state of the country's justice system, public services, and the impact of tax policies on the economy. The speaker emphasizes the need for a change in direction, promising that a Labour government will prioritize the many over the few.
+
+JSON Response:","[100, 1300]","[100, 105, 1300, 1303]"
+14,"<|end_header_id|>
+  The excerpt discusses the Prime Minister's apology to veterans and the importance of being honest with them, but does not explicitly mention any specific policy topics. However, the mention of the Defence Secretary role and the context of veterans suggests a connection to Defence policy.
+
+JSON Response:",[1600],[1600]
+15,"<|end_header_id|>
+  The excerpt discusses fairness and immigration rules, specifically mentioning the impact on families and the need for fair immigration policies.
+
+JSON Response:","[100, 200]","[100, 107, 200, 230]"

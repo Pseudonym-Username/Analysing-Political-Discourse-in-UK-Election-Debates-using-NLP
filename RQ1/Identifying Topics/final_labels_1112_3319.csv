@@ -1,0 +1,311 @@
+id,reasoning,supercategories,claim_labels
+1476,The excerpt discusses the Iraq War and the speaker's regret for some actions taken during their time in office. This points to potential codes related to international affairs (1900) and government operations (2000).,"[1900, 2000]","[1900, 1920]"
+1477,"The excerpt discusses the negative consequences of unfunded tax cuts, implying a focus on the national budget and taxation policies. There's also a mention of Liz Truss's policies and the current Prime Minister's actions, suggesting a broader discussion about political leadership and potential policy repetition.
+
+```json",[100],"[100, 105]"
+1478,"The excerpt discusses climate change, Scotland's environmental targets, and the role of young activists.  There are mentions of global emissions, net-zero targets, and the Scottish government's stance on climate change.
+
+```json","[700, 1900]","[700, 705, 1900]"
+1479,"The excerpt discusses the National Health Service (NHS) in Scotland, focusing on funding, staffing, and the opposition to privatization.  There are explicit mentions of increasing the NHS budget and opposing cuts, indicating a focus on public spending. The speaker also mentions integrating health and social care, which falls under the broader category of social welfare.
+
+```json","[100, 1300]","[100, 105, 1300, 1302]"
+1480,"The text focuses primarily on immigration policy, discussing border control, directing immigrants to specific areas, and addressing the issue of undocumented immigrants.  There are also mentions of taxation and the economy.
+
+```json","[200, 100]","[200, 230, 100, 107]"
+1481,"The text discusses the climate crisis and Brexit, framing the latter as detrimental to global climate action.  The speaker advocates for environmental protection and a ""green"" future.","[700, 1900]","[700, 705, 1900, 1926]"
+1482,"The excerpt ""Yeah¿"" is too short and lacks any substantive content to be coded. There are no mentions of policy topics,",[],[]
+1483,"The excerpt discusses immigration policy (""net migration going up and up"") and the state of the economy (""our economy has relied on overseas workers...it's flatlining"", ""unemployment going up"").","[100, 200]","[100, 103, 200, 230]"
+1484,"The text discusses immigration policy and its potential impact on the economy. The speaker suggests a ""managed migration system"" to control immigration levels. They also mention ""skill shortages"" and the need for investment in education and training. This points to discussions around both immigration policy (200) and economic issues (100).","[100, 200]","[100, 105, 200, 230]"
+1485,"The excerpt discusses the process of leaving the EU, including a proposed referendum on the terms of departure. It also mentions the potential for trade deals with both the US and the EU.",[1900],"[1900, 1910]"
+1486,"The excerpt discusses the topic of student financial aid, specifically maintenance grants for students from disadvantaged backgrounds. The Tories' decision to scrap these grants is mentioned, implying a policy debate on education funding and social welfare.","[600, 1300]","[600, 603, 1300, 1302]"
+1487,"The excerpt discusses the disparity in broadband access in the UK compared to South Korea, highlighting the need for investment to bridge the digital divide and ensure equitable access. This primarily falls under the category of social welfare and economic development.
+
+```json","[1300, 100]","[1300, 100, 1303, 101]"
+1488,The excerpt does not contain explicit mentions of any policy topics.,[],[]
+1489,"The excerpt discusses a reduction in crime rates attributed to the speaker's time as Home Secretary. This primarily falls under the domain of Law, Crime, and Family Issues (1200).  There is also a mention of a difference in approach (""That's one of the ways in which we'll be different""), which could be interpreted as a policy stance, potentially related to crime reduction strategies.
+
+
+```json",[1200],"[1200, 1202]"
+1490,"The text expresses a sentiment about the current government's performance, implying a lack of competence. While it touches on the concept of governance, it doesn't delve into specific policy areas like taxation, social welfare, or civil rights.",[],[]
+1491,"The text discusses economic policy, specifically job creation, tax cuts, and the impact of Brexit on the economy. There is also a mention of apprenticeships and the potential for growth outside the EU.",[100],"[100, 105, 107]"
+1492,"The text focuses on the impact of Brexit on the future, particularly for the speaker's children. It emphasizes the importance of giving the people a final say on the Brexit deal and the potential consequences of a ""calamitous, extreme Brexit.""  The speaker expresses a desire to protect the country's future and the future of their children from the negative impacts of Brexit.",[1900],"[1900, 1910]"
+1493,"The text primarily discusses the role and funding of the police force. There are mentions of community policing, police numbers, and the need for continued funding.",[1200],"[1200, 1209, 1211]"
+1494,The excerpt is purely conversational and does not contain any explicit discussion of policy topics.,[],[]
+1495,"The text discusses the justification for regime change in Iraq, specifically mentioning UN Security Council Resolution 1441 and the controversial interpretation of its implications. This points to discussions within the realm of international affairs and foreign policy, particularly regarding military intervention and international law.",[1900],"[1900, 1920]"
+1496,"The excerpt discusses the backlog of asylum claims and the government's handling of asylum seekers. This touches on immigration policy and the processing of asylum applications, falling under the broader category of civil rights.",[200],"[200, 230]"
+1497,"The excerpt discusses the Conservative Party's commitment to defense spending and their stance on nuclear deterrence, contrasting it with the Labour Party's position. This clearly falls under the category of international security and defense policy.",[1600],"[1600, 1603, 1608, 1609]"
+1498,"The excerpt focuses on the needs of carers and proposes a policy of providing them with a week of paid leave. This falls under the category of social welfare and specifically addresses the needs of a particular vulnerable group.
+
+
+```json",[1300],"[1300, 1304]"
+1499,"The text discusses the role of private investment in meeting climate change obligations, specifically mentioning the Green Investment Bank and investments in renewables. This points to discussions around environmental policy and potentially economic policy related to incentivizing green investments. There's also a mention of the Labour Party's stance on climate change, hinting at potential political disagreements.","[700, 100]","[700, 705, 100, 105]"
+1500,The excerpt discusses the speaker's lack of belief in winning an election. This doesn't relate to any specific policy areas.,[],[]
+1501,"The excerpt discusses the role of a Prime Minister in ensuring national security, specifically mentioning the nuclear deterrent, international alliances, and the importance of independent decision-making.","[1600, 1900]","[1600, 1603, 1900, 1909, 1910]"
+1502,"The excerpt discusses the government's budget and tax policies, specifically regarding pensioners. There are mentions of the government's previous budget and a potential change in policy regarding pension taxes.",[100],"[100, 105, 107]"
+1503,"The text discusses government spending cuts, new nuclear weapons spending, and investment in public services and infrastructure. It also mentions the SNP's alternative plan and its focus on helping people out of poverty. These points relate to macroeconomic policy (100), specifically public spending (105) and taxation (107) as the text mentions the cost of nuclear weapons. There is also a mention of the SNP's plan to lift people out of poverty, which falls under social welfare (1300).
+
+
+```json","[100, 1300]","[100, 105, 107, 1300, 1302]"
+1504,"The excerpt discusses the Conservative party's tax policies, specifically mentioning increases in taxes on working people and families. This points to the subcategory 107 (Taxation, Tax policy, and Tax Reform) under the supercategory 100 (Macroeconomics). Additionally, the mention of ""struggling families"" and ""highest level in almost 80 years"" suggests a discussion about the impact of taxes on social welfare, leading to the inclusion of subcategory 1302 (Poverty and Assistance for Low-Income Families) under supercategory 1300 (Social Welfare).
+
+
+```json","[100, 1300]","[100, 107, 1300, 1302]"
+1505,The excerpt contains no explicit discussion of policy topics. The language is purely rhetorical and does not refer to any of the coded categories.,[],[]
+1506,"The excerpt discusses the government's approach to setting the threshold for winter fuel payments, emphasizing a consultative process and a commitment to protecting less well-off pensioners. While there's talk of a ""threshold"" and ""payments,"" there's no explicit mention of specific tax mechanisms or social welfare programs beyond the general reference to ""winter fuel payments.""",[1300],[1300]
+1507,The excerpt is purely rhetorical and does not discuss any specific policy topics.,[],[]
+1508,"The excerpt discusses illegal immigration across the English Channel, the government's perceived failure to control borders, and the speaker's past experience in dismantling criminal gangs.","[200, 1200]","[200, 230, 1200, 1202, 1209]"
+1509,"The excerpt discusses the need to change the law to define sex as biological sex in order to protect female-only spaces and services. This clearly falls under the category of civil rights, specifically concerning gender and sexual orientation discrimination. Additionally, the mention of changing the law and taxation policies points to the macroeconomics category.
+
+```json","[200, 100]","[200, 202, 100, 107]"
+1510,"The excerpt discusses the NHS, focusing on issues like staffing ratios, drug costs, and the impact of a national insurance rise.  There are explicit mentions of increasing healthcare spending and a proposed ""cancer drugs fund.""
+
+```json",[300],"[300, 301, 321, 105]"
+1511,"The excerpt discusses a proposed national service plan, which falls under the realm of defense policy. There's also a mention of the Prime Minister's actions being perceived as panicked, potentially hinting at a broader discussion about leadership and political strategy.
+
+```json",[1600],"[1600, 1610]"
+1512,"The text discusses immigration and its perceived impact on various aspects of society, including traffic congestion. It also mentions Nigel Farage, a prominent figure associated with anti-immigration rhetoric.","[200, 100]","[200, 201, 100, 103]"
+1513,"The text discusses the exploitation of workers brought in from lower-paid economies, specifically mentioning the impact on wages and working conditions. This points to issues related to labor and immigration. There's also a mention of ""proper regulation"" within the European Union, indicating a discussion of policy within that context.","[500, 1900]","[500, 1900, 529, 1910]"
+1514,The text discusses the increase in population size and attributes it to taxes. This implies a discussion about government spending and potentially taxation policies.,[100],"[100, 105]"
+1515,"The excerpt discusses high inflation and interest rates, the government's efforts to bring inflation down, and the expected impact on interest rates and mortgages. This clearly falls under the category of Macroeconomics, specifically focusing on inflation, interest rates, and monetary policy. There is also a mention of the Bank of England, which is a key player in monetary policy. Additionally, the text refers to the government's actions to address racial discrimination, placing it under the Civil Rights category.
+
+```json","[100, 200]","[100, 101, 200, 201]"
+1516,"The excerpt discusses the UK's stance on the Paris Agreement and climate change, indicating a focus on international cooperation and environmental policy.","[1900, 700]","[1900, 1907, 700, 705]"
+1517,"The excerpt primarily discusses the government's healthcare policies, particularly focusing on cancer diagnosis and treatment. There are mentions of community diagnostic centers, hiring more oncologists, and addressing the backlog caused by the COVID-19 pandemic.",[300],"[300, 301, 331]"
+1518,"The excerpt focuses on personal interactions and a past event within a political party. There is no mention of policy topics.
+
+```json",[],[]
+1519,"The excerpt discusses immigration levels, government policies to reduce them, and the opposition's stance.  There are explicit mentions of reducing migration and a ""legal cap"" on immigration, indicating a focus on policy related to immigration.
+
+```json",[200],"[200, 230]"
+1520,"The text uses the metaphor of ""fat cats"" getting rich to criticize the Conservatives' economic policies, implying a focus on wealth inequality.  The mention of ""privatisation in the NHS"" suggests a concern about the impact of market forces on healthcare, potentially falling under the ""Macroeconomics"" and ""Social Welfare"" supercategories. The speaker also uses the phrase ""we're going to see the same under Labour,"" implying a comparison to the Conservatives' policies and potentially touching on themes of social justice.
+
+
+```json","[100, 1300]","[100, 105, 1300, 1302]"
+1521,The excerpt is purely rhetorical and does not contain any explicit discussion of policy topics.,[],[]
+1522,"The excerpt ""OK, Mr Johnson"" is purely a conversational utterance and does not contain any explicit discussion of policy topics.",[],[]
+1523,The excerpt expresses concern about the UK potentially signing a new EU treaty after leaving the existing ones. This relates to the topic of international agreements and the UK's relationship with the EU.,[1900],"[1900, 1910]"
+1524,"The excerpt ""That's important"" is purely rhetorical and does not contain any explicit discussion of policy topics.",[],[]
+1525,"The text discusses the need to address societal issues like poverty and inequality, which are often linked to social welfare policies. It also mentions Brexit and its impact on different demographics, suggesting a discussion about the economy and potentially taxation.","[1300, 100]","[1300, 1302, 100, 107]"
+1526,"The excerpt expresses a personal opinion about a type of energy, suggesting a discussion about energy sources.",[800],[800]
+1527,"The text discusses the potential for a second Scottish independence referendum and the speaker's opposition to it.  They argue that independence would be harmful to the working class, potentially leading to lower wages, cuts to the state pension, and the weakening of the United Kingdom.","[1900, 1200]","[1900, 1910, 1200, 1208]"
+1528,"The excerpt mentions ""investing record sums in public services"". This implies a discussion about government spending, which falls under the macroeconomics category.  Additionally, the phrase ""public services"" could encompass a range of social welfare programs, suggesting a connection to the social welfare category.","[100, 1300]","[100, 105, 1300]"
+1529,"The text focuses on the speaker's experience and reflection on past events, with a call for a ""reality check"" about future changes. There is no mention of specific policies or issues related to the provided codebook categories. 
+
+```json",[],[]
+1530,"The text discusses a proposed ""bank levy"" to recoup funds used to bail out banks, indicating a focus on taxation and economic policy. There's also a call for tax cuts for small businesses to stimulate the economy.  The speaker criticizes the current government's handling of the economy and its impact on small businesses, suggesting a desire for change.",[100],"[100, 105, 107]"
+1531,"The excerpt discusses the need for increased funding for schools and early childhood education to improve social mobility and life chances for young people from low-income backgrounds. There is also a mention of the negative consequences of insufficient school funding, such as teacher layoffs and schools struggling to provide basic resources. This points to the policy areas of education and social welfare.","[600, 1300]","[600, 602, 1300, 1302]"
+1532,"The excerpt discusses the Liberal Democrats' stance on Brexit, including their support for a ""people's vote"" and potential revocation of Brexit if they win a majority. This primarily falls under the category of International Affairs (1900) due to the focus on the UK's relationship with the EU. There are also mentions of political strategy and potential government action, which fall under Government Operations (2000).
+
+```json","[1900, 2000]","[1900, 1910, 2000, 2012]"
+1533,"The excerpt is too short and lacks specific policy references.  
+
+```json",[],[]
+1534,"The excerpt ""The Westminster status quo"" is a general statement about the existing political system and doesn't mention specific policies or issues related to the codebook categories.",[],[]
+1535,"The excerpt mentions ""dialogue"" and ""working relationship with business,"" suggesting a discussion about policy implementation that involves businesses. This points towards potential economic policy discussions, but there's no explicit mention of taxation, spending, or specific economic indicators.
+
+
+```json",[100],[100]
+1536,"The excerpt discusses the impact of Brexit on the UK economy, mentioning uncertainty, investment, and job creation.  There is a clear reference to a specific tax policy (the ""tax cut for the richest in our society, millionaires"") and a mention of racial discrimination (""It's only by removing that uncertainty and getting Brexit behind us that investment will flow back into this country, the economy will get a lift and that will mean millions more people will hire waiters."").",[100],"[100, 107]"
+1537,"The excerpt discusses immigration policy, specifically focusing on deterring illegal crossings and the use of Rwanda as a processing center.  The speaker mentions reducing crossings and the need for a deterrent, implying a focus on border control and immigration enforcement.",[200],"[200, 230]"
+1538,The excerpt discusses the concept of referendums and the right of the people to change their minds. It also touches upon the actions of Nigel Farage and his stance on a second referendum.  The text primarily revolves around the topic of democracy and the implications of referendums.,[2000],"[2000, 2012]"
+1539,"The excerpt discusses the need to vote for Labour to achieve several policy goals. These include restoring the NHS, improving the economy, increasing police and teacher numbers, and ending perceived chaos.","[300, 100, 1200]","[300, 301, 100, 105, 1200, 1202]"
+1540,"The excerpt is incomplete and lacks specific policy references. There are no mentions of economic policies, social welfare, civil rights, or any other policy area. The phrase ""BOTH TOGETHER"" suggests a comparison of two things, but without context, it's impossible to determine what those things are or if they relate to any policy.
+
+```json",[],[]
+1541,"The provided text excerpt does not contain explicit mentions of any policy topics from the provided codebook. The discussion revolves around a disagreement on a ""point of principle"" without specifying the nature of the disagreement.",[],[]
+1542,"The excerpt discusses the negative impacts of Brexit on various aspects of British life, including public services, the economy, and workers' rights. It also mentions the Liberal Democrats' stance against Brexit and their support for a second referendum.  The text explicitly mentions the economy and the NHS, and while it doesn't mention specific tax policies, it does discuss the potential for a different path regarding Brexit.
+
+```json","[100, 1900]","[100, 101, 1900, 1910]"
+1543,"The excerpt discusses the two-child limit on universal credit and its impact on families with children. This relates to social welfare policies and the cost of social programs. The speaker also mentions the need to tackle child poverty, which is a social issue.","[100, 1300]","[100, 105, 1300, 1302]"
+1544,"The excerpt discusses a policy change affecting disability benefits, which falls under the category of social welfare. It also mentions a potential economic impact, touching on macroeconomics.","[100, 1300]","[100, 1300, 105, 1304]"
+1545,"The excerpt focuses on the issue of human trafficking and the government's proposed response, the Rwanda scheme. The speaker criticizes the scheme and proposes alternative solutions, drawing on their experience as Director of Public Prosecutions.","[1200, 200]","[1200, 1202, 200, 230]"
+1546,"The text focuses on policies related to unemployment benefits, work incentives, and getting people off welfare.  There are also mentions of a ""tax switch"" which implies a change in taxation policy.","[100, 1300]","[100, 105, 1300, 1302, 107]"
+1547,"The text discusses Brexit, climate change, the NHS, poverty, energy policy, and a relationship with Europe that rejects racism. These topics map to the following codes:
+
+* **100 (Macroeconomics):** Implied through discussions of the economy and poverty.
+* **705 (Air Pollution, Global Warming, and Noise Pollution):** Explicit mention of ""climate change.""
+* **300 (Health):** Explicit mention of ""NHS in crisis.""
+* **1302 (Poverty and Assistance for Low-Income Families):** Explicit mention of ""four million children living in poverty.""
+* **705 (Air Pollution, Global Warming, and Noise Pollution):** Explicit mention of ""transform our energy system to make it the cleanest and greenest.""
+* **201 (Ethnic Minority and Racial Group Discrimination):** Explicit mention of ""says no to racism.""","[100, 700]","[100, 700, 705, 300, 1302, 201]"
+1548,"The excerpt focuses primarily on education policy in Scotland, touching upon early childhood education, teacher workload, recruitment, and school funding. 
+
+```json",[600],"[600, 601, 602]"
+1549,The text does not contain any explicit mentions of policy topics. It is purely rhetorical and does not discuss any specific policy areas.,[],[]
+1550,The excerpt contains no explicit discussion of policy topics. It is purely rhetorical.,[],[]
+1551,"The text discusses ending a ""non-DOM loophole"" to bring in money for 40,000 new appointments. This implies a change in taxation policy to fund a social welfare program.","[100, 1300]","[100, 107, 1300, 1302]"
+1552,"The text discusses a capital investment program and its timing within a new parliament. This primarily falls under the category of government operations and planning. There is no mention of specific economic policies, social welfare, or any other coded topics.
+
+
+```json",[2000],[2000]
+1553,"The excerpt discusses the core tenets of ""democratic socialism"" and its application to contemporary societal issues.  The speaker emphasizes the need for a fairer and more equal society where everyone has a fair shot and plays by the same rules. This aligns with themes of social welfare and economic justice.",[1300],"[1300, 1302]"
+1554,"The excerpt discusses the SNP government's actions and policies, specifically mentioning ""free prescriptions"" and ""free personal care."" These policies fall under the realm of social welfare and healthcare.
+
+
+```json","[1300, 300]","[1300, 1302, 300, 301]"
+1555,The excerpt discusses a murder and mentions the Muslim community reporting it. This suggests a discussion about racial tensions and potential discrimination.,[200],"[200, 201]"
+1556,"The excerpt discusses a potential decrease in a value, which could be related to government spending.  The speaker also uses the phrase ""probably is hardly a commitment,"" suggesting a lack of certainty and potentially hinting at a reluctance to make firm promises.
+
+
+```json",[100],"[100, 105]"
+1557,"The excerpt discusses welfare spending, taxes, and the desire to reduce the welfare bill. There are explicit mentions of ""lower taxes"" and ""lower welfare"" as well as ""higher taxes"" and ""higher welfare"" in the context of contrasting policies.","[100, 1300]","[100, 105, 107, 1300, 1302]"
+1558,"The excerpt discusses the decline in living standards and wages under the current government. This points to macroeconomic concerns (100) and potential arguments about the impact of government policies on employment and income. There's also a mention of a specific accusation against the opposing party leader, which could fall under the category of political discourse (2000).
+
+```json","[100, 2000]","[100, 103, 101, 2000, 1211]"
+1559,"The text discusses fracking and a ban on it, which falls under the category of energy policy (800). There is also a mention of a vote against a ban, which could be related to political processes (2000).
+
+```json","[800, 2000]","[800, 803, 2000, 2011]"
+1560,"The excerpt discusses the Labour party's stance on child poverty and criticizes the Conservative's approach.  The mention of ""higher bills"" and ""mortgages"" points towards economic concerns, while the reference to ""unfunded commitments"" and ""promises"" suggests a discussion about government spending. The phrase ""anti-child poverty strategy"" indicates a social welfare policy.","[100, 1300]","[100, 105, 1300, 1302]"
+1561,"The excerpt ""Let us finish"" is too vague to be coded. It doesn't mention any specific policy areas or issues.",[],[]
+1562,"The text discusses a policy of limiting the number of refugees accepted per year. This falls under the category of immigration policy, which is a sub-category of civil rights. The text also mentions a ""quota"" which could imply a discussion of taxation or public spending, falling under the macroeconomics category.","[200, 100]","[200, 230, 100, 105]"
+1563,"The excerpt discusses the role of both public and private healthcare within the NHS. There is a clear emphasis on protecting and strengthening the NHS, while also acknowledging the value of charities and independent organizations that provide healthcare services.  The text mentions the private sector's role in the NHS, but frames it as a small proportion.",[300],"[300, 301]"
+1564,"The excerpt discusses the Conservative and Labour parties' stances on sentencing, implying a critique of their policies.  The mention of ""sentencing"" points towards the criminal justice system, placing it within the domain of Law, Crime, and Family Issues (1200).  The statement also touches upon the government's role in policy implementation, hinting at broader political discourse.
+
+
+```json",[1200],"[1200, 1205]"
+1565,"The excerpt discusses Brexit, a deal that has been negotiated and approved. It mentions leaving the EU on January 31st and the potential for a future referendum.  There are also mentions of the Conservative Party and Jeremy Corbyn.","[1900, 2000]","[1900, 1910, 2000, 2012]"
+1566,"The excerpt criticizes the Conservative party's economic policies, specifically mentioning tax cuts and their impact on the economy. The mention of ""tax cuts"" and the phrase ""crashed the economy"" point towards discussions about macroeconomic policies and potential negative consequences. Additionally, the reference to a specific amount (£2,000) being relevant to ""every working household"" suggests a discussion about social welfare and its impact on individuals.
+
+```json","[100, 1300]","[100, 107, 1300, 1302]"
+1567,"The excerpt discusses the possibility of changing Europe through leaving the EU. This points to discussions about international relations and potentially the impact of leaving a political union. There is also a mention of ""scare stories"" which could relate to discussions about civil rights and potential negative impacts on certain groups.",[1900],"[1900, 1910]"
+1568,"The excerpt discusses the UK's negotiation strategy with the EU, focusing on key points like border control and trade deals. This points towards the supercategories of International Affairs (1900) and Macroeconomics (100).  
+
+Within Macroeconomics, the mention of ""trade deal"" suggests a focus on international trade (1800), while ""controlling our borders"" hints at immigration policy (230). 
+
+JSON Response:","[1900, 1800]","[1900, 1910, 1800, 1803]"
+1569,"The text discusses the need for increased funding for public services, particularly the NHS and schools. It also mentions the provision of free school meals for children in poverty. These points align with codes related to social welfare (1300) and education (600). There is also a reference to the cost of living and children going to school hungry, which could be linked to broader economic concerns (100). Finally, there is a mention of the Conservative party's opposition to free school meals, suggesting a discussion of political parties and their policies (2012).","[100, 1300, 600, 2000]","[100, 105, 1300, 1302, 600, 602, 2000, 2012]"
+1570,"The excerpt discusses the need for a nuclear deterrent, implying a discussion about defense spending and potentially the cost of maintaining such a system. There's also a mention of the Liberal Democrats' stance on the issue, which could be interpreted as a discussion of political parties and their stances on defense.","[1600, 1200]","[1600, 1610, 1202]"
+1571,"The excerpt discusses personal experiences with the NHS, particularly in acute care and high dependency units. It also criticizes the current state of the NHS, leading to people seeking private healthcare due to long waiting times. This points to issues within the healthcare system and potential solutions.
+
+```json",[300],"[300, 301, 334]"
+1572,"The text discusses corporate tax rates and the importance of tariff-free trade access to the European market for British businesses. It also mentions government investment in skills and infrastructure. These points fall under the categories of Macroeconomics (specifically trade policy) and potentially some aspects of Labour and Employment (regarding skills).
+
+```json","[100, 1900]","[100, 107, 1900, 1910]"
+1573,"The text discusses the presence of undocumented immigrants (""lots of people who are here"") and the challenges of addressing their situation. The speaker criticizes the government's lack of a plan and mentions the impossibility of deporting a large number of undocumented individuals. This points to discussions around immigration policy and its potential impact on the economy.","[200, 100]","[200, 230, 100, 105]"
+1574,The excerpt is purely a transition phrase and does not contain any policy-related content.,[],[]
+1575,"The text explicitly mentions ""exports"", which falls under the category of international trade.",[1800],"[1800, 1803]"
+1576,"The text discusses the asylum process, mentioning a backlog reduction, a new act (""Illegal Migration Act"") aimed at streamlining the process, and preventing repeated claims.",[200],"[200, 230]"
+1577,"The excerpt discusses the concept of a ""people's vote,"" which is often associated with referendums or public votes on significant policy issues. This could fall under the broader category of ""Government Operations"" (2000) as it relates to the democratic process and public participation.",[2000],[2000]
+1578,"The excerpt discusses Brexit, climate change, and the Green New Deal.  
+
+* **Brexit:**  The speaker criticizes Boris Johnson's Brexit deal and advocates for a people's vote to remain in the EU.
+* **Climate Change:** The speaker highlights the urgency of addressing climate change and proposes a Green New Deal.
+* **Green New Deal:** This policy is presented as a solution to fix Britain and address the climate crisis.
+
+JSON Response:","[1900, 700]","[1900, 1910, 700, 705]"
+1579,"The excerpt discusses economic policies, specifically taxation and its impact on pensioners. There are mentions of inflation, economic growth, wages, energy bills, and council tax. The speaker contrasts their own tax-cutting policies with the opposition's proposed tax increases, particularly a ""retirement tax"" on pensioners under a Labour government.
+
+```json",[100],"[100, 101, 107, 105]"
+1580,"The excerpt discusses the speaker's stance on the European Union, including their desire for a ""new deal"" with Europe and the possibility of a referendum on continued membership.  The text mentions the Eurozone, the pound sterling, and the potential for Britain to leave the EU. These points relate to international cooperation, trade, and economic policy.
+
+```json","[1900, 100]","[1900, 1910, 100, 105]"
+1581,"The text discusses the potential negative impacts of a Brexit deal on various aspects of British life, including trade, worker rights, consumer protection, and the environment. It also mentions the deal's impact on the relationship between Northern Ireland and the Republic of Ireland.","[100, 1900]","[100, 107, 1900, 1910]"
+1582,"The excerpt mentions ""cost"" and ""strong defence,"" suggesting a discussion about military spending and national security. 
+
+```json",[1600],"[1600, 1603]"
+1583,"The excerpt focuses on the upcoming election and calls for a vote for Plaid Cymru. It criticizes the Conservatives and expresses a desire for a different kind of politics that is more relevant to the people. There are no explicit mentions of specific policy areas like taxation, spending, or social welfare.",[2000],"[2000, 2012]"
+1584,"The excerpt discusses taxation, specifically targeting tax evasion and avoidance, and contrasts the current government's approach with the previous Labour government's policies on taxation and spending.  There is also a mention of the NHS and the deficit.
+
+```json","[100, 200]","[100, 107, 200, 201]"
+1585,"The excerpt focuses on the relationship between government policy and the economy, specifically advocating for policies that support small and medium-sized enterprises (SMEs).  There are mentions of reducing regulations (""cut their red tape, cut their regulation"") and increasing government procurement from SMEs.",[100],"[100, 108]"
+1586,"The excerpt discusses the practice of returning individuals to their country of origin. This is a policy related to immigration and border control, falling under the broader category of civil rights.
+
+```json",[200],"[200, 230]"
+1587,"The text discusses reducing the number of university courses deemed unimportant to the economy. This primarily falls under the category of  ""Macroeconomics"" (100) as it touches on the relationship between education and economic output. There is also a mention of ""non-courses"" which could be interpreted as a reference to social welfare programs, but the primary focus is on the economic impact.
+
+
+```json",[100],"[100, 108]"
+1588,"The text discusses the negative economic impacts of Brexit on Wales, highlighting potential harm to the Welsh economy. There is also a discussion about the perceived dysfunction within British democracy,  with Brexit being cited as a catalyst for exposing these issues. The speaker also criticizes the lavish spending on the Houses of Parliament and proposes relocating it to the north of England.","[1900, 100]","[1900, 1910, 100, 101]"
+1589,"The excerpt discusses tuition fees, which falls under the category of education.",[600],"[600, 601]"
+1590,"The excerpt focuses on immigration policy and criticizes the Labour and Liberal Democrats' handling of it. The speaker argues for stricter immigration control and attributes the current situation to Labour's policies.
+
+```json",[200],"[200, 230]"
+1591,"The text primarily discusses the potential for a second Scottish independence referendum and the political implications of such an event.  There are mentions of political parties and their potential coalitions, but no explicit discussion of economic policy, civil rights, or international affairs.
+
+```json","[1900, 2000]","[1900, 1910, 2000, 2001]"
+1592,"The excerpt discusses the potential policies of Jeremy Corbyn, particularly regarding austerity, the NHS, and universal credit. It also touches on the issue of Scottish independence and Corbyn's stance on self-determination.","[100, 1300]","[100, 105, 1300, 1302, 1303, 1304]"
+1593,"The text focuses on the outcome of the Brexit referendum and the desire to make a success of it. There are no explicit mentions of economic policies, social welfare, civil rights, or any other specific policy areas.",[1900],"[1900, 1910]"
+1594,"The text primarily discusses economic policy, specifically focusing on government spending and support for manufacturing. There are also mentions of education and regional development agencies.","[100, 1300]","[100, 105, 107, 1302]"
+1595,"The excerpt discusses the difficulties of political discourse and the adversarial nature of politics. There is no mention of specific policy topics, economic issues, social welfare, or any of the other categories in the codebook.",[],[]
+1596,"The text discusses a policy change related to university fees, mentioning a new system and its impact on different income levels. It also highlights the goal of increasing access to university for students from lower-income backgrounds through maintenance grants. This points to discussions within the 600 (Education) supercategory, specifically 601 (Higher Education). Additionally, the text mentions a previous Labour government policy, suggesting a discussion about political parties and their respective stances on education policy, falling under the 2012 (Political Parties, Campaigns, and Voter Registration) subcategory within the 2000 (Government Operations) supercategory.","[600, 2000]","[600, 601, 2000, 2012]"
+1597,"The excerpt mentions the ERM (Exchange Rate Mechanism) and the Poll Tax. The ERM is a system of fixed exchange rates, which falls under the broader category of Macroeconomics. The Poll Tax is a form of local taxation, falling under 107.
+
+
+```json","[100, 100]","[100, 101, 107]"
+1598,"The excerpt discusses policy reversals by the Labour party.  The mention of a ""climate investment plan"" points to environmental policy (700), while ""two-child benefit cap"" clearly relates to social welfare (1300). The language ""cruel"" suggests a focus on social justice and potentially racial disparities (200).
+
+```json","[700, 1300, 200]","[700, 705, 1300, 1302, 200]"
+1599,"The text discusses social care, construction, and housing affordability.  There are mentions of a plan for social care, house building targets, and the challenges young people face in buying homes.  The text also touches on planning decisions related to housing development.","[1300, 1400]","[1300, 1400, 1302, 1401, 1406]"
+1600,"The excerpt discusses a ""Green Prosperity Plan"" which implies a focus on environmental policy and economic growth. There are mentions of transitioning away from oil and gas, investing in renewable energy, and creating jobs. These points align with the 700 (Environment) and 100 (Macroeconomics) supercategories.  The text also mentions the need to ""look at economic growth"" and ""insulating homes,"" which suggests a focus on public spending and potentially taxation.","[700, 100]","[700, 705, 100, 105]"
+1601,"The excerpt explicitly mentions a desire to remain in the EU, which falls under the category of international affairs and specifically European Union membership.",[1900],"[1900, 1910]"
+1602,"The text discusses international relations, particularly focusing on migration driven by conflict and climate change. It also touches on the UK's role in promoting peace and prosperity through trade and aid.","[1900, 1300]","[1900, 1901, 1907, 1911, 1300, 1302]"
+1603,The text discusses government spending on a specific club (£183 billion since 1973) and mentions ownership stakes in the European Investment Bank (£9 billion). This points to discussions about national budget and potentially international financial institutions.,"[100, 1800]","[100, 105, 1800, 1803]"
+1604,"The excerpt discusses tax cuts, both current and proposed, as a means to provide financial security and address rising bills. There is also a contrast drawn with the opposing party's policy of higher taxes. 
+
+```json",[100],"[100, 105, 107]"
+1605,"The text discusses taxation policies, specifically targeting the top income earners and comparing the tax burden across different income groups. There is also a mention of the economic performance under a previous Labour government.
+
+```json",[100],"[100, 107]"
+1606,"The excerpt mentions ""stand down across the entire country"" which suggests a discussion about law enforcement or military action. This could fall under the category of Defence (1600) or Law, Crime, and Family Issues (1200).","[1200, 1600]","[1200, 1600]"
+1607,The excerpt discusses the need for domestic skills development and criticizes the reliance on foreign labor. This points to concerns about employment and immigration policy.,"[500, 200]","[500, 230, 502]"
+1608,"The provided text snippet is incomplete and lacks specific policy content. There are no mentions of economic policies, social welfare, civil rights, or any other policy area.",[],[]
+1609,"The excerpt discusses the qualities of a good politician, touching on seriousness, relatability, and real-life experience. There is no explicit mention of policy areas like taxation, social welfare, or international relations.",[],[]
+1610,"The excerpt discusses taxation and compares the current government's tax policies to those of the past.  The speaker accuses the opposing party of ""taxing people the highest in 70 years"" and criticizes their focus on taxation.",[100],"[100, 107]"
+1611,"The text discusses potential tax changes (""closing the non-DOM tax loophole"") to fund increased healthcare services (dentistry, GP, and hospital appointments). It also mentions a large sum of money for ""efficiencies"" which could be related to government spending.",[100],"[100, 105, 107]"
+1612,"The text discusses the four main political parties, suggesting a focus on political parties and elections.",[2000],"[2000, 2012]"
+1613,The excerpt discusses the nature of election campaigns and the importance of the final vote. There are no explicit mentions of policy topics.,[],[]
+1614,"The excerpt discusses the devolution of policing powers to Wales, the prevention of extremism, and the impact of the Prevent Agenda.  
+
+The text explicitly mentions the need to prevent extremism of all forms and the importance of community cohesion. It also criticizes the Prevent Agenda for potentially targeting individuals and communities, thereby increasing division and hate.","[1200, 200]","[1200, 1209, 200, 201]"
+1615,"The excerpt discusses political party standings and opposition, indicating a focus on political dynamics and party competition.",[2000],"[2000, 2012]"
+1616,"The provided excerpt is purely rhetorical and contains no explicit policy references. 
+
+```json",[],[]
+1617,"The text discusses the potential privatization of the NHS and the implications of a trade deal with the US.  The speaker argues that privatization is a consequence of the trade deal, and questions why negotiations took so long if the Prime Minister was opposed to it. This points to discussions about both trade policy (1900) and the potential privatization of healthcare (300).","[1900, 300]","[1900, 1910, 300, 301]"
+1618,"The excerpt discusses the issue of people leaving the NHS and public services, implying a strain on these institutions. This points to potential issues within the healthcare system (300) and broader public service provision. There's also a mention of ""reports last week"" which could suggest a discussion about policy or actions related to these issues, potentially touching on taxation (100).
+
+
+```json","[300, 100]","[300, 301, 100, 107]"
+1619,"The excerpt discusses tuition fees and their impact on student applications. It mentions a £2,000 contribution from graduates above a certain income level, which funds an endowment for poorer students. This relates to higher education costs and funding mechanisms.",[600],"[600, 601]"
+1620,"The excerpt discusses a proposed ""jobs tax"" and its potential impact on education spending.  The speaker argues that the tax will lead to cuts in education funding, resulting in job losses, particularly among teachers.","[100, 1300]","[100, 105, 1300, 1302]"
+1621,"The excerpt discusses the legal age of marriage for 16-year-olds and its inconsistency with other concepts of maturity. This falls under the category of civil rights, specifically related to issues of age and legal capacity.
+
+
+```json",[200],"[200, 208]"
+1622,"The text focuses on the strain on public services and housing due to population growth.  The speaker explicitly mentions a ""population explosion"" and the inability to plan for the influx of people. This points to concerns about social welfare and housing, with a potential link to immigration.","[1300, 1400]","[1300, 1400, 1401, 230]"
+1623,The excerpt is incomplete and lacks any explicit mention of policy topics.,[],[]
+1624,"The text primarily discusses the morality and policy implications of nuclear weapons. There are mentions of a ""nuclear-free world"" and a ""nuclear deterrent,"" indicating a focus on disarmament and nuclear policy.","[1600, 1900]","[1600, 1610, 1900, 1920]"
+1625,"The text focuses on the speaker's ambition to lead a larger Liberal Democrat party in the next parliament. There is no mention of specific policies or areas of governance.
+
+```json",[2000],"[2000, 2012]"
+1626,"The excerpt discusses the speaker's regret over past votes, policy changes, and the impact of Conservative policies on welfare spending.  There are explicit mentions of welfare cuts and the impact on the poorest in the country, aligning with social welfare codes. There's also a mention of a specific budget and spending cuts, pointing towards macroeconomic discussions.","[100, 1300]","[100, 105, 1300, 1302]"
+1627,"The text discusses the need for investment in public services and the impact of austerity measures. This points to discussions around government spending and social welfare.
+
+```json","[100, 1300]","[100, 105, 1300]"
+1628,"The excerpt discusses government spending during difficult times (pandemic, global shocks), the need for tax cuts, and contrasts the current government's approach with the Labour party's.",[100],"[100, 105, 107]"
+1629,"The excerpt discusses climate change and mentions scientists who agree with the speaker's stance. It also implies a conflict between the speaker and an ""establishment"" that doesn't want to discuss the issue.  The speaker argues that adaptation is cheaper than trying to stop climate change. This points to discussions around environmental policy and potential disagreements about the best approach.",[700],"[700, 705]"
+1630,"The excerpt discusses the economic impacts of leaving the single market, comparing Britain to Norway and Switzerland. It also mentions the potential impact on living standards, jobs, and the future of children.  The speaker argues against leaving the single market, framing it as a political choice with negative consequences.","[1900, 100]","[1900, 1910, 100, 101]"
+1631,"The excerpt focuses on the importance of language and its impact, particularly condemning the use of unacceptable words. While it touches on broader societal issues, there's no explicit mention of specific policies or areas like civil rights, economics, or social welfare.
+
+```json",[],[]
+1632,"The text discusses cancelling HS2, which falls under transportation policy. It also mentions an industrial strategy, which relates to economic policy. Finally, the text discusses Brexit and trade deals, placing it within the realm of international affairs.","[1000, 100, 1900]","[1000, 100, 1005, 1006, 1803, 1900, 1910]"
+1633,"The text discusses the privatization of healthcare and social care, implying a discussion of nationalization/privatization policies. It also mentions Brexit and its impact on migration, which is a key factor in discussions about social care staffing.  The text also explicitly mentions racism (""you may deny it, but the reality is he said he wants privatisation. It goes beyond just hospitals as well"").
+
+```json","[100, 1300, 200]","[100, 108, 1300, 1302, 200, 201]"
+1634,"The excerpt ""Yes he did"" is purely affirmative and does not contain any explicit discussion of policy topics.",[],[]
+1635,"The excerpt discusses the potential impact of voting in a general election, emphasizing the ability to send a message and make a voice heard. It also mentions ""social and economic policies,"" suggesting a broader political agenda. While there's no explicit mention of specific policies, the focus on voting and influencing outcomes points towards a discussion within the realm of political campaigns and governance.",[2000],"[2000, 2012]"
+1636,"The excerpt focuses on immigration policy, specifically criticizing the opposition parties' approaches and highlighting the Conservative Party's stance.  There are mentions of asylum claims, regional immigration controls, and the need for ""real change"" in immigration policy.
+
+```json",[200],"[200, 230]"
+1637,"The text discusses the need for legislation to address the ""nature crisis"" and ""extinction crisis,"" highlighting deforestation, pollution, and hunting as drivers. It also mentions the interconnectedness of these crises with climate change.  This points to policy discussions within the realm of environmental protection and international cooperation.","[700, 1900]","[700, 709, 1900, 1906]"
+1638,"The excerpt mentions ""terrorism"" and ""powers,"" suggesting a discussion about national security and potentially the use of force. This aligns with the 1600: Defence category.",[1600],[1600]
+1639,"The excerpt discusses the process of prioritizing policy decisions and presenting them to the public. While it mentions ""wealth of accumulated decisions,"" it doesn't delve into specific policy areas.  Therefore, no specific policy codes can be assigned.
+
+
+```json",[],[]
+1640,"The excerpt discusses a plan to cut taxes by a specific amount (£4 billion) in the first budget. This clearly falls under the category of taxation policy (107) within the broader macroeconomic context (100). There is also a mention of ""damage"" done by the previous Labour government, which could be interpreted as a reference to their economic policies, further supporting the 100 supercategory.",[100],"[100, 107]"
+1641,"The text discusses the role of government in society and the responsibilities of citizens. It criticizes the idea that politicians can solve all problems and emphasizes the need for individual action and community involvement.  There are mentions of taxation and the need for safer streets, which relate to policy areas.
+
+```json","[100, 1200]","[100, 105, 1200, 1202]"
+1642,"The text discusses the potential for a ""no deal"" Brexit scenario and the desire to avoid a ""bad deal"" with the European Union.  The speaker emphasizes the importance of securing a good deal while being prepared to walk away from negotiations if necessary.  There are no explicit mentions of taxation, civil rights, or other coded topics.",[1900],"[1900, 1910]"
+1643,"The text criticizes Boris Johnson's character and actions, implying he is untrustworthy and self-serving. It also positions the Liberal Democrats as the alternative, promising to stop Brexit and create a better future. This suggests a focus on political parties, elections, and the potential consequences of Brexit.","[1900, 200]","[1900, 1910, 200, 2012]"
