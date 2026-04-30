@@ -27,6 +27,9 @@ import itertools
 from metrics import metrics_partial
 from sklearn.metrics import f1_score,recall_score,precision_score
 
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 device = torch.device("cuda" if torch.cuda.is_available()  else "cpu")
 n_gpu = 1
 
@@ -44,6 +47,24 @@ np.random.seed(SEED)
 if n_gpu > 0:
     torch.cuda.manual_seed_all(SEED)
 
+tr_losses = []
+eval_losses = []
+
+def plot_loss_curves(train_losses, eval_losses):    
+    sns.set_style("whitegrid")
+    
+    plt.figure(figsize=(8, 5))
+    
+    plt.plot(train_losses, label='Train Loss', color='#2ecc71', marker='o') # Green
+    plt.plot(eval_losses, label='Eval Loss', color='#e74c3c', marker='o')  # Red
+    
+    plt.title('Training vs Evaluation Loss')
+    plt.xlabel('Epochs')
+    plt.ylabel('Loss')
+    plt.legend()
+    
+    plt.savefig("loss_plot.png")
+    plt.show()
 
 def get_datetime_str():
     d = datetime.datetime.now()
@@ -107,9 +128,11 @@ def metrics(all_preds,all_golds,ix2label):
 
 
 def main_loop(model,optimizer,schedular,train_dataloader,eval_dataloader,args,logger,ix2label,Smatrix,clusters,num_epocs=1):
+    global tr_losses
+    global eval_losses
     global_step = 0
     model.train()
-    best_micro_auc = -1
+    best_f1 = -1
     keep_best_results = {}
     for i_ in tqdm(range(int(num_epocs)), desc="Epoch"):
         model.train()
@@ -127,13 +150,19 @@ def main_loop(model,optimizer,schedular,train_dataloader,eval_dataloader,args,lo
             schedular.step()
             optimizer.zero_grad()
             global_step += 1
+        tr_loss_avg = tr_loss / nb_tr_steps
+        tr_losses.append(tr_loss_avg)
         logger.info('Loss after epoc {}'.format(tr_loss / nb_tr_steps))
         logger.info('Eval after epoc {}'.format(i_+1))
         result = evaluate(model,eval_dataloader,args,logger,ix2label,Smatrix)
-        if result['f1']['All']['Rec'] > best_micro_auc:
+        plot_loss_curves(tr_losses, eval_losses)
+        P = result['f1']['All']['Pre']
+        R = result['f1']['All']['Rec'] 
+        new_f1 = 2*((P*R)/(P+R+0.001))
+        if new_f1 > best_f1:
             keep_best_results = result
-            best_micro_auc = result['f1']['All']['Rec']
-            print("saved model at {} epoch with {} recall value".format(i_+1,best_micro_auc))
+            best_f1 = new_f1
+            print("saved model at {} epoch with {} f1 value".format(i_+1,best_f1))
             output_eval_file = args['output_dir']
             with open(output_eval_file, "a") as writer:
                 writer.write('\n--------------------------------------------\n')
@@ -168,6 +197,8 @@ def main_loop(model,optimizer,schedular,train_dataloader,eval_dataloader,args,lo
     return result,keep_best_results
 
 def evaluate(model,eval_dataloader,args,logger,ix2label,Smatrix,is_final=False):    
+    global tr_losses
+    global eval_losses
     all_logits = None
     all_labels = None    
     model.eval()
@@ -201,12 +232,19 @@ def evaluate(model,eval_dataloader,args,logger,ix2label,Smatrix,is_final=False):
         nb_eval_steps += 1
 
     eval_loss = eval_loss / nb_eval_steps
+    eval_losses.append(eval_loss)
     eval_accuracy = eval_accuracy / nb_eval_examples
     
 
     #print(all_logits)
     #print(all_logits.shape)
-    f1_preds= 1 * (numpy_sigmoid(all_logits) > 0.5)
+#     probs = numpy_sigmoid(all_logits)
+    
+#     label_freq = all_labels.mean(axis=0)
+#     thresholds = np.where(label_freq < 0.1, 0.2, 0.4)
+
+#     f1_preds = (probs > thresholds).astype(int)
+    f1_preds= 1 * (numpy_sigmoid(all_logits) > 0.3)
     f1 = metrics(f1_preds,all_labels,ix2label)
     all_minor_labels = [i for i in list(ix2label.values()) if i%100 !=0]
     f1_partial = metrics_partial(f1_preds,all_labels,ix2label,all_minor_labels)
@@ -347,6 +385,16 @@ def run_fold_experiment(params,trn_df,val_df,Smatrix,is_final=False):
     all_input_mask = torch.tensor([f.input_mask for f in train_features], dtype=torch.long)
     all_segment_ids = torch.tensor([f.segment_ids for f in train_features], dtype=torch.long)
     all_label_ids = torch.tensor([f.label_ids for f in train_features], dtype=torch.float)
+    
+    label_counts = all_label_ids.sum(dim=0)
+    neg_counts = all_label_ids.size(0) - label_counts
+
+    pos_weight = neg_counts / (label_counts + 1e-6)
+    pos_weight = torch.clamp(pos_weight, max=10)
+    
+    args['pos_weight']=pos_weight
+    
+    
     train_data = TensorDataset(all_input_ids, all_input_mask, all_segment_ids, all_label_ids)    
     train_sampler = RandomSampler(train_data)
     train_dataloader = DataLoader(train_data, sampler=train_sampler, batch_size=args['train_batch_size'])
@@ -374,6 +422,7 @@ def run_fold_experiment(params,trn_df,val_df,Smatrix,is_final=False):
     all_input_mask = torch.tensor([f.input_mask for f in eval_features], dtype=torch.long)
     all_segment_ids = torch.tensor([f.segment_ids for f in eval_features], dtype=torch.long)
     all_label_ids = torch.tensor([f.label_ids for f in eval_features], dtype=torch.float)
+        
     eval_data = TensorDataset(all_input_ids, all_input_mask, all_segment_ids, all_label_ids)
     # Run prediction for full data
     eval_sampler = SequentialSampler(eval_data)
@@ -440,7 +489,7 @@ def run_fold_experiment(params,trn_df,val_df,Smatrix,is_final=False):
     
 
 def create_S_matrix(df):
-    df = df.drop('converted_label',1)
+    df = df.drop('converted_label', axis=1)
     labels  = df.columns[1:].tolist()    
     labels  = [int(l) for l in labels]
     label2ix = {l:ix for ix,l in enumerate(labels)}

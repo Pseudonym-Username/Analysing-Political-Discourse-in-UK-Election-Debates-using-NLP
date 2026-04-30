@@ -29,7 +29,7 @@ class TransformerModel(torch.nn.Module):
             self.V = nn.Linear(args['num_labels'],args['hs'])
         else:
             self.W = nn.Linear(args['hs'],args['num_labels'])
-        
+        self.pos_weight = torch.tensor(args['pos_weight'], dtype=torch.float)
         #self.classifier = torch.nn.Linear(args['hs'], args['num_labels'])
 
             
@@ -59,15 +59,18 @@ class TransformerModel(torch.nn.Module):
             logits = torch.matmul(pooled_output,W)
             if labels is None:
                 # JO 2026 edit----
-#                 return logits
-                return logits, pooled_output
+                return logits
+#                 return logits, pooled_output
                 #----
-            loss_fct = BCEWithLogitsLoss()
+            if self.pos_weight is not None:
+                loss_fct = BCEWithLogitsLoss(pos_weight=self.pos_weight.to(logits.device))
+            else:
+                loss_fct = BCEWithLogitsLoss()
             loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1, self.num_labels))
             if clusters is None:
                 # JO 2026 edit----                
-#                 return loss
-                return loss, pooled_output
+                return loss
+#                 return loss, pooled_output
                 #----
             W = F.normalize(W, p=2, dim=1)
             # intra distance (to minimize)
@@ -84,23 +87,27 @@ class TransformerModel(torch.nn.Module):
                     regTermInter += ci_cj_distance/(len(clusters[i])*len(clusters[j]))
             #return (loss + (self.beta_param * regTermIntra)) / (self.alpha_param * regTermInter)
             #JO 2026 edit----
-#             return loss + (self.beta_param * regTermInter) + (self.alpha_param * regTermIntra)
-            return loss + (self.beta_param * regTermInter) + (self.alpha_param * regTermIntra), pooled_output
+            return loss + (self.beta_param * regTermInter) + (self.alpha_param * regTermIntra)
+#             return loss + (self.beta_param * regTermInter) + (self.alpha_param * regTermIntra), pooled_output
             #----
         else:
             logits = self.W(pooled_output)
             if labels is None:
                 #JO 2026 edit----
-#                 return logits
-                return logits, pooled_outputs
+                return logits
+#                 return logits, pooled_outputs
                 #----
-            loss_fct = BCEWithLogitsLoss()
+#             loss_fct = BCEWithLogitsLoss()
+            if self.pos_weight is not None:
+                loss_fct = BCEWithLogitsLoss(pos_weight=self.pos_weight.to(logits.device))
+            else:
+                loss_fct = BCEWithLogitsLoss()
             loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1, self.num_labels))
             #return loss
             if clusters is None:
                 #JO 2026 edit----
-#                 return loss
-                return loss, pooled_output
+                return loss
+#                 return loss, pooled_output
                 #----
             self.W.weight.data = F.normalize(self.W.weight.data, p=2, dim=1)
             # intra distance (to minimize)
@@ -119,8 +126,8 @@ class TransformerModel(torch.nn.Module):
                     regTermInter += ci_cj_distance/(len(clusters[i])*len(clusters[j]))
             
             #JO 2026 edit----
-#             return loss + (self.beta_param * regTermInter) + (self.alpha_param * regTermIntra)
-            return loss + (self.beta_param * regTermInter) + (self.alpha_param * regTermIntra), pooled_output
+            return loss + (self.beta_param * regTermInter) + (self.alpha_param * regTermIntra)
+#             return loss + (self.beta_param * regTermInter) + (self.alpha_param * regTermIntra), pooled_output
             #----
             #return (loss + (self.beta_param * regTermIntra)) / (self.alpha_param * regTermInter)
 

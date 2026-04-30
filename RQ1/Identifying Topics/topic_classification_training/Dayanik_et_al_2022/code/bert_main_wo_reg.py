@@ -1,6 +1,6 @@
 #-----J0 2026 edit-------------------------------------------------------------
 from torch.optim import AdamW
-from contrastive_trainer import HierarchyContrastiveLoss, get_tree_distance_matrix
+# from contrastive_trainer import HierarchyContrastiveLoss, get_tree_distance_matrix
 #------------------------------------------------------------------------------
 
 import json
@@ -28,6 +28,9 @@ import itertools
 
 from sklearn.metrics import roc_curve, auc, f1_score, recall_score, precision_score
 
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 n_gpu = 1
 
@@ -44,6 +47,25 @@ np.random.seed(SEED)
 if n_gpu > 0:
     torch.cuda.manual_seed_all(SEED)
 
+tr_losses = []
+eval_losses = []
+
+def plot_loss_curves(train_losses, eval_losses):    
+    sns.set_style("whitegrid")
+    
+    plt.figure(figsize=(8, 5))
+    
+    plt.plot(train_losses, label='Train Loss', color='#2ecc71', marker='o') # Green
+    plt.plot(eval_losses, label='Eval Loss', color='#e74c3c', marker='o')  # Red
+    
+    plt.title('Training vs Evaluation Loss')
+    plt.xlabel('Epochs')
+    plt.ylabel('Loss')
+    plt.legend()
+    
+    plt.savefig("loss_plot.png")
+    plt.show()
+            
 
 def get_datetime_str():
     d = datetime.datetime.now()
@@ -109,9 +131,12 @@ def metrics(all_preds, all_golds, ix2label):
                      'Rec': all_tp / max(0.001, (all_tp + all_fn))}
     return counts
 
-
-def main_loop(model, optimizer, schedular, train_dataloader, eval_dataloader, args, logger, ix2label, Smatrix, contrastive_criterion, dist_matrix,
+# save training loss and eval loss and plot
+def main_loop(model, optimizer, schedular, train_dataloader, eval_dataloader, args, logger, ix2label, Smatrix,
               num_epocs=1):
+    
+    global tr_losses
+    global eval_losses
     global_step = 0
     model.train()
     best_f1 = -1
@@ -127,15 +152,16 @@ def main_loop(model, optimizer, schedular, train_dataloader, eval_dataloader, ar
 #             loss = model(input_ids, segment_ids, input_mask, label_ids, Smatrix=Smatrix)
             loss_bce, con_embeddings = model(input_ids, segment_ids, input_mask, label_ids, Smatrix=Smatrix)
             
-            max_con_weight = 0.5
-            con_warmup_epochs = 3
-            con_weight = min(max_con_weight, (i_ / con_warmup_epochs) * max_con_weight)
+#             max_con_weight = 0.5
+#             con_warmup_epochs = 3
+#             con_weight = min(max_con_weight, (i_ / con_warmup_epochs) * max_con_weight)
 #             if i_ < 5:
 #                 loss_con = 0.0
 #             else:
-            loss_con = contrastive_criterion(con_embeddings, label_ids, dist_matrix)
+            
 #             loss_con = contrastive_criterion(con_embeddings, label_ids, dist_matrix)
-            total_loss = loss_bce + (con_weight * loss_con)
+#             total_loss = loss_bce + (con_weight * loss_con)
+            total_loss = loss_bce
 #             loss.backward()
             total_loss.backward()
 #             tr_loss += loss.item()
@@ -147,13 +173,21 @@ def main_loop(model, optimizer, schedular, train_dataloader, eval_dataloader, ar
             schedular.step()
             optimizer.zero_grad()
             global_step += 1
-        logger.info('Loss after epoc {}'.format(tr_loss / nb_tr_steps))
+        tr_loss_avg = tr_loss / nb_tr_steps
+        tr_losses.append(tr_loss_avg)
+        logger.info('Loss after epoc {}'.format(tr_loss_avg))
         logger.info('Eval after epoc {}'.format(i_ + 1))
+
         result = evaluate(model, eval_dataloader, args, logger, ix2label, Smatrix)
+        print("")
+        print("train losses", tr_losses)
+        print("eval losses", eval_losses)
+        print("")
+        plot_loss_curves(tr_losses, eval_losses)
         #JO 2026 edit----
         P = result['f1']['All']['Pre']
         R = result['f1']['All']['Rec']             
-        new_f1 = 2*((P*R)/(P+R))
+        new_f1 = 2*((P*R)/(P+R+0.001))
         if new_f1 > best_f1:
             keep_best_results = result
             best_f1 = new_f1
@@ -167,8 +201,10 @@ def main_loop(model, optimizer, schedular, train_dataloader, eval_dataloader, ar
     torch.save(model_to_save.state_dict(), args["output_model_file"] + '.final')
     return result, keep_best_results
 
-
+# get 
 def evaluate(model, eval_dataloader, args, logger, ix2label, Smatrix, is_final=False):
+    global tr_losses
+    global eval_losses
     all_logits = None
     all_labels = None
     model.eval()
@@ -202,6 +238,7 @@ def evaluate(model, eval_dataloader, args, logger, ix2label, Smatrix, is_final=F
         nb_eval_steps += 1
 
     eval_loss = eval_loss / nb_eval_steps
+    eval_losses.append(eval_loss)
     eval_accuracy = eval_accuracy / nb_eval_examples
 
     #     ROC-AUC calcualation
@@ -379,10 +416,10 @@ def run_fold_experiment(params, trn_df, val_df, Smatrix, is_final=False):
     model = TransformerModel(args)
     model.to(device)
     
-    #JO 2026 edit----
-    dist_matrix = get_tree_distance_matrix(label_list).to(device)
-    contrastive_criterion = HierarchyContrastiveLoss().to(device)
-    #----
+#     #JO 2026 edit----
+#     dist_matrix = get_tree_distance_matrix(label_list).to(device)
+#     contrastive_criterion = HierarchyContrastiveLoss().to(device)
+#     #----
 
     # Prepare optimizer
     param_optimizer = list(model.named_parameters())
@@ -414,7 +451,7 @@ def run_fold_experiment(params, trn_df, val_df, Smatrix, is_final=False):
 #     final_model_report, best_model_report = main_loop(model, optimizer, schedular, train_dataloader, eval_dataloader,
 #                                                      args, logger, processor.ix2label, Smatrix,
 #                                                       num_epocs=args['num_train_epochs'], )
-    final_model_report, best_model_report = main_loop(model, optimizer, schedular, train_dataloader, eval_dataloader, args, logger, processor.ix2label, Smatrix, contrastive_criterion, dist_matrix, num_epocs=args['num_train_epochs'])
+    final_model_report, best_model_report = main_loop(model, optimizer, schedular, train_dataloader, eval_dataloader, args, logger, processor.ix2label, Smatrix, num_epocs=args['num_train_epochs'])
     #----
 
 
@@ -573,7 +610,8 @@ def main_final():
               'max_seq_len': 200,
               'use_knowledge': sys.argv[1].lower() == 'hle',              
               }
-
+    
+    
     report = train_final_model(params)
     print(report)
 
